@@ -1,0 +1,155 @@
+{
+ "W3 (after B01 measurement)": {
+  "PN": 8,
+  "pieces": 30,
+  "examples": [
+   "A703P",
+   "A703R",
+   "A704R8",
+   "B850",
+   "B851",
+   "B852",
+   "B853",
+   "HW_R11_GUIDE_M5"
+  ]
+ },
+ "W1 (release now)": {
+  "PN": 41,
+  "pieces": 315,
+  "examples": [
+   "A705",
+   "A706",
+   "A707",
+   "A709",
+   "A710",
+   "F602",
+   "F603",
+   "P101",
+   "P102A",
+   "P102B",
+   "P102C",
+   "P102D"
+  ]
+ },
+ "W2 (after weld/straightness spec)": {
+  "PN": 1,
+  "pieces": 3,
+  "examples": [
+   "B200_R13"
+  ]
+ },
+ "W2 (with gland/B extension)": {
+  "PN": 6,
+  "pieces": 429,
+  "examples": [
+   "BUY402",
+   "BUY548",
+   "BUY_R9_DS001500A",
+   "HW_N6",
+   "HW_R9_HARD_W5",
+   "HW_W6_1p6_12"
+  ]
+ },
+ "RFQ-NOW (critical bought, written confirmation)": {
+  "PN": 9,
+  "pieces": 19,
+  "examples": [
+   "BUY504",
+   "BUY520",
+   "BUY521",
+   "BUY530",
+   "BUY531",
+   "BUY703",
+   "BUY704",
+   "BUY_R13_7206",
+   "BUY_R13_BK2"
+  ]
+ },
+ "RELEASED": {
+  "PN": 66,
+  "pieces": 200,
+  "examples": [
+   "D521_R14",
+   "D530",
+   "D870",
+   "D871",
+   "D872",
+   "D873",
+   "D874",
+   "D875",
+   "D876",
+   "D877",
+   "D878",
+   "D879"
+  ]
+ },
+ "ECO (released part, rework/reposition)": {
+  "PN": 5,
+  "pieces": 9,
+  "examples": [
+   "D886",
+   "G900",
+   "G901",
+   "TF903",
+   "TF909"
+  ]
+ },
+ "W2 (after SP04 first-article dims)": {
+  "PN": 12,
+  "pieces": 141,
+  "examples": [
+   "F604",
+   "J401",
+   "J402",
+   "J403",
+   "J404",
+   "J405",
+   "J406",
+   "J407",
+   "J408",
+   "STD03C",
+   "STD04C",
+   "STD05B"
+  ]
+ },
+ "SUPERSEDE (wet-bay support)": {
+  "PN": 5,
+  "pieces": 11,
+  "examples": [
+   "F620",
+   "F621",
+   "F622",
+   "F623",
+   "P107B"
+  ]
+ },
+ "HOLD (root/host decision)": {
+  "PN": 5,
+  "pieces": 5,
+  "examples": [
+   "G840P1",
+   "G840P2",
+   "G843",
+   "P107",
+   "R107"
+  ]
+ },
+ "W1 (commodity hardware, authorize)": {
+  "PN": 50,
+  "pieces": 1038,
+  "examples": [
+   "H14_M10X45",
+   "H14_M12X110",
+   "H14_M16X110",
+   "H14_M16X90",
+   "H14_M4X12",
+   "H14_M5X10",
+   "H14_M6X20",
+   "H14_M8X25",
+   "H14_M8X30",
+   "H14_M8X40",
+   "H14_N16",
+   "H14_N4"
+  ]
+ }
+}

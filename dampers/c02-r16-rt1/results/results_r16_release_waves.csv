@@ -1,0 +1,209 @@
+﻿PN,kind,P1_required,released,gap,proposed_wave,rationale,material
+A703P,MAKE,2,1,SCOPE_AND_ASSEMBLY_EVIDENCE,W3 (after B01 measurement),installed feedback branches wait for B01/E01 data,EN 1.4307 / 304L
+A703R,MAKE,1,0,AUTHORIZATION_AND_SHOP_DEFINITION,W3 (after B01 measurement),installed feedback branches wait for B01/E01 data,EN 1.4307 / 304L
+A704R8,MAKE,3,1,SCOPE_AND_ASSEMBLY_EVIDENCE,W3 (after B01 measurement),installed feedback branches wait for B01/E01 data,17-4PH H900
+A705,MAKE,3,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),feedback frame geometry stable since R9; hood interface unchanged,EN 1.4307 / 304L
+A706,MAKE,3,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),feedback frame geometry stable since R9; hood interface unchanged,EN 1.4307 / 304L
+A707,MAKE,12,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),feedback frame geometry stable since R9; hood interface unchanged,"EN 1.4310 spring strip, Rp0.2 >=600 MPa"
+A709,MAKE,3,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),feedback frame geometry stable since R9; hood interface unchanged,304L
+A710,MAKE,12,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),feedback frame geometry stable since R9; hood interface unchanged,EN 1.4307 / 304L
+B200_R13,WELD_ASSEMBLY,3,0,AUTHORIZATION_AND_SHOP_DEFINITION,W2 (after weld/straightness spec),"needs weld sequence, runout and journal protection definition",EN 1.4307 / 304L
+B850,MAKE,3,1,SCOPE_AND_ASSEMBLY_EVIDENCE,W3 (after B01 measurement),installed feedback branches wait for B01/E01 data,440C / 58-60 HRC after heat treatment
+B851,MAKE,6,2,SCOPE_AND_ASSEMBLY_EVIDENCE,W3 (after B01 measurement),installed feedback branches wait for B01/E01 data,440C / 58-60 HRC after heat treatment
+B852,MAKE,3,1,SCOPE_AND_ASSEMBLY_EVIDENCE,W3 (after B01 measurement),installed feedback branches wait for B01/E01 data,17-4PH H900 / 40-44 HRC
+B853,MAKE,6,2,SCOPE_AND_ASSEMBLY_EVIDENCE,W3 (after B01 measurement),installed feedback branches wait for B01/E01 data,EN 1.4307 / 304L
+BUY402,BUY,6,1,SCOPE_AND_ASSEMBLY_EVIDENCE,W2 (with gland/B extension),quantity follows station allocation,EPDM70 peroxide cured
+BUY504,BUY,2,0,AUTHORIZATION_AND_SHOP_DEFINITION,"RFQ-NOW (critical bought, written confirmation)",long-lead / interface-defining,KHK S45C / hardened tooth
+BUY520,BUY,1,0,AUTHORIZATION_AND_SHOP_DEFINITION,"RFQ-NOW (critical bought, written confirmation)",long-lead / interface-defining,Manufacturer steel; catalogue mass 1.98 kg
+BUY521,BUY,1,0,AUTHORIZATION_AND_SHOP_DEFINITION,"RFQ-NOW (critical bought, written confirmation)",long-lead / interface-defining,Manufacturer steel; catalogue mass 1.98 kg
+BUY530,BUY,1,0,AUTHORIZATION_AND_SHOP_DEFINITION,"RFQ-NOW (critical bought, written confirmation)",long-lead / interface-defining,"Supplier transducer, dimension reconstruction"
+BUY531,BUY,2,0,AUTHORIZATION_AND_SHOP_DEFINITION,"RFQ-NOW (critical bought, written confirmation)",long-lead / interface-defining,Supplier steel/stainless bellows; 4.0 kg
+BUY548,BUY,144,24,SCOPE_AND_ASSEMBLY_EVIDENCE,W2 (with gland/B extension),quantity follows station allocation,SCHNORR standard spring steel; certified batch
+BUY703,BUY,3,0,AUTHORIZATION_AND_SHOP_DEFINITION,"RFQ-NOW (critical bought, written confirmation)",long-lead / interface-defining,Supplier aluminium/zinc/steel; mass 0.50kg
+BUY704,BUY,3,0,AUTHORIZATION_AND_SHOP_DEFINITION,"RFQ-NOW (critical bought, written confirmation)",long-lead / interface-defining,Supplier steel/aluminium; mass 0.016kg
+BUY_R13_7206,BUY,4,0,AUTHORIZATION_AND_SHOP_DEFINITION,"RFQ-NOW (critical bought, written confirmation)",long-lead / interface-defining,NSK bearing steel/brass cage
+BUY_R13_BK2,BUY,2,0,AUTHORIZATION_AND_SHOP_DEFINITION,"RFQ-NOW (critical bought, written confirmation)",long-lead / interface-defining,R+W steel hubs/bellows
+BUY_R9_DS001500A,BUY,60,20,SCOPE_AND_ASSEMBLY_EVIDENCE,W2 (with gland/B extension),quantity follows station allocation,C75S spring steel
+D521_R14,MAKE,1,1,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,42CrMo4 +QT Rp0.2>=650MPa
+D530,MAKE,1,1,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,42CrMo4 +QT Rp0.2>=650MPa
+D870,MAKE,2,2,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,"42CrMo4+QT, Rp0.2>=650MPa"
+D871,MAKE,2,2,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,42CrMo4+QT
+D872,MAKE,2,2,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,42CrMo4+QT
+D873,MAKE,5,5,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,42CrMo4+QT
+D874,MAKE,1,1,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,"S355JR, thickness-dependent minimum yield345MPa, certificate"
+D875,MAKE,1,1,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,"S355JR, thickness-dependent minimum yield345MPa, certificate"
+D876,MAKE,2,2,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,"S355JR, certified Rp0.2 >=355 MPa"
+D877,MAKE,2,2,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,42CrMo4+QT
+D878,MAKE,1,1,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,FABRICATION_AND_UNLOADED_DIMENSIONAL_FITUP_ONLY,S355JR; 25 or 30 mm supply thickness; minimum room-temperature yield 345 MPa; certificate required
+D879,MAKE,2,2,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,"S355JR, certified Rp0.2 >=355 MPa"
+D884,MAKE,2,2,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,C45
+D885,MAKE,1,1,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,42CrMo4+QT Rp0.2>=650MPa
+D886,MAKE,1,1,QUANTITY_OR_INSTALLATION_ACCEPTANCE,"ECO (released part, rework/reposition)",ECO-C: add keyway under arm root (re-phase +90 deg on P2),42CrMo4+QT Rp0.2>=650MPa
+D887,MAKE,1,1,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,42CrMo4+QT Rp0.2>=650MPa
+D888,MAKE,1,1,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,42CrMo4+QT Rp0.2>=650MPa
+D889,MAKE,1,1,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,S355JR certified yield345MPa for t>16mm;355MPa t<=16mm
+D890,MAKE,1,1,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,S355JR certified yield345MPa for t>16mm;355MPa t<=16mm
+D891,MAKE,1,1,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,CuSn12
+D892,MAKE,1,1,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,42CrMo4+QT Rp0.2>=650MPa
+D893,MAKE,1,1,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,CuSn12
+D894,MAKE,2,2,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,42CrMo4+QT
+D895,MAKE,1,1,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,S355JR certified yield345MPa for t>16mm;355MPa t<=16mm
+D896,MAKE,1,1,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,42CrMo4+QT
+F602,MAKE,92,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,EN 1.4307 / 304L
+F603,MAKE,58,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,EN 1.4307 / 304L
+F604,MAKE,24,4,SCOPE_AND_ASSEMBLY_EVIDENCE,W2 (after SP04 first-article dims),extend single-station release to 6 stations after SP04 dimensional FAI,EN 1.4307 / 304L
+F620,MAKE,2,0,AUTHORIZATION_AND_SHOP_DEFINITION,SUPERSEDE (wet-bay support),bench fixture or upstream fixture receiver; decide with the rig-mounted wet support,EN 1.4307 / 304L
+F621,MAKE,2,0,AUTHORIZATION_AND_SHOP_DEFINITION,SUPERSEDE (wet-bay support),bench fixture or upstream fixture receiver; decide with the rig-mounted wet support,EN 1.4307 / 304L
+F622,MAKE,4,0,AUTHORIZATION_AND_SHOP_DEFINITION,SUPERSEDE (wet-bay support),bench fixture or upstream fixture receiver; decide with the rig-mounted wet support,EN 1.4307 / 304L
+F623,MAKE,2,0,AUTHORIZATION_AND_SHOP_DEFINITION,SUPERSEDE (wet-bay support),bench fixture or upstream fixture receiver; decide with the rig-mounted wet support,EN 1.4307 / 304L
+G830P,MAKE,1,1,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,LOOSE_PARTS_ONLY,EN 1.4307 / 304L
+G830R,MAKE,1,1,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,LOOSE_PARTS_ONLY,EN 1.4307 / 304L
+G831P,MAKE,2,2,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,HOOD_SELF_ASSEMBLY_ONLY,EN 1.4307 / 304L
+G831R,MAKE,2,2,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,HOOD_SELF_ASSEMBLY_ONLY,EN 1.4307 / 304L
+G832P,MAKE,2,2,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,HOOD_SELF_ASSEMBLY_ONLY,EN 1.4307 / 304L
+G832R,MAKE,2,2,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,HOOD_SELF_ASSEMBLY_ONLY,EN 1.4307 / 304L
+G833P,MAKE,1,1,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,HOOD_SELF_ASSEMBLY_ONLY,EN 1.4307 / 304L
+G833R,MAKE,1,1,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,HOOD_SELF_ASSEMBLY_ONLY,EN 1.4307 / 304L
+G834P,MAKE,4,4,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,HOOD_SELF_ASSEMBLY_ONLY,EN 1.4307 / 304L
+G834R,MAKE,4,4,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,HOOD_SELF_ASSEMBLY_ONLY,EN 1.4307 / 304L
+G835P,MAKE,1,1,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,HOOD_SELF_ASSEMBLY_ONLY,EN 1.4307 / 304L
+G835R,MAKE,1,1,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,HOOD_SELF_ASSEMBLY_ONLY,EN 1.4307 / 304L
+G836,MAKE,8,8,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,LOOSE_PARTS_ONLY,EN 1.4307 / 304L
+G837,MAKE,8,8,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,LOOSE_PARTS_ONLY,EN 1.4307 / 304L
+G840P1,MAKE,1,0,AUTHORIZATION_AND_SHOP_DEFINITION,HOLD (root/host decision),P host interface; R01 G843 acceptance,EN 1.4307 / 304L
+G840P2,MAKE,1,0,AUTHORIZATION_AND_SHOP_DEFINITION,HOLD (root/host decision),P host interface; R01 G843 acceptance,EN 1.4307 / 304L
+G841,MAKE,12,12,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,LOOSE_PARTS_ONLY,EN 1.4307 / 304L
+G843,MAKE,1,0,AUTHORIZATION_AND_SHOP_DEFINITION,HOLD (root/host decision),P host interface; R01 G843 acceptance,EN 1.4307 / 304L
+G900,MAKE,2,2,QUANTITY_OR_INSTALLATION_ACCEPTANCE,"ECO (released part, rework/reposition)",ECO-A: shorten wet end 45.5 mm and re-drill post holes,S235JR
+G901,MAKE,1,1,QUANTITY_OR_INSTALLATION_ACCEPTANCE,"ECO (released part, rework/reposition)",ECO-A: relocate -45.5 mm (no part change),S235JR
+G902,MAKE,1,1,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,S235JR
+G903,MAKE,1,1,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,S235JR
+G904,MAKE,2,2,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,S235JR
+H14_M10X45,BUY,4,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,8.8
+H14_M12X110,BUY,2,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,8.8
+H14_M16X110,BUY,8,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,8.8
+H14_M16X90,BUY,4,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,8.8
+H14_M4X12,BUY,8,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,8.8
+H14_M5X10,BUY,20,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,8.8
+H14_M6X20,BUY,16,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,Class12.9
+H14_M8X25,BUY,2,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,8.8
+H14_M8X30,BUY,4,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,8.8
+H14_M8X40,BUY,2,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,8.8
+H14_N16,BUY,12,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,Class8
+H14_N4,BUY,4,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,Class8
+H14_PIN5,BUY,1,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,C45
+H14_SPLIT,BUY,1,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,Stainless
+H14_W16,BUY,24,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,200HV
+H14_W4,BUY,4,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,200HV
+H14_W8,BUY,8,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,200HV
+HW_BELLOWS25,BUY,6,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,A4-80
+HW_ENCODER_M4,BUY,9,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,A4-80
+HW_FB_COVER_M4,BUY,8,8,QUANTITY_OR_INSTALLATION_ACCEPTANCE,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,A4-80
+HW_FB_FRONT,BUY,12,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,A4-80
+HW_FB_REAR,BUY,12,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,A4-80
+HW_FLEX_M3,BUY,24,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,A4-80
+HW_N10,BUY,16,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,A4-80
+HW_N3,BUY,57,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,A4-80
+HW_N6,BUY,85,5,SCOPE_AND_ASSEMBLY_EVIDENCE,W2 (with gland/B extension),quantity follows station allocation,A4-80
+HW_N8,BUY,60,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,A4-80
+HW_R11_GUIDE_M5,MAKE,6,2,SCOPE_AND_ASSEMBLY_EVIDENCE,W3 (after B01 measurement),installed feedback branches wait for B01/E01 data,A4-80
+HW_R12_M8X40,BUY,5,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,A4-80
+HW_R13_M10X45,BUY,6,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,8.8
+HW_R13_M12X80,BUY,2,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,8.8
+HW_R13_M4TIP,BUY,5,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,Steel/brass
+HW_R13_M5X20,BUY,16,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,8.8
+HW_R13_N12,BUY,4,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,Class8
+HW_R13_W10,BUY,10,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,200HV
+HW_R13_W12,BUY,8,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,200HV
+HW_R8_HOOD_M5,BUY,8,8,QUANTITY_OR_INSTALLATION_ACCEPTANCE,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,A4-80
+HW_R8_HOOD_W5,BUY,8,8,QUANTITY_OR_INSTALLATION_ACCEPTANCE,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,EN 1.4307 / 304L
+HW_R9_HARD_W5,BUY,12,4,SCOPE_AND_ASSEMBLY_EVIDENCE,W2 (with gland/B extension),quantity follows station allocation,17-4PH H900
+HW_W10_2_20,BUY,32,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,A4
+HW_W3_0p5_7,BUY,90,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,A4
+HW_W4_0p8_9,BUY,8,8,QUANTITY_OR_INSTALLATION_ACCEPTANCE,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,A4
+HW_W4_1_9,BUY,9,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,A4
+HW_W5_1_10,BUY,44,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,A4
+HW_W6_1p6_12,BUY,122,2,SCOPE_AND_ASSEMBLY_EVIDENCE,W2 (with gland/B extension),quantity follows station allocation,A4
+HW_W8_1p6_16,BUY,152,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,A4
+J401,MAKE,6,1,SCOPE_AND_ASSEMBLY_EVIDENCE,W2 (after SP04 first-article dims),extend single-station release to 6 stations after SP04 dimensional FAI,EN 1.4307 / 304L
+J402,MAKE,6,1,QUANTITY_OR_INSTALLATION_ACCEPTANCE,W2 (after SP04 first-article dims),extend single-station release to 6 stations after SP04 dimensional FAI,Solid EPDM70 sheet 0.8±0.1
+J403,MAKE,3,1,SCOPE_AND_ASSEMBLY_EVIDENCE,W2 (after SP04 first-article dims),extend single-station release to 6 stations after SP04 dimensional FAI,EN 1.4307 / 304L
+J404,MAKE,3,1,SCOPE_AND_ASSEMBLY_EVIDENCE,W2 (after SP04 first-article dims),extend single-station release to 6 stations after SP04 dimensional FAI,304L
+J405,MAKE,12,4,SCOPE_AND_ASSEMBLY_EVIDENCE,W2 (after SP04 first-article dims),extend single-station release to 6 stations after SP04 dimensional FAI,EN 1.4307 / 304L
+J406,MAKE,6,2,SCOPE_AND_ASSEMBLY_EVIDENCE,W2 (after SP04 first-article dims),extend single-station release to 6 stations after SP04 dimensional FAI,Virgin PTFE 1.00±0.03
+J407,MAKE,6,1,SCOPE_AND_ASSEMBLY_EVIDENCE,W2 (after SP04 first-article dims),extend single-station release to 6 stations after SP04 dimensional FAI,C93200 qualified bronze
+J408,MAKE,48,8,SCOPE_AND_ASSEMBLY_EVIDENCE,W2 (after SP04 first-article dims),extend single-station release to 6 stations after SP04 dimensional FAI,100Cr6 55-60HRC
+P101,MAKE,2,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,EN 1.4307 / 304L
+P102A,MAKE,2,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,EN 1.4307 / 304L
+P102B,MAKE,4,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,EN 1.4307 / 304L
+P102C,MAKE,4,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,EN 1.4307 / 304L
+P102D,MAKE,4,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,EN 1.4307 / 304L
+P102E,MAKE,2,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,EN 1.4307 / 304L
+P103B,MAKE,2,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,EN 1.4307 / 304L
+P103F,MAKE,2,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,EN 1.4307 / 304L
+P104,MAKE,4,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,EN 1.4307 / 304L
+P105A,MAKE,2,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,Rogers BISCO HT-870 3.18 mm
+P105B,MAKE,2,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,Rogers BISCO HT-870 3.18 mm
+P106,MAKE,2,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,Rogers BISCO HT-870 3.18 mm
+P107,MAKE,1,0,AUTHORIZATION_AND_SHOP_DEFINITION,HOLD (root/host decision),P host interface; R01 G843 acceptance,EN 1.4307 / 304L
+P107B,MAKE,1,0,AUTHORIZATION_AND_SHOP_DEFINITION,SUPERSEDE (wet-bay support),bench fixture or upstream fixture receiver; decide with the rig-mounted wet support,EN 1.4307 / 304L
+P108,MAKE,4,4,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,FABRICATION_METROLOGY_UNLOADED_FIT_ONLY,Rogers BISCO HT-870 6.35 mm
+P109,MAKE,4,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,"Virgin PTFE skived sheet, 0.25±0.03 mm"
+P110,MAKE,4,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,EN 1.4307 / 304L
+P111-0010,MAKE,4,4,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,FABRICATION_METROLOGY_UNLOADED_FIT_ONLY,304L precision shim
+P111-0020,MAKE,8,8,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,FABRICATION_METROLOGY_UNLOADED_FIT_ONLY,304L precision shim
+P111-0050,MAKE,4,4,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,FABRICATION_METROLOGY_UNLOADED_FIT_ONLY,304L precision shim
+P111-0100,MAKE,4,4,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,FABRICATION_METROLOGY_UNLOADED_FIT_ONLY,304L precision shim
+P111-0200,MAKE,4,4,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,FABRICATION_METROLOGY_UNLOADED_FIT_ONLY,304L precision shim
+P111-1400,MAKE,4,4,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,FABRICATION_METROLOGY_UNLOADED_FIT_ONLY,304L precision shim
+R101,MAKE,2,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,EN 1.4307 / 304L
+R102A,MAKE,4,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,EN 1.4307 / 304L
+R102B,MAKE,8,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,EN 1.4307 / 304L
+R103B,MAKE,2,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,EN 1.4307 / 304L
+R103F,MAKE,2,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,EN 1.4307 / 304L
+R104,MAKE,4,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,EN 1.4307 / 304L
+R105A,MAKE,2,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,Rogers BISCO HT-870 3.18 mm
+R106,MAKE,1,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,Rogers BISCO HT-870 3.18 mm
+R107,MAKE,1,0,AUTHORIZATION_AND_SHOP_DEFINITION,HOLD (root/host decision),P host interface; R01 G843 acceptance,EN 1.4307 / 304L
+R108,MAKE,4,4,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,FABRICATION_METROLOGY_UNLOADED_FIT_ONLY,Rogers BISCO HT-870 6.35 mm
+R109,MAKE,4,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,"Virgin PTFE skived sheet, 0.25±0.03 mm"
+R110,MAKE,4,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,EN 1.4307 / 304L
+R111-0010,MAKE,4,4,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,FABRICATION_METROLOGY_UNLOADED_FIT_ONLY,304L precision shim
+R111-0020,MAKE,8,8,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,FABRICATION_METROLOGY_UNLOADED_FIT_ONLY,304L precision shim
+R111-0050,MAKE,4,4,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,FABRICATION_METROLOGY_UNLOADED_FIT_ONLY,304L precision shim
+R111-0100,MAKE,4,4,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,FABRICATION_METROLOGY_UNLOADED_FIT_ONLY,304L precision shim
+R111-0200,MAKE,4,4,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,FABRICATION_METROLOGY_UNLOADED_FIT_ONLY,304L precision shim
+R111-1400,MAKE,4,4,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,FABRICATION_METROLOGY_UNLOADED_FIT_ONLY,304L precision shim
+R112,MAKE,2,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,EN 1.4307 / 304L
+R113,MAKE,2,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,EN 1.4307 / 304L
+S301A,MAKE,3,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,EN 1.4307 / 304L
+S301B,MAKE,1,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,EN 1.4307 / 304L
+S301C,MAKE,1,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,EN 1.4307 / 304L
+S302,MAKE,6,6,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,FABRICATION_METROLOGY_UNLOADED_FIT_ONLY,Rogers BISCO HT-870 9.53 mm
+S303,MAKE,6,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,EN 1.4307 / 304L
+S311,MAKE,10,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,EN 1.4307 / 304L
+S312,MAKE,10,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,"AT-OR-01 solid EPDM70, free0.8±0.1"
+S313,MAKE,20,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,EN 1.4307 / 304L
+STD01B,BUY,46,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,A4-80
+STD01C,BUY,9,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,A4-80
+STD01P,BUY,28,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,A4-80
+STD01PC,MAKE,4,0,AUTHORIZATION_AND_SHOP_DEFINITION,W1 (release now),inherited C02 geometry unchanged by R12-R16; no R16 blocker touches it,A4-80
+STD02B,BUY,58,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,A4-80
+STD03C,MAKE,12,4,SCOPE_AND_ASSEMBLY_EVIDENCE,W2 (after SP04 first-article dims),extend single-station release to 6 stations after SP04 dimensional FAI,17-4PH H1150; Rp0.2 at 70C >=700MPa
+STD04C,MAKE,12,0,AUTHORIZATION_AND_SHOP_DEFINITION,W2 (after SP04 first-article dims),extend single-station release to 6 stations after SP04 dimensional FAI,17-4PH H1150; Rp0.2 at 70C >=700MPa
+STD05B,MAKE,3,1,SCOPE_AND_ASSEMBLY_EVIDENCE,W2 (after SP04 first-article dims),extend single-station release to 6 stations after SP04 dimensional FAI,"17-4PH H1150, Rp0.2(70C)>=700MPa"
+STD06B,BUY,20,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,A4-80
+STD07B,BUY,78,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,A4-80
+STD08B,BUY,48,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,A4-80
+STD14B,BUY,16,0,AUTHORIZATION_AND_SHOP_DEFINITION,"W1 (commodity hardware, authorize)",standard A4/8.8 catalogue items,A4-80
+TF880,MAKE,1,1,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,FABRICATION_AND_UNLOADED_DIMENSIONAL_FITUP_ONLY,S355JR; 25 or 30 mm supply thickness; minimum room-temperature yield 345 MPa; certificate required
+TF900,MAKE,1,1,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,S355JR certified yield345MPa for t>16mm;355MPa t<=16mm
+TF901,MAKE,1,1,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,S355JR certified yield345MPa for t>16mm;355MPa t<=16mm
+TF902,MAKE,8,8,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,S355JR
+TF903,MAKE,1,1,QUANTITY_OR_INSTALLATION_ACCEPTANCE,"ECO (released part, rework/reposition)",ECO-A: two new M8 holes for relocated wet-end TF909 posts,S355JR certified yield345MPa for t>16mm;355MPa t<=16mm
+TF904,MAKE,12,12,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,S355JR certified yield345MPa for t>16mm;355MPa t<=16mm
+TF905,MAKE,2,2,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,S355JRH RHS
+TF906,MAKE,3,3,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,S355JRH RHS
+TF907,MAKE,6,6,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,S355JRH RHS
+TF908,MAKE,6,6,QUANTITY_OR_INSTALLATION_ACCEPTANCE,RELEASED,散件加工/尺寸检验；全台架装焊和加载未释放,S355JR certified yield345MPa for t>16mm;355MPa t<=16mm
+TF909,MAKE,4,4,QUANTITY_OR_INSTALLATION_ACCEPTANCE,"ECO (released part, rework/reposition)",ECO-A: relocate two wet-end posts -45.5 mm (no part change),S355JR certified yield345MPa for t>16mm;355MPa t<=16mm

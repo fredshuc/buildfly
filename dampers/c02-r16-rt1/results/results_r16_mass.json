@@ -1,0 +1,78 @@
+{
+ "P": {
+  "WET_VALVE": {
+   "mass_kg": 64.8,
+   "proxy_kg": 2.6,
+   "cg_world_mm": [
+    -429.2,
+    -343.4,
+    1448.4
+   ]
+  },
+  "WET_FIXTURE": {
+   "mass_kg": 11.6,
+   "proxy_kg": 0.0,
+   "cg_world_mm": [
+    -346.9,
+    -405.0,
+    1344.3
+   ]
+  },
+  "RIG_DRIVE": {
+   "mass_kg": 203.7,
+   "proxy_kg": 38.2,
+   "cg_world_mm": [
+    -513.1,
+    -1246.3,
+    1434.9
+   ]
+  },
+  "RIG_FRAME": {
+   "mass_kg": 277.8,
+   "proxy_kg": 0.0,
+   "cg_world_mm": [
+    -678.7,
+    -1385.1,
+    1434.1
+   ]
+  }
+ },
+ "R": {
+  "WET_VALVE": {
+   "mass_kg": 39.3,
+   "proxy_kg": 1.9,
+   "cg_world_mm": [
+    -82.9,
+    -336.6,
+    1568.6
+   ]
+  },
+  "WET_FIXTURE": {
+   "mass_kg": 32.4,
+   "proxy_kg": 0.0,
+   "cg_world_mm": [
+    -79.8,
+    -406.8,
+    1308.9
+   ]
+  },
+  "RIG_DRIVE": {
+   "mass_kg": 180.0,
+   "proxy_kg": 17.2,
+   "cg_world_mm": [
+    -13.6,
+    -1283.5,
+    1499.2
+   ]
+  },
+  "RIG_FRAME": {
+   "mass_kg": 277.9,
+   "proxy_kg": 0.0,
+   "cg_world_mm": [
+    16.9,
+    -1385.0,
+    1343.3
+   ]
+  }
+ }
+}
