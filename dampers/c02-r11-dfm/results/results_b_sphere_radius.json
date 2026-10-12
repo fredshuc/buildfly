@@ -1,0 +1,178 @@
+[
+ {
+  "max_thermal_or_cool_deg": 0.01914623507098203,
+  "pure_heat_deg": 0.015839056118590898,
+  "residual_deg": -0.009818856609745996,
+  "max_any_deg": 0.19328195613962332,
+  "max_residual_Nmm": 3.865352482534945e-12,
+  "sphere_radius_mm": 20.0,
+  "control": "MAX_UNEQUAL",
+  "mu_seat": 0.05,
+  "rolling_arm_mm": 0.005
+ },
+ {
+  "max_thermal_or_cool_deg": 0.04044383711594454,
+  "pure_heat_deg": 0.013969766836944338,
+  "residual_deg": -0.03107172626011725,
+  "max_any_deg": 0.19142001010128903,
+  "max_residual_Nmm": 3.751665644813329e-12,
+  "sphere_radius_mm": 20.0,
+  "control": "MAX_UNEQUAL",
+  "mu_seat": 0.12,
+  "rolling_arm_mm": 0.03
+ },
+ {
+  "max_thermal_or_cool_deg": 0.01914623507098205,
+  "pure_heat_deg": 0.015839056118590898,
+  "residual_deg": 0.00981885660974601,
+  "max_any_deg": 0.19328195613962335,
+  "max_residual_Nmm": 3.296918293926865e-12,
+  "sphere_radius_mm": 20.0,
+  "control": "MIRROR",
+  "mu_seat": 0.05,
+  "rolling_arm_mm": 0.005
+ },
+ {
+  "max_thermal_or_cool_deg": 0.03910603536619017,
+  "pure_heat_deg": 0.013969766836944335,
+  "residual_deg": 0.03107172626011726,
+  "max_any_deg": 0.19142001010128903,
+  "max_residual_Nmm": 5.229594535194337e-12,
+  "sphere_radius_mm": 20.0,
+  "control": "MIRROR",
+  "mu_seat": 0.12,
+  "rolling_arm_mm": 0.03
+ },
+ {
+  "max_thermal_or_cool_deg": 0.0013192464246913282,
+  "pure_heat_deg": 0.0,
+  "residual_deg": -0.0013192464246913282,
+  "max_any_deg": 0.17372494433932362,
+  "max_residual_Nmm": 2.631228568361621e-12,
+  "sphere_radius_mm": 20.0,
+  "control": "LOW_FORCE",
+  "mu_seat": 0.05,
+  "rolling_arm_mm": 0.005
+ },
+ {
+  "max_thermal_or_cool_deg": 0.007915477742276857,
+  "pure_heat_deg": 0.0,
+  "residual_deg": -0.007915477742276857,
+  "max_any_deg": 0.16716206663328104,
+  "max_residual_Nmm": 3.360867140145274e-12,
+  "sphere_radius_mm": 20.0,
+  "control": "LOW_FORCE",
+  "mu_seat": 0.12,
+  "rolling_arm_mm": 0.03
+ },
+ {
+  "max_thermal_or_cool_deg": 0.003501150867703161,
+  "pure_heat_deg": 0.0,
+  "residual_deg": -0.0027921342410953203,
+  "max_any_deg": 0.17693720149709574,
+  "max_residual_Nmm": 4.307443290940682e-12,
+  "sphere_radius_mm": 20.0,
+  "control": "HIGH_FORCE",
+  "mu_seat": 0.05,
+  "rolling_arm_mm": 0.005
+ },
+ {
+  "max_thermal_or_cool_deg": 0.02100690086108064,
+  "pure_heat_deg": 0.0,
+  "residual_deg": -0.016752802488934817,
+  "max_any_deg": 0.15890197750746402,
+  "max_residual_Nmm": 5.684674952988189e-12,
+  "sphere_radius_mm": 20.0,
+  "control": "HIGH_FORCE",
+  "mu_seat": 0.12,
+  "rolling_arm_mm": 0.03
+ },
+ {
+  "max_thermal_or_cool_deg": 0.020376662847323403,
+  "pure_heat_deg": 0.017070665929600496,
+  "residual_deg": -0.010677517792538506,
+  "max_any_deg": 0.19450298226239765,
+  "max_residual_Nmm": 4.803268893738277e-12,
+  "sphere_radius_mm": 9.0,
+  "control": "MAX_UNEQUAL",
+  "mu_seat": 0.05,
+  "rolling_arm_mm": 0.005
+ },
+ {
+  "max_thermal_or_cool_deg": 0.04282359420852211,
+  "pure_heat_deg": 0.016359942010272698,
+  "residual_deg": -0.03352191719845161,
+  "max_any_deg": 0.19383351523008827,
+  "max_residual_Nmm": 4.0110137433657655e-12,
+  "sphere_radius_mm": 9.0,
+  "control": "MAX_UNEQUAL",
+  "mu_seat": 0.12,
+  "rolling_arm_mm": 0.03
+ },
+ {
+  "max_thermal_or_cool_deg": 0.020376662847323476,
+  "pure_heat_deg": 0.017070665929600506,
+  "residual_deg": 0.010677517792538603,
+  "max_any_deg": 0.19450298226239776,
+  "max_residual_Nmm": 4.803268893738277e-12,
+  "sphere_radius_mm": 9.0,
+  "control": "MIRROR",
+  "mu_seat": 0.05,
+  "rolling_arm_mm": 0.005
+ },
+ {
+  "max_thermal_or_cool_deg": 0.041498046635782784,
+  "pure_heat_deg": 0.016359942010272695,
+  "residual_deg": 0.03352191719845168,
+  "max_any_deg": 0.1938137897702425,
+  "max_residual_Nmm": 5.229594535194337e-12,
+  "sphere_radius_mm": 9.0,
+  "control": "MIRROR",
+  "mu_seat": 0.12,
+  "rolling_arm_mm": 0.03
+ },
+ {
+  "max_thermal_or_cool_deg": 0.0013192464246913282,
+  "pure_heat_deg": 0.0,
+  "residual_deg": -0.0013192464246913282,
+  "max_any_deg": 0.17372494433932362,
+  "max_residual_Nmm": 2.631228568361621e-12,
+  "sphere_radius_mm": 9.0,
+  "control": "LOW_FORCE",
+  "mu_seat": 0.05,
+  "rolling_arm_mm": 0.005
+ },
+ {
+  "max_thermal_or_cool_deg": 0.007915477742276857,
+  "pure_heat_deg": 0.0,
+  "residual_deg": -0.007915477742276857,
+  "max_any_deg": 0.16716206663328104,
+  "max_residual_Nmm": 3.360867140145274e-12,
+  "sphere_radius_mm": 9.0,
+  "control": "LOW_FORCE",
+  "mu_seat": 0.12,
+  "rolling_arm_mm": 0.03
+ },
+ {
+  "max_thermal_or_cool_deg": 0.003501150867703161,
+  "pure_heat_deg": 0.0,
+  "residual_deg": -0.0027921342410953203,
+  "max_any_deg": 0.17693720149709574,
+  "max_residual_Nmm": 4.307443290940682e-12,
+  "sphere_radius_mm": 9.0,
+  "control": "HIGH_FORCE",
+  "mu_seat": 0.05,
+  "rolling_arm_mm": 0.005
+ },
+ {
+  "max_thermal_or_cool_deg": 0.02100690086108064,
+  "pure_heat_deg": 0.0,
+  "residual_deg": -0.016752802488934817,
+  "max_any_deg": 0.15890197750746402,
+  "max_residual_Nmm": 5.684674952988189e-12,
+  "sphere_radius_mm": 9.0,
+  "control": "HIGH_FORCE",
+  "mu_seat": 0.12,
+  "rolling_arm_mm": 0.03
+ }
+]

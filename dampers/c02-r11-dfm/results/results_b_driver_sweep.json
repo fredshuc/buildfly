@@ -1,0 +1,66 @@
+[
+ {
+  "max_thermal_or_cool_deg": 0.04044383711594454,
+  "pure_heat_deg": 0.013969766836944338,
+  "residual_deg": -0.03107172626011725,
+  "max_any_deg": 0.19142001010128903,
+  "max_residual_Nmm": 3.751665644813329e-12,
+  "case": "baseline mu.12 arm.03 Rs20 Rc4"
+ },
+ {
+  "max_thermal_or_cool_deg": 0.0165224707882029,
+  "pure_heat_deg": 0.013226090279467318,
+  "residual_deg": -0.007141794495046788,
+  "max_any_deg": 0.19067569973061024,
+  "max_residual_Nmm": 3.183231456205249e-12,
+  "case": "rolling arm 0.005"
+ },
+ {
+  "max_thermal_or_cool_deg": 0.043053890270513914,
+  "pure_heat_deg": 0.016596205999769582,
+  "residual_deg": -0.033759777818758864,
+  "max_any_deg": 0.19406826925960724,
+  "max_residual_Nmm": 3.865352482534945e-12,
+  "case": "seat mu 0.05"
+ },
+ {
+  "max_thermal_or_cool_deg": 0.03338157126664318,
+  "pure_heat_deg": 0.0071545754283871355,
+  "residual_deg": -0.02885724161474558,
+  "max_any_deg": 0.18172948676307868,
+  "max_residual_Nmm": 4.827143129659817e-10,
+  "case": "crown R2"
+ },
+ {
+  "max_thermal_or_cool_deg": 0.0561167713019325,
+  "pure_heat_deg": 0.02909283326729292,
+  "residual_deg": -0.035957393837111,
+  "max_any_deg": 0.21294128573906737,
+  "max_residual_Nmm": 4.547473508864641e-12,
+  "case": "crown R8"
+ },
+ {
+  "max_thermal_or_cool_deg": 0.04044383711594454,
+  "pure_heat_deg": 0.013969766836944338,
+  "residual_deg": -0.03107172626011725,
+  "max_any_deg": 0.19142001010128903,
+  "max_residual_Nmm": 3.751665644813329e-12,
+  "case": "Rs 30"
+ },
+ {
+  "max_thermal_or_cool_deg": 0.012916658954512321,
+  "pure_heat_deg": 0.004456967413717931,
+  "residual_deg": -0.009921603670000029,
+  "max_any_deg": 0.0623452906276559,
+  "max_residual_Nmm": 5.9117155615240335e-12,
+  "case": "kt 3e5"
+ },
+ {
+  "max_thermal_or_cool_deg": 0.003819017751233123,
+  "pure_heat_deg": 0.0013173260234463815,
+  "residual_deg": -0.002933300455865161,
+  "max_any_deg": 0.01855862804565352,
+  "max_residual_Nmm": 5.002220859751105e-12,
+  "case": "kt 1e6"
+ }
+]

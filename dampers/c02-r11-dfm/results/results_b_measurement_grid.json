@@ -1,0 +1,92 @@
+[
+ {
+  "max_thermal_or_cool_deg": 0.04044383711594454,
+  "pure_heat_deg": 0.013969766836944338,
+  "residual_deg": -0.03107172626011725,
+  "max_any_deg": 0.19142001010128903,
+  "max_residual_Nmm": 3.751665644813329e-12,
+  "control": "MAX_UNEQUAL",
+  "rolling_arm_mm": 0.03,
+  "kt_Nmm_rad": 100000.0
+ },
+ {
+  "max_thermal_or_cool_deg": 0.012916658954512321,
+  "pure_heat_deg": 0.004456967413717931,
+  "residual_deg": -0.009921603670000029,
+  "max_any_deg": 0.0623452906276559,
+  "max_residual_Nmm": 5.9117155615240335e-12,
+  "control": "MAX_UNEQUAL",
+  "rolling_arm_mm": 0.03,
+  "kt_Nmm_rad": 300000.0
+ },
+ {
+  "max_thermal_or_cool_deg": 0.0038190177512331257,
+  "pure_heat_deg": 0.0013173260234463845,
+  "residual_deg": 0.0029333004558651636,
+  "max_any_deg": 0.018558628045653523,
+  "max_residual_Nmm": 4.888534022029489e-12,
+  "control": "MIRROR",
+  "rolling_arm_mm": 0.03,
+  "kt_Nmm_rad": 1000000.0
+ },
+ {
+  "max_thermal_or_cool_deg": 0.026091177239476945,
+  "pure_heat_deg": 0.013523738550873798,
+  "residual_deg": -0.016713794248675043,
+  "max_any_deg": 0.1909736019695586,
+  "max_residual_Nmm": 4.774847184307873e-12,
+  "control": "MAX_UNEQUAL",
+  "rolling_arm_mm": 0.015,
+  "kt_Nmm_rad": 100000.0
+ },
+ {
+  "max_thermal_or_cool_deg": 0.008336571961565896,
+  "pure_heat_deg": 0.004320706269267627,
+  "residual_deg": 0.005339922969223877,
+  "max_any_deg": 0.06220899234448199,
+  "max_residual_Nmm": 3.865352482534945e-12,
+  "control": "MIRROR",
+  "rolling_arm_mm": 0.015,
+  "kt_Nmm_rad": 300000.0
+ },
+ {
+  "max_thermal_or_cool_deg": 0.002465208222286013,
+  "pure_heat_deg": 0.001277641603550115,
+  "residual_deg": 0.0015790284156118968,
+  "max_any_deg": 0.018518940425560498,
+  "max_residual_Nmm": 4.320099833421409e-12,
+  "control": "MIRROR",
+  "rolling_arm_mm": 0.015,
+  "kt_Nmm_rad": 1000000.0
+ },
+ {
+  "max_thermal_or_cool_deg": 0.0165224707882029,
+  "pure_heat_deg": 0.013226090279467318,
+  "residual_deg": -0.007141794495046788,
+  "max_any_deg": 0.19067569973061024,
+  "max_residual_Nmm": 3.183231456205249e-12,
+  "control": "MAX_UNEQUAL",
+  "rolling_arm_mm": 0.005,
+  "kt_Nmm_rad": 100000.0
+ },
+ {
+  "max_thermal_or_cool_deg": 0.005283102484151628,
+  "pure_heat_deg": 0.004229778658043219,
+  "residual_deg": 0.0022854560372478306,
+  "max_any_deg": 0.06211803990476295,
+  "max_residual_Nmm": 3.865352482534945e-12,
+  "control": "MIRROR",
+  "rolling_arm_mm": 0.005,
+  "kt_Nmm_rad": 300000.0
+ },
+ {
+  "max_thermal_or_cool_deg": 0.0015626460925688877,
+  "pure_heat_deg": 0.001251160378002012,
+  "residual_deg": -0.0006761766256558238,
+  "max_any_deg": 0.018492457060650502,
+  "max_residual_Nmm": 4.774847184307873e-12,
+  "control": "MAX_UNEQUAL",
+  "rolling_arm_mm": 0.005,
+  "kt_Nmm_rad": 1000000.0
+ }
+]

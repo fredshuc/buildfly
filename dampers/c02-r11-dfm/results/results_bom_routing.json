@@ -1,0 +1,961 @@
+{
+ "summary": {
+  "SHEET (laser + deburr, some bend/weld)": {
+   "pns": 48,
+   "instances": 92,
+   "pns_with_tight_tol": 2,
+   "pns_with_weld_notes": 24
+  },
+  "KIT/REFERENCE": {
+   "pns": 7,
+   "instances": 15,
+   "pns_with_tight_tol": 0,
+   "pns_with_weld_notes": 2
+  },
+  "SEAL/GASKET/INSULATION (die/waterjet/skive)": {
+   "pns": 18,
+   "instances": 56,
+   "pns_with_tight_tol": 3,
+   "pns_with_weld_notes": 0
+  },
+  "MILLED/PRISMATIC (plate or bar)": {
+   "pns": 63,
+   "instances": 218,
+   "pns_with_tight_tol": 18,
+   "pns_with_weld_notes": 32
+  },
+  "TURNED": {
+   "pns": 31,
+   "instances": 359,
+   "pns_with_tight_tol": 21,
+   "pns_with_weld_notes": 8
+  },
+  "WELDMENT": {
+   "pns": 12,
+   "instances": 5,
+   "pns_with_tight_tol": 0,
+   "pns_with_weld_notes": 12
+  },
+  "PURCHASED": {
+   "pns": 72,
+   "instances": 1743,
+   "pns_with_tight_tol": 5,
+   "pns_with_weld_notes": 1
+  },
+  "PRECISION SHIM (laser/etch)": {
+   "pns": 12,
+   "instances": 0,
+   "pns_with_tight_tol": 12,
+   "pns_with_weld_notes": 0
+  }
+ },
+ "status": {
+  "INHERITED_C02_HOLD": 231,
+  "PHYSICAL_CANDIDATE_HOLD_NOT_FOR_MANUFACTURE": 15,
+  "HOOD_LOCAL_DEFINITION_INTERFACE_ACCEPTANCE_PENDING": 12,
+  "LOCAL_REVIEW_CANDIDATE_NOT_FOR_MANUFACTURE": 2,
+  "R10_FEEDBACK_ZERO_AND_CONTACT_CONTRACT_HOLD": 3
+ },
+ "purchased": [
+  {
+   "pn": "BUY401",
+   "name": "igus XSM-3034-30",
+   "instances": 2
+  },
+  {
+   "pn": "BUY402",
+   "name": "EPDM70-P AT-OR-01 O-ring 30×3",
+   "instances": 6
+  },
+  {
+   "pn": "BUY504",
+   "name": "KHK SSG3-55F30B",
+   "instances": 2
+  },
+  {
+   "pn": "STD12",
+   "name": "DIN6885-A 平键 8×7×40 精选",
+   "instances": 2
+  },
+  {
+   "pn": "BUY520",
+   "name": "mayr 1 / 490.715.0 / 30 / 110 Nm",
+   "instances": 2
+  },
+  {
+   "pn": "BUY521",
+   "name": "mayr 1 / 490.715.0 / 30 / 160 Nm",
+   "instances": 2
+  },
+  {
+   "pn": "BUY703",
+   "name": "Baumer EAL580-SC0.5WEN.18130.A / 11197423",
+   "instances": 3
+  },
+  {
+   "pn": "BUY704",
+   "name": "Baumer 11053277 波纹管联轴器 10/10",
+   "instances": 3
+  },
+  {
+   "pn": "BUY701P",
+   "name": "Valpes VSX150.90B.G00",
+   "instances": 1
+  },
+  {
+   "pn": "BUY701R",
+   "name": "Valpes VRX75.70B.G00",
+   "instances": 1
+  },
+  {
+   "pn": "SUB701P",
+   "name": "P执行器转动输出星孔接口",
+   "instances": 1
+  },
+  {
+   "pn": "SUB701R",
+   "name": "R执行器转动输出星孔接口",
+   "instances": 1
+  },
+  {
+   "pn": "BUY530",
+   "name": "HBK 1-T210/200NM",
+   "instances": 2
+  },
+  {
+   "pn": "BUY531",
+   "name": "R+W BK2/300/125/26/26",
+   "instances": 4
+  },
+  {
+   "pn": "BUY535",
+   "name": "SKF 6005-2RSH",
+   "instances": 2
+  },
+  {
+   "pn": "HW_PIN5",
+   "name": "延长接头销Ø5×44",
+   "instances": 2
+  },
+  {
+   "pn": "HW_COTTER16",
+   "name": "开口销1.6×16",
+   "instances": 2
+  },
+  {
+   "pn": "STD16",
+   "name": "锁销防脱索组件",
+   "instances": 2
+  },
+  {
+   "pn": "STD01C",
+   "name": "STD01C 螺钉/销",
+   "instances": 9
+  },
+  {
+   "pn": "HW_W8_1p6_16",
+   "name": "平垫圈",
+   "instances": 198
+  },
+  {
+   "pn": "HW_N8",
+   "name": "全金属锁紧螺母",
+   "instances": 60
+  },
+  {
+   "pn": "STD01B",
+   "name": "STD01B 螺钉/销",
+   "instances": 51
+  },
+  {
+   "pn": "STD01P",
+   "name": "STD01P 螺钉/销",
+   "instances": 28
+  },
+  {
+   "pn": "STD02B",
+   "name": "STD02B 螺钉/销",
+   "instances": 58
+  },
+  {
+   "pn": "HW_W6_1p6_12",
+   "name": "平垫圈",
+   "instances": 158
+  },
+  {
+   "pn": "HW_N6",
+   "name": "全金属锁紧螺母",
+   "instances": 85
+  },
+  {
+   "pn": "STD08B",
+   "name": "STD08B 螺钉/销",
+   "instances": 48
+  },
+  {
+   "pn": "HW_W3_0p5_7",
+   "name": "平垫圈",
+   "instances": 90
+  },
+  {
+   "pn": "HW_N3",
+   "name": "全金属锁紧螺母",
+   "instances": 57
+  },
+  {
+   "pn": "STD06B",
+   "name": "STD06B 螺钉/销",
+   "instances": 20
+  },
+  {
+   "pn": "HW_W5_1_10",
+   "name": "平垫圈",
+   "instances": 52
+  },
+  {
+   "pn": "STD07B",
+   "name": "STD07B 螺钉/销",
+   "instances": 78
+  },
+  {
+   "pn": "STD13R",
+   "name": "STD13R 螺钉/销",
+   "instances": 2
+  },
+  {
+   "pn": "HW_N12",
+   "name": "全金属锁紧螺母",
+   "instances": 2
+  },
+  {
+   "pn": "STD10B",
+   "name": "STD10B 螺钉/销",
+   "instances": 8
+  },
+  {
+   "pn": "STD14B",
+   "name": "STD14B 螺钉/销",
+   "instances": 24
+  },
+  {
+   "pn": "HW_W10_2_20",
+   "name": "平垫圈",
+   "instances": 48
+  },
+  {
+   "pn": "HW_N10",
+   "name": "全金属锁紧螺母",
+   "instances": 24
+  },
+  {
+   "pn": "HW_MAYR_OUT",
+   "name": "HW_MAYR_OUT 螺钉/销",
+   "instances": 32
+  },
+  {
+   "pn": "HW_F07",
+   "name": "HW_F07 螺钉/销",
+   "instances": 8
+  },
+  {
+   "pn": "HW_A704I",
+   "name": "HW_A704I 螺钉/销",
+   "instances": 8
+  },
+  {
+   "pn": "HW_A704CS",
+   "name": "M8×30 90°沉头螺钉",
+   "instances": 8
+  },
+  {
+   "pn": "HW_CAP_CS3",
+   "name": "M3×10 沉头轴承盖螺钉",
+   "instances": 6
+  },
+  {
+   "pn": "HW_MAN_RAIL_F",
+   "name": "HW_MAN_RAIL_F 螺钉/销",
+   "instances": 8
+  },
+  {
+   "pn": "HW_MAN_RAIL_R",
+   "name": "HW_MAN_RAIL_R 螺钉/销",
+   "instances": 8
+  },
+  {
+   "pn": "HW_A703",
+   "name": "HW_A703 螺钉/销",
+   "instances": 0
+  },
+  {
+   "pn": "HW_BELLOWS25",
+   "name": "HW_BELLOWS25 螺钉/销",
+   "instances": 6
+  },
+  {
+   "pn": "HW_FB_REAR",
+   "name": "HW_FB_REAR 螺钉/销",
+   "instances": 12
+  },
+  {
+   "pn": "HW_FB_FRONT",
+   "name": "HW_FB_FRONT 螺钉/销",
+   "instances": 12
+  },
+  {
+   "pn": "HW_ENCODER_M4",
+   "name": "HW_ENCODER_M4 螺钉/销",
+   "instances": 17
+  },
+  {
+   "pn": "HW_W4_1_9",
+   "name": "平垫圈",
+   "instances": 17
+  },
+  {
+   "pn": "HW_FLEX_M3",
+   "name": "HW_FLEX_M3 螺钉/销",
+   "instances": 24
+  },
+  {
+   "pn": "HW_GUARD_M4L",
+   "name": "HW_GUARD_M4L 螺钉/销",
+   "instances": 8
+  },
+  {
+   "pn": "HW_W4_0p8_9",
+   "name": "前盖M4平垫圈",
+   "instances": 74
+  },
+  {
+   "pn": "HW_THERM_M3",
+   "name": "HW_THERM_M3 螺钉/销",
+   "instances": 9
+  },
+  {
+   "pn": "HW_GUARD_M5",
+   "name": "HW_GUARD_M5 螺钉/销",
+   "instances": 8
+  },
+  {
+   "pn": "HW_PLUG_M4",
+   "name": "HW_PLUG_M4 螺钉/销",
+   "instances": 4
+  },
+  {
+   "pn": "HW_N4",
+   "name": "全金属锁紧螺母",
+   "instances": 4
+  },
+  {
+   "pn": "HW_FB_COVER_M4",
+   "name": "前盖M4螺钉",
+   "instances": 8
+  },
+  {
+   "pn": "HW_T210_M4",
+   "name": "HW_T210_M4 螺钉/销",
+   "instances": 8
+  },
+  {
+   "pn": "HW_W4_1p2_9",
+   "name": "平垫圈",
+   "instances": 8
+  },
+  {
+   "pn": "HW_STATOR_M6",
+   "name": "HW_STATOR_M6 螺钉/销",
+   "instances": 4
+  },
+  {
+   "pn": "HW_STAND_M8",
+   "name": "HW_STAND_M8 螺钉/销",
+   "instances": 4
+  },
+  {
+   "pn": "HW_SIDE_M4",
+   "name": "HW_SIDE_M4 螺钉/销",
+   "instances": 50
+  },
+  {
+   "pn": "HW_D544_M8",
+   "name": "M8×20按钮头承托紧固件",
+   "instances": 8
+  },
+  {
+   "pn": "HW_D545_M6",
+   "name": "M6×20按钮头连接螺钉",
+   "instances": 8
+  },
+  {
+   "pn": "BUY548",
+   "name": "SCHNORR 002700A碟簧",
+   "instances": 144
+  },
+  {
+   "pn": "HW_R8_HOOD_M5",
+   "name": "罩壳M5主连接螺钉",
+   "instances": 8
+  },
+  {
+   "pn": "HW_R8_HOOD_W5",
+   "name": "罩壳M5平垫圈",
+   "instances": 8
+  },
+  {
+   "pn": "BUY_R9_DS001500A",
+   "name": "标准碟簧001500A安装态",
+   "instances": 60
+  },
+  {
+   "pn": "HW_R9_HARD_W5",
+   "name": "夹头弹簧硬垫圈",
+   "instances": 12
+  },
+  {
+   "pn": "HW_R9_GUIDE_M5",
+   "name": "夹头M5导向螺钉",
+   "instances": 0
+  }
+ ],
+ "tight_tolerance_parts": [
+  {
+   "pn": "P106",
+   "name": "P外接静垫",
+   "route": "SEAL/GASKET/INSULATION (die/waterjet/skive)",
+   "tokens": [
+    "±0.03"
+   ]
+  },
+  {
+   "pn": "R106",
+   "name": "R外接静垫",
+   "route": "SEAL/GASKET/INSULATION (die/waterjet/skive)",
+   "tokens": [
+    "±0.03"
+   ]
+  },
+  {
+   "pn": "J403",
+   "name": "固定端销接轴环",
+   "route": "TURNED",
+   "tokens": [
+    "6h6",
+    "±0.01",
+    "平行0.01"
+   ]
+  },
+  {
+   "pn": "J404",
+   "name": "固定端止推盖",
+   "route": "MILLED/PRISMATIC (plate or bar)",
+   "tokens": [
+    "±0.01",
+    "±0.02"
+   ]
+  },
+  {
+   "pn": "J405",
+   "name": "止推盖隔套",
+   "route": "TURNED",
+   "tokens": [
+    "0.01",
+    "±0.01",
+    "平行0.01"
+   ]
+  },
+  {
+   "pn": "J406",
+   "name": "止推垫",
+   "route": "SEAL/GASKET/INSULATION (die/waterjet/skive)",
+   "tokens": [
+    "±0.02"
+   ]
+  },
+  {
+   "pn": "D503",
+   "name": "手动方榫接头及锁位盘",
+   "route": "MILLED/PRISMATIC (plate or bar)",
+   "tokens": [
+    "+0.03",
+    "30H7",
+    "±0.03"
+   ]
+  },
+  {
+   "pn": "D511",
+   "name": "止挡肩销",
+   "route": "TURNED",
+   "tokens": [
+    "18H7"
+   ]
+  },
+  {
+   "pn": "D509",
+   "name": "手动止挡板支柱",
+   "route": "TURNED",
+   "tokens": [
+    "±0.03"
+   ]
+  },
+  {
+   "pn": "F602",
+   "name": "静垫压缩限位套",
+   "route": "TURNED",
+   "tokens": [
+    "±0.03"
+   ]
+  },
+  {
+   "pn": "F603",
+   "name": "静垫压缩限位套",
+   "route": "TURNED",
+   "tokens": [
+    "±0.03"
+   ]
+  },
+  {
+   "pn": "F604",
+   "name": "静垫压缩限位套",
+   "route": "TURNED",
+   "tokens": [
+    "±0.03"
+   ]
+  },
+  {
+   "pn": "D510B",
+   "name": "共用反力桥横梁",
+   "route": "MILLED/PRISMATIC (plate or bar)",
+   "tokens": [
+    "+0.02"
+   ]
+  },
+  {
+   "pn": "D520",
+   "name": "共用限矩器输出法兰",
+   "route": "MILLED/PRISMATIC (plate or bar)",
+   "tokens": [
+    "75H7",
+    "同轴0.03"
+   ]
+  },
+  {
+   "pn": "BUY520",
+   "name": "mayr 1 / 490.715.0 / 30 / 110 Nm",
+   "route": "PURCHASED",
+   "tokens": [
+    "30h6"
+   ]
+  },
+  {
+   "pn": "A702P",
+   "name": "P 执行器至限矩器插接轴",
+   "route": "TURNED",
+   "tokens": [
+    "30h6"
+   ]
+  },
+  {
+   "pn": "A702R",
+   "name": "R 执行器至限矩器插接轴",
+   "route": "TURNED",
+   "tokens": [
+    "30h6"
+   ]
+  },
+  {
+   "pn": "A704",
+   "name": "共用输入支架立柱",
+   "route": "MILLED/PRISMATIC (plate or bar)",
+   "tokens": [
+    "平行0.03"
+   ]
+  },
+  {
+   "pn": "A706",
+   "name": "编码器浮动安装环",
+   "route": "TURNED",
+   "tokens": [
+    "36H7"
+   ]
+  },
+  {
+   "pn": "A707",
+   "name": "轴向浮动反馈弹簧片",
+   "route": "MILLED/PRISMATIC (plate or bar)",
+   "tokens": [
+    "±0.015"
+   ]
+  },
+  {
+   "pn": "A709",
+   "name": "浮动端反馈根部转接板",
+   "route": "MILLED/PRISMATIC (plate or bar)",
+   "tokens": [
+    "±0.02",
+    "平面度0.03"
+   ]
+  },
+  {
+   "pn": "BUY703",
+   "name": "Baumer EAL580-SC0.5WEN.18130.A / 11197423",
+   "route": "PURCHASED",
+   "tokens": [
+    "±0.01"
+   ]
+  },
+  {
+   "pn": "D530",
+   "name": "手动限矩器输入轴",
+   "route": "TURNED",
+   "tokens": [
+    "26h6",
+    "30h6"
+   ]
+  },
+  {
+   "pn": "BUY531",
+   "name": "R+W BK2/300/125/26/26",
+   "route": "PURCHASED",
+   "tokens": [
+    "26H7"
+   ]
+  },
+  {
+   "pn": "D533",
+   "name": "手动测量前支承板",
+   "route": "MILLED/PRISMATIC (plate or bar)",
+   "tokens": [
+    "34H7"
+   ]
+  },
+  {
+   "pn": "D534",
+   "name": "手动轴承座加长套",
+   "route": "TURNED",
+   "tokens": [
+    "34H7"
+   ]
+  },
+  {
+   "pn": "D535",
+   "name": "手动测量后轴承板",
+   "route": "MILLED/PRISMATIC (plate or bar)",
+   "tokens": [
+    "25h6",
+    "47H7"
+   ]
+  },
+  {
+   "pn": "D538",
+   "name": "手动测量架支柱",
+   "route": "MILLED/PRISMATIC (plate or bar)",
+   "tokens": [
+    "同轴0.05"
+   ]
+  },
+  {
+   "pn": "P111-1400",
+   "name": "P编号侧封量片 1.4",
+   "route": "PRECISION SHIM (laser/etch)",
+   "tokens": [
+    "0.01",
+    "±0.015"
+   ]
+  },
+  {
+   "pn": "P111-0200",
+   "name": "P编号侧封量片 0.2",
+   "route": "PRECISION SHIM (laser/etch)",
+   "tokens": [
+    "0.01",
+    "±0.015"
+   ]
+  },
+  {
+   "pn": "P111-0100",
+   "name": "P编号侧封量片 0.1",
+   "route": "PRECISION SHIM (laser/etch)",
+   "tokens": [
+    "0.01",
+    "±0.015"
+   ]
+  },
+  {
+   "pn": "P111-0050",
+   "name": "P编号侧封量片 0.05",
+   "route": "PRECISION SHIM (laser/etch)",
+   "tokens": [
+    "0.01",
+    "±0.015"
+   ]
+  },
+  {
+   "pn": "P111-0020",
+   "name": "P编号侧封量片 0.02",
+   "route": "PRECISION SHIM (laser/etch)",
+   "tokens": [
+    "0.01",
+    "±0.015"
+   ]
+  },
+  {
+   "pn": "P111-0010",
+   "name": "P编号侧封量片 0.01",
+   "route": "PRECISION SHIM (laser/etch)",
+   "tokens": [
+    "0.01",
+    "±0.015"
+   ]
+  },
+  {
+   "pn": "R111-1400",
+   "name": "R编号侧封量片 1.4",
+   "route": "PRECISION SHIM (laser/etch)",
+   "tokens": [
+    "0.01",
+    "±0.015"
+   ]
+  },
+  {
+   "pn": "R111-0200",
+   "name": "R编号侧封量片 0.2",
+   "route": "PRECISION SHIM (laser/etch)",
+   "tokens": [
+    "0.01",
+    "±0.015"
+   ]
+  },
+  {
+   "pn": "R111-0100",
+   "name": "R编号侧封量片 0.1",
+   "route": "PRECISION SHIM (laser/etch)",
+   "tokens": [
+    "0.01",
+    "±0.015"
+   ]
+  },
+  {
+   "pn": "R111-0050",
+   "name": "R编号侧封量片 0.05",
+   "route": "PRECISION SHIM (laser/etch)",
+   "tokens": [
+    "0.01",
+    "±0.015"
+   ]
+  },
+  {
+   "pn": "R111-0020",
+   "name": "R编号侧封量片 0.02",
+   "route": "PRECISION SHIM (laser/etch)",
+   "tokens": [
+    "0.01",
+    "±0.015"
+   ]
+  },
+  {
+   "pn": "R111-0010",
+   "name": "R编号侧封量片 0.01",
+   "route": "PRECISION SHIM (laser/etch)",
+   "tokens": [
+    "0.01",
+    "±0.015"
+   ]
+  },
+  {
+   "pn": "S313",
+   "name": "调节槽静垫限位环",
+   "route": "TURNED",
+   "tokens": [
+    "±0.02"
+   ]
+  },
+  {
+   "pn": "D541",
+   "name": "手动定子托板隔柱",
+   "route": "TURNED",
+   "tokens": [
+    "平行0.02"
+   ]
+  },
+  {
+   "pn": "STD03C",
+   "name": "固定端低头拉紧螺柱",
+   "route": "TURNED",
+   "tokens": [
+    "±0.03",
+    "平面度0.03"
+   ]
+  },
+  {
+   "pn": "STD04C",
+   "name": "浮动端低头拉紧螺柱",
+   "route": "TURNED",
+   "tokens": [
+    "±0.03",
+    "平面度0.03"
+   ]
+  },
+  {
+   "pn": "STD05B",
+   "name": "STD05B 螺钉/销",
+   "route": "MILLED/PRISMATIC (plate or bar)",
+   "tokens": [
+    "6h6"
+   ]
+  },
+  {
+   "pn": "D542",
+   "name": "湿侧AF9.5反持工具",
+   "route": "SHEET (laser + deburr, some bend/weld)",
+   "tokens": [
+    "±0.03"
+   ]
+  },
+  {
+   "pn": "D543",
+   "name": "可换带法兰径向承托套",
+   "route": "MILLED/PRISMATIC (plate or bar)",
+   "tokens": [
+    "0.01",
+    "±0.03"
+   ]
+  },
+  {
+   "pn": "D545",
+   "name": "径向可退出承托连接块",
+   "route": "MILLED/PRISMATIC (plate or bar)",
+   "tokens": [
+    "±0.03",
+    "平行0.03",
+    "平面度0.03"
+   ]
+  },
+  {
+   "pn": "D546",
+   "name": "P双轴共同定位板",
+   "route": "MILLED/PRISMATIC (plate or bar)",
+   "tokens": [
+    "32H7",
+    "±0.015",
+    "同轴0.01"
+   ]
+  },
+  {
+   "pn": "D549",
+   "name": "P共同板肩台定位支柱",
+   "route": "TURNED",
+   "tokens": [
+    "±0.03",
+    "平行0.01"
+   ]
+  },
+  {
+   "pn": "J407",
+   "name": "可换短承载带轴封衬套",
+   "route": "MILLED/PRISMATIC (plate or bar)",
+   "tokens": [
+    "34H7"
+   ]
+  },
+  {
+   "pn": "J408",
+   "name": "碟簧硬支承垫",
+   "route": "TURNED",
+   "tokens": [
+    "0.01",
+    "HRC",
+    "Ra0.4",
+    "±0.02"
+   ]
+  },
+  {
+   "pn": "A704R8",
+   "name": "夹爪R11平支点及防脱耳",
+   "route": "MILLED/PRISMATIC (plate or bar)",
+   "tokens": [
+    "HRC",
+    "Ra0.4",
+    "同轴0.05",
+    "平面度0.01"
+   ]
+  },
+  {
+   "pn": "G836",
+   "name": "罩壳固定螺纹块",
+   "route": "MILLED/PRISMATIC (plate or bar)",
+   "tokens": [
+    "±0.03",
+    "平行0.03"
+   ]
+  },
+  {
+   "pn": "G837",
+   "name": "罩壳角部背衬-沉位Z0",
+   "route": "SHEET (laser + deburr, some bend/weld)",
+   "tokens": [
+    "±0.03"
+   ]
+  },
+  {
+   "pn": "HW_R8_HOOD_W5",
+   "name": "罩壳M5平垫圈",
+   "route": "PURCHASED",
+   "tokens": [
+    "±0.02",
+    "平面度0.03"
+   ]
+  },
+  {
+   "pn": "HW_R9_HARD_W5",
+   "name": "夹头弹簧硬垫圈",
+   "route": "PURCHASED",
+   "tokens": [
+    "HRC",
+    "±0.02",
+    "平面度0.02",
+    "淬硬"
+   ]
+  },
+  {
+   "pn": "G841",
+   "name": "A710独立补偿隔套",
+   "route": "TURNED",
+   "tokens": [
+    "±0.02",
+    "平行0.02"
+   ]
+  },
+  {
+   "pn": "B850",
+   "name": "实际摆动均力压桥",
+   "route": "TURNED",
+   "tokens": [
+    "+0.02",
+    "HRC",
+    "Ra0.2",
+    "±0.01",
+    "淬硬",
+    "轮廓0.01"
+   ]
+  },
+  {
+   "pn": "B851",
+   "name": "球面弹簧传力座",
+   "route": "MILLED/PRISMATIC (plate or bar)",
+   "tokens": [
+    "0.01",
+    "Ra0.4",
+    "平面度0.01"
+   ]
+  },
+  {
+   "pn": "B852",
+   "name": "桥防脱压入销",
+   "route": "TURNED",
+   "tokens": [
+    "3m6"
+   ]
+  }
+ ]
+}

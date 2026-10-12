@@ -1,0 +1,243 @@
+{
+ "P_root_weld_group": {
+  "assumptions": "rigid frame; Mz shared equally by the two roots; throat-plane stresses; craters ignored",
+  "weld_area_mm2_per_root": 184.0,
+  "I_z_mm4": 1797.1014492753625,
+  "lever_y_mm": 7.826086956521742,
+  "rows": [
+   {
+    "case": "P-AM-0",
+    "root_Mz_Nmm": 29562.5,
+    "normal_from_Mz_MPa": 128.73991935483875,
+    "normal_from_Fx_MPa": 0.10871068420711713,
+    "shear_MPa": 0.2104380725623114,
+    "von_mises_like_MPa": 128.8491455753047
+   },
+   {
+    "case": "P-AM-45",
+    "root_Mz_Nmm": 20903.84421882731,
+    "normal_from_Mz_MPa": 91.03286998521573,
+    "normal_from_Fx_MPa": 0.18603050328246598,
+    "shear_MPa": 0.6363155602309313,
+    "von_mises_like_MPa": 91.2255583639098
+   },
+   {
+    "case": "P-AM-90",
+    "root_Mz_Nmm": 1.8101810499896815e-12,
+    "normal_from_Mz_MPa": 7.883046508019583e-15,
+    "normal_from_Fx_MPa": 0.30811630053060246,
+    "shear_MPa": 0.9760125942824771,
+    "von_mises_like_MPa": 1.7183531090106898
+   },
+   {
+    "case": "P-AM-135",
+    "root_Mz_Nmm": 20903.844218827307,
+    "normal_from_Mz_MPa": 91.03286998521571,
+    "normal_from_Fx_MPa": 0.18603050328246598,
+    "shear_MPa": 0.6363155602309313,
+    "von_mises_like_MPa": 91.22555836390978
+   },
+   {
+    "case": "P-AM-180",
+    "root_Mz_Nmm": 29562.5,
+    "normal_from_Mz_MPa": 128.73991935483875,
+    "normal_from_Fx_MPa": 0.10871068420711706,
+    "shear_MPa": 0.21043807256231126,
+    "von_mises_like_MPa": 128.8491455753047
+   },
+   {
+    "case": "P-AM-225",
+    "root_Mz_Nmm": 20903.844218827315,
+    "normal_from_Mz_MPa": 91.03286998521575,
+    "normal_from_Fx_MPa": 0.4034518716967002,
+    "shear_MPa": 1.0215977505618195,
+    "von_mises_like_MPa": 91.45344138201004
+   },
+   {
+    "case": "P-AM-270",
+    "root_Mz_Nmm": 5.430543149969044e-12,
+    "normal_from_Mz_MPa": 2.3649139524058745e-14,
+    "normal_from_Fx_MPa": 0.5255376689448368,
+    "shear_MPa": 1.3623325450580908,
+    "von_mises_like_MPa": 2.417444876611122
+   },
+   {
+    "case": "P-AM-315",
+    "root_Mz_Nmm": 20903.844218827304,
+    "normal_from_Mz_MPa": 91.0328699852157,
+    "normal_from_Fx_MPa": 0.4034518716967003,
+    "shear_MPa": 1.02159775056182,
+    "von_mises_like_MPa": 91.45344138200998
+   }
+  ],
+  "max_MPa": 128.8491455753047,
+  "note": "Lever for Mz is limited by the 10 mm shoe/P107 overlap (Y -65..-55)."
+ },
+ "G840P_beam_screen": {
+  "I_weak_mm4": 2166.6666666666665,
+  "I_strong_mm4": 14646.666666666666,
+  "root_moment_Nmm": 29562.5,
+  "bending_MPa": 68.22115384615385,
+  "rotation_mrad_bounds": [
+   7.281636110003986,
+   14.563272220007972
+  ],
+  "note": "bounds: moment introduced uniformly along the frame weld (lower) or at the free end (upper)",
+  "L30x30x3_I_mm4_catalogue": 14000.0
+ },
+ "R_receiver": {
+  "max_Mx_Nmm": 63267.15415940738,
+  "project_R107_strip_MPa": 200.84810844256313,
+  "clamped_doubler_options": [
+   {
+    "t_mm": 6.0,
+    "doubler_X": [
+     -200,
+     36
+    ],
+    "doubler_Y": [
+     -90,
+     -55
+    ],
+    "sigma_gross_MPa": 44.6801936154007,
+    "sigma_net_MPa": 55.206940802275206,
+    "bolt_increment_N_pivot_at_feet_edge": 665.9700437832356,
+    "bolt_increment_N_pivot_at_far_edge": 790.8394269925923,
+    "M8_screw_length_change_mm": 6.0
+   },
+   {
+    "t_mm": 8.0,
+    "doubler_X": [
+     -200,
+     36
+    ],
+    "doubler_Y": [
+     -90,
+     -55
+    ],
+    "sigma_gross_MPa": 25.132608908662892,
+    "sigma_net_MPa": 31.053904201279803,
+    "bolt_increment_N_pivot_at_feet_edge": 665.9700437832356,
+    "bolt_increment_N_pivot_at_far_edge": 790.8394269925923,
+    "M8_screw_length_change_mm": 8.0
+   },
+   {
+    "t_mm": 10.0,
+    "doubler_X": [
+     -200,
+     36
+    ],
+    "doubler_Y": [
+     -90,
+     -55
+    ],
+    "sigma_gross_MPa": 16.08486970154425,
+    "sigma_net_MPa": 19.874498688819074,
+    "bolt_increment_N_pivot_at_feet_edge": 665.9700437832356,
+    "bolt_increment_N_pivot_at_far_edge": 790.8394269925923,
+    "M8_screw_length_change_mm": 10.0
+   }
+  ],
+  "assumptions": "doubler carries full moment between beam feet and bolt line; R107 only clamped; prying neglected (bolt line 16-19 mm from both edges); five existing STD01B M8 at X=-191,-136.5,-82,-27.5,27, Y=-74 with F602 metal compression limiters"
+ },
+ "B852_press_fit": {
+  "wall_mm": 2.51,
+  "rows": [
+   {
+    "diametral_interference_mm": 0.011999999999999567,
+    "contact_pressure_MPa": 346.80956375837667,
+    "bore_hoop_tension_MPa": 458.5595637583726,
+    "crown_radius_growth_um": 2.234999999999919
+   },
+   {
+    "diametral_interference_mm": 0.028000000000000025,
+    "contact_pressure_MPa": 809.2223154362423,
+    "bore_hoop_tension_MPa": 1069.9723154362425,
+    "crown_radius_growth_um": 5.215000000000004
+   }
+  ],
+  "crown_profile_tolerance_um": 10,
+  "note": "same-material Lame solution, solid pin; 440C HRC58-60 hub; crown OD growth compares with the R4 +-0.01 profile tolerance"
+ },
+ "crown_contact": {
+  "Q_N": 1138.986932,
+  "p0_R4_MPa": 973.9554518088476,
+  "halfwidth_mm": 0.07090395689168409,
+  "p0_R2_MPa": 1377.3810090952875,
+  "elastic_approach_um": 3.719637355374213,
+  "H900_yield_MPa": 1170,
+  "line_contact_first_yield_p0_MPa": 1953.8999999999999,
+  "tilt_um_over_length_for_1mrad": 10.5,
+  "note": "first yield for line contact at p0 ~ 3.3k = 1.67*sy (Tresca); 17-4PH H900 sy ~1170 MPa (AMS 5643 typical min)"
+ },
+ "sphere_seat": {
+  "dimple_depth_mm": 0.5,
+  "annulus_r_mm": [
+   3.5,
+   4.444097208657794
+  ],
+  "annulus_width_mm": 0.9440972086577943,
+  "annulus_area_mm2": 23.561944901923447,
+  "cone_half_angle_equiv_deg": 78.54475515237898,
+  "gap_across_annulus_um_for_dR_0p01_0p04": [
+   0.09375,
+   0.375
+  ],
+  "note": "specified SR20 +0.02/0 vs -0.01/-0.02 gives <0.5 um gap across the annulus: radius tolerance is not functional; annulus axial position/flatness is"
+ },
+ "G837_pocket_corner": {
+  "min_side_clearance_mm": 0.04999999999999982,
+  "block_chamfer_mm": 0.2,
+  "max_corner_radius_mm": 0.5121320343559636,
+  "with_chamfer_0p3": 0.6828427124746183,
+  "drawing_value": "R<=0.1"
+ },
+ "G840_relief_corner": [
+  {
+   "r_mm": 1,
+   "remaining_clearance_mm": 1.0
+  },
+  {
+   "r_mm": 1.5,
+   "remaining_clearance_mm": 0.7928932188134524
+  },
+  {
+   "r_mm": 2,
+   "remaining_clearance_mm": 0.5857864376269049
+  },
+  {
+   "r_mm": 2.5,
+   "remaining_clearance_mm": 0.3786796564403574
+  },
+  {
+   "r_mm": 3,
+   "remaining_clearance_mm": 0.1715728752538097
+  },
+  {
+   "r_mm": 3.4142,
+   "remaining_clearance_mm": 5.617718873640598e-06
+  }
+ ],
+ "G837_support": {
+  "lost_mm2": 9.0,
+  "lost_fraction": 0.014969021609778562,
+  "distance_from_screw_axis_mm": [
+   22.627416997969522,
+   26.870057685088806
+  ],
+  "clamp_cone_outer_radius_mm": 8.29145188432738,
+  "note": "VDI 2230-style cone, tan(phi)~0.6 upper bound; frame 2 + backing 4 + washer 1 mm"
+ },
+ "G1_bush_clearance": {
+  "c_radial_mm": 0.0505,
+  "span_mm": 95.0,
+  "tilt_mrad_project_formula": 2.1263157894736846,
+  "c_needed_for_1mrad_mm": 0.02375,
+  "note": "project formula 4c/95 (R7); clearance alone exceeds the 1 mrad screen before any load"
+ },
+ "G830_flatness": {
+  "required_mm": 0.15,
+  "ISO13920_E_120_400_mm": 1.0,
+  "ratio": 6.666666666666667
+ }
+}

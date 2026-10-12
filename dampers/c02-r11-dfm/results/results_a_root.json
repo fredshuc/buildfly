@@ -1,0 +1,430 @@
+{
+ "p_root_fillet_clash_MANUAL": [
+  {
+   "weld": "P_ROOT_1_BACK_a4",
+   "obstacle": "F620_002",
+   "pn": "F620",
+   "name": "P\u8bd5\u88c5\u7acb\u808b",
+   "scope": "FIXTURE",
+   "configs": [
+    "MANUAL"
+   ],
+   "mm3": 281.92178951319767,
+   "obstacle_notes": [
+    "\u4e24\u4ef6\u710a\u4e8eP\u63a5\u6536\u6846\u80cc\u9762\u4e0e\u811a\u677f\uff1b\u8fde\u7eeda=3\u89d2\u710a\u3002",
+    "\u4ec5\u88c5\u5165/\u5b54\u4f4d\u5de5\u88c5\uff1b\u4e0d\u4ee5\u5176\u52a0\u5f3a\u63a5\u6536\u6846\u7684\u6548\u679c\u8bc1\u660e\u88c5\u673a\u5bc6\u5c01\u6216\u53d7\u529b\u6027\u80fd\u3002"
+   ]
+  },
+  {
+   "weld": "P_ROOT_2_BACK_a4",
+   "obstacle": "F620_002",
+   "pn": "F620",
+   "name": "P\u8bd5\u88c5\u7acb\u808b",
+   "scope": "FIXTURE",
+   "configs": [
+    "MANUAL"
+   ],
+   "mm3": 281.92178951319767,
+   "obstacle_notes": [
+    "\u4e24\u4ef6\u710a\u4e8eP\u63a5\u6536\u6846\u80cc\u9762\u4e0e\u811a\u677f\uff1b\u8fde\u7eeda=3\u89d2\u710a\u3002",
+    "\u4ec5\u88c5\u5165/\u5b54\u4f4d\u5de5\u88c5\uff1b\u4e0d\u4ee5\u5176\u52a0\u5f3a\u63a5\u6536\u6846\u7684\u6548\u679c\u8bc1\u660e\u88c5\u673a\u5bc6\u5c01\u6216\u53d7\u529b\u6027\u80fd\u3002"
+   ]
+  }
+ ],
+ "F620_002_bbox": [
+  -335.0000001,
+  -74.0000001,
+  1167.9999999,
+  -234.9999999,
+  -65.9999999,
+  1660.0000001
+ ],
+ "shoe_to_F620_gap_mm": 1.0,
+ "F620_002_shift_study": [
+  {
+   "shift_minus_Y_mm": 0,
+   "rib_Y": [
+    -74.0000001,
+    -65.9999999
+   ],
+   "hits": [
+    [
+     "P_ROOT_1_BACK_a4",
+     281.922
+    ],
+    [
+     "P_ROOT_2_BACK_a4",
+     281.922
+    ]
+   ],
+   "min_gap_to_fillets_mm": 0.0
+  },
+  {
+   "shift_minus_Y_mm": 5,
+   "rib_Y": [
+    -79.0000001,
+    -70.9999999
+   ],
+   "hits": [],
+   "min_gap_to_fillets_mm": 0.34314575050761675
+  },
+  {
+   "shift_minus_Y_mm": 6,
+   "rib_Y": [
+    -80.0000001,
+    -71.9999999
+   ],
+   "hits": [],
+   "min_gap_to_fillets_mm": 1.3431457505076168
+  },
+  {
+   "shift_minus_Y_mm": 8,
+   "rib_Y": [
+    -82.0000001,
+    -73.9999999
+   ],
+   "hits": [],
+   "min_gap_to_fillets_mm": 3.3431457505076168
+  },
+  {
+   "shift_minus_Y_mm": 10,
+   "rib_Y": [
+    -84.0000001,
+    -75.9999999
+   ],
+   "hits": [],
+   "min_gap_to_fillets_mm": 5.343145750507617
+  },
+  {
+   "shift_minus_Y_mm": 15,
+   "rib_Y": [
+    -89.0000001,
+    -80.9999999
+   ],
+   "hits": [],
+   "min_gap_to_fillets_mm": 10.343145750507617
+  },
+  {
+   "shift_minus_Y_mm": 20,
+   "rib_Y": [
+    -94.0000001,
+    -85.9999999
+   ],
+   "hits": [],
+   "min_gap_to_fillets_mm": 15.343145750507617
+  },
+  {
+   "shift_minus_Y_mm": 25,
+   "rib_Y": [
+    -99.0000001,
+    -90.9999999
+   ],
+   "hits": [],
+   "min_gap_to_fillets_mm": 20.343145750507617
+  }
+ ],
+ "AUTO_bodies_in_P107_host_side_zone": [
+  {
+   "occ": "G840P1_001",
+   "pn": "G840P1",
+   "mm3": 1560.0,
+   "bbox": [
+    -535.00000015,
+    -65.00000015,
+    1267.99999985,
+    -328.99999985,
+    -43.49999985,
+    1294.00000015
+   ]
+  },
+  {
+   "occ": "G840P2_001",
+   "pn": "G840P2",
+   "mm3": 1560.0,
+   "bbox": [
+    -535.00000015,
+    -65.00000015,
+    1606.99999985,
+    -328.99999985,
+    -43.49999985,
+    1633.00000015
+   ]
+  }
+ ],
+ "P_shoe_overlap_with_P107_footprint_on_host_face_mm2": 520,
+ "weld_length_check": {
+  "P_root_back_a4_26": {
+   "L": 26,
+   "a": 4,
+   "l_eff": 18,
+   "required": 30.0,
+   "load_bearing": false
+  },
+  "P_root_end_a4_10": {
+   "L": 10,
+   "a": 4,
+   "l_eff": 2,
+   "required": 30.0,
+   "load_bearing": false
+  },
+  "R_foot_long_a3_26": {
+   "L": 26,
+   "a": 3,
+   "l_eff": 20,
+   "required": 30.0,
+   "load_bearing": false
+  },
+  "R_foot_short_a3_9": {
+   "L": 9,
+   "a": 3,
+   "l_eff": 3,
+   "required": 30.0,
+   "load_bearing": false
+  },
+  "G842_long_edge_a3_148": {
+   "L": 148,
+   "a": 3,
+   "l_eff": 142,
+   "required": 30.0,
+   "load_bearing": true
+  },
+  "G830_to_beam_a2_206": {
+   "L": 206,
+   "a": 2,
+   "l_eff": 202,
+   "required": 30.0,
+   "load_bearing": true
+  }
+ },
+ "P107_blind_M8_near_root_welds": [
+  {
+   "hole_Y": -74.0,
+   "hole_Z": 1259.0,
+   "min_dist_bead_to_blind_hole_mm": 6.379712868286844
+  },
+  {
+   "hole_Y": -74.0,
+   "hole_Z": 1642.0,
+   "min_dist_bead_to_blind_hole_mm": 6.379712868286844
+  }
+ ],
+ "R_root_behind_gasket_land": [
+  {
+   "occ": "G840R1_001",
+   "contact_footprint_mm2": 234.0000027000001,
+   "area_directly_behind_R106_gasket_mm2": 234.00000269978725
+  },
+  {
+   "occ": "G840R2_001",
+   "contact_footprint_mm2": 234.00000270000004,
+   "area_directly_behind_R106_gasket_mm2": 234.0000026997872
+  },
+  {
+   "occ": "G842_001",
+   "contact_footprint_mm2": 1332.0000017999998,
+   "area_directly_behind_R106_gasket_mm2": 1332.0000017987882
+  }
+ ],
+ "R107_thickness_mm": 3,
+ "R_weld_throat_mm": 3,
+ "R107_holes_feedback_side": [
+  [
+   -191.0,
+   -74.0,
+   9
+  ],
+  [
+   -136.5,
+   -74.0,
+   9
+  ],
+  [
+   -82.0,
+   -74.0,
+   9
+  ],
+  [
+   -27.5,
+   -74.0,
+   9
+  ],
+  [
+   27.0,
+   -74.0,
+   9
+  ]
+ ],
+ "G842_bbox": [
+  -156.0000001,
+  -64.0000001,
+  1481.9999999,
+  -7.9999999,
+  -54.9999999,
+  1488.0000001
+ ],
+ "G842_gap_to_M8_row_centre_mm": 9.999999900000006,
+ "G837_support_on_G830": [
+  {
+   "frame": "G830P_001",
+   "pad": "G837_001",
+   "pad_footprint_bbox": [
+    -368.00000015,
+    1271.99999985,
+    -342.99999985,
+    1297.00000015
+   ],
+   "supported_mm2_full_footprint": 592.2417084241301
+  },
+  {
+   "frame": "G830P_001",
+   "pad": "G837_002",
+   "pad_footprint_bbox": [
+    -535.00000015,
+    1271.99999985,
+    -509.99999985,
+    1297.00000015
+   ],
+   "supported_mm2_full_footprint": 592.2416956562747
+  },
+  {
+   "frame": "G830P_001",
+   "pad": "G837_003",
+   "pad_footprint_bbox": [
+    -368.00000015,
+    1603.99999985,
+    -342.99999985,
+    1629.00000015
+   ],
+   "supported_mm2_full_footprint": 592.2417197777
+  },
+  {
+   "frame": "G830P_001",
+   "pad": "G837_004",
+   "pad_footprint_bbox": [
+    -535.00000015,
+    1603.99999985,
+    -509.99999985,
+    1629.00000015
+   ],
+   "supported_mm2_full_footprint": 592.2417078741303
+  },
+  {
+   "frame": "G830R_001",
+   "pad": "G837_005",
+   "pad_footprint_bbox": [
+    -11.00000015,
+    1653.99999985,
+    14.00000015,
+    1679.00000015
+   ],
+   "supported_mm2_full_footprint": 592.2417197776998
+  },
+  {
+   "frame": "G830R_001",
+   "pad": "G837_006",
+   "pad_footprint_bbox": [
+    -11.00000015,
+    1486.99999985,
+    14.00000015,
+    1512.00000015
+   ],
+   "supported_mm2_full_footprint": 592.2417078741299
+  },
+  {
+   "frame": "G830R_001",
+   "pad": "G837_007",
+   "pad_footprint_bbox": [
+    -178.00000015,
+    1653.99999985,
+    -152.99999985,
+    1679.00000015
+   ],
+   "supported_mm2_full_footprint": 592.24170842413
+  },
+  {
+   "frame": "G830R_001",
+   "pad": "G837_008",
+   "pad_footprint_bbox": [
+    -178.00000015,
+    1486.99999985,
+    -152.99999985,
+    1512.00000015
+   ],
+   "supported_mm2_full_footprint": 592.2416956562746
+  }
+ ],
+ "G836_centres": {
+  "G836_001": [
+   -349.0,
+   -50.0,
+   1278.0
+  ],
+  "G836_002": [
+   -529.0,
+   -50.0,
+   1278.0
+  ],
+  "G836_003": [
+   -349.0,
+   -50.0,
+   1623.0
+  ],
+  "G836_004": [
+   -529.0,
+   -50.0,
+   1623.0
+  ],
+  "G836_005": [
+   8.0,
+   -50.0,
+   1673.0
+  ],
+  "G836_006": [
+   8.0,
+   -50.0,
+   1493.0
+  ],
+  "G836_007": [
+   -172.0,
+   -50.0,
+   1673.0
+  ],
+  "G836_008": [
+   -172.0,
+   -50.0,
+   1493.0
+  ]
+ },
+ "A709_features": [
+  {
+   "type": "blank",
+   "width": 140,
+   "height": 140,
+   "thickness": 6
+  },
+  {
+   "type": "spring_pockets",
+   "centres": [
+    [
+     46,
+     46
+    ],
+    [
+     46,
+     94
+    ],
+    [
+     94,
+     46
+    ],
+    [
+     94,
+     94
+    ]
+   ],
+   "d": 14,
+   "depth": 1.5,
+   "entry_z": 6
+  }
+ ]
+}
