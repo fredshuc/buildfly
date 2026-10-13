@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Reproduce the RT-2 results from the two R21 delivery zips. The package is read as data; no project script is run.
 # Usage: tools/run_r21.sh <AT_DMP_R21_RT2_COMPLETE_PART_1_OF_2.zip> <..._PART_2_OF_2.zip> [work dir] [results dir]
-# Runtime on one core: about 35 min, most of it in the film keeper/gap distance sweeps.
+# Runtime on one core: about 20 min, most of it in the film-gap distance sweep.
 set -euo pipefail
 Z1=$(realpath "$1"); Z2=$(realpath "$2"); WORK=$(realpath -m "${3:-./_work_r21}"); HERE=$(cd "$(dirname "$0")" && pwd)
 OUT=$(realpath -m "${4:-$HERE/../results}")

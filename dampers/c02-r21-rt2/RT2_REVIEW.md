@@ -375,4 +375,4 @@ No visual or cost change is supported yet, because no factory measurements have 
 
 ## 6. Reproduction
 
-`tools/run_r21.sh <PART_1.zip> <PART_2.zip> [work] [results]` verifies the manifest and regenerates `results/`, taking about 35 minutes on one core. The tools read the package as data and never execute package scripts. They need Python 3.13 with the versions in `tools/requirements.txt`.
+`tools/run_r21.sh <PART_1.zip> <PART_2.zip> [work] [results]` verifies the manifest and regenerates `results/`, taking about 20 minutes on one core. A full rerun from the zips reproduced every result file byte for byte, apart from the `seconds` timing field in `results_r21_check.json`. The tools read the package as data and never execute package scripts. They need Python 3.13 with the versions in `tools/requirements.txt`.

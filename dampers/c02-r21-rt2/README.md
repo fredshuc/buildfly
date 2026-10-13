@@ -6,9 +6,9 @@
   - an ordered manufacturing-acceleration plan, and the limits of the review.
 - `RT2_FINDINGS.csv` has one row per finding. The Tag column marks each row as V (computed here), I (inference) or R (recommendation).
 - `tools/` holds the scripts. To rerun: `tools/run_r21.sh <AT_DMP_R21_RT2_COMPLETE_PART_1_OF_2.zip> <..._PART_2_OF_2.zip> [workdir] [resultsdir]`, using the environment in `tools/requirements.txt`.
-  - The script verifies the 815-entry manifest and regenerates `results/`.
+  - The script verifies the 815-entry manifest and regenerates `results/`. A full rerun reproduced every file byte for byte, apart from the `seconds` timing field in `results_r21_check.json`.
   - It reads the package as data and executes no project script.
-  - It takes about 35 minutes on one core.
+  - It takes about 20 minutes on one core.
 - `results/` contains:
   - the interference and motion check;
   - the BOM audit and fastener designation map;
