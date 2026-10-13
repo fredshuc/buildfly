@@ -1,0 +1,106 @@
+{
+ "ext_mm": 4.0,
+ "rise_mm": 0.8,
+ "rows": {
+  "P": [
+   {
+    "screw": "STD08B_006",
+    "hits": [],
+    "min_gap_mm": 1.75,
+    "nearest": "HW_N3_006"
+   },
+   {
+    "screw": "STD08B_007",
+    "hits": [],
+    "min_gap_mm": 1.75,
+    "nearest": "HW_N3_007"
+   },
+   {
+    "screw": "STD08B_013",
+    "hits": [],
+    "min_gap_mm": 1.75,
+    "nearest": "HW_N3_013"
+   },
+   {
+    "screw": "STD08B_014",
+    "hits": [],
+    "min_gap_mm": 1.75,
+    "nearest": "HW_N3_014"
+   },
+   {
+    "screw": "STD08B_020",
+    "hits": [],
+    "min_gap_mm": 1.75,
+    "nearest": "HW_N3_020"
+   },
+   {
+    "screw": "STD08B_021",
+    "hits": [],
+    "min_gap_mm": 1.75,
+    "nearest": "HW_N3_021"
+   },
+   {
+    "screw": "STD08B_027",
+    "hits": [],
+    "min_gap_mm": 1.75,
+    "nearest": "HW_N3_027"
+   },
+   {
+    "screw": "STD08B_028",
+    "hits": [],
+    "min_gap_mm": 1.75,
+    "nearest": "HW_N3_028"
+   }
+  ],
+  "R": [
+   {
+    "screw": "STD08B_032",
+    "hits": [],
+    "min_gap_mm": 1.75,
+    "nearest": "HW_N3_032"
+   },
+   {
+    "screw": "STD08B_033",
+    "hits": [],
+    "min_gap_mm": 1.75,
+    "nearest": "HW_N3_033"
+   },
+   {
+    "screw": "STD08B_037",
+    "hits": [],
+    "min_gap_mm": 1.75,
+    "nearest": "HW_N3_037"
+   },
+   {
+    "screw": "STD08B_038",
+    "hits": [],
+    "min_gap_mm": 1.75,
+    "nearest": "HW_N3_038"
+   },
+   {
+    "screw": "STD08B_042",
+    "hits": [],
+    "min_gap_mm": 1.75,
+    "nearest": "HW_N3_042"
+   },
+   {
+    "screw": "STD08B_043",
+    "hits": [],
+    "min_gap_mm": 1.75,
+    "nearest": "HW_N3_043"
+   },
+   {
+    "screw": "STD08B_047",
+    "hits": [],
+    "min_gap_mm": 1.75,
+    "nearest": "HW_N3_047"
+   },
+   {
+    "screw": "STD08B_048",
+    "hits": [],
+    "min_gap_mm": 1.75,
+    "nearest": "HW_N3_048"
+   }
+  ]
+ }
+}

@@ -1,0 +1,1189 @@
+{
+ "P": {
+  "film_length": 339.00000015,
+  "end_strips": {
+   "Y0-5": {
+    "film_area_mm2": 220.365,
+    "backed_by_frame_mm2": 214.235,
+    "unbacked_mm2": 6.13
+   },
+   "Y334-339": {
+    "film_area_mm2": 220.365,
+    "backed_by_frame_mm2": 214.235,
+    "unbacked_mm2": 6.13
+   }
+  },
+  "keeper_checks": [
+   {
+    "film": "P109_001",
+    "angle": 0,
+    "hits": [
+     {
+      "keeper": 0,
+      "body": "STD08B_006",
+      "pn": "STD08B",
+      "mm3": 12.398,
+      "moving": false
+     },
+     {
+      "keeper": 1,
+      "body": "STD08B_007",
+      "pn": "STD08B",
+      "mm3": 12.398,
+      "moving": false
+     }
+    ]
+   },
+   {
+    "film": "P109_001",
+    "angle": 5,
+    "hits": []
+   },
+   {
+    "film": "P109_001",
+    "angle": 10,
+    "hits": []
+   },
+   {
+    "film": "P109_001",
+    "angle": 15,
+    "hits": []
+   },
+   {
+    "film": "P109_001",
+    "angle": 20,
+    "hits": []
+   },
+   {
+    "film": "P109_001",
+    "angle": 25,
+    "hits": []
+   },
+   {
+    "film": "P109_001",
+    "angle": 30,
+    "hits": []
+   },
+   {
+    "film": "P109_001",
+    "angle": 35,
+    "hits": []
+   },
+   {
+    "film": "P109_001",
+    "angle": 40,
+    "hits": []
+   },
+   {
+    "film": "P109_001",
+    "angle": 45,
+    "hits": []
+   },
+   {
+    "film": "P109_001",
+    "angle": 50,
+    "hits": []
+   },
+   {
+    "film": "P109_001",
+    "angle": 55,
+    "hits": []
+   },
+   {
+    "film": "P109_001",
+    "angle": 60,
+    "hits": []
+   },
+   {
+    "film": "P109_001",
+    "angle": 65,
+    "hits": []
+   },
+   {
+    "film": "P109_001",
+    "angle": 70,
+    "hits": []
+   },
+   {
+    "film": "P109_001",
+    "angle": 75,
+    "hits": []
+   },
+   {
+    "film": "P109_001",
+    "angle": 80,
+    "hits": []
+   },
+   {
+    "film": "P109_001",
+    "angle": 85,
+    "hits": []
+   },
+   {
+    "film": "P109_001",
+    "angle": 90,
+    "hits": []
+   },
+   {
+    "film": "P109_002",
+    "angle": 0,
+    "hits": [
+     {
+      "keeper": 0,
+      "body": "STD08B_013",
+      "pn": "STD08B",
+      "mm3": 12.398,
+      "moving": false
+     },
+     {
+      "keeper": 1,
+      "body": "STD08B_014",
+      "pn": "STD08B",
+      "mm3": 12.398,
+      "moving": false
+     }
+    ]
+   },
+   {
+    "film": "P109_002",
+    "angle": 5,
+    "hits": []
+   },
+   {
+    "film": "P109_002",
+    "angle": 10,
+    "hits": []
+   },
+   {
+    "film": "P109_002",
+    "angle": 15,
+    "hits": []
+   },
+   {
+    "film": "P109_002",
+    "angle": 20,
+    "hits": []
+   },
+   {
+    "film": "P109_002",
+    "angle": 25,
+    "hits": []
+   },
+   {
+    "film": "P109_002",
+    "angle": 30,
+    "hits": []
+   },
+   {
+    "film": "P109_002",
+    "angle": 35,
+    "hits": []
+   },
+   {
+    "film": "P109_002",
+    "angle": 40,
+    "hits": []
+   },
+   {
+    "film": "P109_002",
+    "angle": 45,
+    "hits": []
+   },
+   {
+    "film": "P109_002",
+    "angle": 50,
+    "hits": []
+   },
+   {
+    "film": "P109_002",
+    "angle": 55,
+    "hits": []
+   },
+   {
+    "film": "P109_002",
+    "angle": 60,
+    "hits": []
+   },
+   {
+    "film": "P109_002",
+    "angle": 65,
+    "hits": []
+   },
+   {
+    "film": "P109_002",
+    "angle": 70,
+    "hits": []
+   },
+   {
+    "film": "P109_002",
+    "angle": 75,
+    "hits": []
+   },
+   {
+    "film": "P109_002",
+    "angle": 80,
+    "hits": []
+   },
+   {
+    "film": "P109_002",
+    "angle": 85,
+    "hits": []
+   },
+   {
+    "film": "P109_002",
+    "angle": 90,
+    "hits": []
+   },
+   {
+    "film": "P109_003",
+    "angle": 0,
+    "hits": [
+     {
+      "keeper": 0,
+      "body": "STD08B_020",
+      "pn": "STD08B",
+      "mm3": 12.398,
+      "moving": false
+     },
+     {
+      "keeper": 1,
+      "body": "STD08B_021",
+      "pn": "STD08B",
+      "mm3": 12.398,
+      "moving": false
+     }
+    ]
+   },
+   {
+    "film": "P109_003",
+    "angle": 5,
+    "hits": []
+   },
+   {
+    "film": "P109_003",
+    "angle": 10,
+    "hits": []
+   },
+   {
+    "film": "P109_003",
+    "angle": 15,
+    "hits": []
+   },
+   {
+    "film": "P109_003",
+    "angle": 20,
+    "hits": []
+   },
+   {
+    "film": "P109_003",
+    "angle": 25,
+    "hits": []
+   },
+   {
+    "film": "P109_003",
+    "angle": 30,
+    "hits": []
+   },
+   {
+    "film": "P109_003",
+    "angle": 35,
+    "hits": []
+   },
+   {
+    "film": "P109_003",
+    "angle": 40,
+    "hits": []
+   },
+   {
+    "film": "P109_003",
+    "angle": 45,
+    "hits": []
+   },
+   {
+    "film": "P109_003",
+    "angle": 50,
+    "hits": []
+   },
+   {
+    "film": "P109_003",
+    "angle": 55,
+    "hits": []
+   },
+   {
+    "film": "P109_003",
+    "angle": 60,
+    "hits": []
+   },
+   {
+    "film": "P109_003",
+    "angle": 65,
+    "hits": []
+   },
+   {
+    "film": "P109_003",
+    "angle": 70,
+    "hits": []
+   },
+   {
+    "film": "P109_003",
+    "angle": 75,
+    "hits": []
+   },
+   {
+    "film": "P109_003",
+    "angle": 80,
+    "hits": []
+   },
+   {
+    "film": "P109_003",
+    "angle": 85,
+    "hits": []
+   },
+   {
+    "film": "P109_003",
+    "angle": 90,
+    "hits": []
+   },
+   {
+    "film": "P109_004",
+    "angle": 0,
+    "hits": [
+     {
+      "keeper": 0,
+      "body": "STD08B_027",
+      "pn": "STD08B",
+      "mm3": 12.398,
+      "moving": false
+     },
+     {
+      "keeper": 1,
+      "body": "STD08B_028",
+      "pn": "STD08B",
+      "mm3": 12.398,
+      "moving": false
+     }
+    ]
+   },
+   {
+    "film": "P109_004",
+    "angle": 5,
+    "hits": []
+   },
+   {
+    "film": "P109_004",
+    "angle": 10,
+    "hits": []
+   },
+   {
+    "film": "P109_004",
+    "angle": 15,
+    "hits": []
+   },
+   {
+    "film": "P109_004",
+    "angle": 20,
+    "hits": []
+   },
+   {
+    "film": "P109_004",
+    "angle": 25,
+    "hits": []
+   },
+   {
+    "film": "P109_004",
+    "angle": 30,
+    "hits": []
+   },
+   {
+    "film": "P109_004",
+    "angle": 35,
+    "hits": []
+   },
+   {
+    "film": "P109_004",
+    "angle": 40,
+    "hits": []
+   },
+   {
+    "film": "P109_004",
+    "angle": 45,
+    "hits": []
+   },
+   {
+    "film": "P109_004",
+    "angle": 50,
+    "hits": []
+   },
+   {
+    "film": "P109_004",
+    "angle": 55,
+    "hits": []
+   },
+   {
+    "film": "P109_004",
+    "angle": 60,
+    "hits": []
+   },
+   {
+    "film": "P109_004",
+    "angle": 65,
+    "hits": []
+   },
+   {
+    "film": "P109_004",
+    "angle": 70,
+    "hits": []
+   },
+   {
+    "film": "P109_004",
+    "angle": 75,
+    "hits": []
+   },
+   {
+    "film": "P109_004",
+    "angle": 80,
+    "hits": []
+   },
+   {
+    "film": "P109_004",
+    "angle": 85,
+    "hits": []
+   },
+   {
+    "film": "P109_004",
+    "angle": 90,
+    "hits": []
+   }
+  ]
+ },
+ "R": {
+  "film_length": 174.00000015,
+  "end_strips": {
+   "Y0-5": {
+    "film_area_mm2": 220.365,
+    "backed_by_frame_mm2": 214.235,
+    "unbacked_mm2": 6.13
+   },
+   "Y169-174": {
+    "film_area_mm2": 220.365,
+    "backed_by_frame_mm2": 214.235,
+    "unbacked_mm2": 6.13
+   }
+  },
+  "keeper_checks": [
+   {
+    "film": "R109_001",
+    "angle": 0,
+    "hits": [
+     {
+      "keeper": 0,
+      "body": "STD08B_032",
+      "pn": "STD08B",
+      "mm3": 12.398,
+      "moving": false
+     },
+     {
+      "keeper": 1,
+      "body": "STD08B_033",
+      "pn": "STD08B",
+      "mm3": 12.398,
+      "moving": false
+     }
+    ]
+   },
+   {
+    "film": "R109_001",
+    "angle": 5,
+    "hits": []
+   },
+   {
+    "film": "R109_001",
+    "angle": 10,
+    "hits": []
+   },
+   {
+    "film": "R109_001",
+    "angle": 15,
+    "hits": []
+   },
+   {
+    "film": "R109_001",
+    "angle": 20,
+    "hits": []
+   },
+   {
+    "film": "R109_001",
+    "angle": 25,
+    "hits": []
+   },
+   {
+    "film": "R109_001",
+    "angle": 30,
+    "hits": []
+   },
+   {
+    "film": "R109_001",
+    "angle": 35,
+    "hits": []
+   },
+   {
+    "film": "R109_001",
+    "angle": 40,
+    "hits": []
+   },
+   {
+    "film": "R109_001",
+    "angle": 45,
+    "hits": []
+   },
+   {
+    "film": "R109_001",
+    "angle": 50,
+    "hits": []
+   },
+   {
+    "film": "R109_001",
+    "angle": 55,
+    "hits": []
+   },
+   {
+    "film": "R109_001",
+    "angle": 60,
+    "hits": []
+   },
+   {
+    "film": "R109_001",
+    "angle": 65,
+    "hits": []
+   },
+   {
+    "film": "R109_001",
+    "angle": 70,
+    "hits": []
+   },
+   {
+    "film": "R109_001",
+    "angle": 75,
+    "hits": []
+   },
+   {
+    "film": "R109_001",
+    "angle": 80,
+    "hits": []
+   },
+   {
+    "film": "R109_001",
+    "angle": 85,
+    "hits": []
+   },
+   {
+    "film": "R109_001",
+    "angle": 90,
+    "hits": []
+   },
+   {
+    "film": "R109_002",
+    "angle": 0,
+    "hits": [
+     {
+      "keeper": 0,
+      "body": "STD08B_037",
+      "pn": "STD08B",
+      "mm3": 12.398,
+      "moving": false
+     },
+     {
+      "keeper": 1,
+      "body": "STD08B_038",
+      "pn": "STD08B",
+      "mm3": 12.398,
+      "moving": false
+     }
+    ]
+   },
+   {
+    "film": "R109_002",
+    "angle": 5,
+    "hits": []
+   },
+   {
+    "film": "R109_002",
+    "angle": 10,
+    "hits": []
+   },
+   {
+    "film": "R109_002",
+    "angle": 15,
+    "hits": []
+   },
+   {
+    "film": "R109_002",
+    "angle": 20,
+    "hits": []
+   },
+   {
+    "film": "R109_002",
+    "angle": 25,
+    "hits": []
+   },
+   {
+    "film": "R109_002",
+    "angle": 30,
+    "hits": []
+   },
+   {
+    "film": "R109_002",
+    "angle": 35,
+    "hits": []
+   },
+   {
+    "film": "R109_002",
+    "angle": 40,
+    "hits": []
+   },
+   {
+    "film": "R109_002",
+    "angle": 45,
+    "hits": []
+   },
+   {
+    "film": "R109_002",
+    "angle": 50,
+    "hits": []
+   },
+   {
+    "film": "R109_002",
+    "angle": 55,
+    "hits": []
+   },
+   {
+    "film": "R109_002",
+    "angle": 60,
+    "hits": []
+   },
+   {
+    "film": "R109_002",
+    "angle": 65,
+    "hits": []
+   },
+   {
+    "film": "R109_002",
+    "angle": 70,
+    "hits": []
+   },
+   {
+    "film": "R109_002",
+    "angle": 75,
+    "hits": []
+   },
+   {
+    "film": "R109_002",
+    "angle": 80,
+    "hits": []
+   },
+   {
+    "film": "R109_002",
+    "angle": 85,
+    "hits": []
+   },
+   {
+    "film": "R109_002",
+    "angle": 90,
+    "hits": []
+   },
+   {
+    "film": "R109_003",
+    "angle": 0,
+    "hits": [
+     {
+      "keeper": 0,
+      "body": "STD08B_042",
+      "pn": "STD08B",
+      "mm3": 12.398,
+      "moving": false
+     },
+     {
+      "keeper": 1,
+      "body": "STD08B_043",
+      "pn": "STD08B",
+      "mm3": 12.398,
+      "moving": false
+     }
+    ]
+   },
+   {
+    "film": "R109_003",
+    "angle": 5,
+    "hits": []
+   },
+   {
+    "film": "R109_003",
+    "angle": 10,
+    "hits": []
+   },
+   {
+    "film": "R109_003",
+    "angle": 15,
+    "hits": []
+   },
+   {
+    "film": "R109_003",
+    "angle": 20,
+    "hits": []
+   },
+   {
+    "film": "R109_003",
+    "angle": 25,
+    "hits": []
+   },
+   {
+    "film": "R109_003",
+    "angle": 30,
+    "hits": []
+   },
+   {
+    "film": "R109_003",
+    "angle": 35,
+    "hits": []
+   },
+   {
+    "film": "R109_003",
+    "angle": 40,
+    "hits": []
+   },
+   {
+    "film": "R109_003",
+    "angle": 45,
+    "hits": []
+   },
+   {
+    "film": "R109_003",
+    "angle": 50,
+    "hits": []
+   },
+   {
+    "film": "R109_003",
+    "angle": 55,
+    "hits": []
+   },
+   {
+    "film": "R109_003",
+    "angle": 60,
+    "hits": []
+   },
+   {
+    "film": "R109_003",
+    "angle": 65,
+    "hits": []
+   },
+   {
+    "film": "R109_003",
+    "angle": 70,
+    "hits": []
+   },
+   {
+    "film": "R109_003",
+    "angle": 75,
+    "hits": []
+   },
+   {
+    "film": "R109_003",
+    "angle": 80,
+    "hits": []
+   },
+   {
+    "film": "R109_003",
+    "angle": 85,
+    "hits": []
+   },
+   {
+    "film": "R109_003",
+    "angle": 90,
+    "hits": []
+   },
+   {
+    "film": "R109_004",
+    "angle": 0,
+    "hits": [
+     {
+      "keeper": 0,
+      "body": "STD08B_047",
+      "pn": "STD08B",
+      "mm3": 12.398,
+      "moving": false
+     },
+     {
+      "keeper": 1,
+      "body": "STD08B_048",
+      "pn": "STD08B",
+      "mm3": 12.398,
+      "moving": false
+     }
+    ]
+   },
+   {
+    "film": "R109_004",
+    "angle": 5,
+    "hits": []
+   },
+   {
+    "film": "R109_004",
+    "angle": 10,
+    "hits": []
+   },
+   {
+    "film": "R109_004",
+    "angle": 15,
+    "hits": []
+   },
+   {
+    "film": "R109_004",
+    "angle": 20,
+    "hits": []
+   },
+   {
+    "film": "R109_004",
+    "angle": 25,
+    "hits": []
+   },
+   {
+    "film": "R109_004",
+    "angle": 30,
+    "hits": []
+   },
+   {
+    "film": "R109_004",
+    "angle": 35,
+    "hits": []
+   },
+   {
+    "film": "R109_004",
+    "angle": 40,
+    "hits": []
+   },
+   {
+    "film": "R109_004",
+    "angle": 45,
+    "hits": []
+   },
+   {
+    "film": "R109_004",
+    "angle": 50,
+    "hits": []
+   },
+   {
+    "film": "R109_004",
+    "angle": 55,
+    "hits": []
+   },
+   {
+    "film": "R109_004",
+    "angle": 60,
+    "hits": []
+   },
+   {
+    "film": "R109_004",
+    "angle": 65,
+    "hits": []
+   },
+   {
+    "film": "R109_004",
+    "angle": 70,
+    "hits": []
+   },
+   {
+    "film": "R109_004",
+    "angle": 75,
+    "hits": []
+   },
+   {
+    "film": "R109_004",
+    "angle": 80,
+    "hits": []
+   },
+   {
+    "film": "R109_004",
+    "angle": 85,
+    "hits": []
+   },
+   {
+    "film": "R109_004",
+    "angle": 90,
+    "hits": []
+   }
+  ]
+ },
+ "raised_end_screws": {
+  "rise_mm": 0.8,
+  "angles": [
+   0.0,
+   0.1,
+   2.5,
+   5.0,
+   7.5,
+   10.0,
+   12.5,
+   15.0,
+   17.5,
+   20.0,
+   22.5,
+   25.0,
+   27.5,
+   30.0,
+   32.5,
+   35.0,
+   37.5,
+   40.0,
+   42.5,
+   45.0,
+   47.5,
+   50.0,
+   52.5,
+   55.0,
+   57.5,
+   60.0,
+   62.5,
+   65.0,
+   67.5,
+   70.0,
+   72.5,
+   75.0,
+   77.5,
+   80.0,
+   82.5,
+   85.0,
+   87.5,
+   89.9,
+   90.0
+  ],
+  "margin_mm": 5.0,
+  "rows": {
+   "P": [
+    {
+     "screw": "STD08B_006",
+     "min_gap_mm": ">5.0",
+     "nearest": null,
+     "overlaps": 0
+    },
+    {
+     "screw": "STD08B_007",
+     "min_gap_mm": ">5.0",
+     "nearest": null,
+     "overlaps": 0
+    },
+    {
+     "screw": "STD08B_013",
+     "min_gap_mm": ">5.0",
+     "nearest": null,
+     "overlaps": 0
+    },
+    {
+     "screw": "STD08B_014",
+     "min_gap_mm": ">5.0",
+     "nearest": null,
+     "overlaps": 0
+    },
+    {
+     "screw": "STD08B_020",
+     "min_gap_mm": ">5.0",
+     "nearest": null,
+     "overlaps": 0
+    },
+    {
+     "screw": "STD08B_021",
+     "min_gap_mm": ">5.0",
+     "nearest": null,
+     "overlaps": 0
+    },
+    {
+     "screw": "STD08B_027",
+     "min_gap_mm": ">5.0",
+     "nearest": null,
+     "overlaps": 0
+    },
+    {
+     "screw": "STD08B_028",
+     "min_gap_mm": ">5.0",
+     "nearest": null,
+     "overlaps": 0
+    }
+   ],
+   "R": [
+    {
+     "screw": "STD08B_032",
+     "min_gap_mm": ">5.0",
+     "nearest": null,
+     "overlaps": 0
+    },
+    {
+     "screw": "STD08B_033",
+     "min_gap_mm": ">5.0",
+     "nearest": null,
+     "overlaps": 0
+    },
+    {
+     "screw": "STD08B_037",
+     "min_gap_mm": ">5.0",
+     "nearest": null,
+     "overlaps": 0
+    },
+    {
+     "screw": "STD08B_038",
+     "min_gap_mm": ">5.0",
+     "nearest": null,
+     "overlaps": 0
+    },
+    {
+     "screw": "STD08B_042",
+     "min_gap_mm": ">5.0",
+     "nearest": null,
+     "overlaps": 0
+    },
+    {
+     "screw": "STD08B_043",
+     "min_gap_mm": ">5.0",
+     "nearest": null,
+     "overlaps": 0
+    },
+    {
+     "screw": "STD08B_047",
+     "min_gap_mm": ">5.0",
+     "nearest": null,
+     "overlaps": 0
+    },
+    {
+     "screw": "STD08B_048",
+     "min_gap_mm": ">5.0",
+     "nearest": null,
+     "overlaps": 0
+    }
+   ]
+  }
+ },
+ "film_gap_to_moving": {
+  "P": [
+   {
+    "film": "P109_001",
+    "film_min_gap_mm": 0.0,
+    "film_nearest": {
+     "body": "B200_001",
+     "pn": "B200_R13",
+     "angle": 0
+    },
+    "keeper_min_gap_mm": 39.091,
+    "keeper_nearest": {
+     "body": "B200_002",
+     "pn": "B200_R13",
+     "angle": 0
+    }
+   },
+   {
+    "film": "P109_002",
+    "film_min_gap_mm": 0.0,
+    "film_nearest": {
+     "body": "B200_001",
+     "pn": "B200_R13",
+     "angle": 0
+    },
+    "keeper_min_gap_mm": 12.583,
+    "keeper_nearest": {
+     "body": "B200_001",
+     "pn": "B200_R13",
+     "angle": 25
+    }
+   },
+   {
+    "film": "P109_003",
+    "film_min_gap_mm": 0.0,
+    "film_nearest": {
+     "body": "B200_001",
+     "pn": "B200_R13",
+     "angle": 0
+    },
+    "keeper_min_gap_mm": 39.091,
+    "keeper_nearest": {
+     "body": "B200_001",
+     "pn": "B200_R13",
+     "angle": 0
+    }
+   },
+   {
+    "film": "P109_004",
+    "film_min_gap_mm": 0.0,
+    "film_nearest": {
+     "body": "B200_001",
+     "pn": "B200_R13",
+     "angle": 0
+    },
+    "keeper_min_gap_mm": 12.583,
+    "keeper_nearest": {
+     "body": "B200_002",
+     "pn": "B200_R13",
+     "angle": 25
+    }
+   }
+  ],
+  "R": [
+   {
+    "film": "R109_001",
+    "film_min_gap_mm": 0.0,
+    "film_nearest": {
+     "body": "B200_003",
+     "pn": "B200_R13",
+     "angle": 0
+    },
+    "keeper_min_gap_mm": 12.583,
+    "keeper_nearest": {
+     "body": "B200_003",
+     "pn": "B200_R13",
+     "angle": 25
+    }
+   },
+   {
+    "film": "R109_002",
+    "film_min_gap_mm": 0.0,
+    "film_nearest": {
+     "body": "B200_003",
+     "pn": "B200_R13",
+     "angle": 0
+    },
+    "keeper_min_gap_mm": 12.583,
+    "keeper_nearest": {
+     "body": "B200_003",
+     "pn": "B200_R13",
+     "angle": 25
+    }
+   },
+   {
+    "film": "R109_003",
+    "film_min_gap_mm": 0.0,
+    "film_nearest": {
+     "body": "B200_003",
+     "pn": "B200_R13",
+     "angle": 0
+    },
+    "keeper_min_gap_mm": 12.583,
+    "keeper_nearest": {
+     "body": "B200_003",
+     "pn": "B200_R13",
+     "angle": 25
+    }
+   },
+   {
+    "film": "R109_004",
+    "film_min_gap_mm": 0.0,
+    "film_nearest": {
+     "body": "B200_003",
+     "pn": "B200_R13",
+     "angle": 0
+    },
+    "keeper_min_gap_mm": 12.583,
+    "keeper_nearest": {
+     "body": "B200_003",
+     "pn": "B200_R13",
+     "angle": 25
+    }
+   }
+  ]
+ }
+}

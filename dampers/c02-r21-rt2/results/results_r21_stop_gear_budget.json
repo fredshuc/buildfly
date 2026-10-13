@@ -1,0 +1,237 @@
+{
+ "inputs": {
+  "r_pitch": 82.5,
+  "face": 30.0,
+  "alpha_deg": 20,
+  "c_gamma": 20.0,
+  "blade_edge_r": 77.0,
+  "khk_surface_Nm": 423.0,
+  "implied_catalogue_line_load_N_per_mm": 170.9
+ },
+ "cases": {
+  "k25000_normal_78": {
+   "T_Nm": 78.0,
+   "Ft_N": 945,
+   "mesh": {
+    "lo": {
+     "f_ma_um": 13.6,
+     "loaded_width_mm": 14.5,
+     "K_Hbeta": 4.15,
+     "peak_line_load_N_mm": 130.8,
+     "contact_stress_ratio_vs_catalogue": 0.87
+    },
+    "hi": {
+     "f_ma_um": 23.3,
+     "loaded_width_mm": 11.0,
+     "K_Hbeta": 5.44,
+     "peak_line_load_N_mm": 171.5,
+     "contact_stress_ratio_vs_catalogue": 1.0
+    }
+   },
+   "P2_edge_from_stop_mm_by_contact_radius": {
+    "50": 0.184,
+    "60": 0.128,
+    "80": 0.072,
+    "65": 0.109
+   },
+   "P1_extra_edge_from_mesh_shift_mm": 0.108,
+   "P1_extra_angle_deg": 0.08
+  },
+  "k25000_BUY520_static_max_120": {
+   "T_Nm": 120.0,
+   "Ft_N": 1455,
+   "mesh": {
+    "lo": {
+     "f_ma_um": 20.9,
+     "loaded_width_mm": 14.5,
+     "K_Hbeta": 4.15,
+     "peak_line_load_N_mm": 201.2,
+     "contact_stress_ratio_vs_catalogue": 1.08
+    },
+    "hi": {
+     "f_ma_um": 35.9,
+     "loaded_width_mm": 11.0,
+     "K_Hbeta": 5.44,
+     "peak_line_load_N_mm": 263.8,
+     "contact_stress_ratio_vs_catalogue": 1.24
+    }
+   },
+   "P2_edge_from_stop_mm_by_contact_radius": {
+    "50": 0.283,
+    "60": 0.197,
+    "80": 0.111,
+    "65": 0.168
+   },
+   "P1_extra_edge_from_mesh_shift_mm": 0.166,
+   "P1_extra_angle_deg": 0.124
+  },
+  "k25000_BUY520_dynamic_peak_150": {
+   "T_Nm": 150.0,
+   "Ft_N": 1818,
+   "mesh": {
+    "lo": {
+     "f_ma_um": 26.1,
+     "loaded_width_mm": 14.5,
+     "K_Hbeta": 4.15,
+     "peak_line_load_N_mm": 251.5,
+     "contact_stress_ratio_vs_catalogue": 1.21
+    },
+    "hi": {
+     "f_ma_um": 44.9,
+     "loaded_width_mm": 11.0,
+     "K_Hbeta": 5.44,
+     "peak_line_load_N_mm": 329.8,
+     "contact_stress_ratio_vs_catalogue": 1.39
+    }
+   },
+   "P2_edge_from_stop_mm_by_contact_radius": {
+    "50": 0.354,
+    "60": 0.246,
+    "80": 0.138,
+    "65": 0.209
+   },
+   "P1_extra_edge_from_mesh_shift_mm": 0.208,
+   "P1_extra_angle_deg": 0.155
+  },
+  "k25000_BUY521_dynamic_peak_195": {
+   "T_Nm": 195.0,
+   "Ft_N": 2364,
+   "mesh": {
+    "lo": {
+     "f_ma_um": 33.9,
+     "loaded_width_mm": 14.5,
+     "K_Hbeta": 4.15,
+     "peak_line_load_N_mm": 326.9,
+     "contact_stress_ratio_vs_catalogue": 1.38
+    },
+    "hi": {
+     "f_ma_um": 58.3,
+     "loaded_width_mm": 11.0,
+     "K_Hbeta": 5.44,
+     "peak_line_load_N_mm": 428.7,
+     "contact_stress_ratio_vs_catalogue": 1.58
+    }
+   },
+   "P2_edge_from_stop_mm_by_contact_radius": {
+    "50": 0.46,
+    "60": 0.32,
+    "80": 0.18,
+    "65": 0.272
+   },
+   "P1_extra_edge_from_mesh_shift_mm": 0.27,
+   "P1_extra_angle_deg": 0.201
+  },
+  "k100000_normal_78": {
+   "T_Nm": 78.0,
+   "Ft_N": 945,
+   "mesh": {
+    "lo": {
+     "f_ma_um": 3.3,
+     "loaded_width_mm": 29.4,
+     "K_Hbeta": 2.04,
+     "peak_line_load_N_mm": 64.3,
+     "contact_stress_ratio_vs_catalogue": 0.61
+    },
+    "hi": {
+     "f_ma_um": 3.6,
+     "loaded_width_mm": 28.2,
+     "K_Hbeta": 2.12,
+     "peak_line_load_N_mm": 66.9,
+     "contact_stress_ratio_vs_catalogue": 0.63
+    }
+   },
+   "P2_edge_from_stop_mm_by_contact_radius": {
+    "50": 0.184,
+    "60": 0.128,
+    "80": 0.072,
+    "65": 0.109
+   },
+   "P1_extra_edge_from_mesh_shift_mm": 0.046,
+   "P1_extra_angle_deg": 0.034
+  },
+  "k100000_BUY520_static_max_120": {
+   "T_Nm": 120.0,
+   "Ft_N": 1455,
+   "mesh": {
+    "lo": {
+     "f_ma_um": 5.0,
+     "loaded_width_mm": 29.4,
+     "K_Hbeta": 2.04,
+     "peak_line_load_N_mm": 98.9,
+     "contact_stress_ratio_vs_catalogue": 0.76
+    },
+    "hi": {
+     "f_ma_um": 5.5,
+     "loaded_width_mm": 28.2,
+     "K_Hbeta": 2.12,
+     "peak_line_load_N_mm": 103.0,
+     "contact_stress_ratio_vs_catalogue": 0.78
+    }
+   },
+   "P2_edge_from_stop_mm_by_contact_radius": {
+    "50": 0.283,
+    "60": 0.197,
+    "80": 0.111,
+    "65": 0.168
+   },
+   "P1_extra_edge_from_mesh_shift_mm": 0.071,
+   "P1_extra_angle_deg": 0.053
+  },
+  "k100000_BUY520_dynamic_peak_150": {
+   "T_Nm": 150.0,
+   "Ft_N": 1818,
+   "mesh": {
+    "lo": {
+     "f_ma_um": 6.3,
+     "loaded_width_mm": 29.4,
+     "K_Hbeta": 2.04,
+     "peak_line_load_N_mm": 123.7,
+     "contact_stress_ratio_vs_catalogue": 0.85
+    },
+    "hi": {
+     "f_ma_um": 6.8,
+     "loaded_width_mm": 28.2,
+     "K_Hbeta": 2.12,
+     "peak_line_load_N_mm": 128.7,
+     "contact_stress_ratio_vs_catalogue": 0.87
+    }
+   },
+   "P2_edge_from_stop_mm_by_contact_radius": {
+    "50": 0.354,
+    "60": 0.246,
+    "80": 0.138,
+    "65": 0.209
+   },
+   "P1_extra_edge_from_mesh_shift_mm": 0.089,
+   "P1_extra_angle_deg": 0.066
+  },
+  "k100000_BUY521_dynamic_peak_195": {
+   "T_Nm": 195.0,
+   "Ft_N": 2364,
+   "mesh": {
+    "lo": {
+     "f_ma_um": 8.2,
+     "loaded_width_mm": 29.4,
+     "K_Hbeta": 2.04,
+     "peak_line_load_N_mm": 160.8,
+     "contact_stress_ratio_vs_catalogue": 0.97
+    },
+    "hi": {
+     "f_ma_um": 8.9,
+     "loaded_width_mm": 28.2,
+     "K_Hbeta": 2.12,
+     "peak_line_load_N_mm": 167.4,
+     "contact_stress_ratio_vs_catalogue": 0.99
+    }
+   },
+   "P2_edge_from_stop_mm_by_contact_radius": {
+    "50": 0.46,
+    "60": 0.32,
+    "80": 0.18,
+    "65": 0.272
+   },
+   "P1_extra_edge_from_mesh_shift_mm": 0.116,
+   "P1_extra_angle_deg": 0.086
+  }
+ }
+}

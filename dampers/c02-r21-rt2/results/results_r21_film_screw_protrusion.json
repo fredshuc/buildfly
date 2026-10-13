@@ -1,0 +1,246 @@
+{
+ "P": [
+  {
+   "screw": "STD08B_006",
+   "nut": "HW_N3_006",
+   "screw_axial_range": [
+    -1.5,
+    16.0
+   ],
+   "nut_axial_range": [
+    10.25,
+    14.25
+   ],
+   "protrusion_mm": 1.75,
+   "protrusion_after_keeper_mm": 0.95,
+   "pitches_after": 1.9
+  },
+  {
+   "screw": "STD08B_007",
+   "nut": "HW_N3_007",
+   "screw_axial_range": [
+    -1.5,
+    16.0
+   ],
+   "nut_axial_range": [
+    10.25,
+    14.25
+   ],
+   "protrusion_mm": 1.75,
+   "protrusion_after_keeper_mm": 0.95,
+   "pitches_after": 1.9
+  },
+  {
+   "screw": "STD08B_013",
+   "nut": "HW_N3_013",
+   "screw_axial_range": [
+    -1.5,
+    16.0
+   ],
+   "nut_axial_range": [
+    10.25,
+    14.25
+   ],
+   "protrusion_mm": 1.75,
+   "protrusion_after_keeper_mm": 0.95,
+   "pitches_after": 1.9
+  },
+  {
+   "screw": "STD08B_014",
+   "nut": "HW_N3_014",
+   "screw_axial_range": [
+    -1.5,
+    16.0
+   ],
+   "nut_axial_range": [
+    10.25,
+    14.25
+   ],
+   "protrusion_mm": 1.75,
+   "protrusion_after_keeper_mm": 0.95,
+   "pitches_after": 1.9
+  },
+  {
+   "screw": "STD08B_020",
+   "nut": "HW_N3_020",
+   "screw_axial_range": [
+    -1.5,
+    16.0
+   ],
+   "nut_axial_range": [
+    10.25,
+    14.25
+   ],
+   "protrusion_mm": 1.75,
+   "protrusion_after_keeper_mm": 0.95,
+   "pitches_after": 1.9
+  },
+  {
+   "screw": "STD08B_021",
+   "nut": "HW_N3_021",
+   "screw_axial_range": [
+    -1.5,
+    16.0
+   ],
+   "nut_axial_range": [
+    10.25,
+    14.25
+   ],
+   "protrusion_mm": 1.75,
+   "protrusion_after_keeper_mm": 0.95,
+   "pitches_after": 1.9
+  },
+  {
+   "screw": "STD08B_027",
+   "nut": "HW_N3_027",
+   "screw_axial_range": [
+    -1.5,
+    16.0
+   ],
+   "nut_axial_range": [
+    10.25,
+    14.25
+   ],
+   "protrusion_mm": 1.75,
+   "protrusion_after_keeper_mm": 0.95,
+   "pitches_after": 1.9
+  },
+  {
+   "screw": "STD08B_028",
+   "nut": "HW_N3_028",
+   "screw_axial_range": [
+    -1.5,
+    16.0
+   ],
+   "nut_axial_range": [
+    10.25,
+    14.25
+   ],
+   "protrusion_mm": 1.75,
+   "protrusion_after_keeper_mm": 0.95,
+   "pitches_after": 1.9
+  }
+ ],
+ "R": [
+  {
+   "screw": "STD08B_032",
+   "nut": "HW_N3_032",
+   "screw_axial_range": [
+    -1.5,
+    16.0
+   ],
+   "nut_axial_range": [
+    10.25,
+    14.25
+   ],
+   "protrusion_mm": 1.75,
+   "protrusion_after_keeper_mm": 0.95,
+   "pitches_after": 1.9
+  },
+  {
+   "screw": "STD08B_033",
+   "nut": "HW_N3_033",
+   "screw_axial_range": [
+    -1.5,
+    16.0
+   ],
+   "nut_axial_range": [
+    10.25,
+    14.25
+   ],
+   "protrusion_mm": 1.75,
+   "protrusion_after_keeper_mm": 0.95,
+   "pitches_after": 1.9
+  },
+  {
+   "screw": "STD08B_037",
+   "nut": "HW_N3_037",
+   "screw_axial_range": [
+    -1.5,
+    16.0
+   ],
+   "nut_axial_range": [
+    10.25,
+    14.25
+   ],
+   "protrusion_mm": 1.75,
+   "protrusion_after_keeper_mm": 0.95,
+   "pitches_after": 1.9
+  },
+  {
+   "screw": "STD08B_038",
+   "nut": "HW_N3_038",
+   "screw_axial_range": [
+    -1.5,
+    16.0
+   ],
+   "nut_axial_range": [
+    10.25,
+    14.25
+   ],
+   "protrusion_mm": 1.75,
+   "protrusion_after_keeper_mm": 0.95,
+   "pitches_after": 1.9
+  },
+  {
+   "screw": "STD08B_042",
+   "nut": "HW_N3_042",
+   "screw_axial_range": [
+    -1.5,
+    16.0
+   ],
+   "nut_axial_range": [
+    10.25,
+    14.25
+   ],
+   "protrusion_mm": 1.75,
+   "protrusion_after_keeper_mm": 0.95,
+   "pitches_after": 1.9
+  },
+  {
+   "screw": "STD08B_043",
+   "nut": "HW_N3_043",
+   "screw_axial_range": [
+    -1.5,
+    16.0
+   ],
+   "nut_axial_range": [
+    10.25,
+    14.25
+   ],
+   "protrusion_mm": 1.75,
+   "protrusion_after_keeper_mm": 0.95,
+   "pitches_after": 1.9
+  },
+  {
+   "screw": "STD08B_047",
+   "nut": "HW_N3_047",
+   "screw_axial_range": [
+    -1.5,
+    16.0
+   ],
+   "nut_axial_range": [
+    10.25,
+    14.25
+   ],
+   "protrusion_mm": 1.75,
+   "protrusion_after_keeper_mm": 0.95,
+   "pitches_after": 1.9
+  },
+  {
+   "screw": "STD08B_048",
+   "nut": "HW_N3_048",
+   "screw_axial_range": [
+    -1.5,
+    16.0
+   ],
+   "nut_axial_range": [
+    10.25,
+    14.25
+   ],
+   "protrusion_mm": 1.75,
+   "protrusion_after_keeper_mm": 0.95,
+   "pitches_after": 1.9
+  }
+ ]
+}
