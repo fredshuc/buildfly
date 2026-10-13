@@ -1,0 +1,21 @@
+{
+  "original_manifest_entries_verified": 815,
+  "original_members_preserved": 816,
+  "source": "Original independently extracted delivery, verified against its manifest",
+  "packages": [
+    {
+      "file": "AT_DMP_R21_RT2_COMPLETE_PART_1_OF_2.zip",
+      "bytes": 20689962,
+      "sha256": "a1a2008459f7cf0b0ac587a507f20b2f2d7c7305618f7614345cca0e2c7b213d",
+      "original_members": 408,
+      "CRC_and_bytewise_hash_check": "PASS"
+    },
+    {
+      "file": "AT_DMP_R21_RT2_COMPLETE_PART_2_OF_2.zip",
+      "bytes": 20569968,
+      "sha256": "a3381aff73156dcdc48975d7b018279b2f099ad5fabec36ae259d5d456cb5b36",
+      "original_members": 408,
+      "CRC_and_bytewise_hash_check": "PASS"
+    }
+  ]
+}
