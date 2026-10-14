@@ -351,7 +351,7 @@ Only 4 of the 34 main spools stay host-clear when insulated. On the 35 mm header
   - fails closed on loss of control signal, at motor speed;
   - holds position on loss of power unless BSR is fitted;
   - published 0–90° cycle time is 58 s for the 5616 series.
-  - This review could not reach the manufacturer PDF referenced by C05. The facts come from the vendor's product pages.
+  - These facts come from search-result extracts of Valworx product pages (e.g. the 5616 DPS kit page). Neither the manufacturer PDF referenced by C05 nor the vendor site resolved from this environment. Confirm with the vendor before specifying.
 - **[V] Model.** Quasi-steady closure of a Kv 47.9 ball valve with an x³ characteristic (x² and x⁴ as sensitivity) in series with the rest of the loop, rigid column.
 
 | Case | Kv_sys | 9 s stroke: t_eff 90→10 % / max dv/dt | Stroke for dv/dt ≤ 0.5 m/s² | Stroke for t_eff ≥ 8 s |
@@ -473,4 +473,4 @@ Only 4 of the 34 main spools stay host-clear when insulated. On the 35 mm header
 - Loss coefficients are correlations, not tests. The HX, valve and meter terms are C05's.
 - The flexibility check is a screen without supports. The EV check uses C05 domain volumes and isothermal gas.
 - The revised spools change corners only. Their remaining clashes are the layout's (RT01-07).
-- External facts (Valworx DPS behaviour and cycle time; ASME B1.20.1 dimensions) are cited from vendor pages and the standard as known to the reviewer. Confirm both against current documents before purchase.
+- Several external facts were not opened at source. Valworx DPS behaviour and cycle time come from search-result extracts. ASME B1.20.1 / ISO 7-1 dimensions, Darby 3-K constants and the B31.3 SIF/allowable forms are from the reviewer's knowledge. Confirm all of them against current documents before purchase or design release.
