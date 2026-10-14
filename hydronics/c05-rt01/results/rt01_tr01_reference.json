@@ -1,0 +1,9 @@
+{
+ "wave_speed_m_s": 1415.9863224252135,
+ "joukowsky_kPa": {
+  "2.0": 1343.9136894630847,
+  "3.5": 2351.848956560398,
+  "7.0": 4703.697913120796
+ },
+ "note": "instantaneous-closure bound; applies only if t_eff < 2L/a"
+}

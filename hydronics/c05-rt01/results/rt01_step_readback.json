@@ -1,0 +1,36 @@
+{
+ "S1": {
+  "solids": 362,
+  "total_volume_mm3": 120096571.29208234,
+  "native_total_mm3": 120095227.3294886,
+  "native_unmatched": 2,
+  "extra_step_solids": 8,
+  "extra_volumes_mm3": [
+   336.0,
+   336.0,
+   336.0,
+   336.0,
+   100800.0,
+   100800.0,
+   145055.2,
+   145055.2
+  ]
+ },
+ "S2": {
+  "solids": 362,
+  "total_volume_mm3": 120096571.29208234,
+  "native_total_mm3": 120095227.3294886,
+  "native_unmatched": 2,
+  "extra_step_solids": 8,
+  "extra_volumes_mm3": [
+   336.0,
+   336.0,
+   336.0,
+   336.0,
+   100800.0,
+   100800.0,
+   145055.2,
+   145055.2
+  ]
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "host_occurrences": 6007,
+ "water_group": 78,
+ "water_group_retained": 0,
+ "c04_host_pairs": 784,
+ "c04_host_pairs_on_WATER": 0,
+ "c04_host_pairs_on_unretained": 0,
+ "c05_followup": {
+  "REPRODUCED_OPEN": 607,
+  "NOT_REPRODUCED_SAME_PAIR; inspect relocated candidate and new conflicts; NOT global PASS": 668
+ },
+ "c05_pairs": 1541,
+ "c05_root_groups": {
+  "ROUTING(pipe/connector/header involved)": {
+   "pairs": 1008,
+   "vol_cm3": 3677.7
+  },
+  "PLACEMENT(commodity/support vs host/each other)": {
+   "pairs": 533,
+   "vol_cm3": 7217.1
+  }
+ },
+ "c05_pairs_below_10mm3": 160
+}

@@ -1,0 +1,29 @@
+{
+ "centreline_m": {
+  "33.7": 21.2858,
+  "21.3": 31.4586
+ },
+ "total_m": 52.7444,
+ "corners": 386,
+ "pipe_ends": {
+  "other_commodity_or_undefined": 68,
+  "connector_weld_face": 38,
+  "header_face": 98
+ },
+ "header_branches": 76,
+ "header_caps": 4,
+ "header_roots_to_connectors": 14,
+ "headers": 22,
+ "joint_subtotal_C05_definition": 616,
+ "pipe_water_l": 18.864,
+ "pipe_316L_kg": 90.65,
+ "header_branch_stub_from_OD_mm": {
+  "min": 18.15,
+  "max": 18.15
+ },
+ "header_branch_pitch_mm": {
+  "min": 35.0,
+  "max": 35.0
+ },
+ "branch_clear_gap_between_adjacent_OD21_mm": 13.7
+}

@@ -1,0 +1,190 @@
+{
+ "E004": [
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_LR",
+  "miter90_1weld"
+ ],
+ "E009": [
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_SR_welded",
+  "elbow90_SR_welded"
+ ],
+ "E010": [
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_LR"
+ ],
+ "E011": [
+  "elbow90_SR_welded",
+  "miter90_1weld",
+  "elbow90_LR",
+  "miter90_1weld",
+  "elbow90_SR_welded"
+ ],
+ "E018": [
+  "elbow90_LR",
+  "elbow90_LR",
+  "miter90_1weld",
+  "elbow90_SR_welded",
+  "elbow90_LR"
+ ],
+ "E021": [
+  "elbow90_LR",
+  "miter90_1weld",
+  "elbow90_SR_welded"
+ ],
+ "E027": [
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_LR"
+ ],
+ "E032": [
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_LR"
+ ],
+ "E033": [
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_LR"
+ ],
+ "E034": [
+  "elbow90_SR_welded",
+  "miter90_1weld",
+  "elbow90_LR",
+  "miter90_1weld",
+  "elbow90_SR_welded"
+ ],
+ "E041": [
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_LR"
+ ],
+ "E044": [
+  "elbow90_LR",
+  "elbow90_LR"
+ ],
+ "E052": [
+  "elbow90_LR",
+  "elbow90_LR",
+  "miter90_1weld",
+  "elbow90_LR",
+  "elbow90_LR"
+ ],
+ "E055": [
+  "elbow90_LR",
+  "elbow90_LR",
+  "miter90_1weld",
+  "elbow90_LR"
+ ],
+ "E058": [
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_LR"
+ ],
+ "E064": [
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_LR"
+ ],
+ "E067": [
+  "elbow90_LR",
+  "elbow90_LR",
+  "miter90_1weld",
+  "elbow90_SR_welded"
+ ],
+ "E070": [
+  "elbow90_SR_welded",
+  "elbow90_SR_welded",
+  "elbow90_LR",
+  "elbow90_LR"
+ ],
+ "E075": [
+  "elbow90_LR",
+  "elbow90_LR",
+  "miter90_1weld",
+  "elbow90_LR"
+ ],
+ "E076": [
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_SR_welded",
+  "elbow90_SR_welded"
+ ],
+ "E077": [
+  "elbow90_SR_welded",
+  "elbow90_SR_welded",
+  "elbow90_LR"
+ ],
+ "E087": [
+  "miter90_1weld",
+  "elbow90_LR",
+  "elbow90_LR"
+ ],
+ "E090": [
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_LR"
+ ],
+ "E093": [
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_LR"
+ ],
+ "E099": [
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_LR"
+ ],
+ "E102": [
+  "elbow90_LR",
+  "elbow90_SR_welded",
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_LR"
+ ],
+ "E105": [
+  "elbow90_LR",
+  "elbow90_LR",
+  "miter90_1weld",
+  "elbow90_SR_welded",
+  "elbow90_LR"
+ ],
+ "E110": [
+  "elbow90_LR",
+  "miter90_1weld",
+  "elbow90_LR",
+  "elbow90_LR"
+ ],
+ "E111": [
+  "elbow90_LR",
+  "elbow90_LR",
+  "elbow90_SR_welded",
+  "elbow90_SR_welded"
+ ],
+ "E112": [
+  "elbow90_SR_welded",
+  "elbow90_SR_welded",
+  "elbow90_LR"
+ ]
+}

@@ -1,0 +1,31 @@
+edge,a,b,corners,pieces_mm,fittings,n_LR,n_SR,n_miter_kept,K_C05_miters,K_fitted
+E004,MV_CS:2,XV_CS:1,5,"[45.0, 80.0, 160.0, 136.7, 50.0, 45.0]","['elbow90_LR', 'elbow90_LR', 'elbow90_LR', 'elbow90_LR', 'miter90_1weld']",4,0,1,6.928,2.652
+E009,XV_CS:2,P_CS:1,4,"[45.0, 110.0, 178.4, 60.0, 45.0]","['elbow90_LR', 'elbow90_LR', 'elbow90_SR_welded', 'elbow90_SR_welded']",2,2,0,5.542,1.622
+E010,P_CS:2,FM_CS:1,5,"[45.0, 110.0, 250.0, 145.0, 200.0, 45.0]","['elbow90_LR', 'elbow90_LR', 'elbow90_LR', 'elbow90_LR', 'elbow90_LR']",5,0,0,6.928,1.583
+E011,FM_CS:2,H_CS,5,"[45.0, 35.0, 60.0, 315.0, 35.0, 45.0]","['elbow90_SR_welded', 'miter90_1weld', 'elbow90_LR', 'miter90_1weld', 'elbow90_SR_welded']",1,2,2,6.928,4.076
+E018,MV_CR:2,XV_CR:1,5,"[45.0, 265.0, 86.7, 30.0, 105.0, 45.0]","['elbow90_LR', 'elbow90_LR', 'miter90_1weld', 'elbow90_SR_welded', 'elbow90_LR']",3,1,1,6.928,2.83
+E021,XV_CR:2,H_CR,3,"[211.6, 140.0, 30.0, 45.0]","['elbow90_LR', 'miter90_1weld', 'elbow90_SR_welded']",1,1,1,4.157,2.196
+E027,MV_HS:2,XV_HS:1,5,"[45.0, 120.0, 86.7, 160.0, 120.0, 45.0]","['elbow90_LR', 'elbow90_LR', 'elbow90_LR', 'elbow90_LR', 'elbow90_LR']",5,0,0,6.928,1.583
+E032,XV_HS:2,P_HS:1,5,"[45.0, 160.0, 80.0, 228.4, 130.0, 45.0]","['elbow90_LR', 'elbow90_LR', 'elbow90_LR', 'elbow90_LR', 'elbow90_LR']",5,0,0,6.928,1.583
+E033,P_HS:2,FM_HS:1,5,"[45.0, 150.0, 245.0, 220.0, 180.0, 45.0]","['elbow90_LR', 'elbow90_LR', 'elbow90_LR', 'elbow90_LR', 'elbow90_LR']",5,0,0,6.928,1.583
+E034,FM_HS:2,H_HS,5,"[45.0, 35.0, 60.0, 215.0, 35.0, 45.0]","['elbow90_SR_welded', 'miter90_1weld', 'elbow90_LR', 'miter90_1weld', 'elbow90_SR_welded']",1,2,2,6.928,4.076
+E041,MV_HR:2,XV_HR:1,5,"[45.0, 220.0, 186.7, 100.0, 220.0, 45.0]","['elbow90_LR', 'elbow90_LR', 'elbow90_LR', 'elbow90_LR', 'elbow90_LR']",5,0,0,6.928,1.583
+E044,XV_HR:2,H_HR,2,"[311.6, 80.0, 45.0]","['elbow90_LR', 'elbow90_LR']",2,0,0,2.771,0.633
+E052,ZR_A_L_A:T,H_CS,5,"[45.0, 200.0, 334.0, 50.0, 140.0, 45.0]","['elbow90_LR', 'elbow90_LR', 'miter90_1weld', 'elbow90_LR', 'elbow90_LR']",4,0,1,6.928,2.652
+E055,ZR_A_L_B:T,H_HR,4,"[45.0, 420.0, 50.0, 64.0, 45.0]","['elbow90_LR', 'elbow90_LR', 'miter90_1weld', 'elbow90_LR']",3,0,1,5.542,2.336
+E058,ZR_A_L_AB:T,HX_A_L:P1,5,"[45.0, 200.0, 267.5, 268.0, 200.0, 45.0]","['elbow90_LR', 'elbow90_LR', 'elbow90_LR', 'elbow90_LR', 'elbow90_LR']",5,0,0,6.928,1.583
+E064,ZR_A_U_A:T,H_CR,4,"[45.0, 185.0, 434.0, 135.0, 210.0]","['elbow90_LR', 'elbow90_LR', 'elbow90_LR', 'elbow90_LR']",4,0,0,5.542,1.267
+E067,ZR_A_U_B:T,H_HS,4,"[45.0, 100.0, 185.0, 36.0, 125.0]","['elbow90_LR', 'elbow90_LR', 'miter90_1weld', 'elbow90_SR_welded']",2,1,1,5.542,2.513
+E070,ZR_A_U_AB:T,HX_A_U:P7,4,"[45.0, 60.0, 298.0, 357.5, 45.0]","['elbow90_SR_welded', 'elbow90_SR_welded', 'elbow90_LR', 'elbow90_LR']",2,2,0,5.542,1.622
+E075,HX_A_L:P7,FS_A:1,4,"[86.0, 188.4, 42.5, 60.0, 45.0]","['elbow90_LR', 'elbow90_LR', 'miter90_1weld', 'elbow90_LR']",3,0,1,5.542,2.336
+E076,FS_A:2,Q_A:1,4,"[45.0, 145.0, 238.3, 55.0, 45.0]","['elbow90_LR', 'elbow90_LR', 'elbow90_SR_welded', 'elbow90_SR_welded']",2,2,0,5.542,1.622
+E077,Q_A:2,HX_A_U:P1,3,"[45.0, 52.5, 175.0, 226.0]","['elbow90_SR_welded', 'elbow90_SR_welded', 'elbow90_LR']",1,2,0,4.157,1.305
+E087,ZR_B_L_A:T,H_CS,3,"[45.0, 50.0, 411.0, 45.0]","['miter90_1weld', 'elbow90_LR', 'elbow90_LR']",2,0,1,4.157,2.019
+E090,ZR_B_L_B:T,H_HR,5,"[45.0, 245.0, 310.0, 809.0, 245.0, 45.0]","['elbow90_LR', 'elbow90_LR', 'elbow90_LR', 'elbow90_LR', 'elbow90_LR']",5,0,0,6.928,1.583
+E093,ZR_B_L_AB:T,HX_B_L:P1,5,"[45.0, 170.0, 238.0, 367.5, 200.0, 45.0]","['elbow90_LR', 'elbow90_LR', 'elbow90_LR', 'elbow90_LR', 'elbow90_LR']",5,0,0,6.928,1.583
+E099,ZR_B_U_A:T,H_CR,3,"[45.0, 245.0, 361.0, 45.0]","['elbow90_LR', 'elbow90_LR', 'elbow90_LR']",3,0,0,4.157,0.95
+E102,ZR_B_U_B:T,H_HS,5,"[45.0, 245.0, 75.0, 759.0, 245.0, 45.0]","['elbow90_LR', 'elbow90_SR_welded', 'elbow90_LR', 'elbow90_LR', 'elbow90_LR']",4,1,0,6.928,1.761
+E105,ZR_B_U_AB:T,HX_B_U:P7,5,"[45.0, 390.0, 238.0, 30.0, 82.5, 45.0]","['elbow90_LR', 'elbow90_LR', 'miter90_1weld', 'elbow90_SR_welded', 'elbow90_LR']",3,1,1,6.928,2.83
+E110,HX_B_L:P7,FS_B:1,4,"[171.0, 188.4, 42.5, 145.0, 45.0]","['elbow90_LR', 'miter90_1weld', 'elbow90_LR', 'elbow90_LR']",3,0,1,5.542,2.336
+E111,FS_B:2,Q_B:1,4,"[45.0, 145.0, 238.3, 55.0, 45.0]","['elbow90_LR', 'elbow90_LR', 'elbow90_SR_welded', 'elbow90_SR_welded']",2,2,0,5.542,1.622
+E112,Q_B:2,HX_B_U:P1,3,"[45.0, 52.5, 175.0, 226.0]","['elbow90_SR_welded', 'elbow90_SR_welded', 'elbow90_LR']",1,2,0,4.157,1.305

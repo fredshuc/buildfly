@@ -1,0 +1,5 @@
+case,corners,n_LR,n_SR,n_miter_kept,BE_margin_kPa,fitted_margin_kPa,fitted_margin_low_kPa,fitted_K_corners,Q_zero_margin_fitted
+H1_5C,56,37,12,7,-11.54,11.09,8.67,27.34,2.208
+H1_80C,58,46,8,4,-9.97,14.46,12.58,21.96,2.296
+H2_5C,54,35,11,8,-10.1,11.16,8.59,27.6,2.21
+H2_80C,55,41,9,5,-7.46,15.04,13.01,22.35,2.311

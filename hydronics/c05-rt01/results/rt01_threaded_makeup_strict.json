@@ -1,0 +1,61 @@
+{
+ "count": 14,
+ "joints": [
+  [
+   "HX_A_L:P7",
+   "HX R1/Rp1: 3D weldment must turn"
+  ],
+  [
+   "HX_B_L:P7",
+   "HX R1/Rp1: 3D weldment must turn"
+  ],
+  [
+   "HX_A_L:P1",
+   "HX R1/Rp1: 3D weldment must turn"
+  ],
+  [
+   "HX_A_U:P7",
+   "HX R1/Rp1: 3D weldment must turn"
+  ],
+  [
+   "HX_A_U:P1",
+   "HX R1/Rp1: 3D weldment must turn"
+  ],
+  [
+   "HX_B_L:P1",
+   "HX R1/Rp1: 3D weldment must turn"
+  ],
+  [
+   "HX_B_U:P7",
+   "HX R1/Rp1: 3D weldment must turn"
+  ],
+  [
+   "HX_B_U:P1",
+   "HX R1/Rp1: 3D weldment must turn"
+  ],
+  [
+   "XV_CS:2",
+   "NPT body XV_CS: body turn used on XV_CS:1, other side 3D weldment"
+  ],
+  [
+   "XV_CR:2",
+   "NPT body XV_CR: body turn used on XV_CR:1, other side 3D weldment"
+  ],
+  [
+   "XV_HS:2",
+   "NPT body XV_HS: body turn used on XV_HS:1, other side 3D weldment"
+  ],
+  [
+   "XV_HR:2",
+   "NPT body XV_HR: body turn used on XV_HR:1, other side 3D weldment"
+  ],
+  [
+   "FS_A:2",
+   "NPT body FS_A: body turn used on FS_A:1, other side 3D weldment"
+  ],
+  [
+   "FS_B:2",
+   "NPT body FS_B: body turn used on FS_B:1, other side 3D weldment"
+  ]
+ ]
+}

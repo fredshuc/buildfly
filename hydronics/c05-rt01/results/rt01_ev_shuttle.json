@@ -1,0 +1,176 @@
+{
+ "shuttle_L_per_EV_per_reversal": [
+  {
+   "Vn_L": 12.0,
+   "precharge_barg": 1.0,
+   "p_low_barg": 1.0,
+   "dp_bar": 0.2,
+   "shuttle_L": 1.084
+  },
+  {
+   "Vn_L": 12.0,
+   "precharge_barg": 1.0,
+   "p_low_barg": 1.0,
+   "dp_bar": 0.5,
+   "shuttle_L": 2.387
+  },
+  {
+   "Vn_L": 12.0,
+   "precharge_barg": 1.0,
+   "p_low_barg": 1.0,
+   "dp_bar": 1.0,
+   "shuttle_L": 3.982
+  },
+  {
+   "Vn_L": 12.0,
+   "precharge_barg": 1.0,
+   "p_low_barg": 1.5,
+   "dp_bar": 0.2,
+   "shuttle_L": 0.709
+  },
+  {
+   "Vn_L": 12.0,
+   "precharge_barg": 1.0,
+   "p_low_barg": 1.5,
+   "dp_bar": 0.5,
+   "shuttle_L": 1.595
+  },
+  {
+   "Vn_L": 12.0,
+   "precharge_barg": 1.0,
+   "p_low_barg": 1.5,
+   "dp_bar": 1.0,
+   "shuttle_L": 2.736
+  },
+  {
+   "Vn_L": 12.0,
+   "precharge_barg": 0.7,
+   "p_low_barg": 1.0,
+   "dp_bar": 0.2,
+   "shuttle_L": 0.923
+  },
+  {
+   "Vn_L": 12.0,
+   "precharge_barg": 0.7,
+   "p_low_barg": 1.0,
+   "dp_bar": 0.5,
+   "shuttle_L": 2.032
+  },
+  {
+   "Vn_L": 12.0,
+   "precharge_barg": 0.7,
+   "p_low_barg": 1.0,
+   "dp_bar": 1.0,
+   "shuttle_L": 3.389
+  },
+  {
+   "Vn_L": 12.0,
+   "precharge_barg": 0.7,
+   "p_low_barg": 1.5,
+   "dp_bar": 0.2,
+   "shuttle_L": 0.603
+  },
+  {
+   "Vn_L": 12.0,
+   "precharge_barg": 0.7,
+   "p_low_barg": 1.5,
+   "dp_bar": 0.5,
+   "shuttle_L": 1.357
+  },
+  {
+   "Vn_L": 12.0,
+   "precharge_barg": 0.7,
+   "p_low_barg": 1.5,
+   "dp_bar": 1.0,
+   "shuttle_L": 2.328
+  },
+  {
+   "Vn_L": 8.0,
+   "precharge_barg": 1.0,
+   "p_low_barg": 1.0,
+   "dp_bar": 0.2,
+   "shuttle_L": 0.723
+  },
+  {
+   "Vn_L": 8.0,
+   "precharge_barg": 1.0,
+   "p_low_barg": 1.0,
+   "dp_bar": 0.5,
+   "shuttle_L": 1.592
+  },
+  {
+   "Vn_L": 8.0,
+   "precharge_barg": 1.0,
+   "p_low_barg": 1.0,
+   "dp_bar": 1.0,
+   "shuttle_L": 2.655
+  },
+  {
+   "Vn_L": 8.0,
+   "precharge_barg": 1.0,
+   "p_low_barg": 1.5,
+   "dp_bar": 0.2,
+   "shuttle_L": 0.472
+  },
+  {
+   "Vn_L": 8.0,
+   "precharge_barg": 1.0,
+   "p_low_barg": 1.5,
+   "dp_bar": 0.5,
+   "shuttle_L": 1.063
+  },
+  {
+   "Vn_L": 8.0,
+   "precharge_barg": 1.0,
+   "p_low_barg": 1.5,
+   "dp_bar": 1.0,
+   "shuttle_L": 1.824
+  },
+  {
+   "Vn_L": 8.0,
+   "precharge_barg": 0.7,
+   "p_low_barg": 1.0,
+   "dp_bar": 0.2,
+   "shuttle_L": 0.615
+  },
+  {
+   "Vn_L": 8.0,
+   "precharge_barg": 0.7,
+   "p_low_barg": 1.0,
+   "dp_bar": 0.5,
+   "shuttle_L": 1.354
+  },
+  {
+   "Vn_L": 8.0,
+   "precharge_barg": 0.7,
+   "p_low_barg": 1.0,
+   "dp_bar": 1.0,
+   "shuttle_L": 2.259
+  },
+  {
+   "Vn_L": 8.0,
+   "precharge_barg": 0.7,
+   "p_low_barg": 1.5,
+   "dp_bar": 0.2,
+   "shuttle_L": 0.402
+  },
+  {
+   "Vn_L": 8.0,
+   "precharge_barg": 0.7,
+   "p_low_barg": 1.5,
+   "dp_bar": 0.5,
+   "shuttle_L": 0.905
+  },
+  {
+   "Vn_L": 8.0,
+   "precharge_barg": 0.7,
+   "p_low_barg": 1.5,
+   "dp_bar": 1.0,
+   "shuttle_L": 1.552
+  }
+ ],
+ "min_Vn_L_at_0p7barg_precharge_1to2barg": 5.0,
+ "EV_pairs": 202,
+ "EV_overlap_cm3": 5487.6,
+ "all_C05_overlap_cm3": 10894.8
+}

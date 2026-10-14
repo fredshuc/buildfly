@@ -1,0 +1,1842 @@
+{
+ "H1_5C": {
+  "path": [
+   "E003",
+   "E001",
+   "E004",
+   "E002",
+   "E009",
+   "E007",
+   "E010",
+   "E008",
+   "E011",
+   "E052",
+   "E050",
+   "E051",
+   "E047",
+   "E057",
+   "E056",
+   "E058",
+   "E071",
+   "E075",
+   "E073",
+   "E076",
+   "E074",
+   "E077",
+   "E072",
+   "E070",
+   "E068",
+   "E069",
+   "E059",
+   "E063",
+   "E062",
+   "E064",
+   "E021",
+   "E016",
+   "E018",
+   "E015",
+   "E017"
+  ],
+  "unique_simple_paths": 1,
+  "headers": [
+   {
+    "type": "header",
+    "id": "C05_JH_MV_CS_2",
+    "node": "MV_CS:2",
+    "enter": "ROOT",
+    "leave": "MAIN",
+    "flow": "RUN",
+    "flow_len_mm": 80.0,
+    "full_len_mm": 80
+   },
+   {
+    "type": "header",
+    "id": "C05_JH_P_CS_1",
+    "node": "P_CS:1",
+    "enter": "MAIN",
+    "leave": "ROOT",
+    "flow": "RUN",
+    "flow_len_mm": 185.0,
+    "full_len_mm": 185
+   },
+   {
+    "type": "header",
+    "id": "C05_JH_H_CS",
+    "node": "H_CS",
+    "enter": "MAIN",
+    "leave": "BRANCH",
+    "flow": "BRANCH",
+    "flow_len_mm": 195,
+    "full_len_mm": 290
+   },
+   {
+    "type": "header",
+    "id": "C05_JH_HX_A_L_P1",
+    "node": "HX_A_L:P1",
+    "enter": "MAIN",
+    "leave": "ROOT",
+    "flow": "RUN",
+    "flow_len_mm": 255.0,
+    "full_len_mm": 255
+   },
+   {
+    "type": "header",
+    "id": "C05_JH_FS_A_1",
+    "node": "FS_A:1",
+    "enter": "MAIN",
+    "leave": "ROOT",
+    "flow": "RUN",
+    "flow_len_mm": 115.0,
+    "full_len_mm": 115
+   },
+   {
+    "type": "header",
+    "id": "C05_JH_FS_A_2",
+    "node": "FS_A:2",
+    "enter": "ROOT",
+    "leave": "MAIN",
+    "flow": "RUN",
+    "flow_len_mm": 115.0,
+    "full_len_mm": 115
+   },
+   {
+    "type": "header",
+    "id": "C05_JH_HX_A_U_P7",
+    "node": "HX_A_U:P7",
+    "enter": "ROOT",
+    "leave": "MAIN",
+    "flow": "RUN",
+    "flow_len_mm": 255.0,
+    "full_len_mm": 255
+   },
+   {
+    "type": "header",
+    "id": "C05_JH_H_CR",
+    "node": "H_CR",
+    "enter": "BRANCH",
+    "leave": "MAIN",
+    "flow": "BRANCH",
+    "flow_len_mm": 195,
+    "full_len_mm": 290
+   },
+   {
+    "type": "header",
+    "id": "C05_JH_MV_CR_2",
+    "node": "MV_CR:2",
+    "enter": "MAIN",
+    "leave": "ROOT",
+    "flow": "RUN",
+    "flow_len_mm": 80.0,
+    "full_len_mm": 80
+   }
+  ],
+  "connectors": [
+   {
+    "type": "connector",
+    "id": "C05_CONN_MV_CS_1",
+    "node": "MV_CS:1",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": true,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_MV_CS_2",
+    "node": "MV_CS:2",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": false,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_XV_CS_1",
+    "node": "XV_CS:1",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": true,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_XV_CS_2",
+    "node": "XV_CS:2",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": false,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_P_CS_1",
+    "node": "P_CS:1",
+    "family": "UF_G15",
+    "bore_mm": 30.0,
+    "to_equipment": true,
+    "len_mm": 50.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_P_CS_2",
+    "node": "P_CS:2",
+    "family": "UF_G15",
+    "bore_mm": 30.0,
+    "to_equipment": false,
+    "len_mm": 50.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_FM_CS_1",
+    "node": "FM_CS:1",
+    "family": "UF_G1",
+    "bore_mm": 23.5,
+    "to_equipment": true,
+    "len_mm": 50.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_FM_CS_2",
+    "node": "FM_CS:2",
+    "family": "UF_G1",
+    "bore_mm": 23.5,
+    "to_equipment": false,
+    "len_mm": 50.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_ZR_A_L_A_T",
+    "node": "ZR_A_L_A:T",
+    "family": "R1_W33",
+    "bore_mm": 25.0,
+    "to_equipment": true,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_ZR_A_L_AB_T",
+    "node": "ZR_A_L_AB:T",
+    "family": "R1_W33",
+    "bore_mm": 25.0,
+    "to_equipment": false,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_HX_A_L_P1",
+    "node": "HX_A_L:P1",
+    "family": "RP1_W33",
+    "bore_mm": 25.0,
+    "to_equipment": true,
+    "len_mm": 39.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_HX_A_L_P7",
+    "node": "HX_A_L:P7",
+    "family": "RP1_W33",
+    "bore_mm": 25.0,
+    "to_equipment": false,
+    "len_mm": 39.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_FS_A_1",
+    "node": "FS_A:1",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": true,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_FS_A_2",
+    "node": "FS_A:2",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": false,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_Q_A_1",
+    "node": "Q_A:1",
+    "family": "UF_G1",
+    "bore_mm": 23.5,
+    "to_equipment": true,
+    "len_mm": 50.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_Q_A_2",
+    "node": "Q_A:2",
+    "family": "UF_G1",
+    "bore_mm": 23.5,
+    "to_equipment": false,
+    "len_mm": 50.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_HX_A_U_P1",
+    "node": "HX_A_U:P1",
+    "family": "RP1_W33",
+    "bore_mm": 25.0,
+    "to_equipment": true,
+    "len_mm": 39.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_HX_A_U_P7",
+    "node": "HX_A_U:P7",
+    "family": "RP1_W33",
+    "bore_mm": 25.0,
+    "to_equipment": false,
+    "len_mm": 39.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_ZR_A_U_AB_T",
+    "node": "ZR_A_U_AB:T",
+    "family": "R1_W33",
+    "bore_mm": 25.0,
+    "to_equipment": true,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_ZR_A_U_A_T",
+    "node": "ZR_A_U_A:T",
+    "family": "R1_W33",
+    "bore_mm": 25.0,
+    "to_equipment": false,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_XV_CR_2",
+    "node": "XV_CR:2",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": true,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_XV_CR_1",
+    "node": "XV_CR:1",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": false,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_MV_CR_2",
+    "node": "MV_CR:2",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": true,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_MV_CR_1",
+    "node": "MV_CR:1",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": false,
+    "len_mm": 49.0
+   }
+  ],
+  "spools": [
+   {
+    "type": "pipe",
+    "id": "E003",
+    "L_mm": 16.649999999999977,
+    "ID_mm": 27.3,
+    "n_miter": 0
+   },
+   {
+    "type": "pipe",
+    "id": "E004",
+    "L_mm": 516.7,
+    "ID_mm": 27.3,
+    "n_miter": 5
+   },
+   {
+    "type": "pipe",
+    "id": "E009",
+    "L_mm": 438.35,
+    "ID_mm": 27.3,
+    "n_miter": 4
+   },
+   {
+    "type": "pipe",
+    "id": "E010",
+    "L_mm": 795.0,
+    "ID_mm": 27.3,
+    "n_miter": 5
+   },
+   {
+    "type": "pipe",
+    "id": "E011",
+    "L_mm": 535.0,
+    "ID_mm": 27.3,
+    "n_miter": 5
+   },
+   {
+    "type": "pipe",
+    "id": "E052",
+    "L_mm": 814.0,
+    "ID_mm": 27.3,
+    "n_miter": 5
+   },
+   {
+    "type": "pipe",
+    "id": "E058",
+    "L_mm": 1025.5,
+    "ID_mm": 27.3,
+    "n_miter": 5
+   },
+   {
+    "type": "pipe",
+    "id": "E075",
+    "L_mm": 421.85,
+    "ID_mm": 27.3,
+    "n_miter": 4
+   },
+   {
+    "type": "pipe",
+    "id": "E076",
+    "L_mm": 528.3499999999999,
+    "ID_mm": 27.3,
+    "n_miter": 4
+   },
+   {
+    "type": "pipe",
+    "id": "E077",
+    "L_mm": 498.5,
+    "ID_mm": 27.3,
+    "n_miter": 3
+   },
+   {
+    "type": "pipe",
+    "id": "E070",
+    "L_mm": 805.5,
+    "ID_mm": 27.3,
+    "n_miter": 4
+   },
+   {
+    "type": "pipe",
+    "id": "E064",
+    "L_mm": 1009.0,
+    "ID_mm": 27.3,
+    "n_miter": 4
+   },
+   {
+    "type": "pipe",
+    "id": "E021",
+    "L_mm": 426.65,
+    "ID_mm": 27.3,
+    "n_miter": 3
+   },
+   {
+    "type": "pipe",
+    "id": "E018",
+    "L_mm": 576.7,
+    "ID_mm": 27.3,
+    "n_miter": 5
+   },
+   {
+    "type": "pipe",
+    "id": "E017",
+    "L_mm": 16.649999999999977,
+    "ID_mm": 27.3,
+    "n_miter": 0
+   }
+  ],
+  "Q_zero_margin_C05": 1.6019633470846626,
+  "Q_zero_margin_BE": 1.8349827811707893,
+  "Q_zero_margin_LR": 2.309568560850427
+ },
+ "H1_80C": {
+  "path": [
+   "E026",
+   "E024",
+   "E027",
+   "E025",
+   "E032",
+   "E030",
+   "E033",
+   "E031",
+   "E034",
+   "E102",
+   "E100",
+   "E101",
+   "E095",
+   "E104",
+   "E103",
+   "E105",
+   "E107",
+   "E112",
+   "E109",
+   "E111",
+   "E108",
+   "E110",
+   "E106",
+   "E093",
+   "E091",
+   "E092",
+   "E083",
+   "E089",
+   "E088",
+   "E090",
+   "E044",
+   "E039",
+   "E041",
+   "E038",
+   "E040"
+  ],
+  "unique_simple_paths": 1,
+  "headers": [
+   {
+    "type": "header",
+    "id": "C05_JH_MV_HS_2",
+    "node": "MV_HS:2",
+    "enter": "ROOT",
+    "leave": "MAIN",
+    "flow": "RUN",
+    "flow_len_mm": 80.0,
+    "full_len_mm": 80
+   },
+   {
+    "type": "header",
+    "id": "C05_JH_P_HS_1",
+    "node": "P_HS:1",
+    "enter": "MAIN",
+    "leave": "ROOT",
+    "flow": "RUN",
+    "flow_len_mm": 185.0,
+    "full_len_mm": 185
+   },
+   {
+    "type": "header",
+    "id": "C05_JH_H_HS",
+    "node": "H_HS",
+    "enter": "MAIN",
+    "leave": "BRANCH",
+    "flow": "BRANCH",
+    "flow_len_mm": 160,
+    "full_len_mm": 290
+   },
+   {
+    "type": "header",
+    "id": "C05_JH_HX_B_U_P7",
+    "node": "HX_B_U:P7",
+    "enter": "MAIN",
+    "leave": "ROOT",
+    "flow": "RUN",
+    "flow_len_mm": 255.0,
+    "full_len_mm": 255
+   },
+   {
+    "type": "header",
+    "id": "C05_JH_FS_B_2",
+    "node": "FS_B:2",
+    "enter": "MAIN",
+    "leave": "ROOT",
+    "flow": "RUN",
+    "flow_len_mm": 115.0,
+    "full_len_mm": 115
+   },
+   {
+    "type": "header",
+    "id": "C05_JH_FS_B_1",
+    "node": "FS_B:1",
+    "enter": "ROOT",
+    "leave": "MAIN",
+    "flow": "RUN",
+    "flow_len_mm": 115.0,
+    "full_len_mm": 115
+   },
+   {
+    "type": "header",
+    "id": "C05_JH_HX_B_L_P1",
+    "node": "HX_B_L:P1",
+    "enter": "ROOT",
+    "leave": "MAIN",
+    "flow": "RUN",
+    "flow_len_mm": 255.0,
+    "full_len_mm": 255
+   },
+   {
+    "type": "header",
+    "id": "C05_JH_H_HR",
+    "node": "H_HR",
+    "enter": "BRANCH",
+    "leave": "MAIN",
+    "flow": "BRANCH",
+    "flow_len_mm": 160,
+    "full_len_mm": 290
+   },
+   {
+    "type": "header",
+    "id": "C05_JH_MV_HR_2",
+    "node": "MV_HR:2",
+    "enter": "MAIN",
+    "leave": "ROOT",
+    "flow": "RUN",
+    "flow_len_mm": 80.0,
+    "full_len_mm": 80
+   }
+  ],
+  "connectors": [
+   {
+    "type": "connector",
+    "id": "C05_CONN_MV_HS_1",
+    "node": "MV_HS:1",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": true,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_MV_HS_2",
+    "node": "MV_HS:2",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": false,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_XV_HS_1",
+    "node": "XV_HS:1",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": true,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_XV_HS_2",
+    "node": "XV_HS:2",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": false,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_P_HS_1",
+    "node": "P_HS:1",
+    "family": "UF_G15",
+    "bore_mm": 30.0,
+    "to_equipment": true,
+    "len_mm": 50.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_P_HS_2",
+    "node": "P_HS:2",
+    "family": "UF_G15",
+    "bore_mm": 30.0,
+    "to_equipment": false,
+    "len_mm": 50.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_FM_HS_1",
+    "node": "FM_HS:1",
+    "family": "UF_G1",
+    "bore_mm": 23.5,
+    "to_equipment": true,
+    "len_mm": 50.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_FM_HS_2",
+    "node": "FM_HS:2",
+    "family": "UF_G1",
+    "bore_mm": 23.5,
+    "to_equipment": false,
+    "len_mm": 50.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_ZR_B_U_B_T",
+    "node": "ZR_B_U_B:T",
+    "family": "R1_W33",
+    "bore_mm": 25.0,
+    "to_equipment": true,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_ZR_B_U_AB_T",
+    "node": "ZR_B_U_AB:T",
+    "family": "R1_W33",
+    "bore_mm": 25.0,
+    "to_equipment": false,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_HX_B_U_P7",
+    "node": "HX_B_U:P7",
+    "family": "RP1_W33",
+    "bore_mm": 25.0,
+    "to_equipment": true,
+    "len_mm": 39.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_HX_B_U_P1",
+    "node": "HX_B_U:P1",
+    "family": "RP1_W33",
+    "bore_mm": 25.0,
+    "to_equipment": false,
+    "len_mm": 39.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_Q_B_2",
+    "node": "Q_B:2",
+    "family": "UF_G1",
+    "bore_mm": 23.5,
+    "to_equipment": true,
+    "len_mm": 50.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_Q_B_1",
+    "node": "Q_B:1",
+    "family": "UF_G1",
+    "bore_mm": 23.5,
+    "to_equipment": false,
+    "len_mm": 50.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_FS_B_2",
+    "node": "FS_B:2",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": true,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_FS_B_1",
+    "node": "FS_B:1",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": false,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_HX_B_L_P7",
+    "node": "HX_B_L:P7",
+    "family": "RP1_W33",
+    "bore_mm": 25.0,
+    "to_equipment": true,
+    "len_mm": 39.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_HX_B_L_P1",
+    "node": "HX_B_L:P1",
+    "family": "RP1_W33",
+    "bore_mm": 25.0,
+    "to_equipment": false,
+    "len_mm": 39.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_ZR_B_L_AB_T",
+    "node": "ZR_B_L_AB:T",
+    "family": "R1_W33",
+    "bore_mm": 25.0,
+    "to_equipment": true,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_ZR_B_L_B_T",
+    "node": "ZR_B_L_B:T",
+    "family": "R1_W33",
+    "bore_mm": 25.0,
+    "to_equipment": false,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_XV_HR_2",
+    "node": "XV_HR:2",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": true,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_XV_HR_1",
+    "node": "XV_HR:1",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": false,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_MV_HR_2",
+    "node": "MV_HR:2",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": true,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_MV_HR_1",
+    "node": "MV_HR:1",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": false,
+    "len_mm": 49.0
+   }
+  ],
+  "spools": [
+   {
+    "type": "pipe",
+    "id": "E026",
+    "L_mm": 16.649999999999977,
+    "ID_mm": 27.3,
+    "n_miter": 0
+   },
+   {
+    "type": "pipe",
+    "id": "E027",
+    "L_mm": 576.7,
+    "ID_mm": 27.3,
+    "n_miter": 5
+   },
+   {
+    "type": "pipe",
+    "id": "E032",
+    "L_mm": 688.35,
+    "ID_mm": 27.3,
+    "n_miter": 5
+   },
+   {
+    "type": "pipe",
+    "id": "E033",
+    "L_mm": 885.0,
+    "ID_mm": 27.3,
+    "n_miter": 5
+   },
+   {
+    "type": "pipe",
+    "id": "E034",
+    "L_mm": 435.0,
+    "ID_mm": 27.3,
+    "n_miter": 5
+   },
+   {
+    "type": "pipe",
+    "id": "E102",
+    "L_mm": 1414.0,
+    "ID_mm": 27.3,
+    "n_miter": 5
+   },
+   {
+    "type": "pipe",
+    "id": "E105",
+    "L_mm": 830.5,
+    "ID_mm": 27.3,
+    "n_miter": 5
+   },
+   {
+    "type": "pipe",
+    "id": "E112",
+    "L_mm": 498.5,
+    "ID_mm": 27.3,
+    "n_miter": 3
+   },
+   {
+    "type": "pipe",
+    "id": "E111",
+    "L_mm": 528.3499999999999,
+    "ID_mm": 27.3,
+    "n_miter": 4
+   },
+   {
+    "type": "pipe",
+    "id": "E110",
+    "L_mm": 591.85,
+    "ID_mm": 27.3,
+    "n_miter": 4
+   },
+   {
+    "type": "pipe",
+    "id": "E093",
+    "L_mm": 1065.5,
+    "ID_mm": 27.3,
+    "n_miter": 5
+   },
+   {
+    "type": "pipe",
+    "id": "E090",
+    "L_mm": 1699.0,
+    "ID_mm": 27.3,
+    "n_miter": 5
+   },
+   {
+    "type": "pipe",
+    "id": "E044",
+    "L_mm": 436.65,
+    "ID_mm": 27.3,
+    "n_miter": 2
+   },
+   {
+    "type": "pipe",
+    "id": "E041",
+    "L_mm": 816.7,
+    "ID_mm": 27.3,
+    "n_miter": 5
+   },
+   {
+    "type": "pipe",
+    "id": "E040",
+    "L_mm": 16.649999999999977,
+    "ID_mm": 27.3,
+    "n_miter": 0
+   }
+  ],
+  "Q_zero_margin_C05": 1.5918453282860723,
+  "Q_zero_margin_BE": 1.851314580884999,
+  "Q_zero_margin_LR": 2.3623822145060154
+ },
+ "H2_5C": {
+  "path": [
+   "E003",
+   "E001",
+   "E004",
+   "E002",
+   "E009",
+   "E007",
+   "E010",
+   "E008",
+   "E011",
+   "E087",
+   "E085",
+   "E086",
+   "E082",
+   "E092",
+   "E091",
+   "E093",
+   "E106",
+   "E110",
+   "E108",
+   "E111",
+   "E109",
+   "E112",
+   "E107",
+   "E105",
+   "E103",
+   "E104",
+   "E094",
+   "E098",
+   "E097",
+   "E099",
+   "E021",
+   "E016",
+   "E018",
+   "E015",
+   "E017"
+  ],
+  "unique_simple_paths": 1,
+  "headers": [
+   {
+    "type": "header",
+    "id": "C05_JH_MV_CS_2",
+    "node": "MV_CS:2",
+    "enter": "ROOT",
+    "leave": "MAIN",
+    "flow": "RUN",
+    "flow_len_mm": 80.0,
+    "full_len_mm": 80
+   },
+   {
+    "type": "header",
+    "id": "C05_JH_P_CS_1",
+    "node": "P_CS:1",
+    "enter": "MAIN",
+    "leave": "ROOT",
+    "flow": "RUN",
+    "flow_len_mm": 185.0,
+    "full_len_mm": 185
+   },
+   {
+    "type": "header",
+    "id": "C05_JH_H_CS",
+    "node": "H_CS",
+    "enter": "MAIN",
+    "leave": "BRANCH",
+    "flow": "BRANCH",
+    "flow_len_mm": 160,
+    "full_len_mm": 290
+   },
+   {
+    "type": "header",
+    "id": "C05_JH_HX_B_L_P1",
+    "node": "HX_B_L:P1",
+    "enter": "MAIN",
+    "leave": "ROOT",
+    "flow": "RUN",
+    "flow_len_mm": 255.0,
+    "full_len_mm": 255
+   },
+   {
+    "type": "header",
+    "id": "C05_JH_FS_B_1",
+    "node": "FS_B:1",
+    "enter": "MAIN",
+    "leave": "ROOT",
+    "flow": "RUN",
+    "flow_len_mm": 115.0,
+    "full_len_mm": 115
+   },
+   {
+    "type": "header",
+    "id": "C05_JH_FS_B_2",
+    "node": "FS_B:2",
+    "enter": "ROOT",
+    "leave": "MAIN",
+    "flow": "RUN",
+    "flow_len_mm": 115.0,
+    "full_len_mm": 115
+   },
+   {
+    "type": "header",
+    "id": "C05_JH_HX_B_U_P7",
+    "node": "HX_B_U:P7",
+    "enter": "ROOT",
+    "leave": "MAIN",
+    "flow": "RUN",
+    "flow_len_mm": 255.0,
+    "full_len_mm": 255
+   },
+   {
+    "type": "header",
+    "id": "C05_JH_H_CR",
+    "node": "H_CR",
+    "enter": "BRANCH",
+    "leave": "MAIN",
+    "flow": "BRANCH",
+    "flow_len_mm": 160,
+    "full_len_mm": 290
+   },
+   {
+    "type": "header",
+    "id": "C05_JH_MV_CR_2",
+    "node": "MV_CR:2",
+    "enter": "MAIN",
+    "leave": "ROOT",
+    "flow": "RUN",
+    "flow_len_mm": 80.0,
+    "full_len_mm": 80
+   }
+  ],
+  "connectors": [
+   {
+    "type": "connector",
+    "id": "C05_CONN_MV_CS_1",
+    "node": "MV_CS:1",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": true,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_MV_CS_2",
+    "node": "MV_CS:2",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": false,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_XV_CS_1",
+    "node": "XV_CS:1",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": true,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_XV_CS_2",
+    "node": "XV_CS:2",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": false,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_P_CS_1",
+    "node": "P_CS:1",
+    "family": "UF_G15",
+    "bore_mm": 30.0,
+    "to_equipment": true,
+    "len_mm": 50.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_P_CS_2",
+    "node": "P_CS:2",
+    "family": "UF_G15",
+    "bore_mm": 30.0,
+    "to_equipment": false,
+    "len_mm": 50.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_FM_CS_1",
+    "node": "FM_CS:1",
+    "family": "UF_G1",
+    "bore_mm": 23.5,
+    "to_equipment": true,
+    "len_mm": 50.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_FM_CS_2",
+    "node": "FM_CS:2",
+    "family": "UF_G1",
+    "bore_mm": 23.5,
+    "to_equipment": false,
+    "len_mm": 50.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_ZR_B_L_A_T",
+    "node": "ZR_B_L_A:T",
+    "family": "R1_W33",
+    "bore_mm": 25.0,
+    "to_equipment": true,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_ZR_B_L_AB_T",
+    "node": "ZR_B_L_AB:T",
+    "family": "R1_W33",
+    "bore_mm": 25.0,
+    "to_equipment": false,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_HX_B_L_P1",
+    "node": "HX_B_L:P1",
+    "family": "RP1_W33",
+    "bore_mm": 25.0,
+    "to_equipment": true,
+    "len_mm": 39.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_HX_B_L_P7",
+    "node": "HX_B_L:P7",
+    "family": "RP1_W33",
+    "bore_mm": 25.0,
+    "to_equipment": false,
+    "len_mm": 39.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_FS_B_1",
+    "node": "FS_B:1",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": true,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_FS_B_2",
+    "node": "FS_B:2",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": false,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_Q_B_1",
+    "node": "Q_B:1",
+    "family": "UF_G1",
+    "bore_mm": 23.5,
+    "to_equipment": true,
+    "len_mm": 50.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_Q_B_2",
+    "node": "Q_B:2",
+    "family": "UF_G1",
+    "bore_mm": 23.5,
+    "to_equipment": false,
+    "len_mm": 50.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_HX_B_U_P1",
+    "node": "HX_B_U:P1",
+    "family": "RP1_W33",
+    "bore_mm": 25.0,
+    "to_equipment": true,
+    "len_mm": 39.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_HX_B_U_P7",
+    "node": "HX_B_U:P7",
+    "family": "RP1_W33",
+    "bore_mm": 25.0,
+    "to_equipment": false,
+    "len_mm": 39.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_ZR_B_U_AB_T",
+    "node": "ZR_B_U_AB:T",
+    "family": "R1_W33",
+    "bore_mm": 25.0,
+    "to_equipment": true,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_ZR_B_U_A_T",
+    "node": "ZR_B_U_A:T",
+    "family": "R1_W33",
+    "bore_mm": 25.0,
+    "to_equipment": false,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_XV_CR_2",
+    "node": "XV_CR:2",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": true,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_XV_CR_1",
+    "node": "XV_CR:1",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": false,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_MV_CR_2",
+    "node": "MV_CR:2",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": true,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_MV_CR_1",
+    "node": "MV_CR:1",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": false,
+    "len_mm": 49.0
+   }
+  ],
+  "spools": [
+   {
+    "type": "pipe",
+    "id": "E003",
+    "L_mm": 16.649999999999977,
+    "ID_mm": 27.3,
+    "n_miter": 0
+   },
+   {
+    "type": "pipe",
+    "id": "E004",
+    "L_mm": 516.7,
+    "ID_mm": 27.3,
+    "n_miter": 5
+   },
+   {
+    "type": "pipe",
+    "id": "E009",
+    "L_mm": 438.35,
+    "ID_mm": 27.3,
+    "n_miter": 4
+   },
+   {
+    "type": "pipe",
+    "id": "E010",
+    "L_mm": 795.0,
+    "ID_mm": 27.3,
+    "n_miter": 5
+   },
+   {
+    "type": "pipe",
+    "id": "E011",
+    "L_mm": 535.0,
+    "ID_mm": 27.3,
+    "n_miter": 5
+   },
+   {
+    "type": "pipe",
+    "id": "E087",
+    "L_mm": 551.0,
+    "ID_mm": 27.3,
+    "n_miter": 3
+   },
+   {
+    "type": "pipe",
+    "id": "E093",
+    "L_mm": 1065.5,
+    "ID_mm": 27.3,
+    "n_miter": 5
+   },
+   {
+    "type": "pipe",
+    "id": "E110",
+    "L_mm": 591.85,
+    "ID_mm": 27.3,
+    "n_miter": 4
+   },
+   {
+    "type": "pipe",
+    "id": "E111",
+    "L_mm": 528.3499999999999,
+    "ID_mm": 27.3,
+    "n_miter": 4
+   },
+   {
+    "type": "pipe",
+    "id": "E112",
+    "L_mm": 498.5,
+    "ID_mm": 27.3,
+    "n_miter": 3
+   },
+   {
+    "type": "pipe",
+    "id": "E105",
+    "L_mm": 830.5,
+    "ID_mm": 27.3,
+    "n_miter": 5
+   },
+   {
+    "type": "pipe",
+    "id": "E099",
+    "L_mm": 696.0,
+    "ID_mm": 27.3,
+    "n_miter": 3
+   },
+   {
+    "type": "pipe",
+    "id": "E021",
+    "L_mm": 426.65,
+    "ID_mm": 27.3,
+    "n_miter": 3
+   },
+   {
+    "type": "pipe",
+    "id": "E018",
+    "L_mm": 576.7,
+    "ID_mm": 27.3,
+    "n_miter": 5
+   },
+   {
+    "type": "pipe",
+    "id": "E017",
+    "L_mm": 16.649999999999977,
+    "ID_mm": 27.3,
+    "n_miter": 0
+   }
+  ],
+  "Q_zero_margin_C05": 1.6153538575837885,
+  "Q_zero_margin_BE": 1.853390950572062,
+  "Q_zero_margin_LR": 2.321337237926226
+ },
+ "H2_80C": {
+  "path": [
+   "E026",
+   "E024",
+   "E027",
+   "E025",
+   "E032",
+   "E030",
+   "E033",
+   "E031",
+   "E034",
+   "E067",
+   "E065",
+   "E066",
+   "E060",
+   "E069",
+   "E068",
+   "E070",
+   "E072",
+   "E077",
+   "E074",
+   "E076",
+   "E073",
+   "E075",
+   "E071",
+   "E058",
+   "E056",
+   "E057",
+   "E048",
+   "E054",
+   "E053",
+   "E055",
+   "E044",
+   "E039",
+   "E041",
+   "E038",
+   "E040"
+  ],
+  "unique_simple_paths": 1,
+  "headers": [
+   {
+    "type": "header",
+    "id": "C05_JH_MV_HS_2",
+    "node": "MV_HS:2",
+    "enter": "ROOT",
+    "leave": "MAIN",
+    "flow": "RUN",
+    "flow_len_mm": 80.0,
+    "full_len_mm": 80
+   },
+   {
+    "type": "header",
+    "id": "C05_JH_P_HS_1",
+    "node": "P_HS:1",
+    "enter": "MAIN",
+    "leave": "ROOT",
+    "flow": "RUN",
+    "flow_len_mm": 185.0,
+    "full_len_mm": 185
+   },
+   {
+    "type": "header",
+    "id": "C05_JH_H_HS",
+    "node": "H_HS",
+    "enter": "MAIN",
+    "leave": "BRANCH",
+    "flow": "BRANCH",
+    "flow_len_mm": 195,
+    "full_len_mm": 290
+   },
+   {
+    "type": "header",
+    "id": "C05_JH_HX_A_U_P7",
+    "node": "HX_A_U:P7",
+    "enter": "MAIN",
+    "leave": "ROOT",
+    "flow": "RUN",
+    "flow_len_mm": 255.0,
+    "full_len_mm": 255
+   },
+   {
+    "type": "header",
+    "id": "C05_JH_FS_A_2",
+    "node": "FS_A:2",
+    "enter": "MAIN",
+    "leave": "ROOT",
+    "flow": "RUN",
+    "flow_len_mm": 115.0,
+    "full_len_mm": 115
+   },
+   {
+    "type": "header",
+    "id": "C05_JH_FS_A_1",
+    "node": "FS_A:1",
+    "enter": "ROOT",
+    "leave": "MAIN",
+    "flow": "RUN",
+    "flow_len_mm": 115.0,
+    "full_len_mm": 115
+   },
+   {
+    "type": "header",
+    "id": "C05_JH_HX_A_L_P1",
+    "node": "HX_A_L:P1",
+    "enter": "ROOT",
+    "leave": "MAIN",
+    "flow": "RUN",
+    "flow_len_mm": 255.0,
+    "full_len_mm": 255
+   },
+   {
+    "type": "header",
+    "id": "C05_JH_H_HR",
+    "node": "H_HR",
+    "enter": "BRANCH",
+    "leave": "MAIN",
+    "flow": "BRANCH",
+    "flow_len_mm": 195,
+    "full_len_mm": 290
+   },
+   {
+    "type": "header",
+    "id": "C05_JH_MV_HR_2",
+    "node": "MV_HR:2",
+    "enter": "MAIN",
+    "leave": "ROOT",
+    "flow": "RUN",
+    "flow_len_mm": 80.0,
+    "full_len_mm": 80
+   }
+  ],
+  "connectors": [
+   {
+    "type": "connector",
+    "id": "C05_CONN_MV_HS_1",
+    "node": "MV_HS:1",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": true,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_MV_HS_2",
+    "node": "MV_HS:2",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": false,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_XV_HS_1",
+    "node": "XV_HS:1",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": true,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_XV_HS_2",
+    "node": "XV_HS:2",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": false,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_P_HS_1",
+    "node": "P_HS:1",
+    "family": "UF_G15",
+    "bore_mm": 30.0,
+    "to_equipment": true,
+    "len_mm": 50.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_P_HS_2",
+    "node": "P_HS:2",
+    "family": "UF_G15",
+    "bore_mm": 30.0,
+    "to_equipment": false,
+    "len_mm": 50.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_FM_HS_1",
+    "node": "FM_HS:1",
+    "family": "UF_G1",
+    "bore_mm": 23.5,
+    "to_equipment": true,
+    "len_mm": 50.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_FM_HS_2",
+    "node": "FM_HS:2",
+    "family": "UF_G1",
+    "bore_mm": 23.5,
+    "to_equipment": false,
+    "len_mm": 50.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_ZR_A_U_B_T",
+    "node": "ZR_A_U_B:T",
+    "family": "R1_W33",
+    "bore_mm": 25.0,
+    "to_equipment": true,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_ZR_A_U_AB_T",
+    "node": "ZR_A_U_AB:T",
+    "family": "R1_W33",
+    "bore_mm": 25.0,
+    "to_equipment": false,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_HX_A_U_P7",
+    "node": "HX_A_U:P7",
+    "family": "RP1_W33",
+    "bore_mm": 25.0,
+    "to_equipment": true,
+    "len_mm": 39.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_HX_A_U_P1",
+    "node": "HX_A_U:P1",
+    "family": "RP1_W33",
+    "bore_mm": 25.0,
+    "to_equipment": false,
+    "len_mm": 39.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_Q_A_2",
+    "node": "Q_A:2",
+    "family": "UF_G1",
+    "bore_mm": 23.5,
+    "to_equipment": true,
+    "len_mm": 50.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_Q_A_1",
+    "node": "Q_A:1",
+    "family": "UF_G1",
+    "bore_mm": 23.5,
+    "to_equipment": false,
+    "len_mm": 50.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_FS_A_2",
+    "node": "FS_A:2",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": true,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_FS_A_1",
+    "node": "FS_A:1",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": false,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_HX_A_L_P7",
+    "node": "HX_A_L:P7",
+    "family": "RP1_W33",
+    "bore_mm": 25.0,
+    "to_equipment": true,
+    "len_mm": 39.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_HX_A_L_P1",
+    "node": "HX_A_L:P1",
+    "family": "RP1_W33",
+    "bore_mm": 25.0,
+    "to_equipment": false,
+    "len_mm": 39.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_ZR_A_L_AB_T",
+    "node": "ZR_A_L_AB:T",
+    "family": "R1_W33",
+    "bore_mm": 25.0,
+    "to_equipment": true,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_ZR_A_L_B_T",
+    "node": "ZR_A_L_B:T",
+    "family": "R1_W33",
+    "bore_mm": 25.0,
+    "to_equipment": false,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_XV_HR_2",
+    "node": "XV_HR:2",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": true,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_XV_HR_1",
+    "node": "XV_HR:1",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": false,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_MV_HR_2",
+    "node": "MV_HR:2",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": true,
+    "len_mm": 49.0
+   },
+   {
+    "type": "connector",
+    "id": "C05_CONN_MV_HR_1",
+    "node": "MV_HR:1",
+    "family": "NPT1_W33",
+    "bore_mm": 24.0,
+    "to_equipment": false,
+    "len_mm": 49.0
+   }
+  ],
+  "spools": [
+   {
+    "type": "pipe",
+    "id": "E026",
+    "L_mm": 16.649999999999977,
+    "ID_mm": 27.3,
+    "n_miter": 0
+   },
+   {
+    "type": "pipe",
+    "id": "E027",
+    "L_mm": 576.7,
+    "ID_mm": 27.3,
+    "n_miter": 5
+   },
+   {
+    "type": "pipe",
+    "id": "E032",
+    "L_mm": 688.35,
+    "ID_mm": 27.3,
+    "n_miter": 5
+   },
+   {
+    "type": "pipe",
+    "id": "E033",
+    "L_mm": 885.0,
+    "ID_mm": 27.3,
+    "n_miter": 5
+   },
+   {
+    "type": "pipe",
+    "id": "E034",
+    "L_mm": 435.0,
+    "ID_mm": 27.3,
+    "n_miter": 5
+   },
+   {
+    "type": "pipe",
+    "id": "E067",
+    "L_mm": 491.0,
+    "ID_mm": 27.3,
+    "n_miter": 4
+   },
+   {
+    "type": "pipe",
+    "id": "E070",
+    "L_mm": 805.5,
+    "ID_mm": 27.3,
+    "n_miter": 4
+   },
+   {
+    "type": "pipe",
+    "id": "E077",
+    "L_mm": 498.5,
+    "ID_mm": 27.3,
+    "n_miter": 3
+   },
+   {
+    "type": "pipe",
+    "id": "E076",
+    "L_mm": 528.3499999999999,
+    "ID_mm": 27.3,
+    "n_miter": 4
+   },
+   {
+    "type": "pipe",
+    "id": "E075",
+    "L_mm": 421.85,
+    "ID_mm": 27.3,
+    "n_miter": 4
+   },
+   {
+    "type": "pipe",
+    "id": "E058",
+    "L_mm": 1025.5,
+    "ID_mm": 27.3,
+    "n_miter": 5
+   },
+   {
+    "type": "pipe",
+    "id": "E055",
+    "L_mm": 624.0,
+    "ID_mm": 27.3,
+    "n_miter": 4
+   },
+   {
+    "type": "pipe",
+    "id": "E044",
+    "L_mm": 436.65,
+    "ID_mm": 27.3,
+    "n_miter": 2
+   },
+   {
+    "type": "pipe",
+    "id": "E041",
+    "L_mm": 816.7,
+    "ID_mm": 27.3,
+    "n_miter": 5
+   },
+   {
+    "type": "pipe",
+    "id": "E040",
+    "L_mm": 16.649999999999977,
+    "ID_mm": 27.3,
+    "n_miter": 0
+   }
+  ],
+  "Q_zero_margin_C05": 1.616561626937483,
+  "Q_zero_margin_BE": 1.885631826249359,
+  "Q_zero_margin_LR": 2.3935081837928296
+ }
+}
