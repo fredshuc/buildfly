@@ -1,0 +1,17 @@
+{
+  "original_name": "AT_HYD3_RT01_ENGLISH_MANUAL_REVIEW_20261014.zip",
+  "original_bytes": 36086078,
+  "original_sha256": "0e931351b87aeabf54ee12f92433c28dfd499534a339a304bea17c69134647af",
+  "parts": [
+    {
+      "name": "AT_HYD3_RT01_ENGLISH_MANUAL_REVIEW_20261014.zip.001",
+      "bytes": 24000000,
+      "sha256": "5761715e5c819786930abd45578d03a5ca35e9605bc162d233ec8a884b7ddf34"
+    },
+    {
+      "name": "AT_HYD3_RT01_ENGLISH_MANUAL_REVIEW_20261014.zip.002",
+      "bytes": 12086078,
+      "sha256": "53ea22aabc3bc790f0589ffae2070b328f1711246b4a27d09161fe7522a245cb"
+    }
+  ]
+}
