@@ -1,0 +1,23 @@
+{
+ "v0498B": {
+  "L_m": 1.85,
+  "corners": 10,
+  "corner_type": "LR 1.5D elbow",
+  "dp_kPa": 2.3,
+  "note": "bed link 0.31 m; no FS/Q; HX ports of earlier layout"
+ },
+ "C05": {
+  "L_m": 5.1,
+  "corners": 29,
+  "corner_type": "single-cut miter",
+  "dp_kPa": 20.5,
+  "dp_if_elbows": 6.5
+ },
+ "F02": {
+  "L_m": 5.29,
+  "corners": 16,
+  "corner_type": "sharp (undefined)",
+  "dp_kPa_miter": 12.4,
+  "dp_kPa_LR": 4.7
+ }
+}
