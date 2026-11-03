@@ -1,0 +1,135 @@
+{
+  "status": "CANDIDATE_DOCUMENT_AND_NUMERIC_QA_PASS_WITH_DISCLOSED_COMPLETION_ITEMS",
+  "task": "EIC26-C05-A16-R1",
+  "prepared_utc": "2026-11-03T04:42:13.292684+00:00",
+  "main_documents": [
+    {
+      "stem": "EIC26-C05-A16-R1_PartB_EN",
+      "docx_sha256": "85d2f7461729522b33e5bbee8160cd7083c92d3ebdef16e3e3edea96d1ceff26",
+      "pdf_sha256": "7a6f70773b94c9f9a4395b123de22aee2e42866d666d6d7cfbb002e17fed7691",
+      "pages": 19,
+      "page_limit": 20,
+      "ordered_MD_DOCX_blocks_exact": true,
+      "blocks": 198,
+      "tables": 6,
+      "text_runs_checked": 378,
+      "visible_run_font_issues": [],
+      "sections": [
+        {
+          "page_mm": [
+            210.00861111111112,
+            297.0036111111111
+          ],
+          "margins_mm": [
+            15.998472222222222,
+            15.998472222222222,
+            15.998472222222222,
+            15.998472222222222
+          ]
+        }
+      ],
+      "same_docx_pdf_export_verified": true,
+      "pdf_text_blocks_checked": 376,
+      "pdf_table_cell_spatial_fallbacks": 101,
+      "pdf_missing_normalized_blocks": [],
+      "pdf_font_sizes_pt": [
+        11.0,
+        12.0,
+        14.0
+      ],
+      "prohibited_internal_hits": []
+    },
+    {
+      "stem": "EIC26-C05-A16-R1_Implementation_Plan_EN",
+      "docx_sha256": "b81abf4e0c73d91ea377a88e5588c034d6b0727c5c388124d3bab539ecd376d0",
+      "pdf_sha256": "05518f13a66a1d4e3dbf246c51856b62ddbb848d21a4b8ad7a8da6eb1d9632e1",
+      "pages": 10,
+      "page_limit": 10,
+      "ordered_MD_DOCX_blocks_exact": true,
+      "blocks": 76,
+      "tables": 9,
+      "text_runs_checked": 489,
+      "visible_run_font_issues": [],
+      "sections": [
+        {
+          "page_mm": [
+            210.00861111111112,
+            297.0036111111111
+          ],
+          "margins_mm": [
+            15.998472222222222,
+            15.998472222222222,
+            15.998472222222222,
+            15.998472222222222
+          ]
+        }
+      ],
+      "same_docx_pdf_export_verified": true,
+      "pdf_text_blocks_checked": 487,
+      "pdf_table_cell_spatial_fallbacks": 51,
+      "pdf_missing_normalized_blocks": [],
+      "pdf_font_sizes_pt": [
+        11.0,
+        12.0,
+        14.0
+      ],
+      "prohibited_internal_hits": []
+    },
+    {
+      "stem": "EIC26-C05-A16-R1_FTO_Status_Note_EN",
+      "docx_sha256": "c19bd243ec50065d1d16ecbf09ce55ba02516285fe7cd83bccff52b86568d130",
+      "pdf_sha256": "6bb78218c0b3f5729565fe5cc03d82f618472a2c415619010e3aba65636aa3ff",
+      "pages": 2,
+      "page_limit": 2,
+      "ordered_MD_DOCX_blocks_exact": true,
+      "blocks": 16,
+      "tables": 1,
+      "text_runs_checked": 27,
+      "visible_run_font_issues": [],
+      "sections": [
+        {
+          "page_mm": [
+            210.00861111111112,
+            297.0036111111111
+          ],
+          "margins_mm": [
+            15.998472222222222,
+            15.998472222222222,
+            15.998472222222222,
+            15.998472222222222
+          ]
+        }
+      ],
+      "same_docx_pdf_export_verified": true,
+      "pdf_text_blocks_checked": 25,
+      "pdf_table_cell_spatial_fallbacks": 7,
+      "pdf_missing_normalized_blocks": [],
+      "pdf_font_sizes_pt": [
+        11.0,
+        14.0
+      ],
+      "prohibited_internal_hits": []
+    }
+  ],
+  "actual_visual_pages": 31,
+  "pitch_pdf_pages": 12,
+  "budget_checks": "27 independent checks PASS; 35 independent workbook and 13 official unique ranges actually viewed by line B",
+  "official_DB": "Both copies: 3071 formula elements, zero arithmetic changes, five text-header alignments; original VBA byte-identical; 627 inherited hidden errors unchanged.",
+  "FP": "209 inputs; 98 recalculated formula caches; 40 independent financial checks; literal original formula XML preserved; six final ranges actually viewed. C80/C82/C83 remain actual-data completion fields.",
+  "accepted_originals_unchanged": 30,
+  "same_DOCX_PDF_export": true,
+  "pdf_text_coverage": "Every normalized expected paragraph/table-cell text found in final PDF extraction, including spatial table extraction; no invented claim of global extraction order.",
+  "fonts": "All visible DOCX text runs Times New Roman >=11pt; actual PDF text sizes 11/12/14pt; A4 and 16mm margins verified.",
+  "AI": "Yes, bounded supervisory control with physical limits, deterministic fallback, separate validation data and operator oversight.",
+  "video": "Original 88.672s source located/hashed; full PCM decoded and 19 visual samples inspected. Full listening, exact spoken cuts and final edited MP4 are not complete.",
+  "unperformed": [
+    "final Portal submission",
+    "outreach",
+    "contracts or signatures",
+    "procurement or financing commitments",
+    "native Excel or native Word execution in this run",
+    "current CETP ledger audit",
+    "complete source-video listening or verified final MP4 edit"
+  ],
+  "minimum_completion_items": "internal/MINIMUM_COMPLETION_ITEMS.json"
+}

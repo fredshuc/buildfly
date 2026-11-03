@@ -1,0 +1,50 @@
+{
+  "verified_utc": "2026-11-03T02:44:22.926133Z",
+  "source": "C:\\Users\\Gebruiker\\Downloads\\EIC26-C05-A16-R1_ISSUE.zip",
+  "bytes": 400292,
+  "sha256": "89840371bac69a9e62af58fa09b5ec4aff4d5b9f45bc1516d7739b7dbd047079",
+  "members": 8,
+  "crc_pass": true,
+  "files": [
+    {
+      "name": "EIC26-C05-A16-R1_L1_TO_L2_SUBMISSION_REWRITE_CN.md",
+      "bytes": 28875,
+      "sha256": "e108a28b165085dfd1ec2a6c6e73929bbdcb7a8a853b4babf97692108aff99f3"
+    },
+    {
+      "name": "inputs/2025_ESR_101297706_AirTransformer.pdf",
+      "bytes": 391535,
+      "sha256": "9ba5fb41542e840d06cd7e0fa07c309044f86b0990a51ec566a85605921afb21"
+    },
+    {
+      "name": "inputs/EIC26-C05_PartB_Excellence_Expanded_Draft_20261031_EN.md",
+      "bytes": 97135,
+      "sha256": "3c074dbdd9863c192557b611228a43ff6dbe19007cf35dfde3effe3c2b2dd5cc"
+    },
+    {
+      "name": "inputs/EIC26-C05-A15-R2_Grant_Only_Platform_Conversion_Report_EN.md",
+      "bytes": 22379,
+      "sha256": "67380ee0206064cf2ecff1fe67fa3c68c8650f3665b0f3eeb7bb484d291d0fff"
+    },
+    {
+      "name": "internal_reviews/ESR_2025_source_review.md",
+      "bytes": 15112,
+      "sha256": "71a7ff8aff29c4d097aa9cffc880df6ff8017fae2a5ad40e10932d6ceb59d5e6"
+    },
+    {
+      "name": "internal_reviews/Challenge_2026_route_review.md",
+      "bytes": 8039,
+      "sha256": "7d16f9bb799f20d27db07fb1541af281631c7aaa51a1de48a8d99b6927302924"
+    },
+    {
+      "name": "README.md",
+      "bytes": 2379,
+      "sha256": "9bdcf5037e5132c9eb3ec242eabb9c87bcacf79d4d10ca3644b3e15b46d0815c"
+    },
+    {
+      "name": "MANIFEST.json",
+      "bytes": 1974,
+      "sha256": "769a5fb15f0cbba7f8360858c50db763dcefacfcf006278449e6a1cfe199e1b8"
+    }
+  ]
+}

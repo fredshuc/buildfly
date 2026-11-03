@@ -1,0 +1,14 @@
+[
+  {
+    "source": "C:\\Users\\Gebruiker\\Downloads\\ademe\\submission\\Extrait KBIS - Savery Tech.pdf",
+    "copy": "inputs\\company\\Extrait KBIS - Savery Tech.pdf",
+    "bytes": 598491,
+    "sha256": "bb704ad5d82e82e394226e52911f55e5e2c3545035f86954999954e8bd09ce18"
+  },
+  {
+    "source": "C:\\Users\\Gebruiker\\Downloads\\ademe\\submission\\table_capitalisation Savery.pdf",
+    "copy": "inputs\\company\\table_capitalisation Savery.pdf",
+    "bytes": 186436,
+    "sha256": "a303ad3f92b55265ea65313dc8252bcb207aacb4807e78d451123892aba5813a"
+  }
+]

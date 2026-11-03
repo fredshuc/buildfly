@@ -1,0 +1,45 @@
+{
+  "status": "COMPLETE_PLANNING_CANDIDATE_WITH_EXECUTION_FIELDS",
+  "requires_another_user_confirmation_to_deliver_draft": false,
+  "already_known_do_not_request_again": {
+    "PIC": "875382903",
+    "application_draft_id": "SEP-211428709",
+    "cash_as_of_2026_11_03_EUR": 300000,
+    "outstanding_debt_and_short_term_liabilities": "None, user reported",
+    "Seed_target_EUR": 8000000,
+    "EIC_investment_within_Seed_EUR": 2000000,
+    "other_Seed_target_EUR": 6000000
+  },
+  "fields": [
+    {
+      "area": "Employment and cost category",
+      "minimum_evidence": "Actual employment or owner/director engagement category, employer-cost assumptions and exclusive EIC/CETP role-month/time allocation before charging costs.",
+      "candidate_treatment": "Explicit role-specific future estimates; no new assertion of existing payroll contracts; zero paid board PM.",
+      "owner": "Company finance/project lead"
+    },
+    {
+      "area": "Equipment and service accounting",
+      "minimum_evidence": "Normal useful lives, attributable use, ready-for-use dates, recoverable VAT and purchase/service/rental terms. Classify C12 as temporary service only if the final scope is a service.",
+      "candidate_treatment": "Estimated lives and use, full acquisition cash separate from depreciation; staggered contactor commissioning.",
+      "owner": "Company accountant and procurement lead"
+    },
+    {
+      "area": "CETP allocation and HPE incremental use",
+      "minimum_evidence": "Executed CETP work/cost allocation and relevant background/site rights mapped to EIC employee time, assets, test IDs, services and invoices.",
+      "candidate_treatment": "Distinct productisation outputs and incremental cost plan; no claim of a newly audited full grant ledger or new HPE contract.",
+      "owner": "Company project lead and CETP coordinator"
+    },
+    {
+      "area": "Procurement and facility capacity",
+      "minimum_evidence": "Comparable supplier scopes/prices, independent test-body applicability and actual facility/access windows before contracts.",
+      "candidate_treatment": "Dated reasonable engineering estimates and a non-overlapping unit/fixture calendar, not bookings or quotations.",
+      "owner": "Engineering and quality leads"
+    },
+    {
+      "area": "Financing and grant cash timing",
+      "minimum_evidence": "Actual Seed/EIC-investment conditions and grant payment/retention schedule when known, combined with intervening company cash flows.",
+      "candidate_treatment": "Targets kept separate from receipts; 60/25/15 timing scenario is illustrative; EUR300k November cash not assumed unchanged at future M1.",
+      "owner": "Company finance lead"
+    }
+  ]
+}

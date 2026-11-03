@@ -1,0 +1,882 @@
+{
+  "read_date": "2026-11-03",
+  "sources": [
+    {
+      "id": "M1",
+      "type": "primary_public_projection",
+      "url": "https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary",
+      "read_scope": "Executive summary data-centre outlook, actual web read/open 3 November 2026",
+      "supports": "485 TWh2025 to950TWh2030, whole facility rather than assigned cooling demand"
+    },
+    {
+      "id": "M2",
+      "type": "primary_public_forecast",
+      "url": "https://www.cbre.com/insights/books/european-real-estate-market-outlook-midyear-review-2026/data-centres",
+      "read_scope": "Actual full returned page, new supply and power constraints",
+      "supports": "European supply outlook and delays; not2031SAM"
+    },
+    {
+      "id": "M3",
+      "type": "primary_public_policy_context",
+      "url": "https://energy.ec.europa.eu/topics/energy-efficiency/energy-efficiency-targets-directive-and-rules/energy-efficiency-directive/energy-performance-data-centres_en",
+      "read_scope": "Actual returned page, power/water context",
+      "supports": "Data-centre energy and water relevance only; no inference of statutory product certification"
+    },
+    {
+      "id": "M4",
+      "type": "primary_public_dated_forecast",
+      "url": "https://mediaassets.cbre.com/-/media/project/cbre/shared-site/insights/figures/European-Data-Centres-Figures-Q3-2025/European-Data-Centres-Figures-Q3-2025",
+      "read_scope": "Physicalp2 Figure2 actual PDF text read",
+      "supports": "Projected2025FLAPD new capacity227+193+31+84+89=624MW; neitherobservedpurchaseevents nor2031forecast"
+    },
+    {
+      "id": "M5",
+      "type": "manufacturer_disclosure",
+      "url": "https://airjouletech.com/products/",
+      "read_scope": "Actual Prime/CoreDH product page read/open",
+      "supports": "Low-gradeheat,specifiedwater/dryair/dehumidification functions; firstPrimeNewarkMay2026 andEuropeanQ42026deploymentplanned, no same-service win claim"
+    },
+    {
+      "id": "M6",
+      "type": "manufacturer_issued_press_release",
+      "url": "https://www.prnewswire.com/news-releases/kcc-manufacturing-partners-with-transaera-to-scale-us-production-of-mof-based-high-efficiency-cooling-302892107.html",
+      "read_scope": "Actual issuerKCCreleasebodylines465–478,29Sep2026",
+      "supports": "MOF dedicatedoutdoorair treatment andKCCmanufacturing partnership"
+    },
+    {
+      "id": "M7",
+      "type": "manufacturer_disclosure",
+      "url": "https://mojavehvac.com/products/arctidry-hydro/",
+      "read_scope": "Actual productpage",
+      "supports": "Hydronicliquiddesiccantairhandlerandlowgradeheatcompatibility"
+    },
+    {
+      "id": "M8",
+      "type": "manufacturer_disclosure",
+      "url": "https://datacenter.munters.com/product/sycool-split/",
+      "read_scope": "Actual productpage",
+      "supports": "Waterless thermosyphonfreecooling withcompressorstage atwarmconditions"
+    },
+    {
+      "id": "M9",
+      "type": "company_forecast",
+      "path": "work/A03/R1/intake/package/sources/originals/03_Savery_Growth_Business_Plan_EN_G3_1.docx",
+      "read_scope": "Actual OOXMLparagraph/table extraction thisround, pricing/conversion/maintenance/revenue paragraphs read",
+      "supports": "CompanywideG3.1forecast,120kpackage110k/8k/2k,billing20/20/55/5,maintenance3%,attachment60%renewal90%; notC05-specificorders",
+      "bytes": 48160,
+      "sha256": "1f2d2ed2e1c52c5699ab26c0653537c806ab630874eb2bc3696de143c21a6a34"
+    },
+    {
+      "id": "M10",
+      "type": "primary_public_challenge_scope",
+      "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator/eic-accelerator-challenges-2026/deep-tech-climate-adaptation_en",
+      "read_scope": "Actual page read/open,urbanextremeheat/urbancooling/Missionroutes",
+      "supports": "C05priorityandnonexhaustiveexamples; no fictitiousmunicipalcustomer"
+    },
+    {
+      "id": "USER_CURRENT",
+      "type": "current_user_facts",
+      "path": "work/A16/R1/intake/package/EIC26-C05-A16-R1_L1_TO_L2_SUBMISSION_REWRITE_CN.md",
+      "read_scope": "Entire task read; additional directuserupdates in parentconversation3November2026",
+      "supports": "TRL6wholemachine,owned2019IP,CAU,NorbertStock/AlineAurouxscientificboard,CETPgrant2026–2029targetTRL7/HPEsite; latestgender/founder/BSA-AIR10%pool/cash300k/noshorttermdebt facts",
+      "bytes": 28875,
+      "sha256": "e108a28b165085dfd1ec2a6c6e73929bbdcb7a8a853b4babf97692108aff99f3"
+    },
+    {
+      "id": "BUDGET_CURRENT",
+      "type": "project_estimate",
+      "path": "work/A16/R1/line_b/budget.json",
+      "read_scope": "Currenttotals,14roles,WPs,investmentuse andsalescapacity read; finalcorrectedbudget",
+      "supports": "3550833.333333eligible,2485583.333333grant,1065250nongrant,258PM,529kpurchase170916.666666dep,3908916.666666actioncash,1423333.333333residual;WP6/BDhire separate",
+      "bytes": 113769,
+      "sha256": "284571f9a80db7247f7004ee47ccd96c8dbe3503ef1f97ad1166104cefa23ec7"
+    },
+    {
+      "id": "CV_FRED",
+      "type": "company_supplied_CV",
+      "path": "C:/Users/Gebruiker/Downloads/D2 CV_Frederic_CUI.pdf",
+      "read_scope": "Actualpp1–2 text read",
+      "supports": "ARMINESmodelling/experimentalvalidation,venturefounding,sorption/prototyping expertise; no inferredcurrentequity/genderfromname",
+      "bytes": 305138,
+      "sha256": "5d8e9f28c3ace64c4af8a440c2fa00dcbde8fdd660967bfa79b263332b643954"
+    },
+    {
+      "id": "CV_QIN",
+      "type": "company_supplied_CV",
+      "path": "C:/Users/Gebruiker/Downloads/D4.3 CV_Qin_YU.pdf",
+      "read_scope": "Actualpp1–2 text read",
+      "supports": "Energie71heatpumpteams,technicalprojectsEiffage,engineering/supplier/commissioningrole",
+      "bytes": 120446,
+      "sha256": "40b7dbc13f86ffdd8e6d4c2c1958f82f18e2068ad833771c495f8c59c6f851bd"
+    },
+    {
+      "id": "CAPITAL_DECLARATION",
+      "type": "signed_company_declaration",
+      "path": "C:/Users/Gebruiker/Downloads/ademe/submission/table_capitalisation Savery.pdf",
+      "read_scope": "Actualphysicalp1textread thisround",
+      "supports": "7Apr2026CURMASolutions100%issuedcapital/votingrights,rollforwardlatestuserunconverted/nodilution; notfinalpostconversionFD",
+      "bytes": 186436,
+      "sha256": "a303ad3f92b55265ea65313dc8252bcb207aacb4807e78d451123892aba5813a"
+    },
+    {
+      "id": "CURRENT_DRAFT",
+      "type": "historical_draft_source",
+      "path": "deliverables/Proposal_20261031/EIC26-C05_PartB_Excellence_Expanded_Draft_20261031_EN.docx",
+      "read_scope": "ActualOOXMLalltext extracted; sections2–3read",
+      "supports": "Retainedbusinessmodel/teamexpertise/sourceidentities; grant-onlyandoldunknownfactssuperseded",
+      "bytes": 74906,
+      "sha256": "00e77e26a4f6875e01a38d71dd65a518bb94929f1b8f104bc24adb75bbf9a625"
+    },
+    {
+      "id": "A10_REFERENCE",
+      "type": "accepted_visual_reference",
+      "path": "accepted/A10-R1-L1A/EIC26-C05-A10-R1_Pitch_Deck_EN.pptx",
+      "read_scope": "All12sourcePNGslidesvisuallyread; actualdeckimported andobjects/notes inspected",
+      "supports": "12slide1280x720Arialnavy/tealdesign andeditabletemplategeometry",
+      "bytes": 82656,
+      "sha256": "5a7959320cb76a9247eb3d71e120ef5f14b809676ec68d8fc6efaae589dc85a0"
+    },
+    {
+      "id": "VIDEO_ACTUAL",
+      "type": "actual_source_media",
+      "path": "C:/Users/Gebruiker/Downloads/Document 3 -AirTransformer.mp4",
+      "read_scope": "Actualbytes/hash/nativeMP4container metadata only",
+      "supports": "88.672sec,1280x720AVC/AAC; noactualaudio/framecontentreviewclaimed",
+      "bytes": 21144919,
+      "sha256": "3e15715c9f15d8e7efe4714b09308235dfaa7877e33b311aae04d16ac2041b2d"
+    }
+  ],
+  "paragraph_source_map": [
+    {
+      "paragraph_block": 4,
+      "heading": "### Cooling continuity is a purchasing requirement",
+      "first_words": "AirTransformer serves facilities that must keep cooling through heatwaves while operating within electrical and",
+      "sources": [
+        "CURRENT_DRAFT",
+        "USER_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 5,
+      "heading": "### Cooling continuity is a purchasing requirement",
+      "first_words": "This need is growing alongside digital infrastructure. The IEA projects global data-centre electricity consumption",
+      "sources": [
+        "CURRENT_DRAFT",
+        "USER_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 6,
+      "heading": "### Cooling continuity is a purchasing requirement",
+      "first_words": "We initially address two purchasing situations. In an existing urban facility, the operator may",
+      "sources": [
+        "CURRENT_DRAFT",
+        "USER_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 7,
+      "heading": "### Cooling continuity is a purchasing requirement",
+      "first_words": "The owner or developer approves investment, facilities engineers define interfaces, procurement allocates contractual responsibility",
+      "sources": [
+        "CURRENT_DRAFT",
+        "USER_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 8,
+      "heading": "### Cooling continuity is a purchasing requirement",
+      "first_words": "Site qualification is a joint engineering and commercial decision. Usable heat must be available",
+      "sources": [
+        "CURRENT_DRAFT",
+        "USER_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 10,
+      "heading": "### A quantified initial serviceable market",
+      "first_words": "For commercial planning we define an initial annual serviceable market in 2031 covering urban",
+      "sources": [
+        "CURRENT_DRAFT",
+        "USER_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 11,
+      "heading": "### A quantified initial serviceable market",
+      "first_words": "CBRE's third-quarter 2025 report projected 624 MW of full-year new capacity across these five",
+      "sources": [
+        "M4",
+        "CURRENT_DRAFT",
+        "USER_CURRENT",
+        "MARKET_MODEL.json"
+      ],
+      "evidence_type": "MANAGEMENT_MARKET_ESTIMATE",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 12,
+      "heading": "### A quantified initial serviceable market",
+      "first_words": "The resulting 15 MW of serviceable annual cooling duty is valued at a planning",
+      "sources": [
+        "CURRENT_DRAFT",
+        "USER_CURRENT",
+        "M4",
+        "MARKET_MODEL.json"
+      ],
+      "evidence_type": "MANAGEMENT_MARKET_ESTIMATE",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 13,
+      "heading": "### A quantified initial serviceable market",
+      "first_words": "We target €0.6 million of sales within this same C05 geography and installed-service scope",
+      "sources": [
+        "CURRENT_DRAFT",
+        "USER_CURRENT",
+        "M4",
+        "MARKET_MODEL.json",
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 14,
+      "heading": "### A quantified initial serviceable market",
+      "first_words": "The wider opportunity includes suitable retrofits, further European markets and North American deployments, followed",
+      "sources": [
+        "CURRENT_DRAFT",
+        "USER_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 16,
+      "heading": "### Competition and the customer's alternative investment",
+      "first_words": "Customers can retain compression cooling, improve economisation or water reuse, procure another desiccant or",
+      "sources": [
+        "CURRENT_DRAFT",
+        "USER_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 17,
+      "heading": "### Competition and the customer's alternative investment",
+      "first_words": "AirJoule's current Prime disclosure describes water and dry-air production using low-grade waste heat, while",
+      "sources": [
+        "M5",
+        "CURRENT_DRAFT",
+        "USER_CURRENT",
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 18,
+      "heading": "### Competition and the customer's alternative investment",
+      "first_words": "Transaera addresses MOF-based outdoor-air treatment. Mojave offers liquid-desiccant air handling, including hydronic configurations. Munters",
+      "sources": [
+        "CURRENT_DRAFT",
+        "USER_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 19,
+      "heading": "### Competition and the customer's alternative investment",
+      "first_words": "Savery retains product authority across application engineering, critical process specifications, assembly, control configuration and",
+      "sources": [
+        "CURRENT_DRAFT",
+        "USER_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 22,
+      "heading": "### Equipment and service with a defined acceptance boundary",
+      "first_words": "Our initial revenue model combines equipment, installation, application engineering and paid maintenance. The customer",
+      "sources": [
+        "USER_CURRENT",
+        "CURRENT_DRAFT",
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 23,
+      "heading": "### Equipment and service with a defined acceptance boundary",
+      "first_words": "The company growth model uses a €120,000 reference package comprising €110,000 equipment, €8,000 installation",
+      "sources": [
+        "M9",
+        "M4",
+        "MARKET_MODEL.json"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 24,
+      "heading": "### Equipment and service with a defined acceptance boundary",
+      "first_words": "Our pilot-stage hardware benchmark is €1,100/kW. The manufacturing development path targets €900/kW at the",
+      "sources": [
+        "USER_CURRENT",
+        "CURRENT_DRAFT",
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 25,
+      "heading": "### Equipment and service with a defined acceptance boundary",
+      "first_words": "Sales and application engineering jointly qualify the account before an order enters production. The",
+      "sources": [
+        "M9"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 26,
+      "heading": "### Equipment and service with a defined acceptance boundary",
+      "first_words": "Maintenance begins after the first year in the operating model, with an annual reference",
+      "sources": [
+        "USER_CURRENT",
+        "CURRENT_DRAFT",
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 28,
+      "heading": "### Customer economics under explicit operating conditions",
+      "first_words": "The purchasing case combines avoided electrical consumption, external make-up water and the cost of",
+      "sources": [
+        "USER_CURRENT",
+        "CURRENT_DRAFT",
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "CALCULATED_SCENARIO",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 29,
+      "heading": "### Customer economics under explicit operating conditions",
+      "first_words": "At €0.35/kWh of electricity, that reduction is worth approximately €58,300–65,300 annually. The example allows",
+      "sources": [
+        "USER_CURRENT",
+        "CURRENT_DRAFT",
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "CALCULATED_SCENARIO",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 30,
+      "heading": "### Customer economics under explicit operating conditions",
+      "first_words": "We will calculate each customer's case using its actual load, operating hours, tariffs and",
+      "sources": [
+        "USER_CURRENT",
+        "CURRENT_DRAFT",
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 32,
+      "heading": "### Market entry and repeat deployment",
+      "first_words": "The CETP project provides an established collaboration and site path with HPE for the",
+      "sources": [
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 33,
+      "heading": "### Market entry and repeat deployment",
+      "first_words": "Ina Wang will lead account development and customer requirements with the application and engineering",
+      "sources": [
+        "BUDGET_CURRENT",
+        "USER_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 34,
+      "heading": "### Market entry and repeat deployment",
+      "first_words": "An accepted installation creates reusable interface specifications, commissioning methods, operating evidence and maintenance procedures.",
+      "sources": [
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 35,
+      "heading": "### Market entry and repeat deployment",
+      "first_words": "The broader company scenario rises from €0.48 million revenue and four accepted reference units",
+      "sources": [
+        "M9"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 36,
+      "heading": "### Market entry and repeat deployment",
+      "first_words": "The growth model assumes each sales and application-engineering pair develops eight qualified accounts annually,",
+      "sources": [
+        "USER_CURRENT",
+        "CURRENT_DRAFT",
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 37,
+      "heading": "### Market entry and repeat deployment",
+      "first_words": "Equipment and maintenance provide the near-term revenue base. Cooling-as-a-Service and Energy-as-a-Service can follow once",
+      "sources": [
+        "USER_CURRENT",
+        "CURRENT_DRAFT",
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 39,
+      "heading": "## 2.3 Broader impact",
+      "first_words": "AirTransformer's intended climate-adaptation benefit is continued cooling when extreme heat coincides with constraints on",
+      "sources": [
+        "USER_CURRENT",
+        "CURRENT_DRAFT",
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 40,
+      "heading": "## 2.3 Broader impact",
+      "first_words": "Our engineering objectives are 60–70% lower cooling electricity and 40–60% lower external water withdrawal",
+      "sources": [
+        "USER_CURRENT",
+        "CURRENT_DRAFT",
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 41,
+      "heading": "## 2.3 Broader impact",
+      "first_words": "Recovered water can support qualified non-potable needs. External-water savings remain the principal water metric",
+      "sources": [
+        "USER_CURRENT",
+        "CURRENT_DRAFT",
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 42,
+      "heading": "## 2.3 Broader impact",
+      "first_words": "Lifecycle assessment will cover materials, manufacturing, transport, operation, maintenance, replacement and end of life.",
+      "sources": [
+        "USER_CURRENT",
+        "CURRENT_DRAFT",
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 43,
+      "heading": "## 2.3 Broader impact",
+      "first_words": "European economic value arises through engineering, critical material processing, contactor manufacture, assembly, testing, product",
+      "sources": [
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 45,
+      "heading": "## 2.4 Challenge alignment",
+      "first_words": "The project addresses the C05 priority of combating extreme heat in urban environments through",
+      "sources": [
+        "M10"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 46,
+      "heading": "## 2.4 Challenge alignment",
+      "first_words": "C05's examples include several building and material approaches, while leaving room for other deep-tech",
+      "sources": [
+        "USER_CURRENT",
+        "CURRENT_DRAFT",
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 47,
+      "heading": "## 2.4 Challenge alignment",
+      "first_words": "Hospitals, campuses and public buildings provide potential replication routes where heat sources, air-side cooling",
+      "sources": [
+        "USER_CURRENT",
+        "CURRENT_DRAFT",
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 49,
+      "heading": "## 2.5 STEP impact",
+      "first_words": "Savery will turn advanced-materials and system-engineering capability into equipment that European customers can procure",
+      "sources": [
+        "USER_CURRENT",
+        "CURRENT_DRAFT",
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 50,
+      "heading": "## 2.5 STEP impact",
+      "first_words": "The proposed European manufacturing route retains process recipes, inspection methods, software and test specifications",
+      "sources": [
+        "USER_CURRENT",
+        "CURRENT_DRAFT",
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 51,
+      "heading": "## 2.5 STEP impact",
+      "first_words": "This capability reduces exposure to a single manufacturing or service route and creates an",
+      "sources": [
+        "USER_CURRENT",
+        "CURRENT_DRAFT",
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 54,
+      "heading": "## 3.1 Team capability",
+      "first_words": "Savery's operating core connects thermal engineering, equipment delivery and commercial requirements. Frédéric Cui leads",
+      "sources": [
+        "USER_CURRENT",
+        "CV_FRED"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 55,
+      "heading": "## 3.1 Team capability",
+      "first_words": "Qin Yu leads engineering execution, builds, suppliers and commissioning preparation. His documented heat-pump installation",
+      "sources": [
+        "USER_CURRENT",
+        "CV_QIN"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 56,
+      "heading": "## 3.1 Team capability",
+      "first_words": "Norbert Stock and Aline Auroux are members of Savery's scientific board. Stock contributes materials-science",
+      "sources": [
+        "BUDGET_CURRENT",
+        "USER_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 58,
+      "heading": "### Core team and planned commitment",
+      "first_words": "| Name | Gender | Founder | Position and department | Key competences |",
+      "sources": [
+        "USER_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 59,
+      "heading": "### Core team and planned commitment",
+      "first_words": "The commitment percentages use the same 24-month full-time denominator and represent the planned EIC",
+      "sources": [
+        "BUDGET_CURRENT",
+        "USER_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 61,
+      "heading": "### Responsibilities and planned execution effort",
+      "first_words": "The 24-month action provides 258 person-months across 14 execution roles. Named core allocations are",
+      "sources": [
+        "BUDGET_CURRENT",
+        "USER_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 62,
+      "heading": "### Responsibilities and planned execution effort",
+      "first_words": "| Responsibility | Accountable lead and execution resource | Planned entry and effort |",
+      "sources": [
+        "BUDGET_CURRENT",
+        "USER_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 63,
+      "heading": "### Responsibilities and planned execution effort",
+      "first_words": "The planned specialists represent funded roles to recruit or secure through appropriately scoped support;",
+      "sources": [
+        "BUDGET_CURRENT",
+        "USER_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 64,
+      "heading": "### Responsibilities and planned execution effort",
+      "first_words": "A planned HVAC and data-centre business-development lead starts in M12 under the separate investment",
+      "sources": [
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 65,
+      "heading": "### Responsibilities and planned execution effort",
+      "first_words": "Recruitment follows the sequence of technical dependencies. Process, reliability and modelling capacity enters at",
+      "sources": [
+        "USER_CURRENT",
+        "CURRENT_DRAFT",
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 67,
+      "heading": "### Governance motivation and continuity",
+      "first_words": "Frédéric makes architecture and product decisions, supported by scientific-board review in its specialist areas.",
+      "sources": [
+        "USER_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 68,
+      "heading": "### Governance motivation and continuity",
+      "first_words": "Monthly reviews combine progress, staffing, supplier readiness, technical risk and cash requirements. Each gate",
+      "sources": [
+        "USER_CURRENT",
+        "CURRENT_DRAFT",
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 69,
+      "heading": "### Governance motivation and continuity",
+      "first_words": "Documented designs, software versions, test procedures, supplier instructions and change decisions allow colleagues to",
+      "sources": [
+        "USER_CURRENT",
+        "CURRENT_DRAFT",
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 71,
+      "heading": "### Ownership and incentives",
+      "first_words": "CURMA SOLUTIONS holds Savery Tech's issued shares. The signed shareholder declaration of 7 April",
+      "sources": [
+        "USER_CURRENT",
+        "CAPITAL_DECLARATION"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 73,
+      "heading": "### Gender equality throughout the organisation",
+      "first_words": "Our measures cover scientific, engineering, operations, commercial, administrative and management roles. Ina will coordinate",
+      "sources": [
+        "USER_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 74,
+      "heading": "### Gender equality throughout the organisation",
+      "first_words": "Pay and progression reviews will compare work of equivalent responsibility. Project scheduling will support",
+      "sources": [
+        "USER_CURRENT",
+        "CURRENT_DRAFT",
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 75,
+      "heading": "### Gender equality throughout the organisation",
+      "first_words": "Quarterly reviews will track recruitment, hiring, retention, training and progression by role family, using",
+      "sources": [
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 77,
+      "heading": "## 3.2 Risk level of the investment and leverage effect",
+      "first_words": "Savery requests **€2,485,583.33 in grant and €2,000,000 in EIC investment**, a combined EIC request",
+      "sources": [
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 78,
+      "heading": "## 3.2 Risk level of the investment and leverage effect",
+      "first_words": "The funding need follows the industrial transition from a TRL6 machine to a reproducible",
+      "sources": [
+        "USER_CURRENT",
+        "CURRENT_DRAFT",
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 79,
+      "heading": "## 3.2 Risk level of the investment and leverage effect",
+      "first_words": "At application preparation, Savery reports **€300,000 cash and no outstanding debt or short-term liabilities**.",
+      "sources": [
+        "BUDGET_CURRENT",
+        "USER_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 80,
+      "heading": "## 3.2 Risk level of the investment and leverage effect",
+      "first_words": "The separate investment and commercial-deployment work programme totals **€2,112,500**. It covers production tooling, manufacturing-partner",
+      "sources": [
+        "USER_CURRENT",
+        "CURRENT_DRAFT",
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 81,
+      "heading": "## 3.2 Risk level of the investment and leverage effect",
+      "first_words": "Industrialisation carries coupled risks: durability and contamination may affect service performance; batch yield or",
+      "sources": [
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 82,
+      "heading": "## 3.2 Risk level of the investment and leverage effect",
+      "first_words": "The funded CETP programme provides an existing collaboration and TRL7 site path. Its activities",
+      "sources": [
+        "USER_CURRENT",
+        "CURRENT_DRAFT",
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 83,
+      "heading": "## 3.2 Risk level of the investment and leverage effect",
+      "first_words": "We will organise investor diligence around product, manufacturing and commercial gates. During the first",
+      "sources": [
+        "USER_CURRENT",
+        "CURRENT_DRAFT",
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    },
+    {
+      "paragraph_block": 84,
+      "heading": "## 3.2 Risk level of the investment and leverage effect",
+      "first_words": "Deployment commitments will follow available funds, qualified production slots and customer obligations. Staged customer",
+      "sources": [
+        "USER_CURRENT",
+        "CURRENT_DRAFT",
+        "BUDGET_CURRENT"
+      ],
+      "evidence_type": "PLAN_OR_COMPANY_STATEMENT",
+      "location": "PART_B_MARKET_TEAM_FINANCE_EN.md"
+    }
+  ],
+  "pricing_and_SAM_model": "MARKET_MODEL.json",
+  "payback_model": "../line_a/PAYBACK_CASE.json",
+  "formal_output_rule": "Nointernalreadlevels/QAcounts/unknownplaceholdersinthesubmissionproducts",
+  "video_scope": "VIDEO_REUSE_CHECK_EN.md explicitlyrecordsactualmetadataonly anduncompletedplayback"
+}

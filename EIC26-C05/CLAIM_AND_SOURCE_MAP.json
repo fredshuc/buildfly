@@ -1,0 +1,962 @@
+{
+  "created_utc": "2026-11-03T03:20:04.026440+00:00",
+  "sources": {
+    "T01": {
+      "source": "C:\\Users\\Gebruiker\\Documents\\Codex\\2026-10-24\\l2-eic-accelerator-eic26-c05-w01\\work\\A16\\R1\\intake\\package\\EIC26-C05-A16-R1_L1_TO_L2_SUBMISSION_REWRITE_CN.md",
+      "locator": "section2 current user facts and sections5–6",
+      "evidence": "CURRENT_MANAGEMENT_CONFIRMED_FACTS_AND_AUTHORISED_PLAN",
+      "support": [
+        "whole machine TRL6",
+        "2019 fullSaveryownership",
+        "CAUroute",
+        "scientificboard",
+        "awardedCETP2026–2029targetTRL7HPEsite"
+      ],
+      "limitations": "No invented rawtestdate, nationalgrantstatus, sitepurchaseorder or additionalcontract",
+      "identity": {
+        "path": "C:\\Users\\Gebruiker\\Documents\\Codex\\2026-10-24\\l2-eic-accelerator-eic26-c05-w01\\work\\A16\\R1\\intake\\package\\EIC26-C05-A16-R1_L1_TO_L2_SUBMISSION_REWRITE_CN.md",
+        "bytes": 28875,
+        "sha256": "e108a28b165085dfd1ec2a6c6e73929bbdcb7a8a853b4babf97692108aff99f3"
+      }
+    },
+    "T02": {
+      "source": "C:/Users/Gebruiker/Downloads/LIFE_AT_PartB_FC01_FC08_FINAL_20260921.pdf",
+      "locator": "physicalpp4,15–16",
+      "evidence": "ACTUAL_COMPANY_TECHNICAL_DESIGN_DESCRIPTION",
+      "read": "alltextonselectedpages",
+      "support": [
+        "integratedprototypefunctions",
+        "DPCnetairflowboundary",
+        "conditionalwholemoduleelectricalCOP8–12"
+      ],
+      "limitations": "FC01nottheFC02version;historicalTRL5–6supersededbycurrentcompanyfact;designvaluesnotmeasuredguaranteedfieldresults",
+      "identity": {
+        "path": "C:\\Users\\Gebruiker\\Downloads\\LIFE_AT_PartB_FC01_FC08_FINAL_20260921.pdf",
+        "bytes": 2342461,
+        "sha256": "5d9115799c7434a1be654e7a9f37d3d5b61a5678a81f8a35cde93fd926bf4090"
+      }
+    },
+    "T03": {
+      "source": "https://publications.rwth-aachen.de/record/963289/files/963289.pdf",
+      "locator": "physicalpp1–2, abstract/authors/method",
+      "evidence": "PUBLISHED_PRIMARY_RESEARCH",
+      "support": [
+        "FrédéricS.Cuicoauthor",
+        "CAU10H/aluminiumfumarateLTJ",
+        "timeconstantsandmeanpowertradeoffs"
+      ],
+      "limitations": "papermeasurement10/30/80°Cnotnewproduct50–70°Ctest",
+      "read": "Primary9pageopenaccessPDFopenedatRWTH;abstract/authorship/methodandmaterialspp1–2read"
+    },
+    "T04": {
+      "source": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.190602",
+      "locator": "abstract",
+      "evidence": "PRIMARY_RESEARCH_ABSTRACT",
+      "support": [
+        "linearresponsefrictiontensor/thermodynamicmetric/finite-timepaths"
+      ],
+      "limitations": "notuniversalglobalindustrialoptimum"
+    },
+    "T05": {
+      "source": "https://airjouletech.com/2026/05/14/airjoule-technologies-announces-first-quarter-2026-results-and-provides-business-update/",
+      "locator": "CoreDHPerformanceparagraph; productroadmap",
+      "evidence": "CURRENT_MANUFACTURER_DISCLOSURE",
+      "support": [
+        "CoreDHregeneration60–70°C",
+        "otherproductmetricscannotconvertintoSaverysameboundarycomparison"
+      ],
+      "limitations": "manufacturerclaimsnotindependenttestofSavery"
+    },
+    "T06": {
+      "source": "C:/Users/Gebruiker/Downloads/CDL_Paris_TRL6_to_TRL7_Evidence_Map_2026-08-05.pdf",
+      "locator": "physicalp1",
+      "evidence": "COMPANY_ENGINEERING_EVIDENCE_MAP",
+      "support": [
+        "integratedprototype/relevantconditionengineeringbasis"
+      ],
+      "limitations": "mapdoesnotsubstituteforrawtestrecords/currentdate",
+      "identity": {
+        "path": "C:\\Users\\Gebruiker\\Downloads\\CDL_Paris_TRL6_to_TRL7_Evidence_Map_2026-08-05.pdf",
+        "bytes": 48107,
+        "sha256": "f14ce06ea0f402e06478c2af146e8e5bd81548d89fc7974a12392dac78d137da"
+      }
+    },
+    "T07": {
+      "source": [
+        "https://patents.google.com/patent/EP3825627A1/fr",
+        "https://patents.google.com/patent/WO2021099546A1/en"
+      ],
+      "locator": "publicationidentity,priority,technicalsubject",
+      "evidence": "PUBLISHED_PATENT_TEXT_REPUBLICATION",
+      "support": [
+        "EP19306516.6",
+        "EP3825627A1",
+        "PCT/EP2020/082838",
+        "WO2021099546A1",
+        "2019-11-22priority",
+        "cascadeadsorptiondesorption"
+      ],
+      "limitations": "publicoldmetadataElektronGRI;currentSaveryownershipfromT01;noglobalgrantorcurrentcountryclearanceinference"
+    },
+    "T08": {
+      "source": "C:/Users/Gebruiker/Downloads/D8 Analyse de brevetabilité.pdf",
+      "locator": "physicalpp1–3fulltext",
+      "evidence": "ACTUAL_PRIVATE_PROFESSIONAL_PATENTABILITY_ANALYSIS",
+      "support": [
+        "scopeoftwoMOFHMXanalysis",
+        "sevenpriorartdocuments",
+        "separatesmaterials/substrate/IECgeometry/liquiddesiccant",
+        "inventivesteprequiresbenefitssubstantiation"
+      ],
+      "limitations": "notproductcountryFTOopinion;B2500097EPinternalfilerefnotEPapplicationnumber",
+      "identity": {
+        "path": "C:\\Users\\Gebruiker\\Downloads\\D8 Analyse de brevetabilité.pdf",
+        "bytes": 565378,
+        "sha256": "a1ae96628c4cb33e0ab872982bf6a7aa29fed72bf830e3addf8e93cb6071fcc2"
+      }
+    },
+    "T09": {
+      "source": "https://patents.google.com/patent/US11609000B2/en",
+      "locator": "identityandclaims1,5,12",
+      "evidence": "PUBLISHED_GRANTED_PATENT_TEXT_SCREEN",
+      "support": [
+        "BASFairconditioning/coatedchannelsfamily"
+      ],
+      "limitations": "nofullnationalregisterorfinalproductclaimchart"
+    },
+    "T10": {
+      "source": "https://patents.google.com/patent/EP4598672A1/en",
+      "locator": "identityandclaim1",
+      "evidence": "PUBLISHED_PATENT_APPLICATION_TEXT_SCREEN",
+      "support": [
+        "NuMathybridadsorbentgranules/binder/spatialrelationship"
+      ],
+      "limitations": "applicationnotautomaticenforceablegrantedright;compareactualformulation"
+    },
+    "T11": {
+      "source": "https://patents.google.com/patent/EP3890878A2/fr",
+      "locator": "identityandamorphousMOF/processdescription",
+      "evidence": "PUBLISHED_PATENT_APPLICATION_TEXT_SCREEN",
+      "support": [
+        "Framergy/AbsorptionSolutionsamorphousMOFsubstrateprocess"
+      ],
+      "limitations": "publicEPmetadatawithdrawnnotworldwidefamilyexpired;actualUSandothernationalstatusnotreviewed"
+    },
+    "T12": {
+      "source": "https://patents.google.com/patent/US20250043971A1/en",
+      "locator": "identityandclaim1",
+      "evidence": "PUBLISHED_PATENT_APPLICATION_TEXT_SCREEN",
+      "support": [
+        "MontanaAirJoulethermallycoupledcontactorssealed/unsealedstates"
+      ],
+      "limitations": "publicapplicationnotgrantedclearanceconclusion;compareactualpressure/chamberarrangement"
+    },
+    "T13": {
+      "source": [
+        "https://www.ashrae.org/technical-resources/standards-and-guidelines/titles-purposes-and-scopes",
+        "https://knowledge.bsigroup.com/products/ventilation-for-buildings-performance-testing-of-components-products-for-residential-ventilation-performance-testing-of-ducted-mechanical-supply-and-exhaust-ventilation-units-including-heat-recovery-1",
+        "https://www.iso.org/standard/66912.html"
+      ],
+      "locator": "ASHRAE143-2024purpose/scope;BSIEN13141-7scope;ISO17025scope/currentedition",
+      "evidence": "ACTUAL_OFFICIAL_PUBLISHER_SCOPE_PAGES_READ",
+      "support": [
+        "143steady-stateIECtesting",
+        "13141-7residentialventilationunitsscope/adaptationnecessary",
+        "17025labcompetencenotwholemachinecertification"
+      ],
+      "limitations": "standardsfullpaidtextsnotread;nohistoricalexecutedconformityclaim"
+    }
+  },
+  "blocks": [
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 1,
+      "text": "## Executive summary",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 2,
+      "text": "AirTransformer provides cooling for facilities that must keep operating through urban heatwaves, electricity constraints and water stress. Savery Tech already has a complete TRL6 machine combining sorption air treatment, thermal management and indirect evaporative cooling. Its CAU-series material route uses low-temperature regeneration heat, with a product qualification envelope of 50–70°C heat supply, 16–20°C delivered air and a humidity ratio of 9–11 g/kg dry air under the applicable rating conditions. The productisation targets are 60–70% lower electricity demand and 40–60% lower external make-up water at equivalent cooling service; installation economics are screened against a 24–36-month payback target.",
+      "references": [],
+      "evidence_category": "MANAGEMENT_FACT_WITH_SEPARATE_PLANNED_QUALIFICATION"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 3,
+      "text": "Savery owns its 2019 system patent family and controls the product architecture and engineering know-how. Its scientific board includes Norbert Stock and Aline Auroux. An awarded CETP grant supports the ongoing 2026–2029 project towards TRL7, with HPE providing the site. The EIC action builds on this basis to qualify repeatable manufacture, reliability, compliance and deployment at TRL8. The 24-month programme requests €2,485,583.33 grant against €3,550,833.33 eligible costs, plus €2m EIC investment within an €8m Seed round. The investment supports co-financing and commercial deployment, while the grant buys the distinct product evidence required for a repeatable European cooling business.",
+      "references": [],
+      "evidence_category": "MANAGEMENT_FACT_WITH_SEPARATE_PLANNED_QUALIFICATION"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 4,
+      "text": "# 1 Technology",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 5,
+      "text": "## 1.1 Novelty and breakthrough nature",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 6,
+      "text": "### A working cooling product with a defined engineering advance",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 7,
+      "text": "AirTransformer is a modular cooling and air-treatment product for facilities with a continuous heat load and access to suitable low-grade heat. Its first commercial focus is data-centre infrastructure, where high ambient temperatures can coincide with electricity-network constraints and restrictions on cooling-water supply. The product combines moisture removal by metal-organic framework sorbents with thermal management and indirect evaporative sensible cooling. It supplies conditioned air at the agreed delivery interface while the facility retains its existing cooling installation for redundancy and duties outside the module's operating envelope.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 8,
+      "text": "Savery has already integrated the core functions in a complete TRL6 machine. The present innovation effort concerns making this product dependable, manufacturable and economical across qualified installations. It addresses the engineering relationship between the CAU-series sorbent, its shaped and coated heat exchanger, the cyclic thermal process and the customer's required service. A material with attractive equilibrium uptake is useful only if the manufactured contactor can capture and release moisture quickly enough, with acceptable pressure loss, heat transfer and ageing. Similarly, an efficient contactor does not establish an efficient installation if regeneration, pumping or heat rejection consumes the benefit.",
+      "references": [],
+      "evidence_category": "MANAGEMENT_FACT_WITH_SEPARATE_PLANNED_QUALIFICATION"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 9,
+      "text": "The breakthrough proposition is to deliver the required air service using a thermal resource that many facilities already reject, while reducing demand for electricity and external make-up water. Its defensible value lies in the complete installation: air-side performance, utility interfaces, repeatable production, maintenance and acceptance evidence. The action therefore advances an existing integrated machine through product engineering and qualification rather than beginning with an open search for a new sorbent chemistry. [T01, T02]",
+      "references": [
+        "T01",
+        "T02"
+      ],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 10,
+      "text": "### How the system delivers cooling",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 11,
+      "text": "The process-air path first passes through the sorption section. The CAU-series material captures water vapour and the thermal circuit removes the heat released by adsorption. Drying lowers the air's wet-bulb temperature and creates a more favourable driving condition for the downstream indirect evaporative section. In that section, water evaporates into a separate working-air stream and removes sensible heat across the exchanger. The cooled product-air stream remains separate from the humid exhaust, so evaporated water is not added to the delivered air.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 12,
+      "text": "The contactors alternate between treatment and regeneration. Low-grade heat restores the sorbent's working capacity, while switching and heat recovery coordinate the availability of the next contactor. Regeneration air, product air and working air have separate interfaces. The thermal design must accommodate both adsorption heat and the regeneration requirement; rejected heat must reach a compatible sink. Fans, pumps, actuators, controls and water treatment all contribute to the installation's electrical demand. These loads are included when comparing alternatives, together with any residual duty supplied by the retained plant.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 13,
+      "text": "The product's water benefit starts with reduced external make-up for the same delivered cooling. Atmospheric moisture that is recovered as liquid can contribute to that balance when the regeneration and condensation conditions allow it. The water ledger distinguishes capture, condensation, treatment losses, storage changes, discharge, internal consumption and net usable output. Recirculating an existing water inventory is not counted repeatedly as new production. Recovered liquid is qualified for its actual use, with isolated non-aerosol equipment cleaning as a possible initial application. The action makes no fixed daily water-output promise independent of humidity, heat-source availability and heat-sink conditions.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 14,
+      "text": "This arrangement gives the facility an additional operating choice. During heatwaves, the operator can allocate a defined air-treatment duty to AirTransformer while preserving incumbent cooling for peak or exceptional conditions. When available heat, humidity or sink temperature moves outside the qualified domain, the controller changes mode or bypasses the module. Cooling continuity therefore depends on a specified allocation and fallback arrangement, supported by a measurable service contract and commissioning test.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 15,
+      "text": "### CAU material processing and contactor manufacture",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 16,
+      "text": "The current engineering material route uses CAU-series variants. Qualification will establish a controlled synthesis and conditioning window, preserve the adsorption response after shaping, and transfer the process to repeatable contactor manufacture. The relevant outputs are the material and process specification, an accepted batch, a reproducible coating or shaped structure and a tested replacement procedure. Broad chemical screening is not the starting point of the action.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 17,
+      "text": "Processing determines how much of the material's capacity remains accessible in the machine. Binder content, coating thickness, porosity, adhesion and thermal contact influence moisture-transfer rate, pressure loss and cycle duration. The process-development work will therefore measure performance after shaping and assembly, rather than release powder solely on an equilibrium isotherm. Incoming-material identity, preparation conditions, activation, substrate preparation and final conditioning will be traceable. Manufacturing acceptance will connect these records to adsorption response, airflow resistance, coating integrity and thermal performance.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 18,
+      "text": "The contactor also has to survive its intended operating environment. Condensation, particulate exposure, contamination and cleaning can change the surface and transfer behaviour. Qualification specimens and assembled units will undergo representative exposure and recovery sequences, followed by the same acceptance measurements used at release. Where performance changes materially, the response will be a revised operating or maintenance limit, process adjustment or replacement criterion. This creates a product quality system that can distinguish a manufacturing deviation from normal ageing and can support service decisions in the field.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 19,
+      "text": "Savery will use existing facilities where they meet the task. Additional equipment, specialist testing and external processing will be selected by their contribution to process control, product evidence and delivery capacity. The industrialisation output is a transferable manufacturing package comprising drawings, bills of material, tolerances, process instructions, inspection points, test methods and release criteria. Critical process knowledge remains under Savery's control, while qualified suppliers receive the information and permissions necessary for their assigned work.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 20,
+      "text": "### Finite-time design and measured transport",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 21,
+      "text": "Savery's design capability connects sorption equilibrium to the time available in a working machine. The useful quantity is the moisture exchanged during a complete repeatable cycle, at the actual source and sink conditions, together with the cooling delivered during that time. A long adsorption tail may add little service while delaying regeneration; an early switch can increase cycle frequency but leave capacity unused. Heat recovery also trades reduced heating demand against the time needed to prepare the next contactor.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 22,
+      "text": "Published work co-authored by Frédéric S. Cui supports this engineering approach. Henninger et al. used large-temperature-jump experiments on CAU-10-H and aluminium fumarate to relate progress through adsorption to characteristic times and mass-, area- and volume-specific mean powers. The study shows why ranking materials by an isolated time constant can misrepresent useful power. Savery applies this understanding to shaped contactors, thermal interfaces and complete operating cycles. [T03]",
+      "references": [
+        "T03"
+      ],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 23,
+      "text": "Measured temperature and vapour-pressure responses constrain a dynamic model of loading, heat transfer and flow resistance. Parameter identification is directed at engineering decisions: selecting coating and contact conditions, choosing switching times, and recognising when an aged or contaminated contactor needs a different operating mode. The model retains its tested range and measurement uncertainty. A fitted parameter is useful only when the available measurements distinguish it sufficiently to inform those decisions.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 24,
+      "text": "Thermodynamic length provides a local description of dissipation where the measured system supports a linear-response approximation. It helps identify paths that avoid unnecessary gradients for a specified transfer and cycle duration. Larger excursions, hysteresis and switching retain their calibrated nonlinear description. The action applies these methods to product optimisation; it does not depend on creating a universal thermodynamic theory. [T04]",
+      "references": [
+        "T04"
+      ],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 25,
+      "text": "Performance comparisons close the complete-cycle balances and retain comparable initial and final sorbent loading and thermal inventories. This prevents a favourable fragment of operation from shifting regeneration or restoration beyond the evaluation period. Delivered cooling, electrical demand, regeneration heat and external water remain separate measures. The resulting design decisions can then be tested directly on the manufactured equipment.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 26,
+      "text": "### Control that preserves service and safe fallback",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 27,
+      "text": "The existing machine provides the baseline for cyclic operation and thermal management. The product upgrade will develop deterministic supervisory control and model-predictive scheduling, with a bounded reinforcement-learning layer evaluated for setpoints and cycle strategies where it adds useful adaptation. The learning task concerns decisions whose consequences extend across cycles, such as balancing additional adsorption against subsequent regeneration time. Physical limits, safety interlocks, abnormal-condition detection and fallback remain outside the learned policy. Rules and MPC provide qualified alternatives under uncertain state estimates, sensor faults or conditions outside the training domain. The verification plan uses reserved operating histories, equal sensor and actuator access, deliberate disturbances and recorded fallback behaviour. Human operators retain mode selection, alarms, override and safe shutdown. These upgraded predictive and learned functions are development tasks, distinct from the current TRL6 machine's already implemented controls.",
+      "references": [],
+      "evidence_category": "MANAGEMENT_FACT_WITH_SEPARATE_PLANNED_QUALIFICATION"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 28,
+      "text": "### A quantified product specification and transparent comparison",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 29,
+      "text": "The qualification specification restores the concrete service proposition. It defines a 50–70°C regeneration-heat range and delivered-air targets of 16–20°C with 9–11 g/kg dry-air humidity ratio at applicable rating conditions. Humidity ratio is a water-content measure, not a dew-point temperature. Source temperature, flow, inlet humidity, load and sink condition accompany each rating point. The whole-machine result is calculated at net product-air delivery after working-air diversion and includes the associated auxiliaries.",
+      "references": [],
+      "evidence_category": "TARGET_OR_CONDITIONAL_CALCULATION_NOT_NEW_MEASURED_RESULT"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 30,
+      "text": "The electricity and water targets are stated at equivalent useful cooling, with a technically capable reference installation. They will be assessed across the operating envelope rather than inferred from a single favourable component test.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 31,
+      "text": "| Measure | Product or commercial objective | Basis for qualification |\n|---|---|---|\n| Regeneration heat | 50–70°C within the selected operating domain | Measure source, core and return temperatures, flow, duration and available heat; distinguish source supply from material temperature |\n| Delivered air | 16–20°C and 9–11 g/kg dry air at qualified rating points | Record net airflow, temperature and humidity ratio together with inlet and sink conditions |\n| Cooling electricity | 60–70% reduction as a productisation target | Compare total module and affected plant electricity at the same cooling service, including heat-rejection and treatment auxiliaries |\n| External make-up water | 40–60% reduction as a productisation target | Compare incoming external water at equal cooling, after inventory changes, blowdown, treatment and internal reuse |\n| Customer payback | 24–36 months for qualifying installations | Use installed cost, operating hours, electricity and heat prices, external water and incremental maintenance |\n| Hardware cost or price benchmark | €1,100/kW pilot-series planning basis, progressing towards €900/kW with repeat production | Keep hardware, installation, service costs and cooling-power definitions distinct; validate the scale assumptions through supplier and manufacturing evidence |",
+      "references": [],
+      "evidence_category": "TARGET_OR_CONDITIONAL_CALCULATION_NOT_NEW_MEASURED_RESULT"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 32,
+      "text": "The electricity target is consistent with an illustrative equal-service calculation. For a 1 MW cooling duty, a compressor reference at electrical EER 3 draws about 333 kW. A complete module at electrical EER 8–10 draws 125–100 kW, implying a 62.5–70% reduction before any additional installation duty. Qualification will test the complete installed boundary, while reporting the regeneration heat separately. This calculation explains the target; it is not presented as an already measured field reduction.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 33,
+      "text": "Likewise, a 40–60% water-reduction target means using 0.6–0.4 m³ of external make-up for a service that requires 1 m³ in the reference system. It does not mean that the module produces 0.4–0.6 m³ of recovered water. The baseline must include the actual cooling configuration, local climate and water-management practice. The commercial analysis uses these measured or modelled service quantities and site tariffs, with lower utilisation and heat availability tested explicitly. The action will replace planning values with accepted product and site results as qualification progresses.",
+      "references": [],
+      "evidence_category": "TARGET_OR_CONDITIONAL_CALCULATION_NOT_NEW_MEASURED_RESULT"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 34,
+      "text": "### Competitive advance and timing",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 35,
+      "text": "Capable alternatives include efficient compressor systems, indirect evaporative equipment, desiccant treatment and heat-recovery systems. Their performance depends on climate, load, water availability and installation constraints. AirTransformer's intended advantage is the combination of low-temperature thermal input, controlled air-side cooling and lower external water demand in a retrofit arrangement that preserves the facility's existing plant.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 36,
+      "text": "Low-temperature heat alone is not a unique market distinction. AirJoule's disclosed Prime and Core product families use sorbent cycles, and its Core DH announcement identifies regeneration at 60–70°C. AirJoule also combines water and cooling activities with BitSink. Savery will therefore compare delivered function, air and water interfaces, the complete electrical and thermal boundary, footprint, installation, maintenance and cost. Water-production data from another product cannot be converted into a cooling-energy comparison without a common service definition. [T05]",
+      "references": [
+        "T05"
+      ],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 37,
+      "text": "The timing is driven by the conjunction of an existing TRL6 machine and an adoption problem that needs product evidence. Operators can assess a retrofit against a real cooling duty; manufacturers can qualify drawings and process windows; independent laboratories can test a released configuration. The EIC action connects these steps so that the commercial decision rests on repeatable equipment and accepted service, rather than a further laboratory demonstration of the underlying sorption principle.",
+      "references": [],
+      "evidence_category": "MANAGEMENT_FACT_WITH_SEPARATE_PLANNED_QUALIFICATION"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 38,
+      "text": "## 1.2 Technology readiness level",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 39,
+      "text": "### Current complete machine at TRL6",
+      "references": [],
+      "evidence_category": "MANAGEMENT_FACT_WITH_SEPARATE_PLANNED_QUALIFICATION"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 40,
+      "text": "As of November 2026, Savery has a complete TRL6 AirTransformer machine. Its existing technical basis combines staged MOF-coated heat-and-mass exchange, adsorption/regeneration switching, water-side heat management, indirect evaporative sensible cooling, control functions and an integrated measurement approach. This is the starting product for the EIC action. The current material engineering route is CAU-series variants. [T01, T02]",
+      "references": [
+        "T01",
+        "T02"
+      ],
+      "evidence_category": "MANAGEMENT_FACT_WITH_SEPARATE_PLANNED_QUALIFICATION"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 41,
+      "text": "The development record includes integrated laboratory operation and testing of air treatment under controlled thermal and humidity conditions. The engineering evidence has progressed from material response and exchanger behaviour to combined air, heat and moisture balances. The platform evidence map dated 5 August 2026 records the integrated prototype and relevant-condition engineering basis. Subsequent current company confirmation establishes the completed-machine TRL6 status used in this application. The EIC programme will qualify the released product configuration, preserve a traceable baseline, and extend its evidence to repeat manufacture and operational acceptance. [T01, T06]",
+      "references": [
+        "T01",
+        "T06"
+      ],
+      "evidence_category": "MANAGEMENT_FACT_WITH_SEPARATE_PLANNED_QUALIFICATION"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 42,
+      "text": "Current maturity is kept separate from the proposed upgrades. New coating windows, supplier transfer, reliability qualification, predictive control and the optional learning layer require their own verification. Additional liquid recovery and water treatment will be qualified for the actual use. These development tasks build on the complete machine; their future status does not turn established sorption, switching or thermal-management functions back into early-stage research.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 43,
+      "text": "| Product element | Existing basis | EIC productisation increment | Acceptance evidence |\n|---|---|---|---|\n| Complete air-treatment machine | Integrated TRL6 configuration with sorption, thermal management, cyclic switching and indirect sensible cooling | Freeze the product design and operating modes, define service interfaces and qualify the installed boundary | Released drawings and control baseline; repeatable performance map and customer-facing operating envelope |\n| CAU material and contactor | Current CAU-series route and coated-exchanger development | Process windows, after-shaping performance, supplier transfer and batch consistency | Traceable lots; incoming and final acceptance results; deviation and replacement rules |\n| Cyclic control | Existing machine control and switching functions | Deterministic supervision, predictive scheduling and bounded learning evaluation | Fault injection, disturbance recovery, reserved-condition tests and safe fallback records |\n| Reliability and service | Existing prototype and component experience | Ageing, contamination, cleaning, maintainability and repeated operation | Life-test results with inspection intervals, failure analysis and service procedures |\n| Compliance and product release | Existing engineering baseline and applicable-method assessment | Independent product testing, technical file and installation acceptance | Test reports for the released configuration, conformity evidence and documented acceptance |\n| Deployment | Awarded CETP programme with HPE site towards TRL7 | Distinct manufacturing and product qualification, site engineering and deployment replication towards TRL8 | Incremental operational acceptance and a deployable manufacturing, installation and service package |",
+      "references": [],
+      "evidence_category": "MANAGEMENT_FACT_WITH_SEPARATE_PLANNED_QUALIFICATION"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 44,
+      "text": "### CETP and HPE provide an established validation pathway",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 45,
+      "text": "Savery has received a CETP grant and the 2026–2029 project is underway, targeting TRL7 with a site provided by HPE. This is an existing collaboration and validation foundation. It provides access to relevant integration knowledge and a route to operation under data-centre conditions. HPE's role in that programme is distinct from a new purchase order or an additional EIC site commitment. [T01]",
+      "references": [
+        "T01"
+      ],
+      "evidence_category": "MANAGEMENT_FACT_WITH_SEPARATE_PLANNED_QUALIFICATION"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 46,
+      "text": "The programmes have complementary results. CETP addresses the technical integration and operational validation pathway, including materials and kinetics, heat and mass transfer, cycle maps, digital modelling and control, and HPE integration. The EIC action concentrates on the work that makes a reproducible commercial product: design for manufacture and assembly, controlled processes and batches, durability and maintainability, applicable compliance, independent product tests, acceptance and deployment replication.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 47,
+      "text": "The EIC schedule runs from April 2027 to March 2029. It can use CETP outputs that are available at the relevant design or test gate, but it does not rely on a late-2029 result to complete in March 2029. Design and operating baseline work begins from the current TRL6 machine. Product qualification can use an independent or equivalent relevant-condition test route when a shared site window or later CETP activity is unavailable. Any result adopted from CETP carries its configuration, operating conditions and limits into the EIC evidence dossier.",
+      "references": [],
+      "evidence_category": "MANAGEMENT_FACT_WITH_SEPARATE_PLANNED_QUALIFICATION"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 48,
+      "text": "Financial and technical responsibility follow the same boundary. The same employee time, equipment use or experiment is charged once. Shared background data and earlier results can be reused, while the EIC cost plan covers its separately defined productisation tasks. Site interfaces and measurement arrangements can be coordinated without treating the CETP grant as co-financing for the same EIC cost. The project manager maintains the activity and cost allocation, and technical change control records when a shared result affects the released product.",
+      "references": [],
+      "evidence_category": "MANAGEMENT_FACT_WITH_SEPARATE_PLANNED_QUALIFICATION"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 49,
+      "text": "### From TRL6 to a qualified and reproducible product",
+      "references": [],
+      "evidence_category": "MANAGEMENT_FACT_WITH_SEPARATE_PLANNED_QUALIFICATION"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 50,
+      "text": "The first gate establishes the current machine's product baseline: configuration, intended use, service boundary, operating domain and the measurement and acceptance plan. Existing records will be organised by configuration so that a later process or controller change can be tested against the correct baseline. The design review sets the remaining material, mechanical, controls and supplier tasks and gives each a responsible engineer and budgeted resource.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 51,
+      "text": "The manufacturing gate qualifies the chosen CAU processing and contactor route, assembly sequence and inspection plan. It tests independent preparations and batches against product-relevant acceptance criteria. This gate also establishes which measurements can be performed economically on every unit and which require periodic or sampled verification. Manufacturing release requires reproducibility across accepted variation, not just the best result from one specimen.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 52,
+      "text": "The reliability and conformity gate tests the released system under representative thermal, humidity, load and contamination changes. Long-run behaviour, switching transients, abnormal conditions and maintainability are assessed with the complete service boundary. A component change that affects performance, safety or water use triggers the relevant retest. Product claims will identify the configuration, conditions and uncertainty of the result rather than extend a material or component result to every installation.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 53,
+      "text": "Final product acceptance brings together the qualified hardware, control and manufacturing versions with the installation and service package. The TRL8 objective is a complete system qualified for its intended use, with production and operational evidence sufficient to support repeat deployment. Customer acceptance will concern useful cooling continuity, agreed air conditions, utility use, alarms and fallback, maintenance access and the responsibilities needed for safe operation. The incumbent system remains available throughout commissioning and relevant trials.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 54,
+      "text": "Testing will use ASHRAE 143-2024 for the applicable steady-state indirect evaporative measurements, supplemented by a protocol for the complete cyclic machine. The metrology plan will assess relevant air-side procedures from EN 13141-7, recognising its residential ventilation-unit scope and documenting any adaptations. Calibration will use laboratories with the relevant ISO/IEC 17025 competence and measurement traceability. Method use and traceable calibration will be distinguished from certification of the entire machine. The conformity work will determine the applicable product legislation and tests for the actual installation and electrical equipment; the technical file, risk assessment and declaration follow the released design. [T13]",
+      "references": [
+        "T13"
+      ],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 55,
+      "text": "Climate resilience is an explicit acceptance question. The test matrix will combine hot conditions with constrained electrical and water resources and will record the service that the product retains under those constraints. It also includes low heat availability, unfavourable humidity and warm sinks. Where the product cannot supply the full assigned duty, its permitted operating modes and the retained-plant response form part of the installation design. This makes the resilience claim measurable and gives operators a practical basis for using the technology during the conditions that matter most.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 56,
+      "text": "## 1.3 Intellectual property strategy",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 57,
+      "text": "### Savery's system rights and product know-how",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 58,
+      "text": "Savery owns the system patent originating from the 2019 filing. The identifiable family includes European application EP19306516.6, published as EP3825627A1, and PCT/EP2020/082838, published as WO2021099546A1. These publications concern cascaded adsorption/desorption cooling and heating and provide the foundation for Savery's system-level protection. The current product uses the CAU-series route, with Savery controlling the architecture and engineering integration. [T01, T07]",
+      "references": [
+        "T01",
+        "T07"
+      ],
+      "evidence_category": "MANAGEMENT_FACT_WITH_SEPARATE_PLANNED_QUALIFICATION"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 59,
+      "text": "Protection covers different kinds of assets. Patentable system and contactor developments are considered for filing before disclosure. Manufacturing recipes, coating and conditioning windows, tolerances, calibration methods and process-control knowledge are managed as confidential know-how. Software, models, firmware, test data and service tools are controlled through copyright, access rights, version management and agreements that preserve Savery's ability to manufacture, maintain and improve the product.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 60,
+      "text": "The 29 January 2025 Plasseraud analysis examined the patentability of a two-MOF heat-and-mass exchanger and related material use. It identified a route to system and application claims while requiring clearer evidence of the arrangement and technical benefits. Savery's subsequent product work will connect claim drafting to documented engineering effects and the released embodiment. A patentability analysis informs protection strategy; the commercial rights assessment additionally considers third-party claims. [T08]",
+      "references": [
+        "T08"
+      ],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 61,
+      "text": "The current action will create its own improvements to material processing, shaped contactors, control and manufacturing transfer. Employee, contractor and collaboration arrangements will identify background assets, ownership of results, permitted use, confidentiality and the rights needed for supply and service. External manufacturers will receive controlled process and quality instructions under appropriate use rights. Savery will retain the information and permissions required to qualify another supplier or maintain deployed equipment.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 62,
+      "text": "### Product and territory specific third-party assessment",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 63,
+      "text": "The freedom-to-operate review follows the actual product, from synthesis and shaping to assembled heat exchangers, thermal circuits, software and installation. Relevant countries are identified by activity: European manufacture and first deployments, followed by the countries selected for sales or contract production. A publication or a competitor's product name is a screening lead; the decision concerns applicable claim language, legal status and the proposed act in a particular country.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 64,
+      "text": "The existing professional work provides a focused starting point. The HMX analysis separated material claims, substrate and adsorption-cooling claims, indirect evaporative geometries and liquid-desiccant combinations. Product engineering will preserve that distinction. Changing to CAU variants addresses the material route, while process, substrate, channel, thermal-coupling or control claims can remain relevant independently of the material name. The configuration review therefore includes the drawings, bill of materials and manufacturing method as well as the sorbent composition. [T08]",
+      "references": [
+        "T08"
+      ],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 65,
+      "text": "The updated screen identifies BASF's air-conditioning and coated-exchanger family, NuMat's hybrid adsorbent-granule family, Framergy's amorphous-MOF family and Montana/AirJoule's thermally coupled contactor and water-harvesting family. The published claim features are mapped to the current product choices. These include channel arrangements, adsorbent/binder structures, amorphous processing and sealed or vacuum contactor architectures. The action will use the resulting claim charts to obtain the required professional country and configuration conclusions before affected commercial manufacture or sale. [T09–T12]",
+      "references": [
+        "T09",
+        "T10",
+        "T11",
+        "T12"
+      ],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 66,
+      "text": "Savery's protection and third-party clearance are maintained separately. An owned system patent supports the company's competitive position, while the FTO process tests whether particular implementation choices encounter another party's enforceable rights. Where an issue is identified, the response can be a documented design adjustment, an authorised supply or licence arrangement, or a revised territory plan. The technical lead and IP adviser will review the adopted response before release and repeat the assessment when materials, geometry, suppliers, functionality or markets change.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 67,
+      "text": "### International protection and commercial execution",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 68,
+      "text": "European product development and initial manufacture remain the priority. Before expansion, the company will assess the national members and applicable claims of relevant families in the specific North American and Asian countries proposed for production or sale. Future protection will focus on the commercial jurisdictions and product improvements that justify the filing and prosecution cost. A PCT publication is an international filing route, not a worldwide granted right; the protection plan is implemented through the relevant national or regional procedures.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 69,
+      "text": "The scientific board supports disclosure and technical review. Norbert Stock contributes materials-science expertise and Aline Auroux contributes adsorption and thermodynamic measurement expertise. Scientific contribution and access to results do not by themselves assign ownership. Project and collaboration agreements will align publication review, invention disclosure and commercial use with each party's actual contribution. Frédéric Cui retains product and system responsibility, coordinating protection decisions with the manufacturing and deployment milestones.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 70,
+      "text": "The resulting IP strategy protects what makes the product reproducible and serviceable as well as what can be patented. It gives investors a visible chain from owned background rights to current configuration, controlled improvements, supplier transfer and country-specific market entry. The separate FTO status note records the present assessment and the next product-release decisions in the same terms.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 71,
+      "text": "## Technical references",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 72,
+      "text": "[T01] Savery Tech management confirmation, 3 November 2026: current TRL6 whole machine, CAU route, ownership of the 2019 system patent, scientific board and awarded CETP 2026–2029 programme with HPE site and TRL7 target.",
+      "references": [
+        "T01"
+      ],
+      "evidence_category": "MANAGEMENT_FACT_WITH_SEPARATE_PLANNED_QUALIFICATION"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 73,
+      "text": "[T02] Savery Tech. LIFE AirTransformer Part B, 21 September 2026, FC01_FC08_FINAL, physical pp. 4 and 15–16. Integrated platform and engineering design basis.",
+      "references": [
+        "T02"
+      ],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 74,
+      "text": "[T03] Henninger, M., et al. (2023). Benchmarking metal-organic framework coatings from Large-Temperature-Jump experiments: Learning from trade-offs in mean powers versus characteristic times. Applied Thermal Engineering 234, 121234. https://doi.org/10.1016/j.applthermaleng.2023.121234",
+      "references": [
+        "T03"
+      ],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 75,
+      "text": "[T04] Sivak, D. A., and Crooks, G. E. (2012). Thermodynamic Metrics and Optimal Paths. Physical Review Letters 108, 190602. https://doi.org/10.1103/PhysRevLett.108.190602",
+      "references": [
+        "T04"
+      ],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 76,
+      "text": "[T05] AirJoule Technologies. First-quarter results and business update, 14 May 2026; current Prime and Core product disclosures. https://airjouletech.com/2026/05/14/airjoule-technologies-announces-first-quarter-2026-results-and-provides-business-update/ ; https://airjouletech.com/products/",
+      "references": [
+        "T05"
+      ],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 77,
+      "text": "[T06] Savery Tech. CDL Paris TRL6 to TRL7 Evidence Map, 5 August 2026.",
+      "references": [
+        "T06"
+      ],
+      "evidence_category": "MANAGEMENT_FACT_WITH_SEPARATE_PLANNED_QUALIFICATION"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 78,
+      "text": "[T07] EP3825627A1, European application EP19306516.6; WO2021099546A1, PCT/EP2020/082838. Cascaded adsorption/desorption cooling and heating, 2019 priority. https://patents.google.com/patent/EP3825627A1/fr ; https://patents.google.com/patent/WO2021099546A1/en",
+      "references": [
+        "T07"
+      ],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 79,
+      "text": "[T08] Plasseraud IP. Analyse de brevetabilité HMX, 29 January 2025, reference B2500097EP, pp. 1–3.",
+      "references": [
+        "T08"
+      ],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 80,
+      "text": "[T09] BASF. US11609000B2, Air-conditioning method and device, especially claims 1, 5 and 12. https://patents.google.com/patent/US11609000B2/en",
+      "references": [
+        "T09"
+      ],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 81,
+      "text": "[T10] NuMat. EP4598672A1 / WO2024107531A1, Hybrid adsorbent granules and filters made with the granules, claim 1. https://patents.google.com/patent/EP4598672A1/en",
+      "references": [
+        "T10"
+      ],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 82,
+      "text": "[T11] Framergy and Absorption Solutions. EP3890878A2 / US20220023829A1, Amorphous metal organic frameworks and methods of preparing the same. https://patents.google.com/patent/EP3890878A2/fr",
+      "references": [
+        "T11"
+      ],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 83,
+      "text": "[T12] Montana Technologies. US20250043971A1, Latent energy and water harvesting system, claim 1. https://patents.google.com/patent/US20250043971A1/en",
+      "references": [
+        "T12"
+      ],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "PARTB_EXECUTIVE_AND_TECHNOLOGY_EN.md",
+      "block": 84,
+      "text": "[T13] ASHRAE, Standard 143-2024 purpose and scope, https://www.ashrae.org/technical-resources/standards-and-guidelines/titles-purposes-and-scopes ; BSI, BS EN 13141-7:2021+A1:2025 scope; ISO, ISO/IEC 17025:2017, https://www.iso.org/standard/66912.html\n",
+      "references": [
+        "T13"
+      ],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "FTO_STATUS_NOTE_EN.md",
+      "block": 1,
+      "text": "# AirTransformer freedom to operate status",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "FTO_STATUS_NOTE_EN.md",
+      "block": 2,
+      "text": "Savery Tech | 3 November 2026 | EIC Accelerator C05",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "FTO_STATUS_NOTE_EN.md",
+      "block": 3,
+      "text": "## Owned technology and product scope",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "FTO_STATUS_NOTE_EN.md",
+      "block": 4,
+      "text": "Savery owns the system patent originating from its 2019 filing. The identified family includes European application EP19306516.6, publication EP3825627A1, and PCT/EP2020/082838, publication WO2021099546A1. These publications concern cascaded adsorption/desorption cooling and heating. The current AirTransformer product follows the CAU-series material route and combines sorption air treatment, thermal management, cyclic operation and indirect evaporative cooling. Savery controls the system architecture and engineering know-how. Its protection strategy also addresses process instructions, calibration, firmware, models and manufacturing-transfer information. [1]",
+      "references": [],
+      "evidence_category": "MANAGEMENT_FACT_WITH_SEPARATE_PLANNED_QUALIFICATION"
+    },
+    {
+      "file": "FTO_STATUS_NOTE_EN.md",
+      "block": 5,
+      "text": "The assessment scope follows the manufactured and deployed product: selected material composition and preparation, shaping and coating, substrate and exchanger geometry, air/heat/water circuits, operating sequence, control software, installation and service. Activities and countries are considered separately. The immediate scope is European development, manufacture and deployment. North American and Asian production or sales require review of the specific countries and applicable family members before entry.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "FTO_STATUS_NOTE_EN.md",
+      "block": 6,
+      "text": "## Analysis already available",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "FTO_STATUS_NOTE_EN.md",
+      "block": 7,
+      "text": "Plasseraud's 29 January 2025 HMX patentability analysis considered the two-MOF exchanger and related material use against seven documents. It distinguished material and substrate claims from indirect evaporative geometries and liquid-desiccant combinations, and identified the need to substantiate the specific arrangement and engineering benefits. This work supports protection and claim drafting. It does not constitute a completed country-specific FTO opinion for every current product version. [2]",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "FTO_STATUS_NOTE_EN.md",
+      "block": 8,
+      "text": "The updated product screen retains those distinctions and adds the following published families. The comparison concerns actual technical features, rather than treating every MOF patent as a claim on all MOF use.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "FTO_STATUS_NOTE_EN.md",
+      "block": 9,
+      "text": "| Screening lead | Relevant feature and product comparison |\n|---|---|\n| BASF, US11609000B2 | Claims 1, 5 and 12 concern the specified sorption/heat-exchanger channel structure and associated process/apparatus. Compare actual contactor channels, coating distribution and air/thermal routing. Changing the material name alone does not settle the comparison. [3] |\n| NuMat, EP4598672A1 / WO2024107531A1 | Claim 1 addresses hybrid granules containing two adsorbent materials and a binder, with the stated spatial relationship. Compare the selected coating or shaped-material recipe and morphology; the granule structure is a specific screening condition. [4] |\n| Framergy and Absorption Solutions, EP3890878A2 / US20220023829A1 | The published subject matter concerns amorphous MOFs and preparation on porous substrates. Compare crystalline CAU identity, processing and substrate formation. Review national prosecution and applicable claims separately; an international or regional database label is not a worldwide family conclusion. [5] |\n| Montana/AirJoule, US20250043971A1 | Claim 1 includes thermally coupled contactors in chambers capable of sealed and unsealed states. Compare the adopted regeneration pressure, chamber sealing, contactor coupling and water-recovery arrangement. A shared low-temperature heat range is not itself the decisive claim feature. [6] |",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "FTO_STATUS_NOTE_EN.md",
+      "block": 10,
+      "text": "The earlier HMX analysis also identified US11786883B2, an adsorption-cooling/substrate family of Lawrence Livermore National Security, and indirect-cooling documents US9140471B2 and WO2020252059A1 associated with Alliance/NREL. These remain separate leads; they are not attributed to the companies above. [2]",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "FTO_STATUS_NOTE_EN.md",
+      "block": 11,
+      "text": "## Configuration release and market entry",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "FTO_STATUS_NOTE_EN.md",
+      "block": 12,
+      "text": "The next decision is a professional claim-by-claim review of the released bill of materials, drawings and manufacturing method against the applicable national rights. It will record each material feature or process step, the relevant claim element, territorial status, the proposed activity and the disposition. An owned system patent and a third-party FTO conclusion serve different purposes. This note records the present assessment and release process; it does not certify global clearance.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "FTO_STATUS_NOTE_EN.md",
+      "block": 13,
+      "text": "Frédéric Cui owns the product configuration decision and coordinates the assessment with specialist IP support. The productisation programme budgets IP and compliance work alongside design and manufacturing release. Any identified issue will be resolved through a documented technical change, appropriate permission or an adjusted territory plan before the affected commercial activity. Changes to materials, shaping, heat-exchanger geometry, regeneration, suppliers or intended uses trigger a proportionate update.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "FTO_STATUS_NOTE_EN.md",
+      "block": 14,
+      "text": "Employee, contractor and collaboration arrangements will preserve Savery's rights to the results it needs for manufacture, modification, maintenance and service. Controlled disclosure, confidentiality and publication review protect process knowledge and patentable improvements. Supplier transfers will define the permitted use of drawings and instructions, the ownership of improvements and the access needed for continuing production and replacement supply. Data and software records will identify background dependencies, licences and operational-data permissions. These measures connect the IP strategy to the product that will be manufactured and supported.",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "FTO_STATUS_NOTE_EN.md",
+      "block": 15,
+      "text": "## References",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    },
+    {
+      "file": "FTO_STATUS_NOTE_EN.md",
+      "block": 16,
+      "text": "[1] Company management ownership and product confirmation, 3 November 2026; EP3825627A1 and WO2021099546A1 publications. [2] Plasseraud IP, Analyse de brevetabilité HMX, B2500097EP, 29 January 2025, pp. 1–3. [3] https://patents.google.com/patent/US11609000B2/en [4] https://patents.google.com/patent/EP4598672A1/en [5] https://patents.google.com/patent/EP3890878A2/fr [6] https://patents.google.com/patent/US20250043971A1/en\n",
+      "references": [],
+      "evidence_category": "APPLICANT_PRODUCTISATION_PLAN_OR_ENGINEERING_REASONING"
+    }
+  ],
+  "missing": [
+    {
+      "id": "TECH01",
+      "required_input": "Current whole-machine test report/configuration, date, inlet/ratingpoints andtraceableperformancefile",
+      "why": "Supports exact measured16–20°C/9–11gkg andelectric/waterbenefits; currentTRL6factalreadyadopted",
+      "handling": "qualificationenvelopeandtargetsretained; nofake date,hours,fieldpercent"
+    },
+    {
+      "id": "IP01",
+      "required_input": "Current2019patentregisterextract/nationalmembersandchainoftitleinstrument for identifiedEP19306516.6/WO2021099546family",
+      "why": "Populateactualterritorialstage/status withoutinventing identifiers orworldwidegrant",
+      "handling": "fullSaveryownershipadoptedasconfirmed; officialpublicationidentitieslocated; statusnotinvented"
+    },
+    {
+      "id": "IP02",
+      "required_input": "Currentprofessionalproduct-countryFTOclaimchart or actualexistingopinion for finalCAUcomposition,shapingandgeometry",
+      "why": "Finishprofessionalreleaseassessment; existingD8ispatentabilitynotFTO",
+      "handling": "publishedfeaturemapsandplannedreleaseprocessstated; no inventedclearance"
+    },
+    {
+      "id": "TECH02",
+      "required_input": "Actual2025completeAirTransformerPartB andunderlyingrawtest/pricebasis, ifavailable",
+      "why": "ESRlocatesstronghistoricclaimsbutnotoriginalmeasurement",
+      "handling": "actualshortproposal/LIFEread; unrelatedGRACEODTidentifiedandexcluded"
+    },
+    {
+      "id": "SITE01",
+      "required_input": "CurrentCETPfundedworkplananddatadependenciesavailablebeforeMar2029",
+      "why": "Finalcost/sitecalendarallocation",
+      "handling": "awarded2026–2029,HPEsite,TRL7targetadopted; EICindependent/equivalentqualificationrouteplanned"
+    }
+  ],
+  "updated_utc": "2026-11-03T03:23:44.952337+00:00"
+}

@@ -1,0 +1,189 @@
+{
+  "fields": [
+    {
+      "field": "Proposal title",
+      "value": "AirTransformer Resilience",
+      "basis": "Proposed application title"
+    },
+    {
+      "field": "Topic",
+      "value": "HORIZON-EIC-2026-ACCELERATOR-02-CHALLENGES-05",
+      "basis": "C05 Deep Tech for Climate Adaptation"
+    },
+    {
+      "field": "Funding type",
+      "value": "Blended finance",
+      "basis": "Grant and EIC investment"
+    },
+    {
+      "field": "Applicant legal name",
+      "value": "Savery Tech",
+      "basis": "Kbis current to 13 September 2026"
+    },
+    {
+      "field": "Country",
+      "value": "France",
+      "basis": "Registered applicant"
+    },
+    {
+      "field": "Legal form",
+      "value": "Société par actions simplifiée (single shareholder)",
+      "basis": "Kbis"
+    },
+    {
+      "field": "Registered address",
+      "value": "67 rue Saint-Jacques, 75005 Paris, France",
+      "basis": "Kbis"
+    },
+    {
+      "field": "Registration",
+      "value": "933 040 966 R.C.S. Paris",
+      "basis": "Kbis"
+    },
+    {
+      "field": "EUID",
+      "value": "FR7501.933040966",
+      "basis": "Kbis"
+    },
+    {
+      "field": "PIC",
+      "value": "875382903",
+      "basis": "Current user confirmation"
+    },
+    {
+      "field": "Application Draft ID",
+      "value": "SEP-211428709",
+      "basis": "Current user confirmation"
+    },
+    {
+      "field": "Grant duration months",
+      "value": "24",
+      "basis": "Proposed action calendar"
+    },
+    {
+      "field": "Planned start",
+      "value": "2027-04-01",
+      "basis": "Contractual start follows the grant agreement"
+    },
+    {
+      "field": "Planned end",
+      "value": "2029-03-31",
+      "basis": "M24"
+    },
+    {
+      "field": "Current TRL",
+      "value": "6",
+      "basis": "Complete machine; current management confirmation"
+    },
+    {
+      "field": "Grant target TRL",
+      "value": "8",
+      "basis": "Product qualification target"
+    },
+    {
+      "field": "Eligible grant-action cost EUR",
+      "value": "3550833.33",
+      "basis": "Unrounded build €3,550,833.333333"
+    },
+    {
+      "field": "Grant request EUR",
+      "value": "2485583.33",
+      "basis": "70% of eligible action cost"
+    },
+    {
+      "field": "Non-grant eligible share EUR",
+      "value": "1065250.00",
+      "basis": "30%; separate from the asset cash/depreciation difference"
+    },
+    {
+      "field": "EIC investment request EUR",
+      "value": "2000000.00",
+      "basis": "Within Seed target; conditional financing request"
+    },
+    {
+      "field": "Total EIC request EUR",
+      "value": "4485583.33",
+      "basis": "Grant plus investment"
+    },
+    {
+      "field": "Seed target EUR",
+      "value": "8000000.00",
+      "basis": "EIC investment €2m plus €6m other sources"
+    },
+    {
+      "field": "Other Seed sources sought EUR",
+      "value": "6000000.00",
+      "basis": "Financing target; not committed receipts"
+    },
+    {
+      "field": "Grant-action asset purchase cash EUR",
+      "value": "529000.00",
+      "basis": "Separate from action-attributable depreciation"
+    },
+    {
+      "field": "Eligible action depreciation EUR",
+      "value": "170916.67",
+      "basis": "Six asset groups"
+    },
+    {
+      "field": "Cash as of current application preparation EUR",
+      "value": "300000.00",
+      "basis": "All accounts, reported by management 3 November 2026"
+    },
+    {
+      "field": "Outstanding debt EUR",
+      "value": "0.00",
+      "basis": "Current management confirmation"
+    },
+    {
+      "field": "Major short-term liabilities EUR",
+      "value": "0.00",
+      "basis": "Current management confirmation"
+    },
+    {
+      "field": "AI developed or used",
+      "value": "Yes",
+      "basis": "Yes. The action develops and uses model-based supervisory control and may retain a bounded reinforcement-learning optimisation layer for setpoints or cycle decisions. Independent physical limits, safety interlocks, sensor diagnostics, anomaly detection, operator override and deterministic fallback retain authority outside the learning policy. Development separates training, calibration and final acceptance data, covers relevant climate/load conditions and held-out disturbances, and tests actuator faults, sensor drift, confidence loss and safe recovery. Versioned validation and change control precede product release. The proposed use is industrial cooling control; a legal high-risk classification is not inferred solely from the presence of AI."
+    },
+    {
+      "field": "Abstract",
+      "value": "AirTransformer provides climate-resilient cooling for urban critical facilities exposed to extreme heat, electricity constraints and water stress. Savery Tech has a complete TRL6 machine integrating sorption air treatment, thermal management and indirect evaporative cooling. Its CAU-series material route uses low-temperature regeneration heat. Product qualification targets 60–70% lower electricity demand and 40–60% lower external make-up water at equivalent cooling service, within declared source, sink and climate conditions. Savery owns its 2019 system patent family. An awarded CETP grant supports its ongoing 2026–2029 programme towards TRL7, with HPE providing the site. The proposed EIC action adds repeatable manufacturing, batch qualification, reliability, conformity evidence and independent product acceptance towards TRL8. Its own qualification route avoids dependence on later CETP deliverables, and each cost is allocated once. The 24-month action plans April 2027 to March 2029, with €3,550,833.33 eligible cost and €2,485,583.33 grant requested. Savery also seeks €2 million EIC investment within an €8 million Seed target, alongside €6 million from other sources, for co-financing, manufacturing deployment, service capability and working capital.",
+      "basis": "Complete copy-ready abstract"
+    },
+    {
+      "field": "Frédéric Cui gender / founder",
+      "value": "Male / Y",
+      "basis": "Planned grant action commitment 50%"
+    },
+    {
+      "field": "Qin Yu gender / founder",
+      "value": "Male / N",
+      "basis": "Planned grant action commitment 87.5%"
+    },
+    {
+      "field": "Ina Wang gender / founder",
+      "value": "Female / N",
+      "basis": "Planned grant action commitment 50%"
+    },
+    {
+      "field": "Scientific board",
+      "value": "Norbert Stock; Aline Auroux",
+      "basis": "Existing board membership; no automatic paid PM"
+    },
+    {
+      "field": "Issued shares",
+      "value": "CURMA SOLUTIONS: 100%",
+      "basis": "Signed declaration 7 April 2026, rolled forward with current user confirmation of no conversion/dilution"
+    },
+    {
+      "field": "BSA-AIR",
+      "value": "Unconverted; valuation and conversion follow next financing",
+      "basis": "Current investors use BSA-AIR, SAFE-like"
+    },
+    {
+      "field": "Key-member option pool",
+      "value": "10% reserved",
+      "basis": "A 90/10 holder/pool illustration excludes BSA-AIR conversion and new financing; it is not a final fully diluted schedule"
+    }
+  ]
+}

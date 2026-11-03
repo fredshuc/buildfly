@@ -1,0 +1,68 @@
+[
+  {
+    "metric": "Person months",
+    "old": 154,
+    "current": 258.0,
+    "difference": 104.0
+  },
+  {
+    "metric": "Personnel",
+    "old": 1014000,
+    "current": 1648500.0,
+    "difference": 634500.0
+  },
+  {
+    "metric": "Subcontracting",
+    "old": 148400,
+    "current": 325000.0,
+    "difference": 176600.0
+  },
+  {
+    "metric": "Travel",
+    "old": 32700,
+    "current": 51750.0,
+    "difference": 19050.0
+  },
+  {
+    "metric": "Depreciation",
+    "old": 91255.55555555556,
+    "current": 170916.66666666666,
+    "difference": 79661.1111111111
+  },
+  {
+    "metric": "Goods/services",
+    "old": 426380,
+    "current": 709500.0,
+    "difference": 283120.0
+  },
+  {
+    "metric": "Indirect costs",
+    "old": 391083.8888888889,
+    "current": 645166.6666666666,
+    "difference": 254082.77777777775
+  },
+  {
+    "metric": "Eligible costs",
+    "old": 2103819.4444444445,
+    "current": 3550833.3333333335,
+    "difference": 1447013.888888889
+  },
+  {
+    "metric": "Grant",
+    "old": 1472673.6111111112,
+    "current": 2485583.3333333335,
+    "difference": 1012909.7222222222
+  },
+  {
+    "metric": "Non-grant share",
+    "old": 631145.8333333333,
+    "current": 1065250.0,
+    "difference": 434104.16666666674
+  },
+  {
+    "metric": "Asset purchase cash",
+    "old": 390000,
+    "current": 529000.0,
+    "difference": 139000.0
+  }
+]
