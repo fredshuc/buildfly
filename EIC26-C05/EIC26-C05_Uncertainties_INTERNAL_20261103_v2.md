@@ -90,3 +90,19 @@
 35. **Heating COP 6–10.** The applicant's wording is "can reach". The proposal uses "can reach" / "up to", so no measurement claim is made.
 36. **Installed COP 8–20.** An applicant engineering range (adjacent components and site pumps), not a measured range. The proposal words it as a dependency on the site.
 37. **Process.** The R3 internal notes (line 40) rejected applicant facts as red-team additions. L1 must issue the v3 fact sheet as direct applicant facts so that R4 does not repeat this.
+38. **Team commitment %.** The template column "Commitment" means time committed to the company. The v3 pack shows 100% for all three leaders as the full-time default. Enter actual values. The 50 / 87.5 / 50% figures are EIC-action allocations, now in the Implementation Plan annex.
+39. **Governance table.** CURMA SOLUTIONS 90% / pool 10% is a pre-conversion fully diluted view. Open:
+    - Frédéric's ownership share of CURMA (the shareholder declaration notes that CURMA's own split is also required).
+    - The BSA-AIR conversion effect, which is excluded.
+    - Whether investors will take board seats at Seed. The governance sentence 6d is only a suggestion.
+40. **Regulatory paragraph 6e to verify.**
+    - F-gas Regulation (EU) 2024/573 scope, and no F-gas on any auxiliary circuit.
+    - EED (EU) 2023/1791 and Delegated Reg. (EU) 2024/1364 KPIs, including water.
+    - German EnEfG PUE limit for new data centres from July 2026 (about 1.2). Waste heat reused inside the site does not count toward the EnEfG energy-reuse factor, so no ERF claim is made.
+    - Machinery Regulation (EU) 2023/1230 applies from 20 January 2027.
+41. **"Aluminium-based CAU sorbents, no rare earths" (6b).** True for CAU-10 and CAU-23. Confirm for the selected variant.
+42. **CV links and LOIs.**
+    - CV URLs are needed for the CVs section.
+    - LOIs are listed as a mandatory annex in the template. Candidates: the two 2027 reference customers, HPE (CETP site) and the 2025 investors.
+    - If no LOI can be obtained, upload what exists. The template requires the guidance template format.
+43. **Investor traction (template 3.2).** The BSA-AIR amount raised and the number of investors are needed for one sentence.
