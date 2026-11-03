@@ -106,3 +106,17 @@
     - LOIs are listed as a mandatory annex in the template. Candidates: the two 2027 reference customers, HPE (CETP site) and the 2025 investors.
     - If no LOI can be obtained, upload what exists. The template requires the guidance template format.
 43. **Investor traction (template 3.2).** The BSA-AIR amount raised and the number of investors are needed for one sentence.
+
+## Added after A16-R4 (v3)
+
+44. **Figure 1 provenance.**
+    - The "AI" container shows third-party logos. Keep only partners who have consented in writing.
+    - SEM tile: the 10⁻⁵ m label conflicts with the 500 µm scale bar, and the data bar shows a literal "label" field. Confirm the image is a real Savery micrograph. If it is AI-generated or stock, it must not be presented as a micrograph.
+    - The flame icon on the unit render suggests combustion.
+    - The sorption curves show linkers from the earlier material family (furan / pyrrole-type dicarboxylates, isophthalate). The caption must not present them as CAU batch data.
+45. **COP 20 test traceability.** The EIC annex list has no slot for a test report, and experts ignore hyperlinks. Cite title, laboratory and date in the references. Which EN standard the test followed is still unknown. L2 notes that ASHRAE 143 excludes units with dried air streams and that EN 13141-7 covers residential ventilation units. Expect the interview question "which standard, which laboratory?"
+46. **Team employment status.** R4 S3 l.17 hinted that the full-time commitment is separate from current contract/payroll status. The v4 pack removes that sentence. If the three leaders are not currently employed full-time, prepare the interview answer: start dates, contracts at Seed.
+47. **€15 bn vs USD 20.5 bn.** The company estimate (€15 bn) and the GMI worldwide figure (USD 20.5 bn ≈ €18 bn at about 1.13) are both shown. The SOM shares (0.5% / 1.2%) use the €15 bn. The scope of the €15 bn is not documented.
+48. **Customer ROI vs company ROIC.** R4 shows customer cash ROI of 35–48% (at €0.25/kWh, 8,000 h, rack heat free). Company ROI/ROIC from the BP were not inserted. L2 found no computed basis and removed the placeholder.
+49. **Page count.** About 10,000 words plus 20 tables plus a figure, before the executive summary and challenge statement. Check the merged DOCX; apply cut list v4-C if it runs over 20 pages.
+50. **Metrics table (v4-A).** "934 units by 2031" is the cumulative sum of 2027–2031 planned acceptances from the G3.1 forecast.
