@@ -1,6 +1,6 @@
 # EIC26-C05 internal uncertainty register (not for submission)
 
-3 Nov 2026. Every limitation, condition and open check removed from the proposal text is kept here. Nothing in this file goes into Part B, the pitch or the Portal. Each item states the risk, what the proposal now says, and the action needed, if any. Items marked **Before submit** should be closed by 10:00 on 4 Nov if possible. All other items can wait for the interview or the grant agreement.
+3 Nov 2026, v2 (after A16-R3). Every limitation, condition and open check removed from the proposal text is kept here. Nothing in this file goes into Part B, the pitch or the Portal. Each item states the risk, what the proposal now says, and the action needed, if any. Items marked **Before submit** should be closed by 10:00 on 4 Nov if possible. All other items can wait for the interview or the grant agreement.
 
 ## Technology and performance
 
@@ -19,7 +19,7 @@
 
 ## Product definition and market
 
-9. **Unit in the forecast.** The proposal now defines a forecast unit as a 100 kW package of five 20 kW modules. This is inferred from €110k equipment at €1,100/kW. If the BP counts something else (a module, a container), the €/kW, MW-per-year and SOM-in-MW statements change. **Before submit:** check the BP unit definition.
+9. **Unit in the forecast.** Superseded by item 33. (Original note: the proposal defined a forecast unit as a 100 kW package of five 20 kW modules.) This is inferred from €110k equipment at €1,100/kW. If the BP counts something else (a module, a container), the €/kW, MW-per-year and SOM-in-MW statements change. **Before submit:** check the BP unit definition.
 10. **TAM.** Applicant: "hundreds of billions of euros". Copy the BP figure and source into package F.
 11. **SAM €15 bn for data-centre cooling.** Applicant figure; add the source from the BP. Open: whether it is global or Europe + North America. If it is global, the SOM shares are slightly understated relative to Savery's territory, which is acceptable.
 12. **Expansion segments** (industrial waste heat at 40–50 °C, urban critical facilities) are named but not sized, by choice.
@@ -53,7 +53,7 @@
 
 ## Implementation, team, finance
 
-23. **Seed timing.** BP: launch September 2027, close November 2027. EIC investment normally follows EIC due diligence after the award, so the €2m EIC tranche may close later than the private Seed.
+23. **Seed timing (see also item 30).** BP: launch September 2027, close November 2027. EIC investment normally follows EIC due diligence after the award, so the €2m EIC tranche may close later than the private Seed.
 24. **Bridge from April to November 2027.**
     - Proposal: "Grant pre-financing and current cash fund the action from April 2027 until the Seed closes in November 2027."
     - Basis: the FP 60/25/15 grant timing gives about €1.49m pre-financing, against about €1.14m action cash over 7 months.
@@ -66,3 +66,27 @@
 27. **Team.** Current total headcount is not stated in the proposal. 82.6% of PM (213) sit with eleven roles still to recruit. The founder's commitment is 50%; the proposal says the remainder goes to leadership, financing, partnerships and CETP.
 28. **Investor evidence.** No LOI is named. The BSA-AIR total raised is not stated. Both would help §3.2 if available.
 29. **Gender target.** At least 40% women among new hires by M24 is a commitment and must be tracked.
+
+## Added after A16-R3 (v2)
+
+30. **Seed date version conflict.**
+    - Current BP G3.1 (financing table): Seed March 2027, USD 8m (A April 2028, B January 2030, C January 2032).
+    - BP assumptions of 10 Sep 2026: launch September 2027, receipt 15 November 2027.
+    - Applicant, 3 Nov 2026: launch September 2027, close November 2027. The proposal follows the applicant.
+    - Both dates fall in the 2027 annual column, so FP/DB figures are unchanged.
+    - Action: update the BP G3.1 table text so the annex and Part B match.
+31. **Funding targets USD to EUR.** The BP rounds are in USD; the proposal uses the same numbers as nominal EUR, by applicant decision. No FX conversion. Expect an investor question only if the BP annex is read side by side with Part B.
+32. **SAM source and scope.**
+    - GMI GMI423 (Sept 2026): USD 20.5 bn, worldwide, 2025, covering equipment, integrated systems and services.
+    - Converted at about 1.13 USD/EUR (2025 average, approximate), that is about €18 bn. The applicant's "about €15 bn" is the same order.
+    - SOM shares (about 1% in 2032, about 0.4% in 2031) use the 2025 market as denominator. The market will grow, so the true share is lower; this is conservative for credibility.
+    - GMI is worldwide, while Savery's territory is Europe + North America.
+33. **Forecast unit vs product capacity.** L2 refused to infer 100 kW per forecast unit from €110k at €1,100/kW. The proposal therefore states the 20 kW module and 600 kW container, and keeps 100 kW only as the payback normalisation. The "150 MW in 2032" link is dropped. Interview question to prepare: "what capacity is one forecast unit?"
+34. **Payback statement (v3 pack).**
+    - Basis: rack heat at no cost; 8,000 h; €120k per 100 kW. At €0.25/kWh across COP 8–20: 25–34 months.
+    - At €900/kW hardware (€100k installed) and €0.20/kWh: 26–36 months.
+    - At €0.20/kWh and €120k: 31–43 months. This is not stated in the proposal.
+    - The R3 version (EER 10 with €0.01/kWh heat) is superseded.
+35. **Heating COP 6–10.** The applicant's wording is "can reach". The proposal uses "can reach" / "up to", so no measurement claim is made.
+36. **Installed COP 8–20.** An applicant engineering range (adjacent components and site pumps), not a measured range. The proposal words it as a dependency on the site.
+37. **Process.** The R3 internal notes (line 40) rejected applicant facts as red-team additions. L1 must issue the v3 fact sheet as direct applicant facts so that R4 does not repeat this.
