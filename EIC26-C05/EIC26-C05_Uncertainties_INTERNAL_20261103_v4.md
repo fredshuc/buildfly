@@ -120,3 +120,21 @@
 48. **Customer ROI vs company ROIC.** R4 shows customer cash ROI of 35–48% (at €0.25/kWh, 8,000 h, rack heat free). Company ROI/ROIC from the BP were not inserted. L2 found no computed basis and removed the placeholder.
 49. **Page count.** About 10,000 words plus 20 tables plus a figure, before the executive summary and challenge statement. Check the merged DOCX; apply cut list v4-C if it runs over 20 pages.
 50. **Metrics table (v4-A).** "934 units by 2031" is the cumulative sum of 2027–2031 planned acceptances from the G3.1 forecast.
+
+## Added after A16-R5 (v4)
+
+51. **CO₂ factor (v5-2c).** The figures use 0.2 kg CO₂/kWh as an approximate EU grid intensity. Check against the latest EEA figure (around 0.2–0.25 for 2023–2024) and adjust 330–450 t if needed. The per-MW electricity (1.67–2.27 GWh) and water (4,800–7,200 m³) figures are arithmetic on the S2 assumptions: 8,000 h, EER 3, 1.5 L/kWh, 40–60%.
+52. **Comparison table claims (v5-2b).**
+    - "Desiccant wheels need higher regeneration temperature": true for typical silica-gel/zeolite wheels. Low-temperature wheels exist, so the wording is "higher", with no number.
+    - "Chiller EER about 3 in heatwave hours": typical for air-cooled chillers at 35–40 °C ambient.
+    - "Pre-dried air lowers the wet-bulb limit": physics.
+    - The make-up water reduction is not attributed to the evaporative-only comparison, because its baseline is undefined.
+53. **Deep-tech paragraph (v5-2a).** The step-shaped water isotherm is true for CAU-10-H, CAU-23 and MIL-160. Zeolites need hot regeneration, and silica gel uptake is gradual. The patent claim "decreasing water-adsorption thresholds at 25 °C" matches the staging described.
+54. **Board credentials (v5-2d).**
+    - Norbert Stock: professor at Kiel University (Christian-Albrechts-Universität); his group originated the CAU frameworks.
+    - Aline Auroux: CNRS (IRCELYON), adsorption microcalorimetry. Check whether her title is emerita.
+    - Confirm both are happy to be described this way.
+55. **Incentives (v5-2e).** The template asks how the team is incentivised. R5 removed the 10% pool after the applicant said current team members hold no options. A plan to set one up at Seed must be confirmed by the applicant before the sentence goes in.
+56. **Figure 1 chip "40–60% less make-up water".** This is a qualification target, not a measured result; the caption says "target". "Electrical COP 8–20" is the company engineering range, with 20 measured.
+57. **Figure 2.** Crop the SEM data bar (illegible; 500 µm bar against a 10⁻⁵ m tile label). The third-party logos on the "AI" container are kept by applicant decision; they are a residual risk if an evaluator reads them as partners.
+58. **"EN standard test conditions" as the TRL6 relevant environment (v5 S1 l.87).** This is defensible for HVAC equipment rated under standard conditions. Expect the interview question on field operation, which is CETP/HPE (TRL7) and the EIC field programme (TRL8).
