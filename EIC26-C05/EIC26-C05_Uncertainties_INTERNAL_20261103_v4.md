@@ -138,3 +138,13 @@
 56. **Figure 1 chip "40–60% less make-up water".** This is a qualification target, not a measured result; the caption says "target". "Electrical COP 8–20" is the company engineering range, with 20 measured.
 57. **Figure 2.** Crop the SEM data bar (illegible; 500 µm bar against a 10⁻⁵ m tile label). The third-party logos on the "AI" container are kept by applicant decision; they are a residual risk if an evaluator reads them as partners.
 58. **"EN standard test conditions" as the TRL6 relevant environment (v5 S1 l.87).** This is defensible for HVAC equipment rated under standard conditions. Expect the interview question on field operation, which is CETP/HPE (TRL7) and the EIC field programme (TRL8).
+
+## Added after A17-R1 Implementation Plan (4 Nov)
+
+59. **IP filing dates in T5.2.**
+    - 2025 family: priority 21 Jul 2025. PCT national phase 30 months = 21 Jan 2028 (M10); EP regional phase 31 months = 21 Feb 2028 (M11).
+    - EP26301484.7 (filed 9 Oct 2026): a 12-month Paris priority deadline of 9 Oct 2027 (M7) applies only if it is a first filing with no earlier priority claimed. Confirm.
+    - Choose territories with counsel.
+60. **WP TRL targets 7/7 for WP2/WP3.** Justified by field operation from M17. The conservative alternative is "6–7".
+61. **Milestone criteria.** The MS5 pass criteria (≥60% electricity, ≥40% water) turn the qualification targets into acceptance thresholds. If field results fall short, MS5 is formally missed; that is the intended signal of a verifiable milestone.
+62. **Residual risk re-rating.** These are planning judgements; adjust if the applicant sees it differently.
