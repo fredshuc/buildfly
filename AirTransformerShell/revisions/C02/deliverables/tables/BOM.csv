@@ -1,0 +1,129 @@
+﻿name,group,material,thickness_mm,scope,note,kind,volume_mm3
+BASE_X_-850,FRAME,S235/S355 steel; grade to freeze,3,FIXED,RHS open ends; joints and welds not released,DESIGN_PART,767039.9999999997
+BASE_X_800,FRAME,S235/S355 steel; grade to freeze,3,FIXED,RHS open ends; joints and welds not released,DESIGN_PART,767039.9999999997
+BASE_Y_-50,FRAME,S235/S355 steel; grade to freeze,3,FIXED,RHS open ends; joints and welds not released,DESIGN_PART,902400.0000000003
+BASE_Y_1260,FRAME,S235/S355 steel; grade to freeze,3,FIXED,RHS open ends; joints and welds not released,DESIGN_PART,902400.0000000003
+LEG_-50_-850,FRAME,S235/S355 steel; grade to freeze,3,FIXED,RHS open ends; joints and welds not released,DESIGN_PART,22559.999999999975
+FOOT_-50_-850,FRAME,Steel,10,FIXED,,DESIGN_PART,24999.999999999993
+POST_-50_-850,FRAME,S235/S355 steel; grade to freeze,3,FIXED,RHS open ends; joints and welds not released,DESIGN_PART,710399.9999999995
+LEG_-50_800,FRAME,S235/S355 steel; grade to freeze,3,FIXED,RHS open ends; joints and welds not released,DESIGN_PART,22559.999999999975
+FOOT_-50_800,FRAME,Steel,10,FIXED,,DESIGN_PART,24999.999999999993
+POST_-50_800,FRAME,S235/S355 steel; grade to freeze,3,FIXED,RHS open ends; joints and welds not released,DESIGN_PART,710399.9999999995
+LEG_1260_-850,FRAME,S235/S355 steel; grade to freeze,3,FIXED,RHS open ends; joints and welds not released,DESIGN_PART,22559.999999999975
+FOOT_1260_-850,FRAME,Steel,10,FIXED,,DESIGN_PART,24999.999999999993
+POST_1260_-850,FRAME,S235/S355 steel; grade to freeze,3,FIXED,RHS open ends; joints and welds not released,DESIGN_PART,902399.9999999998
+LEG_1260_800,FRAME,S235/S355 steel; grade to freeze,3,FIXED,RHS open ends; joints and welds not released,DESIGN_PART,22559.999999999975
+FOOT_1260_800,FRAME,Steel,10,FIXED,,DESIGN_PART,24999.999999999993
+POST_1260_800,FRAME,S235/S355 steel; grade to freeze,3,FIXED,RHS open ends; joints and welds not released,DESIGN_PART,902399.9999999998
+TOP_X_-850,FRAME,S235/S355 steel; grade to freeze,3,FIXED,RHS open ends; joints and welds not released,DESIGN_PART,767039.9999999997
+TOP_X_800,FRAME,S235/S355 steel; grade to freeze,3,FIXED,RHS open ends; joints and welds not released,DESIGN_PART,767039.9999999997
+TOP_Y_-50,FRAME,S235/S355 steel; grade to freeze,3,FIXED,RHS open ends; joints and welds not released,DESIGN_PART,902400.0000000003
+TOP_Y_1260,FRAME,S235/S355 steel; grade to freeze,3,FIXED,RHS open ends; joints and welds not released,DESIGN_PART,902400.0000000003
+FRONT_CENTRE_SPINE,FRAME,S235/S355 steel; grade to freeze,3,FIXED,RHS open ends; joints and welds not released,DESIGN_PART,710399.9999999995
+A_CROSS_SUPPORT_0,FRAME,S235/S355 steel; grade to freeze,3,FIXED,C03 feet transformed; nominal support at Z150; clamps/thermal travel pending,DESIGN_PART,121356.23916933763
+A_CROSS_SUPPORT_1,FRAME,S235/S355 steel; grade to freeze,3,FIXED,C03 feet transformed; nominal support at Z150; clamps/thermal travel pending,DESIGN_PART,121356.23916933767
+A_POD_BOTTOM_F,AIR,304L candidate (air contact),1.5,FIXED,Level pan; support cut-outs need sealed collars,DESIGN_PART,309438.75
+A_POD_BOTTOM_C,AIR,304L candidate (air contact),1.5,FIXED,Level pan; support cut-outs need sealed collars,DESIGN_PART,253360.5
+A_POD_BOTTOM_R,AIR,304L candidate (air contact),1.5,FIXED,Level pan; support cut-outs need sealed collars,DESIGN_PART,309438.75
+A_BASE_Y_RAIL_265,FRAME,S235/S355 steel; grade to freeze,3,FIXED,RHS open ends; joints and welds not released,DESIGN_PART,406080.0
+A_BASE_Y_RAIL_435,FRAME,S235/S355 steel; grade to freeze,3,FIXED,RHS open ends; joints and welds not released,DESIGN_PART,406080.0
+A_CORE_SIDE_-840,AIR,304L candidate (air contact),1.5,FIXED,Sides terminate below removable top-adapter zone,DESIGN_PART,485280.0
+A_CORE_SIDE_-21.5,AIR,304L candidate (air contact),1.5,FIXED,Sides terminate below removable top-adapter zone,DESIGN_PART,485280.0
+A_F_PLENUM_SIDE_-840,AIR,304L candidate (air contact),1.5,FRONT_REMOVE,,DESIGN_PART,454500.0
+A_F_PLENUM_SIDE_-21.5,AIR,304L candidate (air contact),1.5,FRONT_REMOVE,,DESIGN_PART,454500.0
+A_F_PLENUM_TOP,AIR,304L candidate (air contact),1.5,FRONT_REMOVE,,DESIGN_PART,309438.75
+A_F_HX_APERTURE,AIR,304L candidate (air contact),2.5,FRONT_REMOVE,,DESIGN_PART,917936.2499999995
+A_F_HX_SEAL,SEAL,Seal candidate,7.5,FRONT_REMOVE,Supplier continuous sealing land pending,DESIGN_PART,495599.9999999999
+A_R_PLENUM_SIDE_-840,AIR,304L candidate (air contact),1.5,FIXED,,DESIGN_PART,454500.0
+A_R_PLENUM_SIDE_-21.5,AIR,304L candidate (air contact),1.5,FIXED,,DESIGN_PART,454500.0
+A_R_PLENUM_TOP,AIR,304L candidate (air contact),1.5,FIXED,,DESIGN_PART,309438.75
+A_R_HX_APERTURE,AIR,304L candidate (air contact),2.5,FIXED,,DESIGN_PART,917936.2499999995
+A_R_HX_SEAL,SEAL,Seal candidate,7.5,FIXED,Supplier continuous sealing land pending,DESIGN_PART,495599.9999999999
+A_F_DUAL_PORT_PLATE,AIR,304L,2.5,FRONT_REMOVE,P630x345 / R630x180; original bolt centres,DESIGN_PART,1620507.4123147135
+A_R_P_DUCT_Y_-795,AIR,304L candidate (air contact),1.5,FIXED,,DESIGN_PART,195097.5
+A_R_P_DUCT_Y_-166.5,AIR,304L candidate (air contact),1.5,FIXED,,DESIGN_PART,195097.5
+A_R_P_DUCT_Z_300,AIR,304L candidate (air contact),1.5,FIXED,,DESIGN_PART,354568.5
+A_R_P_DUCT_Z_643.5,AIR,304L candidate (air contact),1.5,FIXED,,DESIGN_PART,354568.5
+A_R_R_DUCT_Y_-795,AIR,304L candidate (air contact),1.5,FIXED,,DESIGN_PART,101790.0
+A_R_R_DUCT_Y_-166.5,AIR,304L candidate (air contact),1.5,FIXED,,DESIGN_PART,101790.0
+A_R_R_DUCT_Z_940,AIR,304L candidate (air contact),1.5,FIXED,,DESIGN_PART,354568.5
+A_R_R_DUCT_Z_1118.5,AIR,304L candidate (air contact),1.5,FIXED,,DESIGN_PART,354568.5
+A_R_DUAL_PORT_PLATE,AIR,304L,2.5,FIXED,P630x345 / R630x180; original bolt centres,DESIGN_PART,1620507.412314713
+A_FRONT_SERVICE_BLANK,PANEL,5052-H32 aluminium; isolated fasteners; coated exterior,2.5,FRONT_REMOVE,,DESIGN_PART,819999.9999999999
+A_W1_REMOVABLE_90,W1,Routing geometry; provisional stainless tube,3,ADAPTER_REMOVE,"R50 nominal; OD35/ID29 for geometric layout, supplier joints and pressure design pending",ROUTING_REFERENCE,100940.07055144879
+A_W1_SIDE_DROP,W1,Routing geometry; provisional stainless tube,3,WATER_FIXED,"R50 nominal; OD35/ID29 for geometric layout, supplier joints and pressure design pending",ROUTING_REFERENCE,264249.55173608445
+A_W2_REMOVABLE_90,W2,Routing geometry; provisional stainless tube,3,ADAPTER_REMOVE,"R50 nominal; OD35/ID29 for geometric layout, supplier joints and pressure design pending",ROUTING_REFERENCE,180078.04613243704
+A_W2_SIDE_DROP,W2,Routing geometry; provisional stainless tube,3,WATER_FIXED,"R50 nominal; OD35/ID29 for geometric layout, supplier joints and pressure design pending",ROUTING_REFERENCE,188851.32804992984
+A_WATER_GLAND_PANEL,AIR,304L candidate (air contact),1.5,WATER_SERVICE,,DESIGN_PART,463490.0466686727
+B_CROSS_SUPPORT_0,FRAME,S235/S355 steel; grade to freeze,3,FIXED,C03 feet transformed; nominal support at Z150; clamps/thermal travel pending,DESIGN_PART,121356.23916933761
+B_CROSS_SUPPORT_1,FRAME,S235/S355 steel; grade to freeze,3,FIXED,C03 feet transformed; nominal support at Z150; clamps/thermal travel pending,DESIGN_PART,121356.2391693376
+B_POD_BOTTOM_F,AIR,304L candidate (air contact),1.5,FIXED,Level pan; support cut-outs need sealed collars,DESIGN_PART,309438.75
+B_POD_BOTTOM_C,AIR,304L candidate (air contact),1.5,FIXED,Level pan; support cut-outs need sealed collars,DESIGN_PART,253360.5
+B_POD_BOTTOM_R,AIR,304L candidate (air contact),1.5,FIXED,Level pan; support cut-outs need sealed collars,DESIGN_PART,309438.75
+B_BASE_Y_RAIL_265,FRAME,S235/S355 steel; grade to freeze,3,FIXED,RHS open ends; joints and welds not released,DESIGN_PART,406080.0
+B_BASE_Y_RAIL_435,FRAME,S235/S355 steel; grade to freeze,3,FIXED,RHS open ends; joints and welds not released,DESIGN_PART,406080.0
+B_CORE_SIDE_20,AIR,304L candidate (air contact),1.5,FIXED,Sides terminate below removable top-adapter zone,DESIGN_PART,485280.0
+B_CORE_SIDE_838.5,AIR,304L candidate (air contact),1.5,FIXED,Sides terminate below removable top-adapter zone,DESIGN_PART,485280.0
+B_F_PLENUM_SIDE_20,AIR,304L candidate (air contact),1.5,FRONT_REMOVE,,DESIGN_PART,454500.0
+B_F_PLENUM_SIDE_838.5,AIR,304L candidate (air contact),1.5,FRONT_REMOVE,,DESIGN_PART,454500.0
+B_F_PLENUM_TOP,AIR,304L candidate (air contact),1.5,FRONT_REMOVE,,DESIGN_PART,309438.75
+B_F_HX_APERTURE,AIR,304L candidate (air contact),2.5,FRONT_REMOVE,,DESIGN_PART,917936.2499999998
+B_F_HX_SEAL,SEAL,Seal candidate,7.5,FRONT_REMOVE,Supplier continuous sealing land pending,DESIGN_PART,495599.9999999999
+B_R_PLENUM_SIDE_20,AIR,304L candidate (air contact),1.5,FIXED,,DESIGN_PART,454500.0
+B_R_PLENUM_SIDE_838.5,AIR,304L candidate (air contact),1.5,FIXED,,DESIGN_PART,454500.0
+B_R_PLENUM_TOP,AIR,304L candidate (air contact),1.5,FIXED,,DESIGN_PART,309438.75
+B_R_HX_APERTURE,AIR,304L candidate (air contact),2.5,FIXED,,DESIGN_PART,917936.2499999998
+B_R_HX_SEAL,SEAL,Seal candidate,7.5,FIXED,Supplier continuous sealing land pending,DESIGN_PART,495599.9999999999
+B_F_DUAL_PORT_PLATE,AIR,304L,2.5,FRONT_REMOVE,P630x345 / R630x180; original bolt centres,DESIGN_PART,1620507.412314713
+B_R_P_DUCT_Y_165,AIR,304L candidate (air contact),1.5,FIXED,,DESIGN_PART,195097.5
+B_R_P_DUCT_Y_793.5,AIR,304L candidate (air contact),1.5,FIXED,,DESIGN_PART,195097.5
+B_R_P_DUCT_Z_300,AIR,304L candidate (air contact),1.5,FIXED,,DESIGN_PART,354568.5
+B_R_P_DUCT_Z_643.5,AIR,304L candidate (air contact),1.5,FIXED,,DESIGN_PART,354568.5
+B_R_R_DUCT_Y_165,AIR,304L candidate (air contact),1.5,FIXED,,DESIGN_PART,101790.0
+B_R_R_DUCT_Y_793.5,AIR,304L candidate (air contact),1.5,FIXED,,DESIGN_PART,101790.0
+B_R_R_DUCT_Z_940,AIR,304L candidate (air contact),1.5,FIXED,,DESIGN_PART,354568.5
+B_R_R_DUCT_Z_1118.5,AIR,304L candidate (air contact),1.5,FIXED,,DESIGN_PART,354568.5
+B_R_DUAL_PORT_PLATE,AIR,304L,2.5,FIXED,P630x345 / R630x180; original bolt centres,DESIGN_PART,1620507.412314713
+B_FRONT_SERVICE_BLANK,PANEL,5052-H32 aluminium; isolated fasteners; coated exterior,2.5,FRONT_REMOVE,,DESIGN_PART,819999.9999999999
+B_W2_REMOVABLE_90,W1,Routing geometry; provisional stainless tube,3,ADAPTER_REMOVE,"R50 nominal; OD35/ID29 for geometric layout, supplier joints and pressure design pending",ROUTING_REFERENCE,99522.58394614917
+B_W2_SIDE_DROP,W1,Routing geometry; provisional stainless tube,3,WATER_FIXED,"R50 nominal; OD35/ID29 for geometric layout, supplier joints and pressure design pending",ROUTING_REFERENCE,294408.8412105467
+B_W1_REMOVABLE_90,W2,Routing geometry; provisional stainless tube,3,ADAPTER_REMOVE,"R50 nominal; OD35/ID29 for geometric layout, supplier joints and pressure design pending",ROUTING_REFERENCE,178660.5595271374
+B_W1_SIDE_DROP,W2,Routing geometry; provisional stainless tube,3,WATER_FIXED,"R50 nominal; OD35/ID29 for geometric layout, supplier joints and pressure design pending",ROUTING_REFERENCE,219010.61752439197
+B_WATER_GLAND_PANEL,AIR,304L candidate (air contact),1.5,WATER_SERVICE,,DESIGN_PART,463490.0466686727
+SIDE_-1,PANEL,5052-H32 aluminium; isolated fasteners; coated exterior,2.0,FIXED,,DESIGN_PART,4186880.0
+SIDE_1,PANEL,5052-H32 aluminium; isolated fasteners; coated exterior,2.0,FIXED,,DESIGN_PART,4186880.0
+A_REAR_SERVICE_SKIN,PANEL,5052-H32 aluminium; isolated fasteners; coated exterior,2.0,WATER_SERVICE,,DESIGN_PART,2058499.9999999998
+A_ROOF,PANEL,5052-H32 aluminium; isolated fasteners; coated exterior,2.0,TOP_SERVICE,,DESIGN_PART,2318799.9999999995
+B_REAR_SERVICE_SKIN,PANEL,5052-H32 aluminium; isolated fasteners; coated exterior,2.0,WATER_SERVICE,,DESIGN_PART,2058499.9999999998
+B_ROOF,PANEL,5052-H32 aluminium; isolated fasteners; coated exterior,2.0,TOP_SERVICE,,DESIGN_PART,2318799.9999999995
+FRONT_EDGE_-850,PANEL,5052-H32 aluminium; isolated fasteners; coated exterior,2.0,FIXED,,DESIGN_PART,128000.0
+FRONT_EDGE_-20,PANEL,5052-H32 aluminium; isolated fasteners; coated exterior,2.0,FIXED,,DESIGN_PART,128000.0
+FRONT_EDGE_810,PANEL,5052-H32 aluminium; isolated fasteners; coated exterior,2.0,FIXED,,DESIGN_PART,128000.0
+A_FRONT_TOP_FILL,PANEL,5052-H32 aluminium; isolated fasteners; coated exterior,2.0,FIXED,,DESIGN_PART,82000.0
+A_FRONT_BOTTOM_FILL,PANEL,5052-H32 aluminium; isolated fasteners; coated exterior,2.0,FIXED,,DESIGN_PART,82000.0
+A_ENTRY_RETURN_-840,PANEL,5052-H32 aluminium; isolated fasteners; coated exterior,2.0,FIXED,,DESIGN_PART,31999.999999999993
+A_ENTRY_RETURN_-22,PANEL,5052-H32 aluminium; isolated fasteners; coated exterior,2.0,FIXED,,DESIGN_PART,159999.99999999997
+B_FRONT_TOP_FILL,PANEL,5052-H32 aluminium; isolated fasteners; coated exterior,2.0,FIXED,,DESIGN_PART,82000.0
+B_FRONT_BOTTOM_FILL,PANEL,5052-H32 aluminium; isolated fasteners; coated exterior,2.0,FIXED,,DESIGN_PART,82000.0
+B_ENTRY_RETURN_20,PANEL,5052-H32 aluminium; isolated fasteners; coated exterior,2.0,FIXED,,DESIGN_PART,159999.99999999997
+B_ENTRY_RETURN_838,PANEL,5052-H32 aluminium; isolated fasteners; coated exterior,2.0,FIXED,,DESIGN_PART,31999.999999999993
+A_VL_BODY,VALVE,,,,"Original R3025-BL2 supplier STEP, rigid rotation -90Z; actual body faces retained",SUPPLIER_BODY,101236.9589046255
+A_VL_ACTUATOR,VALVE,,,,LRQ24A operation envelope 227x85x95; not supplier actuator BRep,EQUIPMENT_ENVELOPE,1833025.0
+A_VL_A_ZR_RANGE,UNION,,,,ZR2325 external envelope up to66; actual projection50..66 depends on measured thread engagement,JOINT_RESERVATION,151154.5889348194
+A_VL_B_ZR_RANGE,UNION,,,,ZR2325 external envelope up to66; actual projection50..66 depends on measured thread engagement,JOINT_RESERVATION,151154.5889348194
+A_VL_AB_ZR_RANGE,UNION,,,,ZR2325 external envelope up to66; actual projection50..66 depends on measured thread engagement,JOINT_RESERVATION,151154.58893481927
+A_VU_BODY,VALVE,,,,"Original R3025-BL2 supplier STEP, rigid rotation -90Z; actual body faces retained",SUPPLIER_BODY,101236.95890462528
+A_VU_ACTUATOR,VALVE,,,,LRQ24A operation envelope 227x85x95; not supplier actuator BRep,EQUIPMENT_ENVELOPE,1833025.0
+A_VU_A_ZR_RANGE,UNION,,,,ZR2325 external envelope up to66; actual projection50..66 depends on measured thread engagement,JOINT_RESERVATION,151154.5889348194
+A_VU_B_ZR_RANGE,UNION,,,,ZR2325 external envelope up to66; actual projection50..66 depends on measured thread engagement,JOINT_RESERVATION,151154.5889348194
+A_VU_AB_ZR_RANGE,UNION,,,,ZR2325 external envelope up to66; actual projection50..66 depends on measured thread engagement,JOINT_RESERVATION,151154.5889348194
+B_VL_BODY,VALVE,,,,"Original R3025-BL2 supplier STEP, rigid rotation -90Z; actual body faces retained",SUPPLIER_BODY,101236.95890462546
+B_VL_ACTUATOR,VALVE,,,,LRQ24A operation envelope 227x85x95; not supplier actuator BRep,EQUIPMENT_ENVELOPE,1833025.0
+B_VL_A_ZR_RANGE,UNION,,,,ZR2325 external envelope up to66; actual projection50..66 depends on measured thread engagement,JOINT_RESERVATION,151154.5889348193
+B_VL_B_ZR_RANGE,UNION,,,,ZR2325 external envelope up to66; actual projection50..66 depends on measured thread engagement,JOINT_RESERVATION,151154.5889348193
+B_VL_AB_ZR_RANGE,UNION,,,,ZR2325 external envelope up to66; actual projection50..66 depends on measured thread engagement,JOINT_RESERVATION,151154.5889348193
+B_VU_BODY,VALVE,,,,"Original R3025-BL2 supplier STEP, rigid rotation -90Z; actual body faces retained",SUPPLIER_BODY,101236.95890462532
+B_VU_ACTUATOR,VALVE,,,,LRQ24A operation envelope 227x85x95; not supplier actuator BRep,EQUIPMENT_ENVELOPE,1833025.0
+B_VU_A_ZR_RANGE,UNION,,,,ZR2325 external envelope up to66; actual projection50..66 depends on measured thread engagement,JOINT_RESERVATION,151154.5889348194
+B_VU_B_ZR_RANGE,UNION,,,,ZR2325 external envelope up to66; actual projection50..66 depends on measured thread engagement,JOINT_RESERVATION,151154.5889348194
+B_VU_AB_ZR_RANGE,UNION,,,,ZR2325 external envelope up to66; actual projection50..66 depends on measured thread engagement,JOINT_RESERVATION,151154.5889348194

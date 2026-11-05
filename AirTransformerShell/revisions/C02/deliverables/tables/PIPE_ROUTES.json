@@ -1,0 +1,222 @@
+[
+  {
+    "name": "A_W1_REMOVABLE_90",
+    "points_mm": [
+      [
+        443.85,
+        -75.325,
+        1414
+      ],
+      [
+        443.85,
+        -75.325,
+        1514
+      ],
+      [
+        700,
+        -75.325,
+        1514
+      ]
+    ],
+    "bend_radius_mm": 50,
+    "od_mm": 35,
+    "id_mm": 29,
+    "centerline_length_mm": 334.69,
+    "scope": "ADAPTER_REMOVE"
+  },
+  {
+    "name": "A_W1_SIDE_DROP",
+    "points_mm": [
+      [
+        700,
+        -75.325,
+        1514
+      ],
+      [
+        805.1,
+        -75.325,
+        1514
+      ],
+      [
+        805.1,
+        -75.325,
+        760
+      ],
+      [
+        865.1,
+        -75.325,
+        760
+      ]
+    ],
+    "bend_radius_mm": 50,
+    "od_mm": 35,
+    "id_mm": 29,
+    "centerline_length_mm": 876.18,
+    "scope": "WATER_FIXED"
+  },
+  {
+    "name": "A_W2_REMOVABLE_90",
+    "points_mm": [
+      [
+        301.45,
+        -75.325,
+        1414
+      ],
+      [
+        301.45,
+        -75.325,
+        1634
+      ],
+      [
+        700,
+        -75.325,
+        1634
+      ]
+    ],
+    "bend_radius_mm": 50,
+    "od_mm": 35,
+    "id_mm": 29,
+    "centerline_length_mm": 597.09,
+    "scope": "ADAPTER_REMOVE"
+  },
+  {
+    "name": "A_W2_SIDE_DROP",
+    "points_mm": [
+      [
+        700,
+        -75.325,
+        1634
+      ],
+      [
+        905.1,
+        -75.325,
+        1634
+      ],
+      [
+        905.1,
+        -75.325,
+        1230
+      ],
+      [
+        965.1,
+        -75.325,
+        1230
+      ]
+    ],
+    "bend_radius_mm": 50,
+    "od_mm": 35,
+    "id_mm": 29,
+    "centerline_length_mm": 626.18,
+    "scope": "WATER_FIXED"
+  },
+  {
+    "name": "B_W2_REMOVABLE_90",
+    "points_mm": [
+      [
+        448.55,
+        75.325,
+        1414
+      ],
+      [
+        448.55,
+        75.325,
+        1514
+      ],
+      [
+        700,
+        75.325,
+        1514
+      ]
+    ],
+    "bend_radius_mm": 50,
+    "od_mm": 35,
+    "id_mm": 29,
+    "centerline_length_mm": 329.99,
+    "scope": "ADAPTER_REMOVE"
+  },
+  {
+    "name": "B_W2_SIDE_DROP",
+    "points_mm": [
+      [
+        700,
+        75.325,
+        1514
+      ],
+      [
+        905.1,
+        75.325,
+        1514
+      ],
+      [
+        905.1,
+        75.325,
+        760
+      ],
+      [
+        965.1,
+        75.325,
+        760
+      ]
+    ],
+    "bend_radius_mm": 50,
+    "od_mm": 35,
+    "id_mm": 29,
+    "centerline_length_mm": 976.18,
+    "scope": "WATER_FIXED"
+  },
+  {
+    "name": "B_W1_REMOVABLE_90",
+    "points_mm": [
+      [
+        306.15,
+        75.325,
+        1414
+      ],
+      [
+        306.15,
+        75.325,
+        1634
+      ],
+      [
+        700,
+        75.325,
+        1634
+      ]
+    ],
+    "bend_radius_mm": 50,
+    "od_mm": 35,
+    "id_mm": 29,
+    "centerline_length_mm": 592.39,
+    "scope": "ADAPTER_REMOVE"
+  },
+  {
+    "name": "B_W1_SIDE_DROP",
+    "points_mm": [
+      [
+        700,
+        75.325,
+        1634
+      ],
+      [
+        1005.0999999999999,
+        75.325,
+        1634
+      ],
+      [
+        1005.0999999999999,
+        75.325,
+        1230
+      ],
+      [
+        1065.1,
+        75.325,
+        1230
+      ]
+    ],
+    "bend_radius_mm": 50,
+    "od_mm": 35,
+    "id_mm": 29,
+    "centerline_length_mm": 726.18,
+    "scope": "WATER_FIXED"
+  }
+]
