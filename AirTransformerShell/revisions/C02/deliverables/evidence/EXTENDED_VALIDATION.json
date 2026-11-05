@@ -1,0 +1,33 @@
+{
+  "insulation_equipment": [],
+  "header_insulation_shell": [],
+  "step_readback": [
+    {
+      "file": "AT_SHELL2_2V_C02_SHELL.step",
+      "solid_count": 96,
+      "expected_solids": 96,
+      "relative_volume_error": 1.5048395567494716e-14,
+      "max_bbox_error_mm": 0.0,
+      "valid": true,
+      "sha256": "6f903f02a3d2c1fa10222a4cb3d9c4e119a0018fc8fd3d482a5d007b555f0206"
+    },
+    {
+      "file": "AT_SHELL2_2V_C02_LAYOUT.step",
+      "solid_count": 150,
+      "expected_solids": 150,
+      "relative_volume_error": 1.9239448682791958e-09,
+      "max_bbox_error_mm": 0.0,
+      "valid": true,
+      "sha256": "e6bf8676ee2c3178c7be6a67b1d4b10d14ff0084316474dea1abc18028bdd308"
+    },
+    {
+      "file": "AT_SHELL2_2V_C02_SERVICE.step",
+      "solid_count": 76,
+      "expected_solids": 76,
+      "relative_volume_error": 7.401419324722e-11,
+      "max_bbox_error_mm": 0.0,
+      "valid": true,
+      "sha256": "484c8a45fce8c474646e67bf83c513f3303e133593b3cf15f56a65b274db5c2c"
+    }
+  ]
+}

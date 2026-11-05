@@ -1,0 +1,13 @@
+{
+  "parts": 108,
+  "equipment": 24,
+  "all_brep_valid": true,
+  "physical_pairs": [],
+  "equipment_metal": [],
+  "equipment_pairs": [],
+  "hx_static": [],
+  "core_removal": [],
+  "actuator_withdrawal": [],
+  "insulation_shell": [],
+  "insulation_pair": []
+}
