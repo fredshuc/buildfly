@@ -1,0 +1,3 @@
+id,x_mm,y_mm,z_mm,nx,ny,nz,interface,network_function,coordinate_status
+W1,350.0,726.85,1220.0,1,0,0,"Rp1-1/4 female, OEM CAD face reference",CS/HR,candidate
+W2,350.0,576.85,1220.0,1,0,0,"Rp1-1/4 female, OEM CAD face reference",CR/HS,candidate

@@ -1,0 +1,142 @@
+{
+  "local_ports": [
+    {
+      "id": "W1",
+      "x_mm": 350.0,
+      "y_mm": 726.85,
+      "z_mm": 1220.0,
+      "nx": 1,
+      "ny": 0,
+      "nz": 0,
+      "interface": "Rp1-1/4 female, OEM CAD face reference",
+      "network_function": "CS/HR",
+      "coordinate_status": "candidate"
+    },
+    {
+      "id": "W2",
+      "x_mm": 350.0,
+      "y_mm": 576.85,
+      "z_mm": 1220.0,
+      "nx": 1,
+      "ny": 0,
+      "nz": 0,
+      "interface": "Rp1-1/4 female, OEM CAD face reference",
+      "network_function": "CR/HS",
+      "coordinate_status": "candidate"
+    }
+  ],
+  "placement": {
+    "definition": "Shell integration input; preserve A origin; same orientation B in existing C02 B bay, pending shell rebuild",
+    "A": {
+      "R": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1
+        ]
+      ],
+      "t_mm": [
+        265,
+        -802.175,
+        150
+      ]
+    },
+    "B": {
+      "R": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1
+        ]
+      ],
+      "t_mm": [
+        265,
+        37.825,
+        150
+      ]
+    },
+    "pair_preview_delta_Y_mm": 840.0,
+    "global_ports": [
+      {
+        "id": "A.W1",
+        "xyz_mm": [
+          615.0,
+          -75.32499999999993,
+          1370.0
+        ],
+        "direction": [
+          1,
+          0,
+          0
+        ],
+        "function": "CS/HR",
+        "shell_opening_status": "not_released"
+      },
+      {
+        "id": "A.W2",
+        "xyz_mm": [
+          615.0,
+          -225.32499999999993,
+          1370.0
+        ],
+        "direction": [
+          1,
+          0,
+          0
+        ],
+        "function": "CR/HS",
+        "shell_opening_status": "not_released"
+      },
+      {
+        "id": "B.W1",
+        "xyz_mm": [
+          615.0,
+          764.6750000000001,
+          1370.0
+        ],
+        "direction": [
+          1,
+          0,
+          0
+        ],
+        "function": "CS/HR",
+        "shell_opening_status": "not_released"
+      },
+      {
+        "id": "B.W2",
+        "xyz_mm": [
+          615.0,
+          614.6750000000001,
+          1370.0
+        ],
+        "direction": [
+          1,
+          0,
+          0
+        ],
+        "function": "CR/HS",
+        "shell_opening_status": "not_released"
+      }
+    ]
+  }
+}
