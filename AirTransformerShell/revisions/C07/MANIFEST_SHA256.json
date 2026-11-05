@@ -1,0 +1,159 @@
+{
+  "unit_length": "mm",
+  "evaluation_threshold_mm3": 0.001,
+  "physical_qualification": "held",
+  "owner_inputs": {
+    "AirTransformerShell/revisions/C06/C06_CAD_REVIEW_PACKAGE.zip": {
+      "commit": "9342a08",
+      "git_blob": "fb47f5c9899b63595dc7734dac08af0ae9c75998",
+      "sha256": "fccbd3d1041608506522d989fed7a86b8a04c21cbac2aab19582067c1bfba479",
+      "bytes": 5768079
+    },
+    "dampers/c04-d01/D01_CAD_REVIEW_PACKAGE.zip": {
+      "commit": "d2c9a68",
+      "git_blob": "6868b5135466a8eb90e52fadb203855c382fe73e",
+      "sha256": "fe62026afec12405d41481df0efcd7b171a642d751308b081eb5190a6bc1ef7d",
+      "bytes": 21853295
+    },
+    "dampers/c06-d02/D02_CAD_REVIEW_PACKAGE.zip": {
+      "commit": "257769db5ddeddc735c5fa1b1bb6cdec4db5dc18",
+      "git_blob": "fbf2958557eff7f58f30286480f99325eb950bcd",
+      "sha256": "7ba2f8d2d7a263c0355d414515390d2e42577e025f276228886153195f488e6c",
+      "bytes": 3508029
+    },
+    "HX/M101_D952_P254_220_39x6_C05/M101_C05_RT2_CAD.zip": {
+      "commit": "42d4388732b09e1d78a380a34abd50458f7d27fa",
+      "git_blob": "0d0d7b2c1789296b0e820e48b911566af169fd27",
+      "sha256": "e1b9eeef902c55d8d397b13100cc343d56308cea043e74b28a15ea22fed51697",
+      "bytes": 2197105
+    },
+    "hydronics/C06_RT2_HYD_R2/C06_HYD_RT2.zip": {
+      "commit": "ae8d3c2b0051e3171dcf08cfca4d1c6c524486f7",
+      "git_blob": "172487c95ca1f190b50ff9f029d30f209a0e9b4b",
+      "sha256": "fdd3d2889fadd29d01df50b6bde5a31824b6ac04294dd7a217af75c347999206",
+      "bytes": 259702
+    }
+  },
+  "delivered": {
+    "build_c07.py": {
+      "bytes": 16969,
+      "sha256": "449f4e7ab816b6cc36c92be9102499d09c524e345222c59227b90eaa2f1dbc80"
+    },
+    "cad_io.py": {
+      "bytes": 2491,
+      "sha256": "439914d7a53487f37a5acfde315d04253b7f63dd5af16e1492793a18e805a593"
+    },
+    "integrate_c07.py": {
+      "bytes": 8562,
+      "sha256": "859f5905249cc63bc3a131629fc18529a4d06d71d6bcccf8f78c29bfb32329a8"
+    },
+    "verify_access.py": {
+      "bytes": 2431,
+      "sha256": "60d8f55bce7de3c22a09d15f02c01a47d563c532f905faffc70d440e88e9a8d5"
+    },
+    "verify_motion.py": {
+      "bytes": 1605,
+      "sha256": "f3623bc0732e37c0c7baa41be4059dd6e13e6a4e1c4e9f8f127e5cc5c95d2aaf"
+    },
+    "verify_seal_stroke.py": {
+      "bytes": 2655,
+      "sha256": "8ed6e6ea817e06caf699918c87b5bd2d646743f01c66d66429be78e8d7e1e2d9"
+    },
+    "export_machine.py": {
+      "bytes": 3812,
+      "sha256": "2a239864fdc06ce9bed03f657e13366724a5cc3cc1eea0c5d7d71e3dca77b4c3"
+    },
+    "prepare_inputs.py": {
+      "bytes": 2147,
+      "sha256": "ce881c9791fa0f06ff11da3c10b0d259449fb38f127c2f880396c50b4f0f7e2c"
+    },
+    "review_figure.py": {
+      "bytes": 5815,
+      "sha256": "dc74c2be81120fab5b08b55730202070f7019c2d9453e67fa6102e0a07baaa61"
+    },
+    "C07_INSTALLED_MACHINE.step": {
+      "bytes": 99051723,
+      "sha256": "da50e68107b63e4da753fae423c824f8c8db79abeb25333e6cd1714443c9ff98"
+    },
+    "C07_SHELL.step": {
+      "bytes": 43219413,
+      "sha256": "c0fcd1f3bc39a033dfaf223668b8cc3754635c2fc7ad4e59858ba959b9ec6f94"
+    },
+    "C07_SEAL_AND_SERVICE.png": {
+      "bytes": 125600,
+      "sha256": "2df0c71f8ed1093e7ba9f5e877bc4a03a34d2ae5fcd1bb609222a97807e2589a"
+    },
+    "C07_AIR_SECTION.png": {
+      "bytes": 134801,
+      "sha256": "0b520561f4a28b5c17e696c676e8fa664721b47bc3463ecfbba24bab564bb972"
+    },
+    "RED_TEAM_HANDOFF_EN.md": {
+      "bytes": 16227,
+      "sha256": "54a1190cb7ca87009617992d7c9817f6727e0a5285f04693b55fb1bbc4bfa5ca"
+    },
+    "RT3_INDEPENDENT_REVIEW_EN.md": {
+      "bytes": 7441,
+      "sha256": "ab3147b084a3234ba7c29d07c2b04e0410b9e2633a8ac53c5990892804a8bc55"
+    },
+    "tie_rods.csv": {
+      "bytes": 775,
+      "sha256": "b86ce6be640bff3a7e8f48045ee7c9c74564d17a1a8bc1fd544e97cdd3d7de62"
+    },
+    "traps.csv": {
+      "bytes": 306,
+      "sha256": "4c53b303f71b42e69f75c416b0b03fada15e89bb7cddf0df63ff5d459aac2d54"
+    },
+    "static_taps.csv": {
+      "bytes": 302,
+      "sha256": "c54ef3d47c9216ec1eeb53ed55177ab0f91e973d853bbb8a31b5dafbc99b0070"
+    },
+    "shell_intersections.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "integration.json": {
+      "bytes": 1004,
+      "sha256": "89478b711ea6d1748ec5ea3ce4447b0fe0b755d0cebec507a75e7bcf72addaca"
+    },
+    "service.json": {
+      "bytes": 5070,
+      "sha256": "3c89c47131c72b4a2a658b19218397b6e575d6dbe198fbdbee5545d2968985f5"
+    },
+    "access_paths.json": {
+      "bytes": 1549,
+      "sha256": "4b954678c7d8290c8b9762a79cf7763e7315ebaf720f04b3ae68c63c92f43d29"
+    },
+    "seal_stroke.json": {
+      "bytes": 1093,
+      "sha256": "005857d1c8b35e9f42dbfb8d2e2cd9ba5863168e67fec9a5e178306791953bc1"
+    },
+    "motion_shell.json": {
+      "bytes": 195,
+      "sha256": "1cc08cf5b5aee36d14f14fcc3481a3fe4f26c511e64c8337564ec11fa30ccfd6"
+    },
+    "machine_readback.json": {
+      "bytes": 330,
+      "sha256": "6bc2e3479681db1f561b46644059d530b2f94ba324d9fb7068b604c54fc6c70b"
+    },
+    "port_reconciliation.json": {
+      "bytes": 459,
+      "sha256": "77a96ef6a8830c31001d3277301bfb1577fcb47cfcb7fc158bd75b72d6f08bb2"
+    },
+    "rt3_contact_check.py": {
+      "bytes": 4701,
+      "sha256": "b29235823005f772b8bd5b3da6a8fe16231afbca596fa599b6693d66ce631b01"
+    },
+    "rt3_contacts.json": {
+      "bytes": 15353,
+      "sha256": "0ab2cc294e06027255229b49fa6e4e623da8d5d7af3b1eef6f564657b494fab8"
+    },
+    "rt3_water_access.json": {
+      "bytes": 3659,
+      "sha256": "773eb9537e3d539a18d66baa8d2366da9aec3b7ec293724d8dbcdcb2672af486"
+    },
+    "rt3_water_access.py": {
+      "bytes": 3822,
+      "sha256": "52e5f222ea543235f1fd157db1c9d04e52454261963a1562747810a158c2cdf2"
+    }
+  }
+}

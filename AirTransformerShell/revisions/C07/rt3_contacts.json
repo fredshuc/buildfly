@@ -1,0 +1,633 @@
+{
+  "carrier_steel_equivalent_kg": 17.0101,
+  "shell_items": 494,
+  "mm_and_mm2": true,
+  "shell_sha256": "c0fcd1f3bc39a033dfaf223668b8cc3754635c2fc7ad4e59858ba959b9ec6f94",
+  "seats": {
+    "AF_": {
+      "gasket_mm2": 37632.0,
+      "gasket_lands_mm2": {
+        "POST_0_41.775": 11472.0,
+        "POST_0_673.775": 11472.0,
+        "AIR_EDGE_0_34": 7816.0,
+        "AIR_EDGE_0_1054": 7816.0
+      },
+      "gasket_area_outside_union": 0.0,
+      "park": [
+        {
+          "guide": 0,
+          "weld_face_to_cheek": 96.0,
+          "installed_push_nut_gap": 2.05,
+          "released_nut_area": 78.4292,
+          "released_shoulder_area": 133.1328
+        },
+        {
+          "guide": 1,
+          "weld_face_to_cheek": 96.0,
+          "installed_push_nut_gap": 2.05,
+          "released_nut_area": 78.4292,
+          "released_shoulder_area": 133.1328
+        },
+        {
+          "guide": 2,
+          "weld_face_to_cheek": 96.0,
+          "installed_push_nut_gap": 2.05,
+          "released_nut_area": 78.4292,
+          "released_shoulder_area": 133.1328
+        },
+        {
+          "guide": 3,
+          "weld_face_to_cheek": 96.0,
+          "installed_push_nut_gap": 2.05,
+          "released_nut_area": 78.4292,
+          "released_shoulder_area": 133.1328
+        }
+      ],
+      "hard_stops": [
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "POST_0_673.775": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "AIR_EDGE_0_1054": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "POST_0_673.775": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "AIR_EDGE_0_1054": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "POST_0_673.775": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "POST_0_673.775": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "AIR_EDGE_0_34": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "AIR_EDGE_0_34": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "AIR_EDGE_0_1054": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "POST_0_41.775": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "POST_0_41.775": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "AIR_EDGE_0_34": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "POST_0_41.775": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "POST_0_41.775": 48.0
+          }
+        }
+      ],
+      "diaphragm": {
+        "moving_carrier": {
+          "end_face_mm2": 21489.0,
+          "on_counterpart_mm2": 21489.0
+        },
+        "fixed_collar": {
+          "end_face_mm2": 23100.0,
+          "on_counterpart_mm2": 23100.0
+        }
+      },
+      "collar_to_duct_mm2": {
+        "AF_CHEEK_-307.5": 1506.75,
+        "AF_CHEEK_306": 1506.75,
+        "AF_GUIDE_00": 918.0,
+        "AF_GUIDE_08": 918.0
+      }
+    },
+    "AR_": {
+      "gasket_mm2": 37632.0,
+      "gasket_lands_mm2": {
+        "POST_212_41.775": 11472.0,
+        "POST_212_673.775": 11472.0,
+        "AIR_EDGE_212_34": 7816.0,
+        "AIR_EDGE_212_1054": 7816.0
+      },
+      "gasket_area_outside_union": 0.0,
+      "park": [
+        {
+          "guide": 0,
+          "weld_face_to_cheek": 96.0,
+          "installed_push_nut_gap": 2.05,
+          "released_nut_area": 78.4292,
+          "released_shoulder_area": 133.1328
+        },
+        {
+          "guide": 1,
+          "weld_face_to_cheek": 96.0,
+          "installed_push_nut_gap": 2.05,
+          "released_nut_area": 78.4292,
+          "released_shoulder_area": 133.1328
+        },
+        {
+          "guide": 2,
+          "weld_face_to_cheek": 96.0,
+          "installed_push_nut_gap": 2.05,
+          "released_nut_area": 78.4292,
+          "released_shoulder_area": 133.1328
+        },
+        {
+          "guide": 3,
+          "weld_face_to_cheek": 96.0,
+          "installed_push_nut_gap": 2.05,
+          "released_nut_area": 78.4292,
+          "released_shoulder_area": 133.1328
+        }
+      ],
+      "hard_stops": [
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "POST_212_41.775": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "POST_212_41.775": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "AIR_EDGE_212_1054": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "POST_212_41.775": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "POST_212_41.775": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "AIR_EDGE_212_34": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "AIR_EDGE_212_1054": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "AIR_EDGE_212_1054": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "POST_212_673.775": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "POST_212_673.775": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "AIR_EDGE_212_34": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "POST_212_673.775": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "AIR_EDGE_212_34": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "POST_212_673.775": 48.0
+          }
+        }
+      ],
+      "diaphragm": {
+        "moving_carrier": {
+          "end_face_mm2": 21489.0,
+          "on_counterpart_mm2": 21489.0
+        },
+        "fixed_collar": {
+          "end_face_mm2": 23100.0,
+          "on_counterpart_mm2": 23100.0
+        }
+      },
+      "collar_to_duct_mm2": {
+        "AR_CHEEK_-307.5": 1506.75,
+        "AR_CHEEK_306": 1506.75,
+        "AR_GUIDE_00": 918.0,
+        "AR_GUIDE_08": 918.0
+      }
+    },
+    "BF_": {
+      "gasket_mm2": 37632.0,
+      "gasket_lands_mm2": {
+        "POST_0_41.775": 11472.0,
+        "POST_0_673.775": 11472.0,
+        "AIR_EDGE_0_34": 7816.0,
+        "AIR_EDGE_0_1054": 7816.0
+      },
+      "gasket_area_outside_union": 0.0,
+      "park": [
+        {
+          "guide": 0,
+          "weld_face_to_cheek": 96.0,
+          "installed_push_nut_gap": 2.05,
+          "released_nut_area": 78.4292,
+          "released_shoulder_area": 133.1328
+        },
+        {
+          "guide": 1,
+          "weld_face_to_cheek": 96.0,
+          "installed_push_nut_gap": 2.05,
+          "released_nut_area": 78.4292,
+          "released_shoulder_area": 133.1328
+        },
+        {
+          "guide": 2,
+          "weld_face_to_cheek": 96.0,
+          "installed_push_nut_gap": 2.05,
+          "released_nut_area": 78.4292,
+          "released_shoulder_area": 133.1328
+        },
+        {
+          "guide": 3,
+          "weld_face_to_cheek": 96.0,
+          "installed_push_nut_gap": 2.05,
+          "released_nut_area": 78.4292,
+          "released_shoulder_area": 133.1328
+        }
+      ],
+      "hard_stops": [
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "POST_0_673.775": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "AIR_EDGE_0_1054": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "POST_0_673.775": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "AIR_EDGE_0_1054": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "POST_0_673.775": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "POST_0_673.775": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "AIR_EDGE_0_34": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "AIR_EDGE_0_34": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "AIR_EDGE_0_1054": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "POST_0_41.775": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "POST_0_41.775": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "AIR_EDGE_0_34": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "POST_0_41.775": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "POST_0_41.775": 48.0
+          }
+        }
+      ],
+      "diaphragm": {
+        "moving_carrier": {
+          "end_face_mm2": 21489.0,
+          "on_counterpart_mm2": 21489.0
+        },
+        "fixed_collar": {
+          "end_face_mm2": 23100.0,
+          "on_counterpart_mm2": 23100.0
+        }
+      },
+      "collar_to_duct_mm2": {
+        "BF_CHEEK_-307.5": 1506.75,
+        "BF_CHEEK_306": 1506.75,
+        "BF_GUIDE_00": 918.0,
+        "BF_GUIDE_08": 918.0
+      }
+    },
+    "BR_": {
+      "gasket_mm2": 37632.0,
+      "gasket_lands_mm2": {
+        "POST_212_41.775": 11472.0,
+        "POST_212_673.775": 11472.0,
+        "AIR_EDGE_212_34": 7816.0,
+        "AIR_EDGE_212_1054": 7816.0
+      },
+      "gasket_area_outside_union": 0.0,
+      "park": [
+        {
+          "guide": 0,
+          "weld_face_to_cheek": 96.0,
+          "installed_push_nut_gap": 2.05,
+          "released_nut_area": 78.4292,
+          "released_shoulder_area": 133.1328
+        },
+        {
+          "guide": 1,
+          "weld_face_to_cheek": 96.0,
+          "installed_push_nut_gap": 2.05,
+          "released_nut_area": 78.4292,
+          "released_shoulder_area": 133.1328
+        },
+        {
+          "guide": 2,
+          "weld_face_to_cheek": 96.0,
+          "installed_push_nut_gap": 2.05,
+          "released_nut_area": 78.4292,
+          "released_shoulder_area": 133.1328
+        },
+        {
+          "guide": 3,
+          "weld_face_to_cheek": 96.0,
+          "installed_push_nut_gap": 2.05,
+          "released_nut_area": 78.4292,
+          "released_shoulder_area": 133.1328
+        }
+      ],
+      "hard_stops": [
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "POST_212_41.775": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "POST_212_41.775": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "AIR_EDGE_212_1054": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "POST_212_41.775": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "POST_212_41.775": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "AIR_EDGE_212_34": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "AIR_EDGE_212_1054": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "AIR_EDGE_212_1054": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "POST_212_673.775": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "POST_212_673.775": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "AIR_EDGE_212_34": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "POST_212_673.775": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "AIR_EDGE_212_34": 48.0
+          }
+        },
+        {
+          "pad_mm2": 48.0,
+          "on_hx_mm2": {
+            "POST_212_673.775": 48.0
+          }
+        }
+      ],
+      "diaphragm": {
+        "moving_carrier": {
+          "end_face_mm2": 21489.0,
+          "on_counterpart_mm2": 21489.0
+        },
+        "fixed_collar": {
+          "end_face_mm2": 23100.0,
+          "on_counterpart_mm2": 23100.0
+        }
+      },
+      "collar_to_duct_mm2": {
+        "BR_CHEEK_-307.5": 1506.75,
+        "BR_CHEEK_306": 1506.75,
+        "BR_GUIDE_00": 918.0,
+        "BR_GUIDE_08": 918.0
+      }
+    }
+  },
+  "brace_contacts": {
+    "HX_TOP_CROSS": {
+      "ROOF_RAIL_-850": 1040.0,
+      "ROOF_RAIL_820": 1040.0,
+      "A_TOP_FORK_(0, 0)": 80.0,
+      "A_TOP_FORK_(0, 1)": 80.0,
+      "A_TOP_FORK_(1, 0)": 80.0,
+      "A_TOP_FORK_(1, 1)": 80.0,
+      "B_TOP_FORK_(0, 0)": 80.0,
+      "B_TOP_FORK_(0, 1)": 80.0,
+      "B_TOP_FORK_(1, 0)": 80.0,
+      "B_TOP_FORK_(1, 1)": 80.0,
+      "CROSS_RAIL_CLEAT_0": 400.0,
+      "CROSS_RAIL_CLEAT_1": 400.0,
+      "SERVICE_CENTRE_BRACE": 576.0
+    },
+    "A_RISER_XZ_0": {
+      "A_RISER_(0, 275)": 1120.0,
+      "A_RISER_(0, 435)": 1120.0
+    },
+    "A_RISER_XZ_1": {
+      "A_RISER_(1, 275)": 1120.0,
+      "A_RISER_(1, 435)": 1120.0
+    },
+    "B_RISER_XZ_0": {
+      "B_RISER_(0, 275)": 1120.0,
+      "B_RISER_(0, 435)": 1120.0
+    },
+    "B_RISER_XZ_1": {
+      "B_RISER_(1, 275)": 1120.0,
+      "B_RISER_(1, 435)": 1120.0
+    },
+    "END_DIAGONAL_F": {
+      "POST_(-129.10000000000002, -850)": 480.0,
+      "POST_(-129.10000000000002, 800)": 480.0
+    },
+    "END_DIAGONAL_R": {
+      "POST_(1260.0, -850)": 480.0,
+      "POST_(1260.0, 800)": 480.0
+    },
+    "CROSS_RAIL_CLEAT_0": {
+      "ROOF_RAIL_-850": 384.0,
+      "HX_TOP_CROSS": 400.0
+    },
+    "CROSS_RAIL_CLEAT_1": {
+      "ROOF_RAIL_820": 384.0,
+      "HX_TOP_CROSS": 400.0
+    },
+    "SERVICE_CENTRE_BRACE": {
+      "HX_TOP_CROSS": 576.0,
+      "CENTRE_BRACE_FOOT": 608.0
+    },
+    "CENTRE_BRACE_FOOT": {
+      "FLOOR": 680.0,
+      "SERVICE_CENTRE_BRACE": 608.0
+    }
+  }
+}

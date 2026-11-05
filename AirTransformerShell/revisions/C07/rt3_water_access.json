@@ -1,0 +1,159 @@
+{
+  "shell_sha256": "c0fcd1f3bc39a033dfaf223668b8cc3754635c2fc7ad4e59858ba959b9ec6f94",
+  "beds": {
+    "A": {
+      "gland_x_start_mm": [
+        750.0,
+        752.0
+      ],
+      "gland_x_park_mm": [
+        810.0,
+        812.0
+      ],
+      "gland_hits": [],
+      "spool_rows": [
+        {
+          "port": "A.W2",
+          "travel_y_mm": -930,
+          "parts": {
+            "A_W2_DETACHABLE_SPOOL": {
+              "x_mm": [
+                615.0,
+                805.0
+              ],
+              "diameter_mm": 33.69999999999982,
+              "hits": []
+            },
+            "A_W2_UNION_632": {
+              "x_mm": [
+                632.0,
+                655.0
+              ],
+              "diameter_mm": 70.0,
+              "hits": []
+            },
+            "A_W2_UNION_780": {
+              "x_mm": [
+                780.0,
+                803.0
+              ],
+              "diameter_mm": 70.0,
+              "hits": []
+            }
+          }
+        },
+        {
+          "port": "A.W1",
+          "travel_y_mm": -930,
+          "parts": {
+            "A_W1_DETACHABLE_SPOOL": {
+              "x_mm": [
+                615.0,
+                805.0
+              ],
+              "diameter_mm": 33.69999999999982,
+              "hits": []
+            },
+            "A_W1_UNION_632": {
+              "x_mm": [
+                632.0,
+                655.0
+              ],
+              "diameter_mm": 70.0,
+              "hits": []
+            },
+            "A_W1_UNION_780": {
+              "x_mm": [
+                780.0,
+                803.0
+              ],
+              "diameter_mm": 70.0,
+              "hits": []
+            }
+          }
+        }
+      ]
+    },
+    "B": {
+      "gland_x_start_mm": [
+        750.0,
+        752.0
+      ],
+      "gland_x_park_mm": [
+        810.0,
+        812.0
+      ],
+      "gland_hits": [],
+      "spool_rows": [
+        {
+          "port": "B.W1",
+          "travel_y_mm": 930,
+          "parts": {
+            "B_W1_DETACHABLE_SPOOL": {
+              "x_mm": [
+                615.0,
+                805.0
+              ],
+              "diameter_mm": 33.69999999999982,
+              "hits": []
+            },
+            "B_W1_UNION_632": {
+              "x_mm": [
+                632.0,
+                655.0
+              ],
+              "diameter_mm": 70.0,
+              "hits": []
+            },
+            "B_W1_UNION_780": {
+              "x_mm": [
+                780.0,
+                803.0
+              ],
+              "diameter_mm": 70.0,
+              "hits": []
+            }
+          }
+        },
+        {
+          "port": "B.W2",
+          "travel_y_mm": 930,
+          "parts": {
+            "B_W2_DETACHABLE_SPOOL": {
+              "x_mm": [
+                615.0,
+                805.0
+              ],
+              "diameter_mm": 33.69999999999982,
+              "hits": []
+            },
+            "B_W2_UNION_632": {
+              "x_mm": [
+                632.0,
+                655.0
+              ],
+              "diameter_mm": 70.0,
+              "hits": []
+            },
+            "B_W2_UNION_780": {
+              "x_mm": [
+                780.0,
+                803.0
+              ],
+              "diameter_mm": 70.0,
+              "hits": []
+            }
+          }
+        }
+      ]
+    }
+  },
+  "fixed_counts_without_d01": {
+    "shell": 494,
+    "HX": 1098,
+    "water": 44,
+    "D02": 149
+  },
+  "D01_occurrences": 7212,
+  "D01_bbox_candidates": []
+}

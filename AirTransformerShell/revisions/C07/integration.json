@@ -1,0 +1,40 @@
+{
+  "static_parts": {
+    "shell": 494,
+    "N8": 149,
+    "HX": 1098,
+    "water": 44,
+    "D01": 7212,
+    "water_service": 20,
+    "HX_vent_service": 4,
+    "damper_service": 16
+  },
+  "shell_sha256": "c0fcd1f3bc39a033dfaf223668b8cc3754635c2fc7ad4e59858ba959b9ec6f94",
+  "overlap_threshold_mm3": 0.001,
+  "checks": {
+    "shell__N8": [],
+    "shell__HX": [],
+    "shell__water": [],
+    "shell__D01": [],
+    "N8__HX": [],
+    "N8__water": [],
+    "N8__D01": [],
+    "water__HX": [],
+    "water__D01": [],
+    "HX__D01": [],
+    "water__water": [],
+    "shell__water_service": [],
+    "water__water_service": [],
+    "N8__water_service": [],
+    "HX__water_service": [],
+    "D01__water_service": [],
+    "shell__HX_vent_service": [],
+    "N8__HX_vent_service": [],
+    "water__HX_vent_service": [],
+    "D01__HX_vent_service": [],
+    "shell__damper_service": [],
+    "N8__damper_service": [],
+    "water__damper_service": [],
+    "HX__damper_service": []
+  }
+}

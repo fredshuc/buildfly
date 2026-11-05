@@ -1,0 +1,13 @@
+{
+  "HX_authority": "CONDITIONAL_PROTOTYPE_INTERFACE_SIGNOFF",
+  "HX_table_sha256": "d39b9d3683538248a3425051cf606dd2b719ee0451e238224be43bde97bc7717",
+  "R2_table_sha256": "8cb59f93ba360f02c2512401b6134be58d457fcd0a3a7935c35e5b32e5a30253",
+  "matched_ports": [
+    "A.W1",
+    "A.W2",
+    "B.W1",
+    "B.W2"
+  ],
+  "flow": "Cold and hot W1 supply / W2 return",
+  "hold": "Purge, pressure-rated vent hardware, relief and regeneration comparison"
+}
