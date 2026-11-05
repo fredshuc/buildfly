@@ -1,0 +1,116 @@
+{
+  "assumptions": {
+    "rho_kg_m3": 1.18,
+    "orifice_Cd": 0.65,
+    "hx_nominal_Pa": 60,
+    "full_flow_m3h": 4870,
+    "regen_comparison_only_m3h": 2435,
+    "stress_band_width_differential_pressure_Pa_at_full_flow": [
+      20,
+      10
+    ],
+    "assumed_minor_K_two_paths": 1.8
+  },
+  "length_m": [
+    0.1871118363262833,
+    0.3183558838103502,
+    0.44959993129441705,
+    0.5808439787784839,
+    0.7120880262625507,
+    0.8433320737466177,
+    0.9745761212306845,
+    1.1058201687147513
+  ],
+  "diameter_mm": [
+    18.1,
+    18.4,
+    18.6,
+    18.8,
+    19.1,
+    19.4,
+    19.7,
+    20.0
+  ],
+  "branch_and_screens_Pa_at_equal_flow": [
+    149.7682588121272,
+    148.27189246387206,
+    148.78685248539065,
+    149.47558221333665,
+    148.8938178979516,
+    148.6456591925026,
+    148.70131719757703,
+    149.03406063278075
+  ],
+  "cases": [
+    {
+      "mode": "P forward",
+      "flow_m3h": 4870,
+      "nominal": {
+        "dp_pa": 208.95,
+        "cv_pct": 0.107,
+        "min_mean": 0.998,
+        "max_mean": 1.0016
+      },
+      "example_gradient": {
+        "dp_pa": 209.05,
+        "cv_pct": 2.256,
+        "min_mean": 0.9493,
+        "max_mean": 1.0468
+      }
+    },
+    {
+      "mode": "P reverse",
+      "flow_m3h": 4870,
+      "nominal": {
+        "dp_pa": 208.95,
+        "cv_pct": 0.107,
+        "min_mean": 0.998,
+        "max_mean": 1.0016
+      },
+      "example_gradient": {
+        "dp_pa": 209.05,
+        "cv_pct": 2.212,
+        "min_mean": 0.951,
+        "max_mean": 1.045
+      }
+    },
+    {
+      "mode": "R forward example",
+      "flow_m3h": 2435,
+      "nominal": {
+        "dp_pa": 52.24,
+        "cv_pct": 0.107,
+        "min_mean": 0.998,
+        "max_mean": 1.0016
+      },
+      "example_gradient": {
+        "dp_pa": 52.26,
+        "cv_pct": 2.256,
+        "min_mean": 0.9493,
+        "max_mean": 1.0468
+      }
+    },
+    {
+      "mode": "R reverse example",
+      "flow_m3h": 2435,
+      "nominal": {
+        "dp_pa": 52.24,
+        "cv_pct": 0.107,
+        "min_mean": 0.998,
+        "max_mean": 1.0016
+      },
+      "example_gradient": {
+        "dp_pa": 52.26,
+        "cv_pct": 2.212,
+        "min_mean": 0.951,
+        "max_mean": 1.045
+      }
+    }
+  ],
+  "stress": {
+    "n": 48,
+    "cv_max_pct": 7.227,
+    "lowest": 0.8599,
+    "highest": 1.1374
+  }
+}
