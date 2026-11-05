@@ -1,0 +1,65 @@
+import bootstrap,json,csv,hashlib,zipfile
+from pathlib import Path
+R=bootstrap.ROOT;D=R/'deliverables'
+readme="""# AT-SHELL2-2V-C02｜双芯竖直壳体与 +X 水路
+日期：2026-11-04。几何候选，非制造定尺文件。
+
+本版按用户方向：暂缓减重，先明确整个壳体与侧接水路。
+两只 HX 竖装，顶部接管转 90° 朝 +X；每床两只三通阀，合计四只。
+主壳体 1364(X) × 1704(Y) × 1752(Z) mm，坐标范围 (-52,-852,0)…(1312,852,1752)。
+主壳体不含外置风阀、驱动与检修空间。旧四芯壳体 X=-650.8…1200，Y约±850，顶部Z1527。
+C02的+X湿区分界仍在X750；外盖比旧版外移112 mm，-X侧收回598.8 mm，主壳体X厚度减少486.8 mm。
+没有做板厚/材料减重优化；几何收拢不等同于已完成减重设计。
+
+## 打开顺序
+1. drawings/AT_SHELL2_2V_C02_Geometry_Review_CN.pdf：4页审查图。
+2. cad/AT_SHELL2_2V_C02_LAYOUT.step：含壳体、两芯包络、真实阀体和设备/接口占位。
+3. cad/AT_SHELL2_2V_C02_SHELL.step：结构和钣金；排除水管、密封体、设备占位。
+4. cad/AT_SHELL2_2V_C02_SERVICE.step：设备/检修/保温预约体。不要作为实物料表。
+5. native/ASSEMBLY.json 与配套 BRep：具名源几何、作用和体积。
+6. tables：开口、HX变换、接管折线、三通阀接口。PIPE_ROUTES 的折线是圆弧前的虚交点，不是尖角管。
+
+## 两芯与水口
+A芯：C03坐标平移(265,-802.175,150)，R=I。
+B芯：绕Z轴180°，平移(485,802.175,150)，R=diag(-1,-1,1)。
+四上口原Z1414；较靠+X一口在Z1514向+X弯出，另一口在Z1634向+X弯出。
+A.W1接CS/HR，A.W2接CR/HS；B.W2接CS/HR，B.W1接CR/HS。
+B芯此功能对应为几何候选，须和HX空气/水流方向一起确认。没有修改供应商HX内部结构或压力边界。
+
+## 四三通阀
+R3025-BL2同一原始STEP，每实例保留4个源实体；刚体旋转-90°Z。
+COR01 2026-10-18 是本版阀口命名依据：下阀A=CS/B=HR，上阀A=CR/B=HS。
+AB指向-X，厂家A指向+Y，厂家B指向-Y；床A/B与厂家端口A/B是不同字段。
+执行器按LRQ24A 227×85×95包络，附加+Z235拔出区。
+ZR2325的50…66外伸区间是参数预约，尚非实装旋合量。
+CAD管段接到66上限参照面；最后短节需按实装量回填，不能按这个参照端直接下料。
+HX Rp1¼与DN25阀组的变径、活接及支承没有完成制造细化。
+公共总管只表示位置和通径占位，阀口至四总管支管及FLOW_STOP未连接。
+
+## 检修
+隔离排液后，解除HX上口与X700水平拆分处的连接，移走两根90°适配段。
+移除前风阀/前风箱/前上盖；HX提升30，再向-X移动800。
+模型检查使用完整HX保守包络。现场吊点、吊具、抽芯车、配线和实物装配余量尚需细化。
+孔板上P630×345、R630×180；对应706×421 / 706×256法兰和Ø9孔阵，合计八个空气口。
+完整风阀机构没有在本版导入；驱动仍用外侧占位。
+
+## 结构深化项
+四床旧串联管取消；两床各单芯。板厚和材料延续C01候选。
+底盘支承穿孔需密封领圈；全壳接缝、翻边、折弯半径、紧固件、排水坡度和管夹待细化。
+静态/服务几何验证见evidence，交集阈值0.001 mm³，不替代强度、压力或性能验证。
+"""
+(D/'README_CN.md').write_text(readme,encoding='utf8')
+for base in ['WATER_INTERFACES','HX_PLACEMENTS','PIPE_ROUTES']:
+ rows=json.loads((D/'tables'/f'{base}.json').read_text())
+ with (D/'tables'/f'{base}.csv').open('w',encoding='utf-8-sig',newline='')as f:
+  keys=list(dict.fromkeys(k for q in rows for k in q));w=csv.DictWriter(f,fieldnames=keys);w.writeheader()
+  w.writerows({k:json.dumps(v,ensure_ascii=False)if isinstance(v,(list,dict))else v for k,v in q.items()}for q in rows)
+old=R/'inputs/C01_PORTS.json'
+oldrows=json.loads(old.read_text());newrows=json.loads((D/'tables/PORTS.json').read_text())
+key=lambda q:(q['circuit'],q['width_mm'],q['height_mm'],q['flange_width_mm'],q['flange_height_mm'],q['bolt_d_mm'],q['bolt_count'])
+assert sorted(map(key,oldrows))==sorted(map(key,newrows))
+(D/'evidence/REUSED_FLANGE_CHECK.json').write_text(json.dumps(dict(old_ports=8,new_ports=8,same_dimensions_and_counts=True,geometry_function='C01 port_holes copied without alteration; translated only'),indent=2))
+state=json.loads((R/'SHELL2_STATE.json').read_text())
+state['main_outline_DWH_mm']=[1364,1704,1752];state['source_supplier_solids_per_valve']=4
+(R/'SHELL2_STATE.json').write_text(json.dumps(state,indent=2,ensure_ascii=False),encoding='utf8')
+print('DOCUMENT_TABLES_READY')
