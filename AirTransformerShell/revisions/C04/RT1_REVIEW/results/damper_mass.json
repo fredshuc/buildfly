@@ -1,0 +1,14 @@
+{
+ "P": {
+  "product_body": 60.1,
+  "drive_end": 41.0,
+  "feedback_end": 13.6,
+  "facility": 538.1
+ },
+ "R": {
+  "product_body": 36.4,
+  "drive_end": 19.7,
+  "feedback_end": 7.2,
+  "facility": 550.0
+ }
+}

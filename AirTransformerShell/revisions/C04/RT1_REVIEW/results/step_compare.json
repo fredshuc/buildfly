@@ -1,0 +1,16 @@
+{
+ "C04_TAPER_CASSETTE.step": {
+  "solids": [
+   28,
+   28
+  ],
+  "max_abs_diff_volume_or_bbox": 0.0
+ },
+ "C04_INSTALLED.step": {
+  "solids": [
+   188,
+   188
+  ],
+  "max_abs_diff_volume_or_bbox": 0.0
+ }
+}

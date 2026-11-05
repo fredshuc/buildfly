@@ -1,0 +1,192 @@
+{
+ "P_gear_pair_test_bbox": [
+  -167.49,
+  -1049.0,
+  1497.51,
+  168.49,
+  -990.5,
+  1668.49
+ ],
+ "P": {
+  "flange_test_bbox": [
+   -210.0,
+   -761.0,
+   1493.0,
+   211.0,
+   -55.0,
+   1496.0
+  ],
+  "flange_face_to_face_mm": 180.0,
+  "drive_end_beyond_flange_mm": [
+   [
+    528,
+    "BUY521",
+    "mayr 1 / 490.715.0 / 30 / 160 Nm"
+   ],
+   [
+    454,
+    "BUY520",
+    "mayr 1 / 490.715.0 / 30 / 110 Nm"
+   ],
+   [
+    320,
+    "BUY_R13_7206",
+    "NSK7206BEAMRSUCNB bearing interface proxy"
+   ],
+   [
+    288,
+    "BUY504",
+    "KHK SSG3-55F30B"
+   ],
+   [
+    172,
+    "BUY_R13_BK2",
+    "R+W BK2/300/125/30/30 conservative proxy"
+   ],
+   [
+    90,
+    "B200_R13",
+    "叶片轴焊接总成"
+   ],
+   [
+    26,
+    "J408",
+    "碟簧硬支承垫"
+   ],
+   [
+    25,
+    "BUY548",
+    "SCHNORR 002700A碟簧"
+   ]
+  ],
+  "feedback_end_beyond_flange_mm": [
+   [
+    217,
+    "G833P",
+    "P反馈可拆前盖"
+   ],
+   [
+    215,
+    "G834P",
+    "P反馈前盖角块"
+   ],
+   [
+    215,
+    "G832P",
+    "P反馈护罩上下板"
+   ],
+   [
+    215,
+    "G831P",
+    "P反馈护罩侧板"
+   ]
+  ],
+  "body_height_extent_test_X": [
+   -210.0,
+   211.0
+  ]
+ },
+ "R_gear_pair_test_bbox": null,
+ "R": {
+  "flange_test_bbox": [
+   -210.0,
+   -761.0,
+   1493.0,
+   46.0,
+   -55.0,
+   1496.0
+  ],
+  "flange_face_to_face_mm": 180.0,
+  "drive_end_beyond_flange_mm": [
+   [
+    528,
+    "BUY521",
+    "mayr 1 / 490.715.0 / 30 / 160 Nm"
+   ],
+   [
+    454,
+    "BUY520",
+    "mayr 1 / 490.715.0 / 30 / 110 Nm"
+   ],
+   [
+    320,
+    "BUY_R13_7206",
+    "NSK7206BEAMRSUCNB bearing interface proxy"
+   ],
+   [
+    172,
+    "BUY_R13_BK2",
+    "R+W BK2/300/125/30/30 conservative proxy"
+   ],
+   [
+    90,
+    "B200_R13",
+    "叶片轴焊接总成"
+   ],
+   [
+    26,
+    "J408",
+    "碟簧硬支承垫"
+   ],
+   [
+    25,
+    "BUY548",
+    "SCHNORR 002700A碟簧"
+   ],
+   [
+    22,
+    "J404",
+    "固定端止推盖"
+   ]
+  ],
+  "feedback_end_beyond_flange_mm": [
+   [
+    217,
+    "G833R",
+    "R反馈可拆前盖"
+   ],
+   [
+    215,
+    "G834R",
+    "R反馈前盖角块"
+   ],
+   [
+    215,
+    "G832R",
+    "R反馈护罩上下板"
+   ],
+   [
+    215,
+    "G831R",
+    "R反馈护罩侧板"
+   ]
+  ],
+  "body_height_extent_test_X": [
+   -210.0,
+   46.0
+  ]
+ },
+ "comparison": {
+  "c04": {
+   "bed_pitch_mm": 840,
+   "flange_width_mm": 706,
+   "gap_between_A_B_flanges_mm": 134,
+   "drive_reserve_along_shaft_mm": 170,
+   "drive_reserve_X_Z_mm": [
+    160,
+    220
+   ],
+   "rear_side_skin_cutout_X_Z_mm": [
+    161,
+    222
+   ]
+  },
+  "need_gap_two_feedback_ends_mm": 434,
+  "shortfall_mm": 300,
+  "need_gap_feedback_plus_drive_to_bearing_mm": 537,
+  "P_gear_pair_height_and_depth_mm": [
+   336,
+   171
+  ]
+ }
+}

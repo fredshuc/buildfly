@@ -1,0 +1,467 @@
+{
+ "A_hx_envelope": [
+  265.0,
+  -802.17,
+  1150.0,
+  615.0,
+  -46.64,
+  2398.68
+ ],
+ "A_hx_clashes_mm3": [],
+ "A_hx_face_contacts": [
+  "AF_CHEEK_-307.5",
+  "AF_CHEEK_306",
+  "AF_GUIDE_00",
+  "AF_GUIDE_01",
+  "AF_GUIDE_02",
+  "AF_GUIDE_03",
+  "AF_GUIDE_04",
+  "AF_GUIDE_05",
+  "AF_GUIDE_06",
+  "AF_GUIDE_07",
+  "AF_GUIDE_08",
+  "AF_SEAT_RETURN",
+  "AR_CHEEK_-307.5",
+  "AR_CHEEK_306",
+  "AR_GUIDE_00",
+  "AR_GUIDE_01",
+  "AR_GUIDE_02",
+  "AR_GUIDE_03",
+  "AR_GUIDE_04",
+  "AR_GUIDE_05",
+  "AR_GUIDE_06",
+  "AR_GUIDE_07",
+  "AR_GUIDE_08",
+  "AR_SEAT_RETURN",
+  "AW1_RESERVE_OD85",
+  "AW2_RESERVE_OD85",
+  "A_BEAM_0",
+  "A_BEAM_1"
+ ],
+ "B_hx_envelope": [
+  265.0,
+  37.83,
+  1150.0,
+  615.0,
+  793.36,
+  2398.68
+ ],
+ "B_hx_clashes_mm3": [],
+ "B_hx_face_contacts": [
+  "BF_CHEEK_-307.5",
+  "BF_CHEEK_306",
+  "BF_GUIDE_00",
+  "BF_GUIDE_01",
+  "BF_GUIDE_02",
+  "BF_GUIDE_03",
+  "BF_GUIDE_04",
+  "BF_GUIDE_05",
+  "BF_GUIDE_06",
+  "BF_GUIDE_07",
+  "BF_GUIDE_08",
+  "BF_SEAT_RETURN",
+  "BR_CHEEK_-307.5",
+  "BR_CHEEK_306",
+  "BR_GUIDE_00",
+  "BR_GUIDE_01",
+  "BR_GUIDE_02",
+  "BR_GUIDE_03",
+  "BR_GUIDE_04",
+  "BR_GUIDE_05",
+  "BR_GUIDE_06",
+  "BR_GUIDE_07",
+  "BR_GUIDE_08",
+  "BR_SEAT_RETURN",
+  "BW1_RESERVE_OD85",
+  "BW2_RESERVE_OD85",
+  "B_BEAM_0",
+  "B_BEAM_1"
+ ],
+ "min_distance_mm": {
+  "A:ROOF": {
+   "bbox_gap": 151.32,
+   "exact": 151.32
+  },
+  "A:ROOF_RAIL_-850": {
+   "bbox_gap": 229.72,
+   "exact": null
+  },
+  "A:ROOF_RAIL_820": {
+   "bbox_gap": 873.76,
+   "exact": null
+  },
+  "A:AW1_RESERVE_OD85": {
+   "bbox_gap": 0.0,
+   "exact": 0.0
+  },
+  "A:AW2_RESERVE_OD85": {
+   "bbox_gap": 0.0,
+   "exact": 0.0
+  },
+  "A:A_WATER_GLAND": {
+   "bbox_gap": 135.0,
+   "exact": 138.43
+  },
+  "A:SIDE_-852.0": {
+   "bbox_gap": 47.83,
+   "exact": 47.83
+  },
+  "A:SIDE_850.0": {
+   "bbox_gap": 896.64,
+   "exact": null
+  },
+  "A:A_VL_BODY_REFERENCE": {
+   "bbox_gap": 445.8,
+   "exact": null
+  },
+  "A:A_VL_ACTUATOR_REFERENCE": {
+   "bbox_gap": 377.5,
+   "exact": null
+  },
+  "A:A_VU_BODY_REFERENCE": {
+   "bbox_gap": 420.67,
+   "exact": null
+  },
+  "A:A_VU_ACTUATOR_REFERENCE": {
+   "bbox_gap": 347.5,
+   "exact": null
+  },
+  "A:A_BEAM_0": {
+   "bbox_gap": 0.0,
+   "exact": 0.0
+  },
+  "A:A_BEAM_1": {
+   "bbox_gap": 0.0,
+   "exact": 0.0
+  },
+  "B:ROOF": {
+   "bbox_gap": 151.32,
+   "exact": 151.32
+  },
+  "B:ROOF_RAIL_-850": {
+   "bbox_gap": 909.7,
+   "exact": null
+  },
+  "B:ROOF_RAIL_820": {
+   "bbox_gap": 114.46,
+   "exact": 123.99
+  },
+  "B:BW1_RESERVE_OD85": {
+   "bbox_gap": 0.0,
+   "exact": 0.0
+  },
+  "B:BW2_RESERVE_OD85": {
+   "bbox_gap": 0.0,
+   "exact": 0.0
+  },
+  "B:B_WATER_GLAND": {
+   "bbox_gap": 135.0,
+   "exact": 138.43
+  },
+  "B:SIDE_-852.0": {
+   "bbox_gap": 887.83,
+   "exact": null
+  },
+  "B:SIDE_850.0": {
+   "bbox_gap": 56.64,
+   "exact": 56.64
+  },
+  "B:B_VL_BODY_REFERENCE": {
+   "bbox_gap": 545.8,
+   "exact": null
+  },
+  "B:B_VL_ACTUATOR_REFERENCE": {
+   "bbox_gap": 477.5,
+   "exact": null
+  },
+  "B:B_VU_BODY_REFERENCE": {
+   "bbox_gap": 645.8,
+   "exact": null
+  },
+  "B:B_VU_ACTUATOR_REFERENCE": {
+   "bbox_gap": 579.14,
+   "exact": null
+  },
+  "B:B_BEAM_0": {
+   "bbox_gap": 0.0,
+   "exact": 0.0
+  },
+  "B:B_BEAM_1": {
+   "bbox_gap": 0.0,
+   "exact": 0.0
+  }
+ },
+ "sweeps_first_contact_mm": {
+  "A_-Y_side_skin_removed": {},
+  "B_+Y_side_skin_removed": {},
+  "A_+Z_roof_removed": {},
+  "B_+Z_roof_removed": {},
+  "A_-X_front_skin_removed": {
+   "AF_GUIDE_00": [
+    50,
+    0,
+    2.1
+   ],
+   "AF_GUIDE_08": [
+    50,
+    0,
+    2.1
+   ],
+   "AF_GUIDE_01": [
+    50,
+    0,
+    3.6
+   ],
+   "AF_GUIDE_02": [
+    50,
+    0,
+    3.8
+   ],
+   "AF_GUIDE_03": [
+    50,
+    0,
+    4.1
+   ],
+   "AF_GUIDE_04": [
+    50,
+    0,
+    4.1
+   ],
+   "AF_GUIDE_05": [
+    50,
+    0,
+    4.1
+   ],
+   "AF_GUIDE_06": [
+    50,
+    0,
+    4.1
+   ],
+   "AF_GUIDE_07": [
+    50,
+    0,
+    4.1
+   ],
+   "AF_BALANCE_BAND_00": [
+    50,
+    0,
+    27.8
+   ],
+   "AF_BALANCE_BAND_01": [
+    50,
+    0,
+    27.8
+   ],
+   "AF_BALANCE_BAND_02": [
+    50,
+    0,
+    27.8
+   ],
+   "AF_BALANCE_BAND_03": [
+    50,
+    0,
+    27.8
+   ],
+   "AF_BALANCE_BAND_04": [
+    50,
+    0,
+    27.8
+   ],
+   "AF_BALANCE_BAND_05": [
+    50,
+    0,
+    27.8
+   ],
+   "AF_BALANCE_BAND_06": [
+    50,
+    0,
+    27.8
+   ],
+   "AF_BALANCE_BAND_07": [
+    50,
+    0,
+    27.8
+   ],
+   "AF_CHEEK_-307.5": [
+    50,
+    308,
+    7.2
+   ],
+   "AF_CHEEK_306": [
+    50,
+    308,
+    7.2
+   ],
+   "AF_SEAT_RETURN": [
+    50,
+    308,
+    177.9
+   ],
+   "POST_(-129.10000000000002, -850)": [
+    400,
+    509,
+    624.7
+   ]
+  }
+ },
+ "valves_c04": {
+  "A_VL_BODY": {
+   "zmax": 1807.5,
+   "y": [
+    -118.62,
+    -30.62
+   ],
+   "roof_intersection_mm3": 0.0
+  },
+  "A_VL_ACTUATOR": {
+   "zmax": 1902.5,
+   "y": [
+    -117.83,
+    -32.83
+   ],
+   "roof_intersection_mm3": 0.0
+  },
+  "A_VL_ACTUATOR_WITHDRAWAL": {
+   "zmax": 2137.5,
+   "y": [
+    -117.83,
+    -32.83
+   ],
+   "roof_intersection_mm3": 0.0
+  },
+  "A_VU_BODY": {
+   "zmax": 2277.5,
+   "y": [
+    -118.62,
+    -30.62
+   ],
+   "roof_intersection_mm3": 0.0
+  },
+  "A_VU_ACTUATOR": {
+   "zmax": 2372.5,
+   "y": [
+    -117.83,
+    -32.83
+   ],
+   "roof_intersection_mm3": 0.0
+  },
+  "A_VU_ACTUATOR_WITHDRAWAL": {
+   "zmax": 2607.5,
+   "y": [
+    -117.83,
+    -32.83
+   ],
+   "roof_intersection_mm3": 38590.0
+  },
+  "B_VL_BODY": {
+   "zmax": 1807.5,
+   "y": [
+    32.03,
+    120.03
+   ],
+   "roof_intersection_mm3": 0.0
+  },
+  "B_VL_ACTUATOR": {
+   "zmax": 1902.5,
+   "y": [
+    32.83,
+    117.83
+   ],
+   "roof_intersection_mm3": 0.0
+  },
+  "B_VL_ACTUATOR_WITHDRAWAL": {
+   "zmax": 2137.5,
+   "y": [
+    32.83,
+    117.83
+   ],
+   "roof_intersection_mm3": 0.0
+  },
+  "B_VU_BODY": {
+   "zmax": 2277.5,
+   "y": [
+    32.03,
+    120.03
+   ],
+   "roof_intersection_mm3": 0.0
+  },
+  "B_VU_ACTUATOR": {
+   "zmax": 2372.5,
+   "y": [
+    32.83,
+    117.83
+   ],
+   "roof_intersection_mm3": 0.0
+  },
+  "B_VU_ACTUATOR_WITHDRAWAL": {
+   "zmax": 2607.5,
+   "y": [
+    32.83,
+    117.83
+   ],
+   "roof_intersection_mm3": 38590.0
+  }
+ },
+ "valve_links": [
+  {
+   "valve": "A_VL",
+   "valve_function": "CS/HR",
+   "c02_table_target": "A.W1",
+   "required_target": "A.W1",
+   "table_target_ok": true,
+   "AB_face_C04": [
+    931.1,
+    -75.325,
+    1760
+   ],
+   "dX": 316.1,
+   "dY": 0.0,
+   "dZ": -610
+  },
+  {
+   "valve": "A_VU",
+   "valve_function": "CR/HS",
+   "c02_table_target": "A.W2",
+   "required_target": "A.W2",
+   "table_target_ok": true,
+   "AB_face_C04": [
+    1031.1,
+    -75.325,
+    2230
+   ],
+   "dX": 416.1,
+   "dY": 150.0,
+   "dZ": -140
+  },
+  {
+   "valve": "B_VL",
+   "valve_function": "CS/HR",
+   "c02_table_target": "B.W2",
+   "required_target": "B.W1",
+   "table_target_ok": false,
+   "AB_face_C04": [
+    1031.1,
+    75.325,
+    1760
+   ],
+   "dX": 416.1,
+   "dY": -689.35,
+   "dZ": -610
+  },
+  {
+   "valve": "B_VU",
+   "valve_function": "CR/HS",
+   "c02_table_target": "B.W1",
+   "required_target": "B.W2",
+   "table_target_ok": false,
+   "AB_face_C04": [
+    1131.1,
+    75.325,
+    2230
+   ],
+   "dX": 516.1,
+   "dY": -539.35,
+   "dZ": -140
+  }
+ ]
+}

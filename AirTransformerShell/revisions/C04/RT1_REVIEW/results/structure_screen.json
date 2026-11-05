@@ -1,0 +1,73 @@
+{
+ "hx_support_m80": {
+  "riser_A_mm2": 444,
+  "riser_I_mm4": 101972,
+  "sway_k_fixed_N_per_mm": 991,
+  "sway_k_pinned_top_N_per_mm": 248,
+  "f_sway_fixed_Hz": 17.7,
+  "f_sway_pinned_Hz": 8.9,
+  "f_rocking_X_Hz": 37.1,
+  "f_combined_fixed_Hz": 16.0,
+  "f_combined_pinned_Hz": 8.6,
+  "cg_above_riser_top_m": 0.625,
+  "euler_load_per_riser_kN": 202.9
+ },
+ "hx_support_m110": {
+  "riser_A_mm2": 444,
+  "riser_I_mm4": 101972,
+  "sway_k_fixed_N_per_mm": 991,
+  "sway_k_pinned_top_N_per_mm": 248,
+  "f_sway_fixed_Hz": 15.1,
+  "f_sway_pinned_Hz": 7.6,
+  "f_rocking_X_Hz": 31.6,
+  "f_combined_fixed_Hz": 13.6,
+  "f_combined_pinned_Hz": 7.3,
+  "cg_above_riser_top_m": 0.625,
+  "euler_load_per_riser_kN": 202.9
+ },
+ "posts": {
+  "I_mm4": 208492,
+  "k_cantilever_each_N_per_mm": 8.55,
+  "k_four_N_per_mm": 34.2,
+  "note": "bare-frame racking stiffness if skins are not designed as shear diaphragms"
+ },
+ "guides": {
+  "f1_simply_supported_Hz": 9.6,
+  "f1_clamped_Hz": 21.7,
+  "selfweight_sag_ss_mm": 1.05,
+  "selfweight_sag_cc_mm": 0.21,
+  "sag_per_10Pa_ss_mm": 0.3,
+  "miller_critical_velocity_ms": 49.6,
+  "channel_velocity_ms": 7.55
+ },
+ "dampers_steel_equivalent_kg": {
+  "P": {
+   "product_body": 60.1,
+   "drive_end": 41.0,
+   "feedback_end": 13.6,
+   "facility": 538.1,
+   "product_total_steel_equiv_kg": 114.7
+  },
+  "R": {
+   "product_body": 36.4,
+   "drive_end": 19.7,
+   "feedback_end": 7.2,
+   "facility": 550.0,
+   "product_total_steel_equiv_kg": 63.3
+  }
+ },
+ "front_pair_overhang": {
+  "mass_kg": 178.0,
+  "moment_Nm_at_90mm": 157,
+  "note": "front P+R damper pair per bed carried by the 2.5 mm DUAL_VALVE_FLANGE of an unsupported cassette"
+ },
+ "cassette": {
+  "mass_kg": 80.5,
+  "cg_z_mm": 1238,
+  "support": "none modelled; BOTTOM at Z142.5 is 38.5 mm above FLOOR top Z104"
+ },
+ "machine_mass_estimate_kg": {
+  "value": 1424,
+  "basis": "host+4 cassettes (7.9 kg/dm3) + 2x95 kg HX wet + 8 dampers at 0.6 x steel-equivalent + 60 kg valves/piping"
+ }
+}
