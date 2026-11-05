@@ -1,0 +1,1057 @@
+[
+  {
+    "path": "deliverables/cad/AT_SHELL2_2V_C02_LAYOUT.step",
+    "bytes": 18280768,
+    "sha256": "e6bf8676ee2c3178c7be6a67b1d4b10d14ff0084316474dea1abc18028bdd308"
+  },
+  {
+    "path": "deliverables/cad/AT_SHELL2_2V_C02_SERVICE.step",
+    "bytes": 14725797,
+    "sha256": "484c8a45fce8c474646e67bf83c513f3303e133593b3cf15f56a65b274db5c2c"
+  },
+  {
+    "path": "deliverables/cad/AT_SHELL2_2V_C02_SHELL.step",
+    "bytes": 3526853,
+    "sha256": "6f903f02a3d2c1fa10222a4cb3d9c4e119a0018fc8fd3d482a5d007b555f0206"
+  },
+  {
+    "path": "deliverables/drawings/AT_SHELL2_2V_C02_Geometry_Review_CN.pdf",
+    "bytes": 1105173,
+    "sha256": "37e9083bd7c07c7ef7cfa001d6a74dfc6d0d385b8fc7972277916fa89d23125f"
+  },
+  {
+    "path": "deliverables/evidence/EXTENDED_VALIDATION.json",
+    "bytes": 1032,
+    "sha256": "57a7d75c4c5a9386008e0b079c7612c51e0b7692312b5461b7f52a05e2db7dec"
+  },
+  {
+    "path": "deliverables/evidence/REUSED_FLANGE_CHECK.json",
+    "bytes": 165,
+    "sha256": "5bdb95e120bf5446930a04a3e357990ebb031f125fa9947af9ff6c2d50a78ac9"
+  },
+  {
+    "path": "deliverables/evidence/SOURCE_IDENTITY.json",
+    "bytes": 404,
+    "sha256": "2da33ebbbfaafe7228d1daf4344365b1b6baaec84880163864c5dfb4741e912d"
+  },
+  {
+    "path": "deliverables/evidence/VALIDATION.json",
+    "bytes": 270,
+    "sha256": "58221a98b978fd094c63167e8c4b1aaa2e8af8dc59a2f88273d1d8e7845b35db"
+  },
+  {
+    "path": "deliverables/native/A_BASE_Y_RAIL_265.brep",
+    "bytes": 5541,
+    "sha256": "2360ad52800e3a7a7f54f42dcdb7bda321d8ab0137732f030a07011bada33ee3"
+  },
+  {
+    "path": "deliverables/native/A_BASE_Y_RAIL_435.brep",
+    "bytes": 5541,
+    "sha256": "3f223bd3fdc376a58e7a2ab399b78fb6d55c96649df260b55f1ef9cea3c09ca1"
+  },
+  {
+    "path": "deliverables/native/A_CORE_SIDE_-21.5.brep",
+    "bytes": 2801,
+    "sha256": "a1196ee4fec67bf892bba0346f293bb6e0076080165de7a0e81732f815c859fe"
+  },
+  {
+    "path": "deliverables/native/A_CORE_SIDE_-840.brep",
+    "bytes": 2811,
+    "sha256": "71585ee66ca20601443216cabc614289d4a0969a27417b460df147a10402011a"
+  },
+  {
+    "path": "deliverables/native/A_CROSS_SUPPORT_0.brep",
+    "bytes": 9299,
+    "sha256": "818f9aa849bd17139460bb3b9f8e430990116d7e82e3d9994f606ca8eb1734ee"
+  },
+  {
+    "path": "deliverables/native/A_CROSS_SUPPORT_1.brep",
+    "bytes": 9299,
+    "sha256": "d9a9adc843c64ba5059dd37d06343fd92d6b22079d7eda292452b6436304794c"
+  },
+  {
+    "path": "deliverables/native/A_ENTRY_RETURN_-22.brep",
+    "bytes": 2621,
+    "sha256": "a0ba8318da55a96e3ded2391ba91891fdd3f31d65187222361e67c26bb4765de"
+  },
+  {
+    "path": "deliverables/native/A_ENTRY_RETURN_-840.brep",
+    "bytes": 2989,
+    "sha256": "e700bac5f9bbb72b3fa632deb4383aa2f7619ceea804cb4f54d601a23fee75bd"
+  },
+  {
+    "path": "deliverables/native/A_EXTRACT_SWEEP.brep",
+    "bytes": 3260,
+    "sha256": "4ee112f284c5feae93510fe1881e79286f9e6b6297e4a9be35f3484339434012"
+  },
+  {
+    "path": "deliverables/native/A_F_DUAL_PORT_PLATE.brep",
+    "bytes": 64796,
+    "sha256": "49e95d8c0386599535152303c73afe703c57de974ce2ef9b061a83b256fa1d7a"
+  },
+  {
+    "path": "deliverables/native/A_F_HX_APERTURE.brep",
+    "bytes": 6604,
+    "sha256": "d4def95aa7a44080ce518e0ae62ce81649688233876c4c5eb02b1c76a297d468"
+  },
+  {
+    "path": "deliverables/native/A_F_HX_SEAL.brep",
+    "bytes": 6185,
+    "sha256": "11fefaefa0a800503b54d048302ecdfce135047547d610ae97513bbec33fa02c"
+  },
+  {
+    "path": "deliverables/native/A_F_P_DAMPER.brep",
+    "bytes": 3058,
+    "sha256": "909c9c48742903a9abf91220be44e78107a64f31ea79f9b82e36d1ea7004d69d"
+  },
+  {
+    "path": "deliverables/native/A_F_P_DRIVE.brep",
+    "bytes": 2863,
+    "sha256": "3eb82c715c236997e2ce54901fc6ca14bd662bdfe24147dc68c4a463263fbda8"
+  },
+  {
+    "path": "deliverables/native/A_F_PLENUM_SIDE_-21.5.brep",
+    "bytes": 2833,
+    "sha256": "fbb605d268e36dab20e0085325beb42f74b3a46352f5da4b18157b4bd647d4df"
+  },
+  {
+    "path": "deliverables/native/A_F_PLENUM_SIDE_-840.brep",
+    "bytes": 2843,
+    "sha256": "9ba05a5b99df55fae1d69c1da735d7bd71944e3753d60ad0ad2f4c61e272f2ea"
+  },
+  {
+    "path": "deliverables/native/A_F_PLENUM_TOP.brep",
+    "bytes": 2903,
+    "sha256": "3025d2721bbd4202a41ca00a5d484114e04d00a1e034a41889ffc409a10874da"
+  },
+  {
+    "path": "deliverables/native/A_F_R_DAMPER.brep",
+    "bytes": 3067,
+    "sha256": "4df1ec6ab1063fdb4e27a6db888ca55e73549dffc5fbd720db97b8e06e617361"
+  },
+  {
+    "path": "deliverables/native/A_F_R_DRIVE.brep",
+    "bytes": 2820,
+    "sha256": "3f0b0f31db5959fbd7ab12b3d73ddf2ba526e4d1025af516eec638edbf71c0a4"
+  },
+  {
+    "path": "deliverables/native/A_FRONT_BOTTOM_FILL.brep",
+    "bytes": 2694,
+    "sha256": "498bba348fe2c7810631e6cb0c38a612e4dc6efe843907f0f8c4c2df26340575"
+  },
+  {
+    "path": "deliverables/native/A_FRONT_SERVICE_BLANK.brep",
+    "bytes": 2751,
+    "sha256": "9f9b4c36d02a01c5cab58366bc208f0b293e5dc9e83f4667fe436504f3b8284c"
+  },
+  {
+    "path": "deliverables/native/A_FRONT_TOP_FILL.brep",
+    "bytes": 2737,
+    "sha256": "dad8f20d19e73684bc9e5eadadde9017bce7f69253b686e7f636b6b7a96eed3d"
+  },
+  {
+    "path": "deliverables/native/A_HX_C03.brep",
+    "bytes": 3227,
+    "sha256": "8ab9a6ddb33154d2002cebc42dfc051cc5d8374b0d78a20c4cb1b35178edd1e3"
+  },
+  {
+    "path": "deliverables/native/A_POD_BOTTOM_C.brep",
+    "bytes": 10344,
+    "sha256": "97b27db127ad3642f350a667593599d194616bbfc776da90d3ae3f891bf5d2bb"
+  },
+  {
+    "path": "deliverables/native/A_POD_BOTTOM_F.brep",
+    "bytes": 2877,
+    "sha256": "61ce4aa24785f5d43c98d6c619df6f7f75cc5cd980f61ebf7a4fcc004ddcfe9e"
+  },
+  {
+    "path": "deliverables/native/A_POD_BOTTOM_R.brep",
+    "bytes": 2895,
+    "sha256": "1907e967a95535be7352e7502d466c2388ecbadf04e6e8bca0e1dad9cf5f98aa"
+  },
+  {
+    "path": "deliverables/native/A_R_DUAL_PORT_PLATE.brep",
+    "bytes": 62318,
+    "sha256": "1aa79ec2df2f4d4459201e8f6248f032f48507e172d83f3a71abb179b02f7dc0"
+  },
+  {
+    "path": "deliverables/native/A_R_HX_APERTURE.brep",
+    "bytes": 6636,
+    "sha256": "0e25869a280df2115a2f019780bb2572d57f849ed79c5be402360b844e56f78e"
+  },
+  {
+    "path": "deliverables/native/A_R_HX_SEAL.brep",
+    "bytes": 6153,
+    "sha256": "6b34112bd59e6005bba13adb17f2efa9b6eaa09950c567341b20040936537a07"
+  },
+  {
+    "path": "deliverables/native/A_R_P_DAMPER.brep",
+    "bytes": 2768,
+    "sha256": "67254ae634496f5314003f0bcbd8dc253f30a5432f2e09051eb4eb48efa4c2e1"
+  },
+  {
+    "path": "deliverables/native/A_R_P_DRIVE.brep",
+    "bytes": 2846,
+    "sha256": "ae98704e3b2eafb566213b54a12468835fb2e93e93ac35a1aa8ff757dbc880d5"
+  },
+  {
+    "path": "deliverables/native/A_R_P_DUCT_Y_-166.5.brep",
+    "bytes": 2811,
+    "sha256": "65c22a4cfbe98e7c85d2ff00cbb9758c31f9a005bf63c4d31ff845efa11f55e5"
+  },
+  {
+    "path": "deliverables/native/A_R_P_DUCT_Y_-795.brep",
+    "bytes": 2795,
+    "sha256": "21669e026d1c397eed42c2eac603a0b77e051a9f64ef76f344f4315e64184397"
+  },
+  {
+    "path": "deliverables/native/A_R_P_DUCT_Z_300.brep",
+    "bytes": 2847,
+    "sha256": "65d5cc4b09f9383023692ef0b60600c83c22bb6dcc124e6c6dce252a9ffdc566"
+  },
+  {
+    "path": "deliverables/native/A_R_P_DUCT_Z_643.5.brep",
+    "bytes": 2863,
+    "sha256": "aa3b2ed8429768be9d94ed9e5156e6c1507f203d7b547053775eed899728dfff"
+  },
+  {
+    "path": "deliverables/native/A_R_PLENUM_SIDE_-21.5.brep",
+    "bytes": 2851,
+    "sha256": "9ee7a184f8aa86f05f7de9fcfb720509a4ed6c84c969128767a683232c1f405a"
+  },
+  {
+    "path": "deliverables/native/A_R_PLENUM_SIDE_-840.brep",
+    "bytes": 2861,
+    "sha256": "4bfa497cc767a90405c67641a5dc0094c383c81ba47718c5f0ec4cb1f8bc6387"
+  },
+  {
+    "path": "deliverables/native/A_R_PLENUM_TOP.brep",
+    "bytes": 2921,
+    "sha256": "e7c51a05d2e82949c691c1249403f033e2756d32e91112d867a3976ed8493ace"
+  },
+  {
+    "path": "deliverables/native/A_R_R_DAMPER.brep",
+    "bytes": 2777,
+    "sha256": "b842b06265d94439ecf8c04a3e96c6c31ace002482bcbd42707e06ff8691a2b8"
+  },
+  {
+    "path": "deliverables/native/A_R_R_DRIVE.brep",
+    "bytes": 2803,
+    "sha256": "661e120fdc98611fc3f9309b3788cc339a505b54e240647b1e63f85fabe70cb3"
+  },
+  {
+    "path": "deliverables/native/A_R_R_DUCT_Y_-166.5.brep",
+    "bytes": 2820,
+    "sha256": "5528c4c8816301f4a4bd43beb96ce272ff27bdb1ab0f710e9f8d3239dd3aab3e"
+  },
+  {
+    "path": "deliverables/native/A_R_R_DUCT_Y_-795.brep",
+    "bytes": 2804,
+    "sha256": "b5368df6d46b7d33792f5ed31859ce0cf92f92eacd75ed60bd4c724dcb2f0f45"
+  },
+  {
+    "path": "deliverables/native/A_R_R_DUCT_Z_1118.5.brep",
+    "bytes": 2889,
+    "sha256": "f9547688b4f71c155439792f2e3ad7aca3e4696fe3abdca267c591b09735349c"
+  },
+  {
+    "path": "deliverables/native/A_R_R_DUCT_Z_940.brep",
+    "bytes": 2847,
+    "sha256": "015de9d873e9c3dcf759e5527f60990fe3eb320c1dbdcd3353b049acc0b2e752"
+  },
+  {
+    "path": "deliverables/native/A_REAR_SERVICE_SKIN.brep",
+    "bytes": 8519,
+    "sha256": "c48bcc1c2fc7cc9635642e05df0bbcde52733e5c2eb7d4d981beeccbb59537ea"
+  },
+  {
+    "path": "deliverables/native/A_ROOF.brep",
+    "bytes": 2760,
+    "sha256": "cae6465216b4bc5d6ec653f9dc88c2be670498e1d87a2d7a4328c189e44f85a4"
+  },
+  {
+    "path": "deliverables/native/A_VL_A_ZR_RANGE.brep",
+    "bytes": 1187,
+    "sha256": "10766e69080a440e332e6a683b3c5fca44d680854a685d4a388f82eac5d4b943"
+  },
+  {
+    "path": "deliverables/native/A_VL_AB_ZR_RANGE.brep",
+    "bytes": 1300,
+    "sha256": "fa72e7b8b5c607da985d802f02ecbd91700b020010fbd519cd18688f0f84dbda"
+  },
+  {
+    "path": "deliverables/native/A_VL_ACTUATOR.brep",
+    "bytes": 3262,
+    "sha256": "48dc81dcaa5b6ba17882ef8ff14ca4f80ee7e504d0b302d4d5c41396a6cd2b7f"
+  },
+  {
+    "path": "deliverables/native/A_VL_ACTUATOR_WITHDRAWAL.brep",
+    "bytes": 3342,
+    "sha256": "c3025011215daec314a5f7156b7511d45b493387ad0c5fa64ffbfa502c3c652f"
+  },
+  {
+    "path": "deliverables/native/A_VL_B_ZR_RANGE.brep",
+    "bytes": 1198,
+    "sha256": "ac240db20eda3555e0526d859952e8a6721ca0644e860255251ac24960b06030"
+  },
+  {
+    "path": "deliverables/native/A_VL_BODY.brep",
+    "bytes": 952343,
+    "sha256": "ce511ef94ae0079ce4066ac78a0be22a513e1b1de73969085c5781d234abaa78"
+  },
+  {
+    "path": "deliverables/native/A_VL_SOURCE_BRANCH_ZONE.brep",
+    "bytes": 3054,
+    "sha256": "cd40958d4c7400e232df2999a7c9587683cc31918d27aad2b0beb3470247abbc"
+  },
+  {
+    "path": "deliverables/native/A_VU_A_ZR_RANGE.brep",
+    "bytes": 1203,
+    "sha256": "89566a1fa77ece7cd7c6fe7bd437f3d2c5bfd0d17ddedba8b61bf46d26fb7d4a"
+  },
+  {
+    "path": "deliverables/native/A_VU_AB_ZR_RANGE.brep",
+    "bytes": 1309,
+    "sha256": "e0fc552b224681b6847ec2b299d5cc252ce0e8e70d7795f233dd7efc1317c117"
+  },
+  {
+    "path": "deliverables/native/A_VU_ACTUATOR.brep",
+    "bytes": 3270,
+    "sha256": "6d32b8765090cbf9ef143c52404858ae532c79011bd2b2a153307947f074cb0e"
+  },
+  {
+    "path": "deliverables/native/A_VU_ACTUATOR_WITHDRAWAL.brep",
+    "bytes": 3286,
+    "sha256": "05920d012aeb2322414c677ca0de66962326cb96693fceb388adf4416f019c34"
+  },
+  {
+    "path": "deliverables/native/A_VU_B_ZR_RANGE.brep",
+    "bytes": 1214,
+    "sha256": "e037c163f6bec49b43b269f9ad554a24911193c10dac0a703b2bd9e847627b2d"
+  },
+  {
+    "path": "deliverables/native/A_VU_BODY.brep",
+    "bytes": 950758,
+    "sha256": "3318d80294e5dfc61994f85aeb7373ab1f02a950987eb652242e2e62cf0031db"
+  },
+  {
+    "path": "deliverables/native/A_VU_SOURCE_BRANCH_ZONE.brep",
+    "bytes": 3097,
+    "sha256": "e9d6d9e031e65a6b0be937c5228f581b1b00c42157c05a22d3d991703b2cfea3"
+  },
+  {
+    "path": "deliverables/native/A_W1_REMOVABLE_90.brep",
+    "bytes": 6044,
+    "sha256": "81b4da8c3cf7cce497a27d3e03194ff8cf68335a8fb7a6f805bdd0c0c7a545a1"
+  },
+  {
+    "path": "deliverables/native/A_W1_REMOVABLE_90_INS25.brep",
+    "bytes": 2920,
+    "sha256": "8545cbe7662515726c827e87da4ab55802399a106240040655c9a17b3656e7c9"
+  },
+  {
+    "path": "deliverables/native/A_W1_SIDE_DROP.brep",
+    "bytes": 9274,
+    "sha256": "b4d6456810b7e7b284f3d966acc0e548724399ecd699303d2c72dc2d538f004a"
+  },
+  {
+    "path": "deliverables/native/A_W1_SIDE_DROP_INS25.brep",
+    "bytes": 4465,
+    "sha256": "b9e1aeb728b6ba334c5da23791db7d6b9d1811c6642b5bb63a72bdda79fc1bb1"
+  },
+  {
+    "path": "deliverables/native/A_W2_REMOVABLE_90.brep",
+    "bytes": 6039,
+    "sha256": "4ed6ad584c1a6ac0b7aafe2ffdb6a0d0d715c09f83683212be1357fc988749d8"
+  },
+  {
+    "path": "deliverables/native/A_W2_REMOVABLE_90_INS25.brep",
+    "bytes": 2881,
+    "sha256": "5374687d50eefe9c92eddad4b7042be3c4e758dfc1ba60a07be865acfe16fcca"
+  },
+  {
+    "path": "deliverables/native/A_W2_SIDE_DROP.brep",
+    "bytes": 9009,
+    "sha256": "930ab43bfb443702cb4b4614640d6b70cbafe6fdc99e27b02c67688fd4527a2a"
+  },
+  {
+    "path": "deliverables/native/A_W2_SIDE_DROP_INS25.brep",
+    "bytes": 4363,
+    "sha256": "38981ce4b1272722a403cc6b56da9981bc7da0168a37b356f92077ce60a209e2"
+  },
+  {
+    "path": "deliverables/native/A_WATER_GLAND_PANEL.brep",
+    "bytes": 4652,
+    "sha256": "3a65c16c631127d5b4b93d9bd9628a07a4bc656f9e97195c6a4a26c4d6688b93"
+  },
+  {
+    "path": "deliverables/native/ASSEMBLY.json",
+    "bytes": 75690,
+    "sha256": "be95d25e9efc879451fd0129d215cb2e0bfce4c35c727a0961af8a3ba52a0c03"
+  },
+  {
+    "path": "deliverables/native/B_BASE_Y_RAIL_265.brep",
+    "bytes": 5475,
+    "sha256": "1e3bbc68f754ba1cfbee6b9e797b5ba89d99a90df1c07e69eb648b91079826d0"
+  },
+  {
+    "path": "deliverables/native/B_BASE_Y_RAIL_435.brep",
+    "bytes": 5475,
+    "sha256": "d77700c2a6bbbbf8e94a392b1dff807d790db952e282f134431f12669148567d"
+  },
+  {
+    "path": "deliverables/native/B_CORE_SIDE_20.brep",
+    "bytes": 2759,
+    "sha256": "40a91bfc0818bbf1b730d9dd9d32fcbd79474ad7117736d3dffedb8a11613f3a"
+  },
+  {
+    "path": "deliverables/native/B_CORE_SIDE_838.5.brep",
+    "bytes": 2801,
+    "sha256": "27d4f3b0099e47e9c0d86e1a60ca6f993d1dc399146860314dbab2bbb2793f3c"
+  },
+  {
+    "path": "deliverables/native/B_CROSS_SUPPORT_0.brep",
+    "bytes": 9229,
+    "sha256": "ca70cd659142b491eaa8819bbec2823f0d834a2f3054336d15a96158e3258cba"
+  },
+  {
+    "path": "deliverables/native/B_CROSS_SUPPORT_1.brep",
+    "bytes": 9229,
+    "sha256": "3b2afd3f5a0399930c7a69d06de5246914cd57a2d86b491fb0c0b3028633e565"
+  },
+  {
+    "path": "deliverables/native/B_ENTRY_RETURN_20.brep",
+    "bytes": 2595,
+    "sha256": "d62fb29e12ea764297529c16b4a55c48125ec3d0e3ef07f2784db886e27b9ad4"
+  },
+  {
+    "path": "deliverables/native/B_ENTRY_RETURN_838.brep",
+    "bytes": 2961,
+    "sha256": "f6f26af39bd5f622165535a2649e766736c82dc3ac00f3d03aaa8a3c6cb1ae1d"
+  },
+  {
+    "path": "deliverables/native/B_EXTRACT_SWEEP.brep",
+    "bytes": 3194,
+    "sha256": "72e9532e6d70f0e941aa9c5cfb8cb122a0768588f755795dc008b47c6a33cbfb"
+  },
+  {
+    "path": "deliverables/native/B_F_DUAL_PORT_PLATE.brep",
+    "bytes": 64530,
+    "sha256": "757f618e33313419bea6b2d5f5c9bb3f49a9e55e0d0e6df505a29c6bdc336f55"
+  },
+  {
+    "path": "deliverables/native/B_F_HX_APERTURE.brep",
+    "bytes": 6466,
+    "sha256": "ee80a8d4a615dd98390c69b03ba70e5196170af88a3151a0026bd07084874745"
+  },
+  {
+    "path": "deliverables/native/B_F_HX_SEAL.brep",
+    "bytes": 6135,
+    "sha256": "c33c029174ef2118d9762b7f3539652916ad31fdc2afd5eda0fd9be7a3e554b7"
+  },
+  {
+    "path": "deliverables/native/B_F_P_DAMPER.brep",
+    "bytes": 3032,
+    "sha256": "cf49130d3e6a7eec55ea7babdbbe33d9e164aea76143b7963708841d38cd7a52"
+  },
+  {
+    "path": "deliverables/native/B_F_P_DRIVE.brep",
+    "bytes": 2829,
+    "sha256": "d9f95a6fac16aff2ffe3ec14575b97a106b137d16ea82b95f4c0bf91eb3fe023"
+  },
+  {
+    "path": "deliverables/native/B_F_PLENUM_SIDE_20.brep",
+    "bytes": 2791,
+    "sha256": "dfbc5151994037dae1dc46d1ae1f286af5d8605f18237b36a4d3dd39fe95c69f"
+  },
+  {
+    "path": "deliverables/native/B_F_PLENUM_SIDE_838.5.brep",
+    "bytes": 2833,
+    "sha256": "ff5a6a045bb281275aa613181eea79813d37b06540edafdad1200f6b01d8ced0"
+  },
+  {
+    "path": "deliverables/native/B_F_PLENUM_TOP.brep",
+    "bytes": 2869,
+    "sha256": "44149a8b706bc10c9e08580add694e743a5e836ed5eae592792847d623e92923"
+  },
+  {
+    "path": "deliverables/native/B_F_R_DAMPER.brep",
+    "bytes": 3041,
+    "sha256": "9204ad5b7c4373b4b916a40d0abf0ac93f9795db5687694e020cc06764f284d1"
+  },
+  {
+    "path": "deliverables/native/B_F_R_DRIVE.brep",
+    "bytes": 2786,
+    "sha256": "a9095501326475500a8daa6836f19a0aa3e1b53cfa0c033adbda10e2bedb7031"
+  },
+  {
+    "path": "deliverables/native/B_FRONT_BOTTOM_FILL.brep",
+    "bytes": 2660,
+    "sha256": "984689f7ae0f20f0b6c1979e7374bee3d4764c2103b8ae7c260eefbed144e802"
+  },
+  {
+    "path": "deliverables/native/B_FRONT_SERVICE_BLANK.brep",
+    "bytes": 2717,
+    "sha256": "2ad394fbaa23dd35d41eedf928efdb95cccb2c8fc645386ef22fd41220446b63"
+  },
+  {
+    "path": "deliverables/native/B_FRONT_TOP_FILL.brep",
+    "bytes": 2703,
+    "sha256": "e261b73bb53166d7bd2fb47247203b49d75a4525b55713863ecf8b462238f545"
+  },
+  {
+    "path": "deliverables/native/B_HX_C03.brep",
+    "bytes": 3161,
+    "sha256": "3ac8e549f9bf41f5d2a463803fea7cd04e2072985647910ae469b72846b90e1b"
+  },
+  {
+    "path": "deliverables/native/B_POD_BOTTOM_C.brep",
+    "bytes": 10274,
+    "sha256": "4336cf5a057c1df7cd5750a7439589b4a3b9fa88c1a12f7b5a4ee6ee39db214d"
+  },
+  {
+    "path": "deliverables/native/B_POD_BOTTOM_F.brep",
+    "bytes": 2843,
+    "sha256": "e0d2eb096d42fd31cf3837bb7d3899e711897e9a9fe30053481327ec3e5e1e42"
+  },
+  {
+    "path": "deliverables/native/B_POD_BOTTOM_R.brep",
+    "bytes": 2861,
+    "sha256": "c76bad01bba879bb7706ca9dc1289bfb6163170071139b3455e6dd4b86733f23"
+  },
+  {
+    "path": "deliverables/native/B_R_DUAL_PORT_PLATE.brep",
+    "bytes": 61896,
+    "sha256": "6df5862111655828ceb19fe4be4c8a3a4fe738dd67c80731cf867fbfa2989af4"
+  },
+  {
+    "path": "deliverables/native/B_R_HX_APERTURE.brep",
+    "bytes": 6498,
+    "sha256": "c12edab35710495e3e827a23bee1849e96c8df20a70c420299b42bd060548a90"
+  },
+  {
+    "path": "deliverables/native/B_R_HX_SEAL.brep",
+    "bytes": 6103,
+    "sha256": "84b8500d72090a199c3f658dd374b355296940a3a10d12c7c1ba3d84ba7fb97e"
+  },
+  {
+    "path": "deliverables/native/B_R_P_DAMPER.brep",
+    "bytes": 2742,
+    "sha256": "addc2892201610d94b17946df613cb1635debc7101f6812d48b57c85d3d9c0dc"
+  },
+  {
+    "path": "deliverables/native/B_R_P_DRIVE.brep",
+    "bytes": 2812,
+    "sha256": "193e2a08767a9564082229c13ac5aaaac10586a1cb9e428304abdd86fc8f3088"
+  },
+  {
+    "path": "deliverables/native/B_R_P_DUCT_Y_165.brep",
+    "bytes": 2769,
+    "sha256": "f064dbfc70fa1876c30a4bd7d2b6b5e303fc1347577f18c56ac3442cb4cfdd28"
+  },
+  {
+    "path": "deliverables/native/B_R_P_DUCT_Y_793.5.brep",
+    "bytes": 2785,
+    "sha256": "3831cd5eecd8e6ee1cfd8112f9cb25a80a5d1cefbeedc6bacf378a1af5bb9449"
+  },
+  {
+    "path": "deliverables/native/B_R_P_DUCT_Z_300.brep",
+    "bytes": 2821,
+    "sha256": "ef5851468f29f51c627ea7ba66ee6dacab08905ff57bb32a2811bca8cee1cb5f"
+  },
+  {
+    "path": "deliverables/native/B_R_P_DUCT_Z_643.5.brep",
+    "bytes": 2837,
+    "sha256": "71b1745fd3ea5dddc6a7cb1015d87a6c3272d9bf72046cf0dec0d7ab9604eee8"
+  },
+  {
+    "path": "deliverables/native/B_R_PLENUM_SIDE_20.brep",
+    "bytes": 2809,
+    "sha256": "10bf3f1852de2a5e1ba61764b524e46dce1e337359061e2abb8421b93abe70aa"
+  },
+  {
+    "path": "deliverables/native/B_R_PLENUM_SIDE_838.5.brep",
+    "bytes": 2851,
+    "sha256": "91689f2b5c84f0b3b40da2f1ea6cd13aba21ab9234d6e3cfc6755d0a6398a131"
+  },
+  {
+    "path": "deliverables/native/B_R_PLENUM_TOP.brep",
+    "bytes": 2887,
+    "sha256": "9b9a24513fd913d206757f016679e5431b56d42493774028801a55ff8991ff5e"
+  },
+  {
+    "path": "deliverables/native/B_R_R_DAMPER.brep",
+    "bytes": 2751,
+    "sha256": "d5a208dba948355284135dfe724e522bb3d4f3d3840be11b6286abd70f0d9ed1"
+  },
+  {
+    "path": "deliverables/native/B_R_R_DRIVE.brep",
+    "bytes": 2769,
+    "sha256": "5884d0fb8c2c68bc4846611aaf508db56b3d9db1f8d0d2e1b093aaa0e1e6532b"
+  },
+  {
+    "path": "deliverables/native/B_R_R_DUCT_Y_165.brep",
+    "bytes": 2778,
+    "sha256": "e43b19afd326bc2ac1d17b7702a1d0cdf3772ff9bdf148aa66df25245829f0ff"
+  },
+  {
+    "path": "deliverables/native/B_R_R_DUCT_Y_793.5.brep",
+    "bytes": 2794,
+    "sha256": "890970185c9f1bfc07a5100c5d384e1b2a36825611d94606005dd09c05057ada"
+  },
+  {
+    "path": "deliverables/native/B_R_R_DUCT_Z_1118.5.brep",
+    "bytes": 2863,
+    "sha256": "d5a304b7a7dcc14c68ff431140232e738bb83bbb8781e59f1573bd93f02112db"
+  },
+  {
+    "path": "deliverables/native/B_R_R_DUCT_Z_940.brep",
+    "bytes": 2821,
+    "sha256": "6de14ee816c9253c47c5583e25dd63c450d2780add5a7327ec569cdcfa7f07ba"
+  },
+  {
+    "path": "deliverables/native/B_REAR_SERVICE_SKIN.brep",
+    "bytes": 8434,
+    "sha256": "1740bed02f434b196c151de4b7eb047936e2d98367b5690decd8a9120a61f9cc"
+  },
+  {
+    "path": "deliverables/native/B_ROOF.brep",
+    "bytes": 2727,
+    "sha256": "b282f448a52057b53dea873638c4a6a29a32bafcdc7af2092637c34c872b510f"
+  },
+  {
+    "path": "deliverables/native/B_VL_A_ZR_RANGE.brep",
+    "bytes": 1192,
+    "sha256": "e4b3ebbf66cd167a5652767931d74fa3795cc014a30eb476e181847553907502"
+  },
+  {
+    "path": "deliverables/native/B_VL_AB_ZR_RANGE.brep",
+    "bytes": 1293,
+    "sha256": "f41074992cc675bd3cf99c5c2e3376ce0a6229282893f01db68e0cbcafd26a49"
+  },
+  {
+    "path": "deliverables/native/B_VL_ACTUATOR.brep",
+    "bytes": 3324,
+    "sha256": "8e737fe37dcb6f8f5826b987427925740edf1bf4dce948e07ab200ae26f32ba9"
+  },
+  {
+    "path": "deliverables/native/B_VL_ACTUATOR_WITHDRAWAL.brep",
+    "bytes": 3404,
+    "sha256": "35711cba9941c18388df23e6594341e265919989e1fef96285b71dc0e92939f0"
+  },
+  {
+    "path": "deliverables/native/B_VL_B_ZR_RANGE.brep",
+    "bytes": 1127,
+    "sha256": "3484a60ef502efa3bfa8774083c6842c9d8500d2a19c8a063336536bd805bd2b"
+  },
+  {
+    "path": "deliverables/native/B_VL_BODY.brep",
+    "bytes": 944915,
+    "sha256": "06509dfa89c81c3d6cf80b07cb0d51037bcb987f55d3f077b4acfe731cb8ee5e"
+  },
+  {
+    "path": "deliverables/native/B_VL_SOURCE_BRANCH_ZONE.brep",
+    "bytes": 2928,
+    "sha256": "53a8ca67fce1e88ef37f2a049a53e2ff3b75a92eec3c44ef44e386583fd6aea8"
+  },
+  {
+    "path": "deliverables/native/B_VU_A_ZR_RANGE.brep",
+    "bytes": 1200,
+    "sha256": "582f7781fb84b009d41d18ee6413015df9716f308fdae234c947f44b6879205d"
+  },
+  {
+    "path": "deliverables/native/B_VU_AB_ZR_RANGE.brep",
+    "bytes": 1302,
+    "sha256": "01e85f222d1b7544bd4affd3ec6d5fd2bc120e34a20db0e0ab359b714a78e03b"
+  },
+  {
+    "path": "deliverables/native/B_VU_ACTUATOR.brep",
+    "bytes": 3349,
+    "sha256": "599f43ac4c92bc068f8ea602b571c3b47630a3e60dcd4d8e8ccbb3012569749d"
+  },
+  {
+    "path": "deliverables/native/B_VU_ACTUATOR_WITHDRAWAL.brep",
+    "bytes": 3365,
+    "sha256": "45b3e198b793eebd1d4ec72601c4161c04003fc1e554cd4ffb48c570a61d1a0e"
+  },
+  {
+    "path": "deliverables/native/B_VU_B_ZR_RANGE.brep",
+    "bytes": 1135,
+    "sha256": "4a4b6de096677a232ed426848c72673af2de41ec51a8b64dbd2521c699d66acf"
+  },
+  {
+    "path": "deliverables/native/B_VU_BODY.brep",
+    "bytes": 944337,
+    "sha256": "25ab810b73118afbf4fe4085c300940d0bc6d6637f106e49e9ee24eb5fe63224"
+  },
+  {
+    "path": "deliverables/native/B_VU_SOURCE_BRANCH_ZONE.brep",
+    "bytes": 2954,
+    "sha256": "96bcbf291b149629a83773f4666063350274ee90e5ca0c3233b1d5008c2c3870"
+  },
+  {
+    "path": "deliverables/native/B_W1_REMOVABLE_90.brep",
+    "bytes": 5927,
+    "sha256": "37fbed33b2c4c6a6349a5476b7da57682e5b632218b49accdac5d344852a585c"
+  },
+  {
+    "path": "deliverables/native/B_W1_REMOVABLE_90_INS25.brep",
+    "bytes": 2895,
+    "sha256": "76e3f4c20e06c2cbd9131bb606a4c661050ebc6524a4cd9c9fe5e98352863cd7"
+  },
+  {
+    "path": "deliverables/native/B_W1_SIDE_DROP.brep",
+    "bytes": 9245,
+    "sha256": "c138d40b0d6a2daf54f94d7c72542d11951f6fe70fe1a3367428afe32676873e"
+  },
+  {
+    "path": "deliverables/native/B_W1_SIDE_DROP_INS25.brep",
+    "bytes": 4383,
+    "sha256": "12af34d62be4b14ed5be9c1bef253552df5d335cc6c2c97b176d1c8a88b191f9"
+  },
+  {
+    "path": "deliverables/native/B_W2_REMOVABLE_90.brep",
+    "bytes": 5866,
+    "sha256": "1832efcd156d3cd62a5862b1bab4d9e1d5570c3aca3f85296b2a9c81659d0418"
+  },
+  {
+    "path": "deliverables/native/B_W2_REMOVABLE_90_INS25.brep",
+    "bytes": 2874,
+    "sha256": "004f993e4f4dfd339a8af4f1897b3a2093c6e3938a71c3ec5a661a72e55b8533"
+  },
+  {
+    "path": "deliverables/native/B_W2_SIDE_DROP.brep",
+    "bytes": 9328,
+    "sha256": "0ba27432561c54ab09f2bd89840e479a419c18673c081347cf150ed7c39e41e7"
+  },
+  {
+    "path": "deliverables/native/B_W2_SIDE_DROP_INS25.brep",
+    "bytes": 4443,
+    "sha256": "797e9ae80ed04c35d33284eb69fd273005ae59d10e75b291e4b380627a8d29f1"
+  },
+  {
+    "path": "deliverables/native/B_WATER_GLAND_PANEL.brep",
+    "bytes": 4606,
+    "sha256": "def5f7c253d7fdd8fa852c47baaccbe0b561ebfbe00e3bcba2acaa7337b5b326"
+  },
+  {
+    "path": "deliverables/native/BASE_X_-850.brep",
+    "bytes": 5595,
+    "sha256": "2abf83d9711c7c70132c275172be5370c8b39fcc1cb64ac5a6f4a8e68c8f13ab"
+  },
+  {
+    "path": "deliverables/native/BASE_X_800.brep",
+    "bytes": 5545,
+    "sha256": "20d24b1c85863028fe818bdbf9e4f6641bda5efc665fa3c48341c95de836da36"
+  },
+  {
+    "path": "deliverables/native/BASE_Y_-50.brep",
+    "bytes": 5546,
+    "sha256": "9c583f8b89333674a87378433ef8f19ee381b8122a7833da391e8ed788301083"
+  },
+  {
+    "path": "deliverables/native/BASE_Y_1260.brep",
+    "bytes": 5623,
+    "sha256": "8296f42ef146abd85f6edb1ae2e3bac148a72bb9e7f4cd41042897078902f460"
+  },
+  {
+    "path": "deliverables/native/CR_COMMON_HEADER.brep",
+    "bytes": 1213,
+    "sha256": "6238a5d41f68843f101cd4c022a7c4280d7777fb1ba368326689c6b7447c03ca"
+  },
+  {
+    "path": "deliverables/native/CR_HEADER_INS25.brep",
+    "bytes": 1213,
+    "sha256": "599d55d6279ac1163500c9107a58f5d291166152dd76d0f7f0faab69801db178"
+  },
+  {
+    "path": "deliverables/native/CS_COMMON_HEADER.brep",
+    "bytes": 1206,
+    "sha256": "8a9500bfe6fb2b8e7abba415976cd3b2fa7d8ffe4f2fe69c8aaee99ffb874d63"
+  },
+  {
+    "path": "deliverables/native/CS_HEADER_INS25.brep",
+    "bytes": 1206,
+    "sha256": "a57206181083f2ec7b257d0d9657d0b456bcf3a954de400f4a06d73912847893"
+  },
+  {
+    "path": "deliverables/native/FOOT_-50_-850.brep",
+    "bytes": 2659,
+    "sha256": "0ca49558dc016756b1013d79b21d9e27b7fa1120734a623ea24cbcedd17a61f6"
+  },
+  {
+    "path": "deliverables/native/FOOT_-50_800.brep",
+    "bytes": 2633,
+    "sha256": "c3cfb9d82ba1005998130a83fc28a44c760345dca147cce5dd5802083d26042f"
+  },
+  {
+    "path": "deliverables/native/FOOT_1260_-850.brep",
+    "bytes": 2703,
+    "sha256": "4e3c3ecd8bc4af6e2caf6bb07f7103338d29bdcfab0feb7472a21c65d7ed6911"
+  },
+  {
+    "path": "deliverables/native/FOOT_1260_800.brep",
+    "bytes": 2677,
+    "sha256": "0d3d72d4ffdd106093871968643618726175d544adcd96f3aae2554c40a67080"
+  },
+  {
+    "path": "deliverables/native/FRONT_CENTRE_SPINE.brep",
+    "bytes": 5531,
+    "sha256": "0cd6680399cd680ce74fca25d6c435e7dc25d6e8b3e48b8c165ce50e62e43875"
+  },
+  {
+    "path": "deliverables/native/FRONT_EDGE_-20.brep",
+    "bytes": 2710,
+    "sha256": "8c172157788834532feb5ef1e073c9d8328f6f674e25218a032583302ad7485a"
+  },
+  {
+    "path": "deliverables/native/FRONT_EDGE_-850.brep",
+    "bytes": 2745,
+    "sha256": "0c636924a0f11a641a158888d57d16c9b5e1ad98e5ed60c98339f1c7b0ff5c9e"
+  },
+  {
+    "path": "deliverables/native/FRONT_EDGE_810.brep",
+    "bytes": 2719,
+    "sha256": "073b443ad979db7d59e51c40d8ce659f904d0db43d4dbfbc9159e978f30a5f18"
+  },
+  {
+    "path": "deliverables/native/HR_COMMON_HEADER.brep",
+    "bytes": 1206,
+    "sha256": "2c54c38de5b10af801fa3c89c22304864bea66dcc773ca6dab4ed6282b90d0e7"
+  },
+  {
+    "path": "deliverables/native/HR_HEADER_INS25.brep",
+    "bytes": 1206,
+    "sha256": "a81c7d41185ba802223204e24e61268f1cfe333cc1c82627a554ae087bc7e60a"
+  },
+  {
+    "path": "deliverables/native/HS_COMMON_HEADER.brep",
+    "bytes": 1213,
+    "sha256": "540777fc08e3993e3df9c8c8750ecf1b2ff402000c7dc9b2d0020ede6bc1e693"
+  },
+  {
+    "path": "deliverables/native/HS_HEADER_INS25.brep",
+    "bytes": 1213,
+    "sha256": "d91a38dd7a8f3ff98e19e843d91e090b0d4d518165b177760d09a9d7e50bc449"
+  },
+  {
+    "path": "deliverables/native/LEG_-50_-850.brep",
+    "bytes": 5468,
+    "sha256": "fac2acb24c67bfb7cfd5f33615ff9e396661c244f6a7aa57e51a1979794f85a2"
+  },
+  {
+    "path": "deliverables/native/LEG_-50_800.brep",
+    "bytes": 5418,
+    "sha256": "e5961fcf45dad26b9bf6d0959c654f38d02e870768244d3f9c0e00ff40c37657"
+  },
+  {
+    "path": "deliverables/native/LEG_1260_-850.brep",
+    "bytes": 5545,
+    "sha256": "855820dcb21a866089d6f9d6b6c7c8420588314391d013c67fe6c0ef2a7be6ba"
+  },
+  {
+    "path": "deliverables/native/LEG_1260_800.brep",
+    "bytes": 5495,
+    "sha256": "e478ad35c793cf314033ea72946c1907b5957faae92dc9b7b5fd51d6b64d8197"
+  },
+  {
+    "path": "deliverables/native/POST_-50_-850.brep",
+    "bytes": 5626,
+    "sha256": "7cdca94db44fb71097301e1f8a2da9055df9d43bcac36aed2e880d34047e8a4c"
+  },
+  {
+    "path": "deliverables/native/POST_-50_800.brep",
+    "bytes": 5576,
+    "sha256": "9af6d0769c48a7d0c59404c169ddaf2dfeaa3519e7e11ab5047630e8f11ab718"
+  },
+  {
+    "path": "deliverables/native/POST_1260_-850.brep",
+    "bytes": 5676,
+    "sha256": "94faa2cfd675716a5552fcaa23a75e69b9666da9f7255f94520ae87ca987ebdd"
+  },
+  {
+    "path": "deliverables/native/POST_1260_800.brep",
+    "bytes": 5626,
+    "sha256": "1a6cbc6dd1e62e09683d03f7e91232e4c8a7bb7a0737e3e922b910805ca33cdd"
+  },
+  {
+    "path": "deliverables/native/SIDE_-1.brep",
+    "bytes": 8806,
+    "sha256": "6e216a79b68aeb08aef1750bf21b23dc4a49043b68e1c4b1826e8de447cd60e3"
+  },
+  {
+    "path": "deliverables/native/SIDE_1.brep",
+    "bytes": 8732,
+    "sha256": "b2875c43de631c5f5ed5275d1ac66aa3758a2dae769990d9d54a5f1f6fc11883"
+  },
+  {
+    "path": "deliverables/native/TOP_X_-850.brep",
+    "bytes": 5686,
+    "sha256": "f7d5a52c6fa32d12fbfe44d2482bf88097f35909b3a0d0bb9f1a2cd7eca22e5c"
+  },
+  {
+    "path": "deliverables/native/TOP_X_800.brep",
+    "bytes": 5636,
+    "sha256": "d5d27848ae880a553b4b47855f8125e4bc4d102a696487ca4c4ebcbb9b5cf6aa"
+  },
+  {
+    "path": "deliverables/native/TOP_Y_-50.brep",
+    "bytes": 5637,
+    "sha256": "3ea0f1204d9977bbc2dfad5bbc1d27d644e6f016c65dfaca29ec34cbfc4be887"
+  },
+  {
+    "path": "deliverables/native/TOP_Y_1260.brep",
+    "bytes": 5714,
+    "sha256": "9f5fe1abb5ccfdc31f4ac7dd83894d20069e5d4095ecb01be6a41839e34e71b8"
+  },
+  {
+    "path": "deliverables/README_CN.md",
+    "bytes": 3247,
+    "sha256": "38ac23380e82cf928b428cc238f4cb2926dd7894600185e430135728895f1669"
+  },
+  {
+    "path": "deliverables/tables/BOM.csv",
+    "bytes": 15939,
+    "sha256": "9bb612baef381a3e3b1d83c2e7b5876d4c98d67b6bbe3cda31f24687d7385f29"
+  },
+  {
+    "path": "deliverables/tables/HX_PLACEMENTS.csv",
+    "bytes": 218,
+    "sha256": "41c47ff8a4c94a7b5a60288b0eb1d4336c8279c5ca02cff02d31a70ab3389a09"
+  },
+  {
+    "path": "deliverables/tables/HX_PLACEMENTS.json",
+    "bytes": 499,
+    "sha256": "b80f44ded50fcfa324d58aa8405855c39cd52e495336ec1e80482d17311ca92e"
+  },
+  {
+    "path": "deliverables/tables/PIPE_ROUTES.csv",
+    "bytes": 1146,
+    "sha256": "5f4ec473002bf27d47fb2838629b5ba796ac2f0c11866e5a9b7b6958290adfdf"
+  },
+  {
+    "path": "deliverables/tables/PIPE_ROUTES.json",
+    "bytes": 3480,
+    "sha256": "d15963cec4a8ee3904571d5ba2140e0adf8349cbe5198399aa1fbc478df54708"
+  },
+  {
+    "path": "deliverables/tables/PORTS.csv",
+    "bytes": 563,
+    "sha256": "deea15af3415ee506f06e6638cae6053699e3ba8d6a71676699d58ef63f8c2bf"
+  },
+  {
+    "path": "deliverables/tables/PORTS.json",
+    "bytes": 2637,
+    "sha256": "7486ddea7f85819dea6df5254dd711530af993038860b8b5876cadbb6d8f7ef6"
+  },
+  {
+    "path": "deliverables/tables/WATER_INTERFACES.csv",
+    "bytes": 2061,
+    "sha256": "fc012210a7c81ca0149488c0c416938d0ef64f9bfa93cd28c331c3c9b76673fa"
+  },
+  {
+    "path": "deliverables/tables/WATER_INTERFACES.json",
+    "bytes": 6247,
+    "sha256": "f69ed0c3dee149e8a08be47742147b1462034e7e0cd5e0917d9c105b1ece64e1"
+  },
+  {
+    "path": "deliverables/views/01_cutaway.png",
+    "bytes": 289424,
+    "sha256": "9cb7620828cb3e9a706f6d7fb39513761dd07d687a9723233cc28866f2c0607b"
+  },
+  {
+    "path": "deliverables/views/02_overall.png",
+    "bytes": 146918,
+    "sha256": "e040debbc7a6a7cda6c68e7a94a5ed46ca435f3b801df847852511fb8e4c6106"
+  },
+  {
+    "path": "deliverables/views/03_service.png",
+    "bytes": 275843,
+    "sha256": "743254c8a16db457fa5758e56fae26f42c6211ac5c4e55c68c73d45e9b40b60c"
+  },
+  {
+    "path": "deliverables/views/04_geometry.png",
+    "bytes": 44825,
+    "sha256": "aea60789ae4d20bc3018ce9d477556c0b6abf8711679d71eeaa838da05cd649d"
+  },
+  {
+    "path": "deliverables/views/05_water_detail.png",
+    "bytes": 248335,
+    "sha256": "8daae363f2d2e3eae9f7f8902485cf31eaa318a3862754336a868ad538ab28d2"
+  },
+  {
+    "path": "inputs/3D-CAD-step-R3025-BL2.stp",
+    "bytes": 2488662,
+    "sha256": "d61a8776d998345e51194ed93e837cddaaf5149c9fb5e10f4b8aaf52a6ba041c"
+  },
+  {
+    "path": "inputs/C01_PORTS.json",
+    "bytes": 3431,
+    "sha256": "e08374a2a06ebec98a2eca9b0072479c7437d9263244d0c76dd95fe0972074e1"
+  },
+  {
+    "path": "inputs/COR01_VALVE_DATUM_CN.md",
+    "bytes": 6919,
+    "sha256": "1fdfc3a7e7e124fb32386361585baffcea697941f889f0e80f758007f5549015"
+  },
+  {
+    "path": "SHELL2_STATE.json",
+    "bytes": 915,
+    "sha256": "141696e40bb278c443524dedcc1b9fbe4974bc9cac0d1a41f9f88bb28f81a80f"
+  },
+  {
+    "path": "source/audit_c02.py",
+    "bytes": 1911,
+    "sha256": "59ffca8e4c88eda55fe529c13f9886ba24f31e8f37fca91ad92ecff5c295ef74"
+  },
+  {
+    "path": "source/bootstrap.py",
+    "bytes": 251,
+    "sha256": "50fa8b17e8bb48c732eef2c3c06e3163184860914896acf927b48adcc38043c8"
+  },
+  {
+    "path": "source/build_c02.py",
+    "bytes": 13602,
+    "sha256": "d4ecc7de3f7f5e73dec3fd2596e631e7237c4ecb4a8be1ef954c0fb2a66d3872"
+  },
+  {
+    "path": "source/document_c02.py",
+    "bytes": 7203,
+    "sha256": "774ebae029b41d951743ec7b18bd3862e5999e6d45971c90bea9a11bc953980d"
+  },
+  {
+    "path": "source/finish_checks.py",
+    "bytes": 3292,
+    "sha256": "b352bcac50d2e25e2086e0a2bb2e272234958b63ae2ecb1c66a1f92dadc088e0"
+  },
+  {
+    "path": "source/geometry.py",
+    "bytes": 5815,
+    "sha256": "00dfc3d8f4b7f56ec280ba86bf693c7cd2e6c09636fe23e267ff9c078734ae07"
+  },
+  {
+    "path": "source/package_c02.py",
+    "bytes": 2451,
+    "sha256": "b3997ea267f3ff6c4284cb2fe0578b4a979d07ac602dcc719b82fec1aa13810a"
+  },
+  {
+    "path": "source/render_c02.py",
+    "bytes": 5025,
+    "sha256": "5ba71d59c3ba5491106034171cda7ef63546d721250f3d3a5fc10135d03f6275"
+  },
+  {
+    "path": "source/render_water_detail.py",
+    "bytes": 1869,
+    "sha256": "64d9c8c3fb9a4f08d94270e77f0c7ddd539182076d758d0628fc66a934ac3db5"
+  },
+  {
+    "path": "source/write_tables_and_readme.py",
+    "bytes": 4663,
+    "sha256": "4878c2dbe207b985738b6f8437030dd9c585e2db602c78347a1235b6b5bceca1"
+  },
+  {
+    "path": "START_HERE.txt",
+    "bytes": 278,
+    "sha256": "2dfec06103ce3dafd8d22a2ccafbc9c99b01caa76821edb29978f1c0d27a748f"
+  }
+]

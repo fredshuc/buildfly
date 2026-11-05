@@ -1,0 +1,41 @@
+{
+  "role": "L2-MI shell2",
+  "task": "AT-SHELL2-2V-C02",
+  "status": "GEOMETRY_CANDIDATE_NOT_FOR_MANUFACTURE",
+  "metal_optimization": "PAUSED_BY_OWNER",
+  "shell_bbox_mm": [
+    -52,
+    -852,
+    0,
+    1312,
+    852,
+    1752
+  ],
+  "old_main_skin_bbox_mm": [
+    -650.8,
+    -850,
+    40.5,
+    1200,
+    850,
+    1527
+  ],
+  "core_count": 2,
+  "water_3way_count": 4,
+  "damper_port_count": 8,
+  "hx_internal_step_imported": false,
+  "valve_supplier_body_imported": true,
+  "source_manifold_connected": false,
+  "flow_mapping": {
+    "A.W1": "CS/HR",
+    "A.W2": "CR/HS",
+    "B.W2": "CS/HR",
+    "B.W1": "CR/HS"
+  },
+  "note": "B core 180Z changes W1/W2 functional association; verify direction with HX owner before process freeze. All four ports leave towards +X.",
+  "main_outline_DWH_mm": [
+    1364,
+    1704,
+    1752
+  ],
+  "source_supplier_solids_per_valve": 4
+}

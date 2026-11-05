@@ -1,0 +1,200 @@
+{
+  "repository": "fredshuc/buildfly",
+  "path": "AirTransformerShell",
+  "date": "2026-11-05",
+  "source_package_sha256": "5a99d07575436b53c0449c842159743628d24dcc5e3d06938deba016f2333044",
+  "files": [
+    {
+      "path": "AirTransformerShell/.gitignore",
+      "bytes": 38,
+      "sha256": "b015e40afa3143d7563dca63736692c2765153a46f33aa512c4ebe3b6b2d3b3c",
+      "git_blob_sha": "99fe3595dfe1f0a34b77824e73f8e725f3644883"
+    },
+    {
+      "path": "AirTransformerShell/AGENTS.md",
+      "bytes": 1141,
+      "sha256": "e5a2554c27fc51add0d186bd63a4c460c45d1d9b01a515226c5e9439ec5a12b6",
+      "git_blob_sha": "5c89f9c6af5baadfbd8e8067bd17eb86b7e5fd54"
+    },
+    {
+      "path": "AirTransformerShell/NEXT_HX_INTERFACE_CN.md",
+      "bytes": 1079,
+      "sha256": "2663b993ca9f2fbed89ed0352041298bbdf66d35fbf83f8a80d816740911398b",
+      "git_blob_sha": "8439cf1a4847ed1d5968f0f1f44d91d3c81cdb3f"
+    },
+    {
+      "path": "AirTransformerShell/README.md",
+      "bytes": 1731,
+      "sha256": "0f4dfc38216d209fd8392f4d83e94268f52ec6b3d43f6efd6cf3182958966bca",
+      "git_blob_sha": "3b16c331ac256fc17317b9c7873a0470c2d0f583"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C02/deliverables/drawings/AT_SHELL2_2V_C02_Geometry_Review_CN.pdf",
+      "bytes": 1105173,
+      "sha256": "37e9083bd7c07c7ef7cfa001d6a74dfc6d0d385b8fc7972277916fa89d23125f",
+      "git_blob_sha": "d2dc3164dc9dfe759f818dba8f02b349b7d94a5a"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C02/deliverables/evidence/EXTENDED_VALIDATION.json",
+      "bytes": 1032,
+      "sha256": "57a7d75c4c5a9386008e0b079c7612c51e0b7692312b5461b7f52a05e2db7dec",
+      "git_blob_sha": "0b21fa37646e7646d4beb76daf4f45b538262fea"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C02/deliverables/evidence/REUSED_FLANGE_CHECK.json",
+      "bytes": 165,
+      "sha256": "5bdb95e120bf5446930a04a3e357990ebb031f125fa9947af9ff6c2d50a78ac9",
+      "git_blob_sha": "da101b13652523cbf02e665f39de1bba06e0f212"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C02/deliverables/evidence/SOURCE_IDENTITY.json",
+      "bytes": 404,
+      "sha256": "2da33ebbbfaafe7228d1daf4344365b1b6baaec84880163864c5dfb4741e912d",
+      "git_blob_sha": "e496a006602d7fc7cf3302a7c951a226fa378911"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C02/deliverables/evidence/VALIDATION.json",
+      "bytes": 270,
+      "sha256": "58221a98b978fd094c63167e8c4b1aaa2e8af8dc59a2f88273d1d8e7845b35db",
+      "git_blob_sha": "3b4accb5889b4669106d4dbae064ec3b70bcdf59"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C02/deliverables/README_CN.md",
+      "bytes": 3247,
+      "sha256": "38ac23380e82cf928b428cc238f4cb2926dd7894600185e430135728895f1669",
+      "git_blob_sha": "659656cb6728fd9d2fd33515e50e1f00ce098406"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C02/deliverables/tables/BOM.csv",
+      "bytes": 15939,
+      "sha256": "9bb612baef381a3e3b1d83c2e7b5876d4c98d67b6bbe3cda31f24687d7385f29",
+      "git_blob_sha": "23ed8343cce80d0b62b6c4b6af45a020af4fe4c2"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C02/deliverables/tables/HX_PLACEMENTS.csv",
+      "bytes": 218,
+      "sha256": "41c47ff8a4c94a7b5a60288b0eb1d4336c8279c5ca02cff02d31a70ab3389a09",
+      "git_blob_sha": "b7bb34e27c6425a6e35b3d2a89a300cfa543224e"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C02/deliverables/tables/HX_PLACEMENTS.json",
+      "bytes": 499,
+      "sha256": "b80f44ded50fcfa324d58aa8405855c39cd52e495336ec1e80482d17311ca92e",
+      "git_blob_sha": "076f21edfa6c0f128f227dc52dd97b94c060fb52"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C02/deliverables/tables/PIPE_ROUTES.csv",
+      "bytes": 1146,
+      "sha256": "5f4ec473002bf27d47fb2838629b5ba796ac2f0c11866e5a9b7b6958290adfdf",
+      "git_blob_sha": "ee0f3b6777cbe7632d8d41964cb74759a303f78d"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C02/deliverables/tables/PIPE_ROUTES.json",
+      "bytes": 3480,
+      "sha256": "d15963cec4a8ee3904571d5ba2140e0adf8349cbe5198399aa1fbc478df54708",
+      "git_blob_sha": "0e4d1adbaf921061214622f5e68fdd8f3c00a282"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C02/deliverables/tables/PORTS.csv",
+      "bytes": 563,
+      "sha256": "deea15af3415ee506f06e6638cae6053699e3ba8d6a71676699d58ef63f8c2bf",
+      "git_blob_sha": "3d5a0ee7ce36128dcc5800c1f7b172fbeab4e493"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C02/deliverables/tables/PORTS.json",
+      "bytes": 2637,
+      "sha256": "7486ddea7f85819dea6df5254dd711530af993038860b8b5876cadbb6d8f7ef6",
+      "git_blob_sha": "8d4ca72ab73b737222d7a754ccf60cfccc62298c"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C02/deliverables/tables/WATER_INTERFACES.csv",
+      "bytes": 2061,
+      "sha256": "fc012210a7c81ca0149488c0c416938d0ef64f9bfa93cd28c331c3c9b76673fa",
+      "git_blob_sha": "da6bfb5943822a7642d904f4cabbcd2d6222435c"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C02/deliverables/tables/WATER_INTERFACES.json",
+      "bytes": 6247,
+      "sha256": "f69ed0c3dee149e8a08be47742147b1462034e7e0cd5e0917d9c105b1ece64e1",
+      "git_blob_sha": "bd078f3eee065d823b23c77191a8c409a3673e94"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C02/MANIFEST.json",
+      "bytes": 35659,
+      "sha256": "b75aee36385eda895d6b79fd46781330a2acce8c3730c4c695404e5290c53923",
+      "git_blob_sha": "5328df80adb1a98e0c3feac5407124f0507f058a"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C02/packages/AT_SHELL2_2V_C02_CAD_20261104.zip",
+      "bytes": 9932990,
+      "sha256": "5a99d07575436b53c0449c842159743628d24dcc5e3d06938deba016f2333044",
+      "git_blob_sha": "0f865864f5b083685810c16a05ae0fd0e8475ffb"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C02/SHELL2_STATE.json",
+      "bytes": 915,
+      "sha256": "141696e40bb278c443524dedcc1b9fbe4974bc9cac0d1a41f9f88bb28f81a80f",
+      "git_blob_sha": "acbf7cd4d153c15d52ed3f64d71d684d705c810f"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C02/source/audit_c02.py",
+      "bytes": 1911,
+      "sha256": "59ffca8e4c88eda55fe529c13f9886ba24f31e8f37fca91ad92ecff5c295ef74",
+      "git_blob_sha": "d375b705090504378e012f404e030e74d58be584"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C02/source/bootstrap.py",
+      "bytes": 251,
+      "sha256": "50fa8b17e8bb48c732eef2c3c06e3163184860914896acf927b48adcc38043c8",
+      "git_blob_sha": "3fee31fdb9f308201eaad136530e10f47ccc7b6f"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C02/source/build_c02.py",
+      "bytes": 13602,
+      "sha256": "d4ecc7de3f7f5e73dec3fd2596e631e7237c4ecb4a8be1ef954c0fb2a66d3872",
+      "git_blob_sha": "d9bf300140411b6eea7a4b3434132f699e60597f"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C02/source/document_c02.py",
+      "bytes": 7203,
+      "sha256": "774ebae029b41d951743ec7b18bd3862e5999e6d45971c90bea9a11bc953980d",
+      "git_blob_sha": "685aa3f21df8da4e2cc739ee7062b19f371ca558"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C02/source/finish_checks.py",
+      "bytes": 3292,
+      "sha256": "b352bcac50d2e25e2086e0a2bb2e272234958b63ae2ecb1c66a1f92dadc088e0",
+      "git_blob_sha": "e8d40707e6330bddc6879e3be99b172abc63219f"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C02/source/geometry.py",
+      "bytes": 5815,
+      "sha256": "00dfc3d8f4b7f56ec280ba86bf693c7cd2e6c09636fe23e267ff9c078734ae07",
+      "git_blob_sha": "3f43e7ba33e72957b34c27d06df031988016ec4e"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C02/source/package_c02.py",
+      "bytes": 2451,
+      "sha256": "b3997ea267f3ff6c4284cb2fe0578b4a979d07ac602dcc719b82fec1aa13810a",
+      "git_blob_sha": "f325d4c5a83616a74f026fd5462e95c437757f97"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C02/source/render_c02.py",
+      "bytes": 5025,
+      "sha256": "5ba71d59c3ba5491106034171cda7ef63546d721250f3d3a5fc10135d03f6275",
+      "git_blob_sha": "42967c645f4272e99d528aee550c6e9504dcd0ac"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C02/source/render_water_detail.py",
+      "bytes": 1869,
+      "sha256": "64d9c8c3fb9a4f08d94270e77f0c7ddd539182076d758d0628fc66a934ac3db5",
+      "git_blob_sha": "82e6623463d07fc27628cd7dbc2eff0bb2248ab6"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C02/source/write_tables_and_readme.py",
+      "bytes": 4663,
+      "sha256": "4878c2dbe207b985738b6f8437030dd9c585e2db602c78347a1235b6b5bceca1",
+      "git_blob_sha": "4d9c1b33c0bf95c70618f27556eb7ba6339af246"
+    }
+  ]
+}
