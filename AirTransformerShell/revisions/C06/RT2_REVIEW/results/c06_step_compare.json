@@ -1,0 +1,9 @@
+{
+ "C06_SHEET_METAL.step": {
+  "solids": [
+   327,
+   327
+  ],
+  "max_abs_diff_volume_or_bbox": 0.0
+ }
+}

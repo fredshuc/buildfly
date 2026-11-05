@@ -1,0 +1,24 @@
+{
+ "ARP": {
+  "cutout_XZ": [
+   912.65,
+   186.55,
+   1099.55,
+   538.45
+  ],
+  "parts_outboard": 28,
+  "beyond_cutout": [],
+  "n_beyond": 0
+ },
+ "ARR": {
+  "cutout_XZ": [
+   912.65,
+   661.55,
+   1099.55,
+   848.45
+  ],
+  "parts_outboard": 22,
+  "beyond_cutout": [],
+  "n_beyond": 0
+ }
+}

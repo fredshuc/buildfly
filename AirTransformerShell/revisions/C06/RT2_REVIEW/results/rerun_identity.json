@@ -1,0 +1,6 @@
+{
+ "integration_checks.json": true,
+ "motion_shell.json": true,
+ "shell_checks.json": true,
+ "interfaces.csv_byte_identical": true
+}

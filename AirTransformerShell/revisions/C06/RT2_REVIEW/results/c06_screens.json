@@ -1,0 +1,136 @@
+{
+ "gasket_clamp": [
+  {
+   "CLD_kPa": 15.0,
+   "force_kN_per_face": 0.79,
+   "overturning_kNm": 1.24,
+   "bearer_couple_kN": 5.9,
+   "per_lead_screw_N": 99
+  },
+  {
+   "CLD_kPa": 35.0,
+   "force_kN_per_face": 1.85,
+   "overturning_kNm": 2.89,
+   "bearer_couple_kN": 13.7,
+   "per_lead_screw_N": 232
+  },
+  {
+   "CLD_kPa": 60.0,
+   "force_kN_per_face": 3.18,
+   "overturning_kNm": 4.96,
+   "bearer_couple_kN": 23.5,
+   "per_lead_screw_N": 397
+  }
+ ],
+ "gasket_clamp_basis": {
+  "gasket_area_m2": 0.052928,
+  "lever_m": 1.562,
+  "bearer_spacing_m": 0.211,
+  "compression_stroke_mm": 1.7999999999999998,
+  "note": "Only bearer contacts at Z104 found between cassette and structure (c06_checks.json); clamp reacts through cheek lugs into the cassette."
+ },
+ "carrier_series_leak": {
+  "perimeter_m": 3.233,
+  "cases": [
+   {
+    "tip_gap_mm": 0.3,
+    "carrier_gap_mm": 0.3,
+    "effective_gap_mm": 0.212,
+    "leak_m3h_per_face": 23.6,
+    "pct_of_P": 0.49
+   },
+   {
+    "tip_gap_mm": 0.5,
+    "carrier_gap_mm": 0.5,
+    "effective_gap_mm": 0.354,
+    "leak_m3h_per_face": 39.4,
+    "pct_of_P": 0.81
+   },
+   {
+    "tip_gap_mm": 1,
+    "carrier_gap_mm": 0.5,
+    "effective_gap_mm": 0.447,
+    "leak_m3h_per_face": 49.8,
+    "pct_of_P": 1.02
+   }
+  ]
+ },
+ "untrapped_drain": {
+  "bore_mm": 20,
+  "box_drains": 4,
+  "tray_nozzles": 2,
+  "cases": [
+   {
+    "dp_Pa": 150,
+    "m3h_each": 10.8,
+    "pct_of_P_each": 0.22
+   },
+   {
+    "dp_Pa": 300,
+    "m3h_each": 15.3,
+    "pct_of_P_each": 0.31
+   }
+  ],
+  "trap_seal_needed_mm": 62.0,
+  "stub_outlet_above_ground_mm": 74.0,
+  "tray_nozzle_outlet_z": 1135.0
+ },
+ "hx_x_sway_m80": {
+  "f_pinned_Hz": 8.9,
+  "f_fixed_Hz": 17.7
+ },
+ "hx_x_sway_m110": {
+  "f_pinned_Hz": 7.6,
+  "f_fixed_Hz": 15.1
+ },
+ "restraint_planes": {
+  "riser_brace": [
+   280.0,
+   -767.2,
+   150.0,
+   310.0,
+   -167.2,
+   1086.0
+  ],
+  "fork": [
+   365.0,
+   -783.8,
+   2254.0,
+   385.0,
+   -779.8,
+   2470.0
+  ],
+  "note": "Brace is a 30 mm (X) bar spanning Y-Z; forks are 4 mm (Y) plates: both restrain Y only."
+ },
+ "carrier_ring_bending": {
+  "I_mm4": 192.7,
+  "compression_stroke_mm": 1.8,
+  "cases": [
+   {
+    "CLD_kPa": 15.0,
+    "line_load_N_per_mm": 0.235,
+    "deflection_top_bottom_between_side_screws_mm": 16.41,
+    "deflection_side_between_screws_mm": 0.75
+   },
+   {
+    "CLD_kPa": 35.0,
+    "line_load_N_per_mm": 0.549,
+    "deflection_top_bottom_between_side_screws_mm": 38.3,
+    "deflection_side_between_screws_mm": 1.76
+   },
+   {
+    "CLD_kPa": 60.0,
+    "line_load_N_per_mm": 0.942,
+    "deflection_top_bottom_between_side_screws_mm": 65.66,
+    "deflection_side_between_screws_mm": 3.01
+   }
+  ],
+  "note": "Simply supported between screw points; linear estimate. Deflection above ~1.8 mm means the gasket is not compressed there."
+ },
+ "cheek_slot_ligament": {
+  "material_left_in_slot_band_mm3": 42.53,
+  "equivalent_total_ligament_height_mm": 6.3,
+  "forward_strip_mm3": 15773.62,
+  "uncut_inboard_cheek_band_mm3": 6760.12
+ }
+}

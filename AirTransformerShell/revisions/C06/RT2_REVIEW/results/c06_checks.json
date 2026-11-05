@@ -1,0 +1,375 @@
+{
+ "shell_solids": 327,
+ "hx_translation": {
+  "A": [
+   265,
+   -802.175,
+   1150
+  ],
+  "B": [
+   265,
+   477.82500000000005,
+   1150
+  ]
+ },
+ "static_hx_clashes": {
+  "A": {},
+  "B": {}
+ },
+ "withdrawal_sweeps_first_contact": {
+  "A_side_panel_and_brace_removed": {
+   "A_HX_TRAY": [
+    25,
+    5598.24
+   ],
+   "A_HX_TRAY_NOZZLE": [
+    25,
+    115.41
+   ],
+   "A_PAN_PAD_(0, 1)": [
+    75,
+    1728.0
+   ],
+   "A_PAN_PAD_(1, 1)": [
+    75,
+    1728.0
+   ],
+   "A_TOP_FORK_(0, 1)": [
+    525,
+    437.74
+   ],
+   "A_TOP_FORK_(0, 0)": [
+    550,
+    619.24
+   ],
+   "A_PAN_PAD_(0, 0)": [
+    550,
+    975.6
+   ],
+   "A_PAN_PAD_(1, 0)": [
+    550,
+    975.6
+   ]
+  },
+  "A_plus_forks_removed": {
+   "A_HX_TRAY": [
+    25,
+    5598.24
+   ],
+   "A_HX_TRAY_NOZZLE": [
+    25,
+    115.41
+   ],
+   "A_PAN_PAD_(0, 1)": [
+    75,
+    1728.0
+   ],
+   "A_PAN_PAD_(1, 1)": [
+    75,
+    1728.0
+   ],
+   "A_PAN_PAD_(0, 0)": [
+    550,
+    975.6
+   ],
+   "A_PAN_PAD_(1, 0)": [
+    550,
+    975.6
+   ]
+  },
+  "A_plus_forks_and_tray_removed": {},
+  "A_+Z_roof_topcross_forks_removed": {},
+  "B_side_panel_and_brace_removed": {
+   "B_PAN_PAD_(0, 0)": [
+    25,
+    1728.0
+   ],
+   "B_PAN_PAD_(1, 0)": [
+    25,
+    1728.0
+   ],
+   "B_HX_TRAY": [
+    25,
+    5141.76
+   ],
+   "B_TOP_FORK_(1, 0)": [
+    125,
+    564.2
+   ],
+   "B_TOP_FORK_(1, 1)": [
+    125,
+    1051.99
+   ],
+   "B_PAN_PAD_(0, 1)": [
+    500,
+    464.4
+   ],
+   "B_PAN_PAD_(1, 1)": [
+    500,
+    464.4
+   ],
+   "B_HX_TRAY_NOZZLE": [
+    525,
+    477.83
+   ]
+  },
+  "B_plus_forks_removed": {
+   "B_PAN_PAD_(0, 0)": [
+    25,
+    1728.0
+   ],
+   "B_PAN_PAD_(1, 0)": [
+    25,
+    1728.0
+   ],
+   "B_HX_TRAY": [
+    25,
+    5141.76
+   ],
+   "B_PAN_PAD_(0, 1)": [
+    500,
+    464.4
+   ],
+   "B_PAN_PAD_(1, 1)": [
+    500,
+    464.4
+   ],
+   "B_HX_TRAY_NOZZLE": [
+    525,
+    477.83
+   ]
+  },
+  "B_plus_forks_and_tray_removed": {},
+  "B_+Z_roof_topcross_forks_removed": {}
+ },
+ "A_tray_removal_with_HX_in_place": {
+  "-Y": {
+   "HX_509": [
+    5,
+    32.4,
+    [
+     285.0,
+     -802.2,
+     1150.0,
+     465.0,
+     -722.2,
+     1158.0
+    ]
+   ],
+   "HX_519": [
+    5,
+    2356.24,
+    [
+     273.0,
+     -760.4,
+     1158.0,
+     477.0,
+     -740.4,
+     1176.0
+    ]
+   ]
+  },
+  "+Y": {
+   "HX_521": [
+    5,
+    4380.92,
+    [
+     273.0,
+     -128.4,
+     1158.0,
+     477.0,
+     -108.4,
+     1176.0
+    ]
+   ]
+  },
+  "-Z": {
+   "HX_510": [
+    5,
+    3767.22,
+    [
+     285.0,
+     -162.2,
+     1150.0,
+     465.0,
+     -82.2,
+     1158.0
+    ]
+   ]
+  }
+ },
+ "A_clearance_to_HX_frame_mm": {
+  "AF_GUIDE_00": 0.0,
+  "AF_GUIDE_04": 0.0,
+  "AF_GUIDE_08": 0.0,
+  "AF_CHEEK_-307.5": 0.0,
+  "AF_CHEEK_306": 0.0,
+  "AF_BOX_CHEEK_-359.5": 80.927,
+  "AF_BOX_CHEEK_358": 80.927,
+  "AF_GASKET_6_FREE": 0.0,
+  "AF_SLIDING_SEAL_CARRIER": 4.2,
+  "AF_PLATE_ACCESS_GASKET": 9.4,
+  "AR_GUIDE_00": 0.0,
+  "AR_GUIDE_04": 0.0,
+  "AR_GUIDE_08": 0.0,
+  "AR_CHEEK_-307.5": 0.0,
+  "AR_CHEEK_306": 0.0,
+  "AR_BOX_CHEEK_-359.5": 80.927,
+  "AR_BOX_CHEEK_358": 80.927,
+  "AR_GASKET_6_FREE": 0.0,
+  "AR_SLIDING_SEAL_CARRIER": 4.2,
+  "AR_PLATE_ACCESS_GASKET": 9.4
+ },
+ "A_carrier_to_cassette_walls_mm": {
+  "AF": {
+   "AF_GUIDE_00": 0.0,
+   "AF_GUIDE_08": 0.0,
+   "AF_CHEEK_-307.5": 0.0,
+   "AF_CHEEK_306": 0.0
+  },
+  "AR": {
+   "AR_GUIDE_00": 0.0,
+   "AR_GUIDE_08": 0.0,
+   "AR_CHEEK_-307.5": 0.0,
+   "AR_CHEEK_306": 0.0
+  }
+ },
+ "AF_cassette_contacts_with_structure": [
+  [
+   "AF_CASSETTE_BEARER_116",
+   "FLOOR",
+   [
+    104.0,
+    104.0
+   ]
+  ],
+  [
+   "AF_CASSETTE_BEARER_327",
+   "FLOOR",
+   [
+    104.0,
+    104.0
+   ]
+  ]
+ ],
+ "AF_cassette_highest_structural_contact_z": 104.0,
+ "AF_cassette_top_z": 2224.0,
+ "drains": {
+  "A_HX_TRAY_NOZZLE": [
+   364.0,
+   -207.4,
+   1135.0,
+   386.0,
+   -185.4,
+   1163.0
+  ],
+  "AF_DRAIN_STUB": [
+   43.0,
+   -161.4,
+   74.0,
+   67.0,
+   -137.4,
+   142.5
+  ],
+  "AR_DRAIN_STUB": [
+   683.0,
+   -161.4,
+   74.0,
+   707.0,
+   -137.4,
+   142.5
+  ],
+  "B_HX_TRAY_NOZZLE": [
+   364.0,
+   1072.6,
+   1135.0,
+   386.0,
+   1094.6,
+   1163.0
+  ],
+  "BF_DRAIN_STUB": [
+   43.0,
+   1118.6,
+   74.0,
+   67.0,
+   1142.6,
+   142.5
+  ],
+  "BR_DRAIN_STUB": [
+   683.0,
+   1118.6,
+   74.0,
+   707.0,
+   1142.6,
+   142.5
+  ]
+ },
+ "floor_top_z": 104.0,
+ "restraint_bboxes": {
+  "HX_TOP_CROSS": [
+   355.0,
+   -846.0,
+   2470.0,
+   395.0,
+   1286.0,
+   2510.0
+  ],
+  "A_TOP_FORK_(0, 0)": [
+   365.0,
+   -783.8,
+   2254.0,
+   385.0,
+   -779.8,
+   2470.0
+  ],
+  "A_TOP_FORK_(0, 1)": [
+   365.0,
+   -769.8,
+   2254.0,
+   385.0,
+   -765.8,
+   2470.0
+  ],
+  "A_TOP_FORK_(1, 0)": [
+   365.0,
+   -103.8,
+   2254.0,
+   385.0,
+   -99.8,
+   2470.0
+  ],
+  "A_TOP_FORK_(1, 1)": [
+   365.0,
+   -89.8,
+   2254.0,
+   385.0,
+   -85.8,
+   2470.0
+  ],
+  "A_SIDE_BRACE": [
+   -119.1,
+   -858.0,
+   1030.0,
+   1264.0,
+   -852.0,
+   2520.0
+  ],
+  "A_RISER_BRACE_275": [
+   280.0,
+   -767.2,
+   150.0,
+   310.0,
+   -167.2,
+   1086.0
+  ],
+  "A_RISER_BRACE_435": [
+   440.0,
+   -767.2,
+   150.0,
+   470.0,
+   -167.2,
+   1086.0
+  ]
+ },
+ "gasket_face_area_mm2": 52928.0
+}
