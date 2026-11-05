@@ -1,0 +1,16 @@
+{
+ "A": {
+  "step_mm": 25,
+  "travel_mm": -900,
+  "first_intersections": {},
+  "D01_swept_bbox_candidates": 0,
+  "min_distance_frame_plates_to_park_guides_over_stroke_mm": 0.15
+ },
+ "B": {
+  "step_mm": 25,
+  "travel_mm": 900,
+  "first_intersections": {},
+  "D01_swept_bbox_candidates": 0,
+  "min_distance_frame_plates_to_park_guides_over_stroke_mm": 0.15
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "gasket_force_per_face_N": [
+  564,
+  2258
+ ],
+ "rod_share_of_gasket_force_N": [
+  40,
+  161
+ ],
+ "M8_preload_from_torque_N": {
+  "5": 3125,
+  "10": 6250,
+  "25": 15625
+ },
+ "bed_clamp_if_torqued_kN": {
+  "5": 43.8,
+  "10": 87.5,
+  "25": 218.8
+ },
+ "stop_bearing_MPa_if_torqued": {
+  "5": 65.1,
+  "10": 130.2,
+  "25": 325.5
+ },
+ "rod_stiffness_kN_per_mm": 34.2,
+ "thermal_stack": [
+  {
+   "frame": "steel frame",
+   "dT_K": 20,
+   "growth_mm": 0.053,
+   "added_force_per_rod_kN": 1.81,
+   "rod_stress_MPa": 49,
+   "bed_total_kN": 25.3,
+   "stop_bearing_MPa": 37.6
+  },
+  {
+   "frame": "steel frame",
+   "dT_K": 40,
+   "growth_mm": 0.106,
+   "added_force_per_rod_kN": 3.61,
+   "rod_stress_MPa": 99,
+   "bed_total_kN": 50.6,
+   "stop_bearing_MPa": 75.2
+  },
+  {
+   "frame": "steel frame",
+   "dT_K": 60,
+   "growth_mm": 0.158,
+   "added_force_per_rod_kN": 5.42,
+   "rod_stress_MPa": 148,
+   "bed_total_kN": 75.8,
+   "stop_bearing_MPa": 112.8
+  },
+  {
+   "frame": "aluminium frame",
+   "dT_K": 20,
+   "growth_mm": 0.101,
+   "added_force_per_rod_kN": 3.46,
+   "rod_stress_MPa": 95,
+   "bed_total_kN": 48.4,
+   "stop_bearing_MPa": 72.1
+  },
+  {
+   "frame": "aluminium frame",
+   "dT_K": 40,
+   "growth_mm": 0.202,
+   "added_force_per_rod_kN": 6.92,
+   "rod_stress_MPa": 189,
+   "bed_total_kN": 96.9,
+   "stop_bearing_MPa": 144.2
+  },
+  {
+   "frame": "aluminium frame",
+   "dT_K": 60,
+   "growth_mm": 0.304,
+   "added_force_per_rod_kN": 10.38,
+   "rod_stress_MPa": 284,
+   "bed_total_kN": 145.3,
+   "stop_bearing_MPa": 216.3
+  }
+ ],
+ "thermal_note": "Rigid rods with metal stops: the frame growth is forced into rod stretch. Water range 5-80 C (HYD-R2). Compliance (disc springs) of ~0.5-1 kN/mm per rod would keep the added force to ~0.03-0.2 kN.",
+ "trap": {
+  "seal_mm": 90,
+  "seal_Pa": 883,
+  "duty_Pa": 550,
+  "shutoff_Pa_typical": [
+   715,
+   990
+  ],
+  "margin_at_duty": 1.61,
+  "margin_at_shutoff": [
+   1.23,
+   0.89
+  ]
+ },
+ "static_probe": {
+  "hole_jet_velocity_ms": 7.65,
+  "jet_dynamic_Pa": 34.5,
+  "hx_dp_assumed_Pa": 60,
+  "bias_if_10_to_30pct_of_jet_q_pct_of_HX_dp": [
+   6,
+   17
+  ],
+  "probe_to_plate_mm": 44,
+  "x_over_d": 2.32
+ },
+ "withdrawal_X_clearance_mm": {
+  "park_guide_tips": 0.15,
+  "face_gasket": 4.2,
+  "guide_and_cheek_tips": 5.0,
+  "lower_tie_rods_below_feet_Z": 6.0
+ },
+ "installed_height_mm": 2762.0
+}

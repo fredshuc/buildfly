@@ -1,0 +1,769 @@
+{
+ "stops_and_gasket": {
+  "AF": {
+   "n_stop_faces": 14,
+   "stop_min_land_edge_margin_mm": 0.5,
+   "stops_not_fully_on_a_land": 0,
+   "stop_min_gap_to_gasket_mm": 0.5,
+   "gasket_bbox_YZ": [
+    -756.4,
+    1188.0,
+    -112.4,
+    2220.0
+   ],
+   "land_rects_YZ": [
+    [
+     -760.4,
+     1158.0,
+     -740.4,
+     2234.0
+    ],
+    [
+     -128.4,
+     1158.0,
+     -108.4,
+     2234.0
+    ],
+    [
+     -760.4,
+     1184.0,
+     -108.4,
+     1204.0
+    ],
+    [
+     -760.4,
+     2204.0,
+     -108.4,
+     2224.0
+    ]
+   ]
+  },
+  "AR": {
+   "n_stop_faces": 14,
+   "stop_min_land_edge_margin_mm": 0.5,
+   "stops_not_fully_on_a_land": 0,
+   "stop_min_gap_to_gasket_mm": 0.5,
+   "gasket_bbox_YZ": [
+    -756.4,
+    1188.0,
+    -112.4,
+    2220.0
+   ],
+   "land_rects_YZ": [
+    [
+     -760.4,
+     1158.0,
+     -740.4,
+     2234.0
+    ],
+    [
+     -128.4,
+     1158.0,
+     -108.4,
+     2234.0
+    ],
+    [
+     -760.4,
+     1184.0,
+     -108.4,
+     1204.0
+    ],
+    [
+     -760.4,
+     2204.0,
+     -108.4,
+     2224.0
+    ]
+   ]
+  },
+  "BF": {
+   "n_stop_faces": 14,
+   "stop_min_land_edge_margin_mm": 0.5,
+   "stops_not_fully_on_a_land": 0,
+   "stop_min_gap_to_gasket_mm": 0.5,
+   "gasket_bbox_YZ": [
+    523.6,
+    1188.0,
+    1167.6,
+    2220.0
+   ],
+   "land_rects_YZ": [
+    [
+     519.6,
+     1158.0,
+     539.6,
+     2234.0
+    ],
+    [
+     1151.6,
+     1158.0,
+     1171.6,
+     2234.0
+    ],
+    [
+     519.6,
+     1184.0,
+     1171.6,
+     1204.0
+    ],
+    [
+     519.6,
+     2204.0,
+     1171.6,
+     2224.0
+    ]
+   ]
+  },
+  "BR": {
+   "n_stop_faces": 14,
+   "stop_min_land_edge_margin_mm": 0.5,
+   "stops_not_fully_on_a_land": 0,
+   "stop_min_gap_to_gasket_mm": 0.5,
+   "gasket_bbox_YZ": [
+    523.6,
+    1188.0,
+    1167.6,
+    2220.0
+   ],
+   "land_rects_YZ": [
+    [
+     519.6,
+     1158.0,
+     539.6,
+     2234.0
+    ],
+    [
+     1151.6,
+     1158.0,
+     1171.6,
+     2234.0
+    ],
+    [
+     519.6,
+     1184.0,
+     1171.6,
+     1204.0
+    ],
+    [
+     519.6,
+     2204.0,
+     1171.6,
+     2224.0
+    ]
+   ]
+  }
+ },
+ "AF_carrier_neighbours_within_1mm": [
+  [
+   "AF_FACE_GASKET",
+   0.0
+  ],
+  [
+   "AF_TIE_WASHER_0",
+   0.0
+  ],
+  [
+   "AF_TIE_WASHER_1",
+   0.0
+  ],
+  [
+   "AF_TIE_WASHER_2",
+   0.0
+  ],
+  [
+   "AF_TIE_WASHER_3",
+   0.0
+  ],
+  [
+   "AF_TIE_WASHER_4",
+   0.0
+  ],
+  [
+   "AF_TIE_WASHER_5",
+   0.0
+  ],
+  [
+   "AF_TIE_WASHER_6",
+   0.0
+  ],
+  [
+   "AF_TIE_WASHER_7",
+   0.0
+  ],
+  [
+   "AF_TIE_WASHER_8",
+   0.0
+  ],
+  [
+   "AF_TIE_WASHER_9",
+   0.0
+  ],
+  [
+   "AF_TIE_WASHER_10",
+   0.0
+  ],
+  [
+   "AF_TIE_WASHER_11",
+   0.0
+  ],
+  [
+   "AF_TIE_WASHER_12",
+   0.0
+  ],
+  [
+   "AF_TIE_WASHER_13",
+   0.0
+  ],
+  [
+   "AF_EPDM_DIAPHRAGM",
+   0.0
+  ],
+  [
+   "A_POST_0_41.775",
+   0.0
+  ],
+  [
+   "A_POST_0_673.775",
+   0.0
+  ],
+  [
+   "A_AIR_EDGE_0_34",
+   0.0
+  ],
+  [
+   "A_AIR_EDGE_0_1054",
+   0.0
+  ],
+  [
+   "A_TIE_0",
+   0.6
+  ],
+  [
+   "A_TIE_1",
+   0.6
+  ],
+  [
+   "A_TIE_2",
+   0.6
+  ],
+  [
+   "A_TIE_3",
+   0.6
+  ],
+  [
+   "A_TIE_4",
+   0.6
+  ],
+  [
+   "A_TIE_5",
+   0.6
+  ],
+  [
+   "A_TIE_6",
+   0.6
+  ],
+  [
+   "A_TIE_7",
+   0.6
+  ],
+  [
+   "A_TIE_8",
+   0.6
+  ],
+  [
+   "A_TIE_9",
+   0.6
+  ],
+  [
+   "A_TIE_10",
+   0.6
+  ],
+  [
+   "A_TIE_11",
+   0.6
+  ],
+  [
+   "A_TIE_12",
+   0.6
+  ],
+  [
+   "A_TIE_13",
+   0.6
+  ],
+  [
+   "AF_PARK_GUIDE_0",
+   0.65
+  ],
+  [
+   "AF_PARK_GUIDE_1",
+   0.65
+  ],
+  [
+   "AF_PARK_GUIDE_2",
+   0.65
+  ],
+  [
+   "AF_PARK_GUIDE_3",
+   0.65
+  ],
+  [
+   "AF_PARK_NUT_0",
+   0.996
+  ],
+  [
+   "AF_PARK_NUT_1",
+   0.996
+  ],
+  [
+   "AF_PARK_NUT_2",
+   0.996
+  ],
+  [
+   "AF_PARK_NUT_3",
+   0.996
+  ]
+ ],
+ "locating_clearances_mm": {
+  "tie_rod_OD": 8,
+  "carrier_tie_bore": 9.2,
+  "park_stud_OD": 8,
+  "park_bore": 9.3,
+  "note": "Carrier is located only by tie rods and park studs (cassette-mounted); neither engages the HX."
+ },
+ "A_service_XZ_projection_clearance_lt_12mm": [
+  [
+   "AF_PARK_GUIDE_0",
+   0.15,
+   "X"
+  ],
+  [
+   "AF_PARK_NUT_0",
+   0.15,
+   "X"
+  ],
+  [
+   "AF_PARK_GUIDE_1",
+   0.15,
+   "X"
+  ],
+  [
+   "AF_PARK_NUT_1",
+   0.15,
+   "X"
+  ],
+  [
+   "AF_PARK_GUIDE_2",
+   0.15,
+   "X"
+  ],
+  [
+   "AF_PARK_NUT_2",
+   0.15,
+   "X"
+  ],
+  [
+   "AF_PARK_GUIDE_3",
+   0.15,
+   "X"
+  ],
+  [
+   "AF_PARK_NUT_3",
+   0.15,
+   "X"
+  ],
+  [
+   "AR_PARK_GUIDE_0",
+   0.15,
+   "X"
+  ],
+  [
+   "AR_PARK_NUT_0",
+   0.15,
+   "X"
+  ],
+  [
+   "AR_PARK_GUIDE_1",
+   0.15,
+   "X"
+  ],
+  [
+   "AR_PARK_NUT_1",
+   0.15,
+   "X"
+  ],
+  [
+   "AR_PARK_GUIDE_2",
+   0.15,
+   "X"
+  ],
+  [
+   "AR_PARK_NUT_2",
+   0.15,
+   "X"
+  ],
+  [
+   "AR_PARK_GUIDE_3",
+   0.15,
+   "X"
+  ],
+  [
+   "AR_PARK_NUT_3",
+   0.15,
+   "X"
+  ],
+  [
+   "A_CRUSH_(317, -787.175)",
+   3.0,
+   "Z"
+  ],
+  [
+   "A_CRUSH_(437, -787.175)",
+   3.0,
+   "Z"
+  ],
+  [
+   "A_CRUSH_(317, -147.17499999999995)",
+   3.0,
+   "Z"
+  ],
+  [
+   "A_CRUSH_(437, -147.17499999999995)",
+   3.0,
+   "Z"
+  ],
+  [
+   "AF_FACE_GASKET",
+   4.2,
+   "X"
+  ],
+  [
+   "AR_FACE_GASKET",
+   4.2,
+   "X"
+  ],
+  [
+   "AF_GUIDE_00",
+   5.0,
+   "X"
+  ],
+  [
+   "AF_GUIDE_01",
+   5.0,
+   "X"
+  ],
+  [
+   "AF_GUIDE_02",
+   5.0,
+   "X"
+  ],
+  [
+   "AF_GUIDE_03",
+   5.0,
+   "X"
+  ],
+  [
+   "AF_GUIDE_04",
+   5.0,
+   "X"
+  ],
+  [
+   "AF_GUIDE_05",
+   5.0,
+   "X"
+  ],
+  [
+   "AF_GUIDE_06",
+   5.0,
+   "X"
+  ],
+  [
+   "AF_GUIDE_07",
+   5.0,
+   "X"
+  ],
+  [
+   "AF_GUIDE_08",
+   5.0,
+   "X"
+  ],
+  [
+   "AF_CHEEK_-307.5",
+   5.0,
+   "X"
+  ],
+  [
+   "AF_CHEEK_306",
+   5.0,
+   "X"
+  ],
+  [
+   "AR_GUIDE_00",
+   5.0,
+   "X"
+  ],
+  [
+   "AR_GUIDE_01",
+   5.0,
+   "X"
+  ],
+  [
+   "AR_GUIDE_02",
+   5.0,
+   "X"
+  ],
+  [
+   "AR_GUIDE_03",
+   5.0,
+   "X"
+  ],
+  [
+   "AR_GUIDE_04",
+   5.0,
+   "X"
+  ],
+  [
+   "AR_GUIDE_05",
+   5.0,
+   "X"
+  ],
+  [
+   "AR_GUIDE_06",
+   5.0,
+   "X"
+  ],
+  [
+   "AR_GUIDE_07",
+   5.0,
+   "X"
+  ],
+  [
+   "AR_GUIDE_08",
+   5.0,
+   "X"
+  ],
+  [
+   "AR_CHEEK_-307.5",
+   5.0,
+   "X"
+  ],
+  [
+   "AR_CHEEK_306",
+   5.0,
+   "X"
+  ],
+  [
+   "A_TIE_8",
+   6.0,
+   "Z"
+  ],
+  [
+   "A_TIE_10",
+   6.0,
+   "Z"
+  ],
+  [
+   "A_TIE_12",
+   6.0,
+   "Z"
+  ],
+  [
+   "AF_CLAMP_CARRIER",
+   6.0,
+   "X"
+  ],
+  [
+   "AR_CLAMP_CARRIER",
+   6.0,
+   "X"
+  ],
+  [
+   "A_BEAM_0",
+   8.0,
+   "Z"
+  ],
+  [
+   "A_BEAM_1",
+   8.0,
+   "Z"
+  ],
+  [
+   "AR_FIXED_COLLAR",
+   9.0,
+   "Z"
+  ],
+  [
+   "AR_EPDM_DIAPHRAGM",
+   10.0,
+   "Z"
+  ]
+ ],
+ "A_service_clearance_classes": [
+  {
+   "clearance_mm": 0.15,
+   "axis": "X",
+   "part_type": "PARK_GUIDE",
+   "count": 8
+  },
+  {
+   "clearance_mm": 0.15,
+   "axis": "X",
+   "part_type": "PARK_NUT",
+   "count": 8
+  },
+  {
+   "clearance_mm": 3.0,
+   "axis": "Z",
+   "part_type": "CRUSH",
+   "count": 4
+  },
+  {
+   "clearance_mm": 4.2,
+   "axis": "X",
+   "part_type": "FACE_GASKET",
+   "count": 2
+  },
+  {
+   "clearance_mm": 5.0,
+   "axis": "X",
+   "part_type": "GUIDE",
+   "count": 18
+  },
+  {
+   "clearance_mm": 5.0,
+   "axis": "X",
+   "part_type": "CHEEK",
+   "count": 4
+  },
+  {
+   "clearance_mm": 6.0,
+   "axis": "Z",
+   "part_type": "TIE",
+   "count": 3
+  },
+  {
+   "clearance_mm": 6.0,
+   "axis": "X",
+   "part_type": "CLAMP_CARRIER",
+   "count": 2
+  },
+  {
+   "clearance_mm": 8.0,
+   "axis": "Z",
+   "part_type": "BEAM",
+   "count": 2
+  },
+  {
+   "clearance_mm": 9.0,
+   "axis": "Z",
+   "part_type": "FIXED_COLLAR",
+   "count": 1
+  },
+  {
+   "clearance_mm": 10.0,
+   "axis": "Z",
+   "part_type": "EPDM_DIAPHRAGM",
+   "count": 1
+  }
+ ],
+ "park_guide_tip_to_HX_face_plane_mm": {
+  "AF_PARK_GUIDE_0": 0.15,
+  "AF_PARK_GUIDE_1": 0.15,
+  "AF_PARK_GUIDE_2": 0.15,
+  "AF_PARK_GUIDE_3": 0.15,
+  "AR_PARK_GUIDE_0": 0.15,
+  "AR_PARK_GUIDE_1": 0.15,
+  "AR_PARK_GUIDE_2": 0.15,
+  "AR_PARK_GUIDE_3": 0.15,
+  "BF_PARK_GUIDE_0": 0.15,
+  "BF_PARK_GUIDE_1": 0.15,
+  "BF_PARK_GUIDE_2": 0.15,
+  "BF_PARK_GUIDE_3": 0.15,
+  "BR_PARK_GUIDE_0": 0.15,
+  "BR_PARK_GUIDE_1": 0.15,
+  "BR_PARK_GUIDE_2": 0.15,
+  "BR_PARK_GUIDE_3": 0.15
+ },
+ "plate_plane": {
+  "C04_plate_u_mm": 12.75,
+  "C07_plate_u_mm": 40.0,
+  "land_end_u": 28.0,
+  "blend_end_u": 60.0,
+  "guide_inclination_from_horizontal_deg_at_u40": 47.0,
+  "at_u12": 0.0,
+  "plate_to_fin_mm": {
+   "C04": 43.65,
+   "C07": 71.65
+  },
+  "hole_pitch_YZ_mm": [
+   25,
+   21
+  ],
+  "diameters_mm": [
+   18.1,
+   18.4,
+   18.6,
+   18.8,
+   19.1,
+   19.4,
+   19.7,
+   20.0
+  ],
+  "z_ligament_mm": [
+   2.9,
+   2.6,
+   2.4,
+   2.2,
+   1.9,
+   1.6,
+   1.3,
+   1.0
+  ],
+  "y_ligament_mm": [
+   6.9,
+   6.6,
+   6.4,
+   6.2,
+   5.9,
+   5.6,
+   5.3,
+   5.0
+  ],
+  "sheet_mm": 1.5
+ },
+ "bracing": {
+  "end_diagonal": {
+   "section_mm": [
+    12,
+    40
+   ],
+   "length_mm": 2393,
+   "euler_kN_weak_axis_pinned": 1.99,
+   "bbox": [
+    -115.0,
+    -800.0,
+    1180.0,
+    -103.0,
+    1240.0,
+    2470.0
+   ]
+  },
+  "centre_brace": {
+   "section_mm": [
+    16,
+    38
+   ],
+   "length_mm": 2406,
+   "euler_kN_weak_axis_pinned": 4.42
+  },
+  "end_diagonals_direction": {
+   "F": "rises toward +Y",
+   "R": "rises toward -Y"
+  }
+ },
+ "installed_height": {
+  "plinth_count": 13,
+  "plinth_bottom_z": -210.0,
+  "roof_top_z": 2552.0,
+  "height_above_floor_mm": 2762.0
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "integration.json": true,
+ "service.json": true,
+ "access_paths.json": true,
+ "seal_stroke.json": true,
+ "motion_shell.json": true,
+ "machine_readback.json": true,
+ "port_reconciliation.json": true,
+ "shell_intersections.json": true,
+ "rt3_contacts.json": true,
+ "rt3_water_access.json": true,
+ "tie_rods.csv": true,
+ "traps.csv": true,
+ "static_taps.csv": true
+}

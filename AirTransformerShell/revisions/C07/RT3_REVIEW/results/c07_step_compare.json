@@ -1,0 +1,9 @@
+{
+ "C07_SHELL.step": {
+  "solids": [
+   494,
+   494
+  ],
+  "max_abs_diff_volume_or_bbox": 0.0
+ }
+}

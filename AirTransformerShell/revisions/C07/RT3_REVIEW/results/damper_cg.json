@@ -1,0 +1,46 @@
+{
+ "AFP": {
+  "steel_equivalent_kg": 99.89,
+  "cg_mm": [
+   -256.8,
+   -581.2,
+   358.7
+  ],
+  "bearing_y_mm": [
+   -734.4,
+   -134.39999999999998
+  ],
+  "bearing_x_mm": [
+   -344.6,
+   -167.6
+  ],
+  "drive_side_pair_fraction": 0.7447,
+  "inner_pair_fraction": 0.4963,
+  "tipping_limit_actuator_kg_no_inset": {
+   "reserve_centre": 21.66,
+   "reserve_outboard_face": 18.4
+  }
+ },
+ "AFR": {
+  "steel_equivalent_kg": 56.0,
+  "cg_mm": [
+   -257.4,
+   -528.8,
+   755.4
+  ],
+  "bearing_y_mm": [
+   -734.4,
+   -134.39999999999998
+  ],
+  "bearing_x_mm": [
+   -344.6,
+   -167.6
+  ],
+  "drive_side_pair_fraction": 0.6574,
+  "inner_pair_fraction": 0.4926,
+  "tipping_limit_actuator_kg_no_inset": {
+   "reserve_centre": 16.3,
+   "reserve_outboard_face": 13.85
+  }
+ }
+}

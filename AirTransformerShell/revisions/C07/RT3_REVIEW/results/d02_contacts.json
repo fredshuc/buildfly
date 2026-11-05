@@ -1,0 +1,202 @@
+{
+ "summary": {
+  "shoes": 32,
+  "min_mm2": 120.0,
+  "max_mm2": 120.0,
+  "n_below_listed": 0
+ },
+ "shoes": {
+  "AFP_INNER_LO_SHOE": {
+   "contact_mm2": 120.0,
+   "frame": "AFP/P101_002/R21_P101",
+   "frame_x_thickness_mm": 3.0,
+   "listed_mm2": 120.0
+  },
+  "AFP_INNER_HI_SHOE": {
+   "contact_mm2": 120.0,
+   "frame": "AFP/P101_002/R21_P101",
+   "frame_x_thickness_mm": 3.0,
+   "listed_mm2": 120.0
+  },
+  "AFP_OUTER_LO_SHOE": {
+   "contact_mm2": 120.0,
+   "frame": "AFP/P101_001/R21_P101",
+   "frame_x_thickness_mm": 3.0,
+   "listed_mm2": 120.0
+  },
+  "AFP_OUTER_HI_SHOE": {
+   "contact_mm2": 120.0,
+   "frame": "AFP/P101_001/R21_P101",
+   "frame_x_thickness_mm": 3.0,
+   "listed_mm2": 120.0
+  },
+  "AFR_INNER_LO_SHOE": {
+   "contact_mm2": 120.0,
+   "frame": "AFR/R101_002/R21_R101",
+   "frame_x_thickness_mm": 3.0,
+   "listed_mm2": 120.0
+  },
+  "AFR_INNER_HI_SHOE": {
+   "contact_mm2": 120.0,
+   "frame": "AFR/R101_002/R21_R101",
+   "frame_x_thickness_mm": 3.0,
+   "listed_mm2": 120.0
+  },
+  "AFR_OUTER_LO_SHOE": {
+   "contact_mm2": 120.0,
+   "frame": "AFR/R101_001/R21_R101",
+   "frame_x_thickness_mm": 3.0,
+   "listed_mm2": 120.0
+  },
+  "AFR_OUTER_HI_SHOE": {
+   "contact_mm2": 120.0,
+   "frame": "AFR/R101_001/R21_R101",
+   "frame_x_thickness_mm": 3.0,
+   "listed_mm2": 120.0
+  },
+  "ARP_INNER_LO_SHOE": {
+   "contact_mm2": 120.0,
+   "frame": "ARP/P101_001/R21_P101",
+   "frame_x_thickness_mm": 3.0,
+   "listed_mm2": 120.0
+  },
+  "ARP_INNER_HI_SHOE": {
+   "contact_mm2": 120.0,
+   "frame": "ARP/P101_001/R21_P101",
+   "frame_x_thickness_mm": 3.0,
+   "listed_mm2": 120.0
+  },
+  "ARP_OUTER_LO_SHOE": {
+   "contact_mm2": 120.0,
+   "frame": "ARP/P101_002/R21_P101",
+   "frame_x_thickness_mm": 3.0,
+   "listed_mm2": 120.0
+  },
+  "ARP_OUTER_HI_SHOE": {
+   "contact_mm2": 120.0,
+   "frame": "ARP/P101_002/R21_P101",
+   "frame_x_thickness_mm": 3.0,
+   "listed_mm2": 120.0
+  },
+  "ARR_INNER_LO_SHOE": {
+   "contact_mm2": 120.0,
+   "frame": "ARR/R101_001/R21_R101",
+   "frame_x_thickness_mm": 3.0,
+   "listed_mm2": 120.0
+  },
+  "ARR_INNER_HI_SHOE": {
+   "contact_mm2": 120.0,
+   "frame": "ARR/R101_001/R21_R101",
+   "frame_x_thickness_mm": 3.0,
+   "listed_mm2": 120.0
+  },
+  "ARR_OUTER_LO_SHOE": {
+   "contact_mm2": 120.0,
+   "frame": "ARR/R101_002/R21_R101",
+   "frame_x_thickness_mm": 3.0,
+   "listed_mm2": 120.0
+  },
+  "ARR_OUTER_HI_SHOE": {
+   "contact_mm2": 120.0,
+   "frame": "ARR/R101_002/R21_R101",
+   "frame_x_thickness_mm": 3.0,
+   "listed_mm2": 120.0
+  },
+  "BFP_INNER_LO_SHOE": {
+   "contact_mm2": 120.0,
+   "frame": "BFP/P101_002/D01_MH_P101",
+   "frame_x_thickness_mm": 3.0,
+   "listed_mm2": 120.0
+  },
+  "BFP_INNER_HI_SHOE": {
+   "contact_mm2": 120.0,
+   "frame": "BFP/P101_002/D01_MH_P101",
+   "frame_x_thickness_mm": 3.0,
+   "listed_mm2": 120.0
+  },
+  "BFP_OUTER_LO_SHOE": {
+   "contact_mm2": 120.0,
+   "frame": "BFP/P101_001/D01_MH_P101",
+   "frame_x_thickness_mm": 3.0,
+   "listed_mm2": 120.0
+  },
+  "BFP_OUTER_HI_SHOE": {
+   "contact_mm2": 120.0,
+   "frame": "BFP/P101_001/D01_MH_P101",
+   "frame_x_thickness_mm": 3.0,
+   "listed_mm2": 120.0
+  },
+  "BFR_INNER_LO_SHOE": {
+   "contact_mm2": 120.0,
+   "frame": "BFR/R101_002/D01_MH_R101",
+   "frame_x_thickness_mm": 3.0,
+   "listed_mm2": 120.0
+  },
+  "BFR_INNER_HI_SHOE": {
+   "contact_mm2": 120.0,
+   "frame": "BFR/R101_002/D01_MH_R101",
+   "frame_x_thickness_mm": 3.0,
+   "listed_mm2": 120.0
+  },
+  "BFR_OUTER_LO_SHOE": {
+   "contact_mm2": 120.0,
+   "frame": "BFR/R101_001/D01_MH_R101",
+   "frame_x_thickness_mm": 3.0,
+   "listed_mm2": 120.0
+  },
+  "BFR_OUTER_HI_SHOE": {
+   "contact_mm2": 120.0,
+   "frame": "BFR/R101_001/D01_MH_R101",
+   "frame_x_thickness_mm": 3.0,
+   "listed_mm2": 120.0
+  },
+  "BRP_INNER_LO_SHOE": {
+   "contact_mm2": 120.0,
+   "frame": "BRP/P101_001/D01_MH_P101",
+   "frame_x_thickness_mm": 3.0,
+   "listed_mm2": 120.0
+  },
+  "BRP_INNER_HI_SHOE": {
+   "contact_mm2": 120.0,
+   "frame": "BRP/P101_001/D01_MH_P101",
+   "frame_x_thickness_mm": 3.0,
+   "listed_mm2": 120.0
+  },
+  "BRP_OUTER_LO_SHOE": {
+   "contact_mm2": 120.0,
+   "frame": "BRP/P101_002/D01_MH_P101",
+   "frame_x_thickness_mm": 3.0,
+   "listed_mm2": 120.0
+  },
+  "BRP_OUTER_HI_SHOE": {
+   "contact_mm2": 120.0,
+   "frame": "BRP/P101_002/D01_MH_P101",
+   "frame_x_thickness_mm": 3.0,
+   "listed_mm2": 120.0
+  },
+  "BRR_INNER_LO_SHOE": {
+   "contact_mm2": 120.0,
+   "frame": "BRR/R101_001/D01_MH_R101",
+   "frame_x_thickness_mm": 3.0,
+   "listed_mm2": 120.0
+  },
+  "BRR_INNER_HI_SHOE": {
+   "contact_mm2": 120.0,
+   "frame": "BRR/R101_001/D01_MH_R101",
+   "frame_x_thickness_mm": 3.0,
+   "listed_mm2": 120.0
+  },
+  "BRR_OUTER_LO_SHOE": {
+   "contact_mm2": 120.0,
+   "frame": "BRR/R101_002/D01_MH_R101",
+   "frame_x_thickness_mm": 3.0,
+   "listed_mm2": 120.0
+  },
+  "BRR_OUTER_HI_SHOE": {
+   "contact_mm2": 120.0,
+   "frame": "BRR/R101_002/D01_MH_R101",
+   "frame_x_thickness_mm": 3.0,
+   "listed_mm2": 120.0
+  }
+ }
+}
