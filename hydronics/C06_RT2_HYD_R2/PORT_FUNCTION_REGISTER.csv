@@ -1,0 +1,5 @@
+revision,port,x_mm,y_mm,z_mm,face_normal,connection,water_vector_at_union,cold_service,cold_selector,hot_service,hot_selector,bed_side_bleed
+C06-HYD-R2,A.W1,615,-75.325,2370,+X,Rp1-1/4 female,-X,CS,A_XV_CS,HS,A_XV_HS,A_W1
+C06-HYD-R2,A.W2,615,-225.325,2370,+X,Rp1-1/4 female,+X,CR,A_XV_CR,HR,A_XV_HR,A_W2
+C06-HYD-R2,B.W1,615,1204.675,2370,+X,Rp1-1/4 female,-X,CS,B_XV_CS,HS,B_XV_HS,B_W1
+C06-HYD-R2,B.W2,615,1054.675,2370,+X,Rp1-1/4 female,+X,CR,B_XV_CR,HR,B_XV_HR,B_W2
