@@ -1,0 +1,393 @@
+{
+  "scope": "Changed solids vs installed shell, reference seats, OD85 spools, eight damper and drive reservations and valve bodies/actuators. Airway interiors vs installed geometry. Static check.",
+  "clashes_mm3": [],
+  "airway_obstructions_mm3": [],
+  "air_sections": [
+    {
+      "segment": "A_F_P",
+      "end": "start",
+      "x": 2.5,
+      "y_min": -749.4,
+      "y_max": -119.39999999999998,
+      "z_min": 300,
+      "z_max": 645,
+      "area_m2": 0.21735
+    },
+    {
+      "segment": "A_F_P",
+      "end": "end",
+      "x": 137.5,
+      "y_min": -749.4,
+      "y_max": -119.39999999999998,
+      "z_min": 270,
+      "z_max": 720,
+      "area_m2": 0.2835
+    },
+    {
+      "segment": "A_F_R",
+      "end": "start",
+      "x": 2.5,
+      "y_min": -749.4,
+      "y_max": -119.39999999999998,
+      "z_min": 940,
+      "z_max": 1120,
+      "area_m2": 0.1134
+    },
+    {
+      "segment": "A_F_R",
+      "end": "end",
+      "x": 137.5,
+      "y_min": -749.4,
+      "y_max": -119.39999999999998,
+      "z_min": 870,
+      "z_max": 1155,
+      "area_m2": 0.17955
+    },
+    {
+      "segment": "A_F_COMMON",
+      "end": "start",
+      "x": 139.5,
+      "y_min": -749.4,
+      "y_max": -119.39999999999998,
+      "z_min": 270,
+      "z_max": 1155,
+      "area_m2": 0.55755
+    },
+    {
+      "segment": "A_F_COMMON",
+      "end": "end",
+      "x": 255.0,
+      "y_min": -740.4,
+      "y_max": -128.39999999999998,
+      "z_min": 204,
+      "z_max": 1204,
+      "area_m2": 0.612
+    },
+    {
+      "segment": "A_R_P",
+      "end": "start",
+      "x": 747.5,
+      "y_min": -795.0,
+      "y_max": -165.0,
+      "z_min": 300,
+      "z_max": 645,
+      "area_m2": 0.21735
+    },
+    {
+      "segment": "A_R_P",
+      "end": "end",
+      "x": 612.5,
+      "y_min": -772.2,
+      "y_max": -142.2,
+      "z_min": 270,
+      "z_max": 720,
+      "area_m2": 0.2835
+    },
+    {
+      "segment": "A_R_R",
+      "end": "start",
+      "x": 747.5,
+      "y_min": -795.0,
+      "y_max": -165.0,
+      "z_min": 940,
+      "z_max": 1120,
+      "area_m2": 0.1134
+    },
+    {
+      "segment": "A_R_R",
+      "end": "end",
+      "x": 612.5,
+      "y_min": -772.2,
+      "y_max": -142.2,
+      "z_min": 870,
+      "z_max": 1155,
+      "area_m2": 0.17955
+    },
+    {
+      "segment": "A_R_COMMON",
+      "end": "start",
+      "x": 610.5,
+      "y_min": -772.2,
+      "y_max": -142.2,
+      "z_min": 270,
+      "z_max": 1155,
+      "area_m2": 0.55755
+    },
+    {
+      "segment": "A_R_COMMON",
+      "end": "end",
+      "x": 495.0,
+      "y_min": -740.4,
+      "y_max": -128.39999999999998,
+      "z_min": 204,
+      "z_max": 1204,
+      "area_m2": 0.612
+    },
+    {
+      "segment": "B_F_P",
+      "end": "start",
+      "x": 2.5,
+      "y_min": 119.39999999999998,
+      "y_max": 749.4,
+      "z_min": 300,
+      "z_max": 645,
+      "area_m2": 0.21735
+    },
+    {
+      "segment": "B_F_P",
+      "end": "end",
+      "x": 137.5,
+      "y_min": 105.0,
+      "y_max": 735.0,
+      "z_min": 270,
+      "z_max": 720,
+      "area_m2": 0.2835
+    },
+    {
+      "segment": "B_F_R",
+      "end": "start",
+      "x": 2.5,
+      "y_min": 119.39999999999998,
+      "y_max": 749.4,
+      "z_min": 940,
+      "z_max": 1120,
+      "area_m2": 0.1134
+    },
+    {
+      "segment": "B_F_R",
+      "end": "end",
+      "x": 137.5,
+      "y_min": 105.0,
+      "y_max": 735.0,
+      "z_min": 870,
+      "z_max": 1155,
+      "area_m2": 0.17955
+    },
+    {
+      "segment": "B_F_COMMON",
+      "end": "start",
+      "x": 139.5,
+      "y_min": 105.0,
+      "y_max": 735.0,
+      "z_min": 270,
+      "z_max": 1155,
+      "area_m2": 0.55755
+    },
+    {
+      "segment": "B_F_COMMON",
+      "end": "end",
+      "x": 255.0,
+      "y_min": 99.59999999999997,
+      "y_max": 711.5999999999999,
+      "z_min": 204,
+      "z_max": 1204,
+      "area_m2": 0.612
+    },
+    {
+      "segment": "B_R_P",
+      "end": "start",
+      "x": 747.5,
+      "y_min": 165.0,
+      "y_max": 795.0,
+      "z_min": 300,
+      "z_max": 645,
+      "area_m2": 0.21735
+    },
+    {
+      "segment": "B_R_P",
+      "end": "end",
+      "x": 612.5,
+      "y_min": 127.79999999999995,
+      "y_max": 757.8,
+      "z_min": 270,
+      "z_max": 720,
+      "area_m2": 0.2835
+    },
+    {
+      "segment": "B_R_R",
+      "end": "start",
+      "x": 747.5,
+      "y_min": 165.0,
+      "y_max": 795.0,
+      "z_min": 940,
+      "z_max": 1120,
+      "area_m2": 0.1134
+    },
+    {
+      "segment": "B_R_R",
+      "end": "end",
+      "x": 612.5,
+      "y_min": 127.79999999999995,
+      "y_max": 757.8,
+      "z_min": 870,
+      "z_max": 1155,
+      "area_m2": 0.17955
+    },
+    {
+      "segment": "B_R_COMMON",
+      "end": "start",
+      "x": 610.5,
+      "y_min": 127.79999999999995,
+      "y_max": 757.8,
+      "z_min": 270,
+      "z_max": 1155,
+      "area_m2": 0.55755
+    },
+    {
+      "segment": "B_R_COMMON",
+      "end": "end",
+      "x": 495.0,
+      "y_min": 99.59999999999997,
+      "y_max": 711.5999999999999,
+      "z_min": 204,
+      "z_max": 1204,
+      "area_m2": 0.612
+    }
+  ],
+  "damper_ports": [
+    {
+      "id": "A_F_P",
+      "bed": "A",
+      "face": "F",
+      "circuit": "P",
+      "x_mm": "0",
+      "opening_y_mm": "-749.4",
+      "opening_z_mm": "300",
+      "width_mm": "630",
+      "height_mm": "345",
+      "flange_width_mm": "706",
+      "flange_height_mm": "421",
+      "bolt_d_mm": "9",
+      "bolt_count": "32",
+      "normal_x": "-1"
+    },
+    {
+      "id": "A_F_R",
+      "bed": "A",
+      "face": "F",
+      "circuit": "R",
+      "x_mm": "0",
+      "opening_y_mm": "-749.4",
+      "opening_z_mm": "940",
+      "width_mm": "630",
+      "height_mm": "180",
+      "flange_width_mm": "706",
+      "flange_height_mm": "256",
+      "bolt_d_mm": "9",
+      "bolt_count": "28",
+      "normal_x": "-1"
+    },
+    {
+      "id": "A_R_P",
+      "bed": "A",
+      "face": "R",
+      "circuit": "P",
+      "x_mm": "747.5",
+      "opening_y_mm": "-795",
+      "opening_z_mm": "300",
+      "width_mm": "630",
+      "height_mm": "345",
+      "flange_width_mm": "706",
+      "flange_height_mm": "421",
+      "bolt_d_mm": "9",
+      "bolt_count": "32",
+      "normal_x": "1"
+    },
+    {
+      "id": "A_R_R",
+      "bed": "A",
+      "face": "R",
+      "circuit": "R",
+      "x_mm": "747.5",
+      "opening_y_mm": "-795",
+      "opening_z_mm": "940",
+      "width_mm": "630",
+      "height_mm": "180",
+      "flange_width_mm": "706",
+      "flange_height_mm": "256",
+      "bolt_d_mm": "9",
+      "bolt_count": "28",
+      "normal_x": "1"
+    },
+    {
+      "id": "B_F_P",
+      "bed": "B",
+      "face": "F",
+      "circuit": "P",
+      "x_mm": "0",
+      "opening_y_mm": "119.39999999999998",
+      "opening_z_mm": "300",
+      "width_mm": "630",
+      "height_mm": "345",
+      "flange_width_mm": "706",
+      "flange_height_mm": "421",
+      "bolt_d_mm": "9",
+      "bolt_count": "32",
+      "normal_x": "-1"
+    },
+    {
+      "id": "B_F_R",
+      "bed": "B",
+      "face": "F",
+      "circuit": "R",
+      "x_mm": "0",
+      "opening_y_mm": "119.39999999999998",
+      "opening_z_mm": "940",
+      "width_mm": "630",
+      "height_mm": "180",
+      "flange_width_mm": "706",
+      "flange_height_mm": "256",
+      "bolt_d_mm": "9",
+      "bolt_count": "28",
+      "normal_x": "-1"
+    },
+    {
+      "id": "B_R_P",
+      "bed": "B",
+      "face": "R",
+      "circuit": "P",
+      "x_mm": "747.5",
+      "opening_y_mm": "165",
+      "opening_z_mm": "300",
+      "width_mm": "630",
+      "height_mm": "345",
+      "flange_width_mm": "706",
+      "flange_height_mm": "421",
+      "bolt_d_mm": "9",
+      "bolt_count": "32",
+      "normal_x": "1"
+    },
+    {
+      "id": "B_R_R",
+      "bed": "B",
+      "face": "R",
+      "circuit": "R",
+      "x_mm": "747.5",
+      "opening_y_mm": "165",
+      "opening_z_mm": "940",
+      "width_mm": "630",
+      "height_mm": "180",
+      "flange_width_mm": "706",
+      "flange_height_mm": "256",
+      "bolt_d_mm": "9",
+      "bolt_count": "28",
+      "normal_x": "1"
+    }
+  ],
+  "STEP_readback": [
+    {
+      "file": "C03_DUCTS_AND_DAMPERS.step",
+      "occurrences": 80,
+      "solids": 80,
+      "bytes": 2825108,
+      "sha256": "c0c6db73f99237c8e65b5ba9566ad7699518a755ce9384f82f0fe1d7ce3f43a1"
+    },
+    {
+      "file": "C03_INSTALLED_LAYOUT.step",
+      "occurrences": 186,
+      "solids": 198,
+      "bytes": 19424991,
+      "sha256": "112841222d9a1f502e4d547ed3115bb2550d04c89f3aacf8fe864c88e729bb02"
+    }
+  ]
+}
