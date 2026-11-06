@@ -10,3 +10,4 @@ Scope: mat-prod/ and all descendants.
 6. Use UTF-8 Markdown for reviewable text where useful; keep required native formats alongside their source. Preserve official headings, tags and formatting when producing submission documents.
 7. Distinguish verified facts, assumptions and unresolved items. Do not invent partners, results, TRL evidence, commitments or budgets.
 8. Archive frozen submissions by date and version under 06_submission/. Updating this workspace does not authorize portal submission or messages to partners.
+9. This repository is public. Do not push unpublished proposal design, confidential source records, partner commercial information, private payroll, unpublished recipes or patent text. Keep the controlled proposal payload in its authorised private handover unless explicit publication permission or a private destination is established. A public index branch must not descend from a commit containing that payload.

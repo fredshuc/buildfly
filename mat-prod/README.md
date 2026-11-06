@@ -1,32 +1,29 @@
-# MAT-PROD-61 — FTRI
+# MAT-PROD-61 workspace
 
-本目录是 HORIZON-CL4-2027-01-MAT-PROD-61 的统一工作目录。后续该 call 的申请文本、合作伙伴资料、预算、证据、审查与提交版本均在本仓库本目录内持续更新。
+This is the canonical directory for HORIZON-CL4-2027-01-MAT-PROD-61 in fredshuc/buildfly. Subsequent proposal work stays under mat-prod/.
 
-- Topic: HORIZON-CL4-2027-01-MAT-PROD-61
-- Title: Fast Track to Research and Innovation for breakthroughs in industrial technologies (RIA)
-- Parent call: HORIZON-CL4-2027-06
-- Official page: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-01-MAT-PROD-61
-- Deadline: 2027-02-02, 17:00 Brussels time (CET)
-- Repository: fredshuc/buildfly
-- Working directory: mat-prod/
-- Initialized: 2026-11-06
+- Topic: Fast Track to Research and Innovation for breakthroughs in industrial technologies (RIA).
+- Parent call: HORIZON-CL4-2027-06.
+- Official topic: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-01-MAT-PROD-61
+- Deadline: 2 February 2027, 17:00 Brussels time, subject to the official call page.
 
-## 目录
+## Working layout
 
-| 路径 | 用途 |
+| Path | Purpose |
 | --- | --- |
-| 00_call/ | 官方 call 文件、模板及来源校验 |
-| 01_proposal/ | 申请文本可编辑源文件及当前工作稿 |
-| 02_consortium/ | 合作伙伴、角色及投入资料 |
-| 03_budget/ | 预算源文件与计算 |
-| 04_evidence/ | 文献、技术证据和数据来源 |
-| 05_reviews/ | 审查意见及处理记录 |
-| 06_submission/ | 冻结的提交包与回执 |
+| 00_call/ | Official call material, immutable template and identity manifest |
+| 01_proposal/ | Controlled proposal text, native documents and editable schedule |
+| 02_consortium/ | Controlled participant and resource evidence |
+| 03_budget/ | Controlled resource source model, workbook and CSV snapshots |
+| 04_evidence/ | Controlled source and reuse records |
+| 05_reviews/ | Task, assumptions, review and L2 return records |
+| QA/ | Reproducible design and consistency checks |
+| 06_submission/ | Frozen submission packages and receipts when authorised |
 
-## 当前状态
+## Public index and controlled proposal content
 
-已导入用户提供的官方 Part B RTF 模板，原件按字节保留。尚未创建申请正文，未选定技术方案、合作伙伴或预算。
+The repository is public. The public workspace branch contains the blank official template and non-sensitive workspace governance. Unpublished proposal design, internal source records, partner information and budget working files are managed in the controlled task branch and supplied through the authorised private handover. The public index is not the full proposal or a submission package.
 
-模板见 `00_call/templates/`；来源和 SHA-256 见 `00_call/TEMPLATE_MANIFEST.json`。
+The active task is MAT61-L2-S3-T01-R1. Its controlled working branch is mat-prod/l2-s3-t01-r1. Public index updates use mat-prod/workspace, with no unpublished payload in that branch's ancestry. Check the L2 return for the actual content commit and publication status.
 
-每次有实质修改，提交 Git 并简述变化。最新工作位置以本目录为准；提交包按日期和版本归档，不覆盖已有冻结版本。
+Preserve the official template bytes. Its actual version is V5.1 dated 22 January 2026; see 00_call/TEMPLATE_MANIFEST.json for the imported SHA-256. A supplied generic template is not a substitute for the final authenticated submission-session form.
