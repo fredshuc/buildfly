@@ -24,6 +24,22 @@
   "y": 1620.0,
   "z": 1520.0
  },
+ "damper_layout": "corner: top P-in on front slope + R-out on roof; bottom P-out on floor + R-in on rear slope",
+ "damper_dihedral_deg": 55.0,
+ "overall_incl_damper_bodies_mm": {
+  "x": [
+   -847.5,
+   1067.5
+  ],
+  "z": [
+   0.0,
+   1520.0
+  ]
+ },
+ "damper_to_damper_min_mm": {
+  "A": 0.0,
+  "B": 0.0
+ },
  "slope_from_vertical_deg": 35.0,
  "mouth_velocity_process_ms": 3.16,
  "mouth_velocity_regen_2435_ms": 1.58,
@@ -31,19 +47,19 @@
  "min_clearance_to_core_mm": {
   "A_FRONT_SLOPE": 0.0,
   "A_REAR_SLOPE": 0.0,
-  "A_FP_DAMPER_RESERVE": 8.0,
-  "A_FR_DAMPER_RESERVE": 445.0,
-  "A_RP_DAMPER_RESERVE": 8.0,
-  "A_RR_DAMPER_RESERVE": 445.0,
+  "A_FP_DAMPER_RESERVE": 458.57,
+  "A_FR_DAMPER_RESERVE": 444.0,
+  "A_RP_DAMPER_RESERVE": 279.0,
+  "A_RR_DAMPER_RESERVE": 553.19,
   "A_WATER_BAY_RESERVE": 290.0,
   "A_CORE_STAND_20": 0.0,
   "A_CORE_STAND_160": 0.0,
   "B_FRONT_SLOPE": 0.0,
   "B_REAR_SLOPE": 0.0,
-  "B_FP_DAMPER_RESERVE": 8.0,
-  "B_FR_DAMPER_RESERVE": 445.0,
-  "B_RP_DAMPER_RESERVE": 8.0,
-  "B_RR_DAMPER_RESERVE": 445.0,
+  "B_FP_DAMPER_RESERVE": 458.57,
+  "B_FR_DAMPER_RESERVE": 444.0,
+  "B_RP_DAMPER_RESERVE": 279.0,
+  "B_RR_DAMPER_RESERVE": 553.19,
   "B_WATER_BAY_RESERVE": 290.0,
   "B_CORE_STAND_20": 0.0,
   "B_CORE_STAND_160": 0.0

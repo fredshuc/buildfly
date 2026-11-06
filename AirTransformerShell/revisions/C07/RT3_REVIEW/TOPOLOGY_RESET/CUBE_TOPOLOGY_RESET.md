@@ -42,20 +42,29 @@ With one vertical coil per bed, the same vertical sense becomes a **Z-flow manif
 | Shape | Wedge, **open at the top**, depth D at the mouth, closing to the coil land at the bottom edge of the active face | Wedge, **open at the bottom**, depth D at the mouth, closing to the coil land at the top edge |
 | Process (P) | Inlet distributor: enters at the top, descends and converges | Collector: crosses the coil in **+X**, then descends and leaves at the floor |
 | Regeneration (R) | Collector: crosses the coil in **−X**, then ascends and leaves at the top | Inlet distributor: enters at the bottom, ascends and converges |
-| Mouth dampers | P in and R out, side by side, laid flat | P out and R in, side by side, laid flat |
+| Dampers (4-bed corner positions, two independent dampers) | P in on the **front slope** and R out on the **roof**, meeting at the top outer corner | P out on the **floor** and R in on the **rear slope**, meeting at the bottom outer corner |
+
+**Damper positions follow the 4-bed diverter** (owner direction, 6 November 2026). The original design put two plates on two faces of the plenum, switched by one actuator. Because a single plate could not be guaranteed to seal, it became two independent dampers, but the positions were kept. In the vertical-coil version:
+- At each plenum, the P damper and the smaller R damper sit on the **two faces that meet at the outer corner**.
+- The R damper on the roof leaves room for a future rooftop fan to extract the regeneration air.
+- The dihedral between the two damper planes is **90° − atan(D/H) = 55°** for D/H = 0.7 (59° at 0.6, 63° at 0.5). With the coils horizontal in the 4-bed, the plenum was flat and the angle was about 77°. The steep wedge closes it, but the airflow topology is the same.
+- The arrangement is point-symmetric. The P inlet (top, on the slope) and the R inlet (bottom, on the slope) are images of each other, as are the R outlet (roof) and the P outlet (floor). Both distributor inlets therefore see the same slope-entry geometry, and both collector outlets leave along the plenum axis.
+- If a sealing two-plate diverter is qualified later, both openings still share the corner edge, so it can return without changing the shell.
 
 The same two wedges serve both modes. Each wedge acts as a distributor in one mode and a collector in the other, so P and R get the same distribution quality. Regeneration is counter-current, as D01 already assumes (P +X, R −X) [S]. Buoyancy assists both streams: the hot regeneration air rises, and the cooled, dried process air descends.
 
 ## 3. Sizing and checks
 
 **Envelope** [V, `cube_concept.json`]. Mouth D = 700 mm, bed pitch 800 mm, coil active face Z 300–1300.
-- The envelope is **1643 (X) × 1620 (Y) × 1520 (Z) mm**. It includes the flat dampers; actuators are not included.
+- The shell envelope is **1643 (X) × 1620 (Y) × 1520 (Z) mm**. The plenum roof and floor sit at the coil's active top and bottom (Z 1300 and 300), so the corner dampers add no height.
+- The two slope damper bodies project 147.5 mm beyond the front face (top corner) and the rear face (bottom corner). Including those bodies the size is 1915 × 1620 × 1520 mm. Actuators are not included.
 - C07 by comparison is 1750 × 2156 × 2762, and 3543 wide over the actuator reserves.
 - The slope is 35° from vertical.
 
 **Geometric fit** [V]. The two detailed 549-solid C05 coils have **zero intersections** with the skeleton:
 - The slopes meet the frame lands at the apex lines; that is the seal line.
-- The flat dampers clear the coil by 8 mm.
+- The nearest damper body is 279 mm from the coil.
+- The two dampers at each corner meet only along the shared corner edge.
 - The coil's terminal pipes and unions lie in the **dead triangle above the rear slope**, which also holds the water-bay reserve, 290 mm from the core.
 - The front-bottom dead triangle is free for controls, a fan or condensate equipment.
 
@@ -71,17 +80,23 @@ The same two wedges serve both modes. Each wedge acts as a distributor in one mo
 
 The slope is the balancing device. Header velocity stays nearly constant, so neither regain nor mixing loss builds up along the height. This holds only if the sloped wall reaches the coil land at the end of the active face. That becomes a hard detail requirement: no apex gap.
 
-The model does not resolve the damper jet entering the mouth. That jet runs along the plenum axis at about 2× the mouth velocity, rather than turning 90° into a side box. G0 for this topology is therefore one mouth: one damper discharging into a full-width wedge.
+The model does not resolve the inlet jet.
+- With the corner positions, the P inlet on the front slope discharges along the slope's inward normal: toward the coil and 35° upward. It runs at about 6.2 m/s (q ≈ 23 Pa) into the roof corner, then turns down over the face.
+- The R inlet on the rear slope is the mirror image.
+- The collector outlets (R through the roof, P through the floor) leave along the plenum axis and are insensitive.
+- The top or bottom band could be over- or under-fed, of order 5–15% [E]. The sign is not predictable from a header model.
+
+G0′ for this topology is therefore one slope inlet: one corner damper discharging into a full-width wedge. If needed, an inlet turning-vane cassette fits inside the slope damper's inner flange.
 
 **Path loss** [E, `cube_screens.json`]. The cube process path is **94–143 Pa** including both dampers. On the same basis, the selector-box path is 233–315 Pa. The cube saves 90–221 Pa, or **0.2–0.5 kW of fan shaft power** per running fan at η 0.6.
 
 ## 4. What remains hard (decisions for the owners)
 
-1. **Damper end housings (topology-independent).** Side-by-side 706 mm dampers with shafts along Y leave 94 mm between beds at an 800 mm pitch. Two inboard R21/D01 feedback ends need 434 mm [V, RT1 D1]. Options:
+1. **Damper end housings (topology-independent).** The corner layout keeps each damper's shaft along Y. Bed A's and bed B's dampers sit at the same corner positions, and side-by-side 706 mm dampers leave 94 mm between beds at an 800 mm pitch. Two inboard R21/D01 feedback ends need 434 mm [V, RT1 D1]. Options:
    - (a) A single-ended damper, with drive and feedback at the same outboard end (damper owner). **Recommended**, because it keeps the cube.
    - (b) Rotate bed B 180° about Z, so the mouths alternate front and rear between beds. This contradicts the same-orientation water directive.
    - (c) A bed pitch of ≥1140 mm, which makes the module 1.64 × 2.3 × 1.52 m and no longer a cube.
-2. **Damper orientation.** The dampers lie flat, with vertical flow and horizontal shafts. The R21 P cold-test orientation O1′ already puts the P flow axis vertical [S, `R21_COORDINATE_FRAMES.json`], but D01 is qualified for horizontal flow. The damper owner must confirm the wet bay, film retention and drainage with vertical flow, for both P and R.
+2. **Damper orientation.** The roof and floor dampers lie flat (vertical flow). The slope dampers are inclined 55° from horizontal (flow 35° from horizontal). All shafts stay horizontal. The R21 P cold-test orientation O1′ already puts the P flow axis vertical [S, `R21_COORDINATE_FRAMES.json`], but D01 is qualified for horizontal flow. The damper owner must confirm the wet bay, film retention and drainage in both orientation types (flat, and 55° slope) for each damper size: P on the slope and floor, R on the roof and slope.
 3. **Weather and water.**
    - The top P intake needs a rain hood and mist eliminator.
    - The bottom R intake needs a free inlet area under the unit (legs or a skirt, about 300 mm).
@@ -98,14 +113,14 @@ The model does not resolve the damper jet entering the mouth. That jet runs alon
 | M101 C05 coil, tray, vents and the W1→W2 function table (signed) | Selector boxes, the 8-channel guide stacks, the 32 balancing plates, slots and keepers |
 | The seal approach: stiff carrier, gasket on the 20 mm lands, a closed force loop, plus RT3 D1–D3 (stud setback, preload with disc springs, an HX datum) | The 210 mm plinth and 2.76 m height; the stacked P/R ports on one box face |
 | HYD-R2 eight two-way valve bay, relocated into the top-rear dead triangle (shorter spools) | C06/C07 discharge sleeves and the inner rear damper bay |
-| D01 dampers (subject to §4.1–4.2), with D02-style point bearings re-laid for flat dampers | Face probes in the plate jets; the R-vane bosses (not needed) |
+| D01 dampers at the 4-bed corner positions (subject to §4.1–4.2), with D02-style point bearings re-laid for the roof, floor and 55° slope positions | Face probes in the plate jets; the C07 R-vane bosses (replaced by an optional vane cassette in each slope damper's inner flange) |
 | C1–C8 test logic: bed-A article first, a pressure-film and tracer seat test, 8 × 12 face map, regeneration tested first | G0 as defined in RT1 (replaced by the one-mouth G0 above) |
 
 ## 6. Next steps
 
 1. **Shell2.** Issue C08 on this topology. The parameters are D, the bed pitch, the apex detail at the land, the mouth transitions and the dead-triangle allocation. Carry the §5 keep list and RT3 D1–D3.
-2. **Damper owner.** Decide §4.1 (recommend a single-ended damper) and §4.2 (flat orientation).
-3. **G0′.** A one-mouth mock-up or CFD: a full-width wedge with a 700 mm mouth, one flat damper discharging, the C05 coil as a porous zone. Accept on the C3 gate (0.80–1.20, CV ≤10%). The header model predicts a CV of about 1% before mouth effects.
+2. **Damper owner.** Decide §4.1 (recommend a single-ended damper) and §4.2 (flat and 55° slope orientations). Confirm whether a sealing two-plate, single-actuator diverter at the shared corner edge is worth requalifying later.
+3. **G0′.** A one-plenum mock-up or CFD: a full-width wedge with a 700 mm mouth, the P damper discharging through the slope at the top corner, the C05 coil as a porous zone. The R inlet is its point-symmetric image at a smaller damper size. Accept on the C3 gate (0.80–1.20, CV ≤10%). The header model predicts a CV of about 1% before mouth effects.
 4. **Hydronics and HX.** Re-route the four spools into the rear dead triangle. Check the vent high points with the coil's terminal pipes now below the module roof.
 
 ## 7. Reproduction
@@ -119,4 +134,4 @@ python tools/cube_screens.py results/cube_concept.json results/cube_screens.json
 python tools/figure_cube.py results/cube_concept.json results/zflow.json fig_cube.png
 ```
 
-The C05 STEP comes from `HX/M101_D952_P254_220_39x6_C05/M101_C05_RT2_CAD.zip`, as the gzip member inside it. `cube_concept.py` writes `CUBE_CONCEPT.step`, about 860 MB because it holds both detailed cores. That file is not committed; regenerate it.
+The C05 STEP comes from `HX/M101_D952_P254_220_39x6_C05/M101_C05_RT2_CAD.zip`, as the gzip member inside it. `cube_concept.py` writes `CUBE_CONCEPT_SKELETON.step` (shell skeleton only). With `--step` it writes `CUBE_CONCEPT_WITH_CORES.step`, about 860 MB, which is not committed.

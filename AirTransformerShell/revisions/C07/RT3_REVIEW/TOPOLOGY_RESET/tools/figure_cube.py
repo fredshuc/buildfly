@@ -17,16 +17,27 @@ a.add_patch(Polygon([(220,ZT),(220+D,ZB),(220,ZB)],fc='#fbe3cf',ec='#a8622b'))
 a.add_patch(Rectangle((0,ZB-54),220,1249,fc='none',ec='#816a49',ls='--'))
 a.add_patch(Rectangle((0,ZB),220,1000,fc='#e7d4af',ec='#816a49',hatch='///'))
 a.text(110,ZB+500,'M101 C05\ncoil',ha='center',va='center',fontsize=9,bbox=dict(fc='white',ec='none'))
-for x,w,lab,col,zz in ((-429,421,'P in',"#82c1dc",ZT+20),(-D-1,256,'R out',"#f1b27d",ZT+20),(228,421,'P out',"#82c1dc",ZB-200),(220+D+1-256,256,'R in',"#f1b27d",ZB-200)):
-    a.add_patch(Rectangle((x,zz),w,180,fc=col,ec='#333',alpha=.9));a.text(x+w/2,zz+90,lab,ha='center',va='center',fontsize=8.5,weight='bold')
+import math
+H=ZT-ZB
+def body(corner,phi,L):
+    f=math.radians(phi);su=(math.cos(f),-math.sin(f));nw=(math.sin(f),math.cos(f))
+    return [(corner[0]+u*su[0]+w*nw[0],corner[1]+u*su[1]+w*nw[1]) for u,w in ((0,0),(L,0),(L,-180),(0,-180))]
+pt=math.degrees(math.atan2(H,D))
+for poly,lab,col in ((body((-D,ZT),pt,421),'P in',"#82c1dc"),([(-D,ZT),(-D+256,ZT),(-D+256,ZT+180),(-D,ZT+180)],'R out',"#f1b27d"),
+                     ([(220+D-421,ZB),(220+D,ZB),(220+D,ZB-180),(220+D-421,ZB-180)],'P out',"#82c1dc"),(body((220+D,ZB),pt-180,256),'R in',"#f1b27d")):
+    a.add_patch(Polygon(poly,fc=col,ec='#333',alpha=.9));cx=sum(p[0] for p in poly)/4;cz=sum(p[1] for p in poly)/4
+    a.text(cx,cz,lab,ha='center',va='center',fontsize=8.5,weight='bold')
+a.text(-D+30,ZT-95,f"{c['damper_dihedral_deg']:.0f}°",fontsize=9,color='#333')
+a.text(220+D-95,ZB+40,f"{c['damper_dihedral_deg']:.0f}°",fontsize=9,color='#333')
 a.add_patch(Rectangle((640,ZT-300),260,500,fc='#c7d3ea',ec='#4b5f8a',alpha=.8));a.text(770,ZT-50,'water bay\n(dead triangle)',ha='center',fontsize=8)
 a.text(-350,ZB+120,'free triangle:\ncontrols / fan /\ncondensate',ha='center',fontsize=8,color='#555')
 def arrow(p,q,col):a.add_patch(FancyArrowPatch(p,q,arrowstyle='-|>',mutation_scale=14,color=col,lw=2))
-arrow((-220,ZT+230),(-220,ZT-150),'#1f6fa8');arrow((-160,ZT-450),(10,ZT-450),'#1f6fa8');arrow((240,ZT-450),(330,ZT-450),'#1f6fa8');arrow((500,ZB+150),(500,ZB-230),'#1f6fa8')
-arrow((800,ZB-230),(800,ZB+150),'#c4651c');arrow((330,ZB+330),(240,ZB+330),'#c4651c');arrow((10,ZB+330),(-120,ZB+330),'#c4651c');arrow((-600,ZT-150),(-600,ZT+230),'#c4651c')
-a.text(-690,ZT-260,'R up, -X',color='#c4651c',fontsize=9);a.text(-150,ZT-360,'P down, +X',color='#1f6fa8',fontsize=9)
-a.text(ex[0]+10,ez[1]+25,f"envelope {c['dimensions_mm']['x']:.0f} × {c['dimensions_mm']['y']:.0f} × {c['dimensions_mm']['z']:.0f} mm (X×Y×Z), mouth {D:.0f} mm, slope {c['slope_from_vertical_deg']}° from vertical",fontsize=8.5)
-a.set(xlim=(ex[0]-60,ex[1]+60),ylim=(ez[0]-60,ez[1]+90),xlabel='X (mm)',ylabel='Z (mm)',title='(a) Bed-centre section')
+arrow((-760,ZT-260),(-560,ZT-120),'#1f6fa8');arrow((-160,ZT-450),(10,ZT-450),'#1f6fa8');arrow((240,ZT-450),(330,ZT-450),'#1f6fa8');arrow((700,ZB+150),(700,ZB-230),'#1f6fa8')
+arrow((1000,ZB+150),(800,ZB+10),'#c4651c');arrow((330,ZB+330),(240,ZB+330),'#c4651c');arrow((10,ZB+330),(-120,ZB+330),'#c4651c');arrow((-570,ZT-150),(-570,ZT+260),'#c4651c')
+a.text(-560,ZT+290,'to rooftop fan',fontsize=8,color='#c4651c')
+a.text(-450,ZT-330,'R up, -X',color='#c4651c',fontsize=9);a.text(-150,ZT-360,'P down, +X',color='#1f6fa8',fontsize=9)
+a.text(ex[0]+10,ez[1]+25,f"envelope {c['dimensions_mm']['x']:.0f} × {c['dimensions_mm']['y']:.0f} × {c['dimensions_mm']['z']:.0f} mm (X×Y×Z), mouth {D:.0f} mm, slope {c['slope_from_vertical_deg']}° from vertical; damper planes {c['damper_dihedral_deg']:.0f}° at each corner",fontsize=8.5)
+a.set(xlim=(ex[0]-200,ex[1]+200),ylim=(ez[0]-60,ez[1]+90),xlabel='X (mm)',ylabel='Z (mm)',title='(a) Bed-centre section')
 a.set_aspect('equal')
 pick=lambda **k:[r for r in z['cases'] if all(r.get(x)==v for x,v in k.items())][0]
 xs=range(1,9)
