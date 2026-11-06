@@ -1,0 +1,14 @@
+﻿id,name,wp,lead,type,dissemination,month,description
+D1.1,Data management plan and schema,WP1,SAV,DMP,PU,4,"Initial data management plan, access classes, units, identifiers and holdout governance; updates at M18 and M36."
+D2.1,Composition and production fingerprint dossier,WP2,IRC,R,SEN,18,"Constitutive data, independent batch evidence and two qualified powder candidates."
+D2.2,Validation production and ageing evidence,WP2,IRC,R,SEN,26,"180 independent 1 kg production batches, allocations and coupon-ageing results with limits."
+D3.1,Manufacturing windows and cartridge interface,WP3,IKTS,R,SEN,18,"Two forming routes, measured transport and quality windows."
+D3.2,Independent validation cartridge release,WP3,IKTS,DEM,SEN,24,Twelve two-bed cartridge sets and as-built quality cards.
+D4.1,Control model and estimator release,WP4,UP,OTHER,SEN,22,"Executable model, estimator, observation mapping, domain, intervals and timing evidence."
+D4.2,Predictive transfer and mechanism assessment,WP4,UP,R,PU,34,Redacted reproducible findings with frozen and corrected predictions distinguished.
+D5.1,Qualified fixed MPC and RL policies,WP5,HPE,OTHER,SEN,24,"Three policies, tuning manifest, constraints, fallback and 108-test HIL evidence."
+D6.1,Instrumented reference platform and boundary,WP6,SAV,DEM,SEN,8,"Calibrated rig, reference protocol and full boundary/instrument contract."
+D6.2,Integrated laboratory validation and TRL evidence,WP6,SAV,R,SEN,36,"Complete matrix, independent repetitions, losses, uncertainty, failures and laboratory-readiness evidence; public redacted subset through D7.3."
+D7.1,Dissemination exploitation and communication plan,WP7,SAV,R,PU,6,"Separate early plan with audiences, outputs, ownership and communication actions."
+D7.2,Manufacturing environmental and economic assessment,WP7,SAV,R,SEN,32,Measured inventory and resource assessment with bounded scale-up assumptions.
+D7.3,Public results and protected exploitation roadmap,WP7,SAV,R,PU,36,"Six research-output submissions, three events, adopter synthesis and four exploitable-result routes, redacted before publication."

@@ -1,0 +1,27 @@
+flowchart TD
+  A["A Service and interface contract M1 to M2"]
+  B["B Composition screening M3 to M9"]
+  R["R Reference rig M3 to M8"]
+  C["C Production confirmation M10 to M14"]
+  S["S Reference identification and ROM M9 to M14"]
+  D["D Two shaping windows M15 to M18"]
+  T["T Policies and HIL qualification M15 to M20"]
+  E["E Production and process release M19 to M21"]
+  J["J Deployment and metering closure M21 to M24"]
+  F["F Cartridges and validation freeze M22 to M24"]
+  G["G Prospective comparisons M25 to M32"]
+  H["H Correction and repeat buffer M33 to M34"]
+  I["I Transfer and evidence M35 to M36"]
+  A --> B
+  B --> C
+  C --> D
+  D --> E
+  E --> F
+  F --> G
+  J --> G
+  G --> H
+  H --> I
+  A --> R
+  R --> S
+  S --> T
+  T --> J

@@ -1,0 +1,880 @@
+{
+  "task": "MAT61-L2-S3-T01-R1",
+  "date": "2026-11-06",
+  "basis": "10 kW module",
+  "tests": 144,
+  "passed": 144,
+  "failed": 0,
+  "status": "PASS",
+  "checks": [
+    {
+      "check": "Exactly the authorised five participants",
+      "passed": true,
+      "detail": "['SAV', 'IRC', 'IKTS', 'UP', 'HPE']"
+    },
+    {
+      "check": "Unique wps",
+      "passed": true,
+      "detail": 7
+    },
+    {
+      "check": "Unique tasks",
+      "passed": true,
+      "detail": 22
+    },
+    {
+      "check": "Unique costs",
+      "passed": true,
+      "detail": 41
+    },
+    {
+      "check": "Unique deliverables",
+      "passed": true,
+      "detail": 13
+    },
+    {
+      "check": "Unique milestones",
+      "passed": true,
+      "detail": 9
+    },
+    {
+      "check": "Unique risks",
+      "passed": true,
+      "detail": 10
+    },
+    {
+      "check": "Unique interfaces",
+      "passed": true,
+      "detail": 5
+    },
+    {
+      "check": "Seven WPs and 22 tasks",
+      "passed": true,
+      "detail": {
+        "wps": 7,
+        "tasks": 22
+      }
+    },
+    {
+      "check": "T1.1 dates and responsibility",
+      "passed": true,
+      "detail": "Coordination and technical decisions"
+    },
+    {
+      "check": "T1.1 allocation and acceptance",
+      "passed": true,
+      "detail": 7.0
+    },
+    {
+      "check": "T1.2 dates and responsibility",
+      "passed": true,
+      "detail": "Data quality and reproducibility"
+    },
+    {
+      "check": "T1.2 allocation and acceptance",
+      "passed": true,
+      "detail": 7
+    },
+    {
+      "check": "T1.3 dates and responsibility",
+      "passed": true,
+      "detail": "Resources and operational readiness"
+    },
+    {
+      "check": "T1.3 allocation and acceptance",
+      "passed": true,
+      "detail": 4.0
+    },
+    {
+      "check": "T2.1 dates and responsibility",
+      "passed": true,
+      "detail": "Composition exploration and cycle fingerprints"
+    },
+    {
+      "check": "T2.1 allocation and acceptance",
+      "passed": true,
+      "detail": 13
+    },
+    {
+      "check": "T2.2 dates and responsibility",
+      "passed": true,
+      "detail": "Reproducible production and mechanistic measurements"
+    },
+    {
+      "check": "T2.2 allocation and acceptance",
+      "passed": true,
+      "detail": 15
+    },
+    {
+      "check": "T2.3 dates and responsibility",
+      "passed": true,
+      "detail": "Validation batches and ageing"
+    },
+    {
+      "check": "T2.3 allocation and acceptance",
+      "passed": true,
+      "detail": 15
+    },
+    {
+      "check": "T3.1 dates and responsibility",
+      "passed": true,
+      "detail": "Two shaping routes and interface specification"
+    },
+    {
+      "check": "T3.1 allocation and acceptance",
+      "passed": true,
+      "detail": 12
+    },
+    {
+      "check": "T3.2 dates and responsibility",
+      "passed": true,
+      "detail": "Manufacturing windows and transport parameters"
+    },
+    {
+      "check": "T3.2 allocation and acceptance",
+      "passed": true,
+      "detail": 15
+    },
+    {
+      "check": "T3.3 dates and responsibility",
+      "passed": true,
+      "detail": "Independent cartridges and quality release"
+    },
+    {
+      "check": "T3.3 allocation and acceptance",
+      "passed": true,
+      "detail": 12
+    },
+    {
+      "check": "T4.1 dates and responsibility",
+      "passed": true,
+      "detail": "Conservation models and identifiable experiments"
+    },
+    {
+      "check": "T4.1 allocation and acceptance",
+      "passed": true,
+      "detail": 12
+    },
+    {
+      "check": "T4.2 dates and responsibility",
+      "passed": true,
+      "detail": "Reduced models and state estimation"
+    },
+    {
+      "check": "T4.2 allocation and acceptance",
+      "passed": true,
+      "detail": 16
+    },
+    {
+      "check": "T4.3 dates and responsibility",
+      "passed": true,
+      "detail": "Prospective prediction and model correction"
+    },
+    {
+      "check": "T4.3 allocation and acceptance",
+      "passed": true,
+      "detail": 9
+    },
+    {
+      "check": "T5.1 dates and responsibility",
+      "passed": true,
+      "detail": "Control baselines and common information"
+    },
+    {
+      "check": "T5.1 allocation and acceptance",
+      "passed": true,
+      "detail": 7
+    },
+    {
+      "check": "T5.2 dates and responsibility",
+      "passed": true,
+      "detail": "Constrained RL for energy flow allocation"
+    },
+    {
+      "check": "T5.2 allocation and acceptance",
+      "passed": true,
+      "detail": 15
+    },
+    {
+      "check": "T5.3 dates and responsibility",
+      "passed": true,
+      "detail": "Closed loop comparison and transfer"
+    },
+    {
+      "check": "T5.3 allocation and acceptance",
+      "passed": true,
+      "detail": 7
+    },
+    {
+      "check": "T6.1 dates and responsibility",
+      "passed": true,
+      "detail": "Early instrumented reference platform"
+    },
+    {
+      "check": "T6.1 allocation and acceptance",
+      "passed": true,
+      "detail": 11
+    },
+    {
+      "check": "T6.2 dates and responsibility",
+      "passed": true,
+      "detail": "Actuator ablation and component iterations"
+    },
+    {
+      "check": "T6.2 allocation and acceptance",
+      "passed": true,
+      "detail": 12
+    },
+    {
+      "check": "T6.3 dates and responsibility",
+      "passed": true,
+      "detail": "Blinded integrated comparison"
+    },
+    {
+      "check": "T6.3 allocation and acceptance",
+      "passed": true,
+      "detail": 17
+    },
+    {
+      "check": "T6.4 dates and responsibility",
+      "passed": true,
+      "detail": "Evidence consolidation and TRL 4 assessment"
+    },
+    {
+      "check": "T6.4 allocation and acceptance",
+      "passed": true,
+      "detail": 5
+    },
+    {
+      "check": "T7.1 dates and responsibility",
+      "passed": true,
+      "detail": "Early dissemination exploitation and communication plan"
+    },
+    {
+      "check": "T7.1 allocation and acceptance",
+      "passed": true,
+      "detail": 2
+    },
+    {
+      "check": "T7.2 dates and responsibility",
+      "passed": true,
+      "detail": "Manufacturing sustainability and economic boundaries"
+    },
+    {
+      "check": "T7.2 allocation and acceptance",
+      "passed": true,
+      "detail": 5
+    },
+    {
+      "check": "T7.3 dates and responsibility",
+      "passed": true,
+      "detail": "Protected results and subsequent development"
+    },
+    {
+      "check": "T7.3 allocation and acceptance",
+      "passed": true,
+      "detail": 6
+    },
+    {
+      "check": "PM closure",
+      "passed": true,
+      "detail": {
+        "SAV": 66,
+        "IRC": 48.0,
+        "IKTS": 40.0,
+        "UP": 44.0,
+        "HPE": 26.0
+      }
+    },
+    {
+      "check": "SAV role PM closure",
+      "passed": true,
+      "detail": 66
+    },
+    {
+      "check": "IRC role PM closure",
+      "passed": true,
+      "detail": 48
+    },
+    {
+      "check": "IKTS role PM closure",
+      "passed": true,
+      "detail": 40
+    },
+    {
+      "check": "UP role PM closure",
+      "passed": true,
+      "detail": 44
+    },
+    {
+      "check": "HPE role PM closure",
+      "passed": true,
+      "detail": 26
+    },
+    {
+      "check": "SAV monthly PM integral",
+      "passed": true,
+      "detail": 66.0
+    },
+    {
+      "check": "SAV Scientific coordinator peak",
+      "passed": true,
+      "detail": {
+        "peak": 0.5490532640265261,
+        "capacity": 0.6,
+        "people": 1
+      }
+    },
+    {
+      "check": "SAV Integration engineers peak",
+      "passed": true,
+      "detail": {
+        "peak": 1.3726331600663153,
+        "capacity": 1.5,
+        "people": 2
+      }
+    },
+    {
+      "check": "SAV Experimental technicians peak",
+      "passed": true,
+      "detail": {
+        "peak": 0.9150887733775435,
+        "capacity": 1.0,
+        "people": 2
+      }
+    },
+    {
+      "check": "SAV Project and data officer peak",
+      "passed": true,
+      "detail": {
+        "peak": 0.1830177546755087,
+        "capacity": 0.2,
+        "people": 1
+      }
+    },
+    {
+      "check": "IRC monthly PM integral",
+      "passed": true,
+      "detail": 48.0
+    },
+    {
+      "check": "IRC Materials scientific lead peak",
+      "passed": true,
+      "detail": {
+        "peak": 0.34351739967548794,
+        "capacity": 0.4,
+        "people": 1
+      }
+    },
+    {
+      "check": "IRC Synthesis and sorption researchers peak",
+      "passed": true,
+      "detail": {
+        "peak": 1.6030811984856104,
+        "capacity": 1.65,
+        "people": 2
+      }
+    },
+    {
+      "check": "IRC Laboratory technicians peak",
+      "passed": true,
+      "detail": {
+        "peak": 0.8015405992428052,
+        "capacity": 0.9,
+        "people": 2
+      }
+    },
+    {
+      "check": "IKTS monthly PM integral",
+      "passed": true,
+      "detail": 40.0
+    },
+    {
+      "check": "IKTS Shaping scientific lead peak",
+      "passed": true,
+      "detail": {
+        "peak": 0.35248825928972993,
+        "capacity": 0.4,
+        "people": 1
+      }
+    },
+    {
+      "check": "IKTS Process researchers peak",
+      "passed": true,
+      "detail": {
+        "peak": 1.4099530371589197,
+        "capacity": 1.5,
+        "people": 2
+      }
+    },
+    {
+      "check": "IKTS Manufacturing technicians peak",
+      "passed": true,
+      "detail": {
+        "peak": 0.5874804321495498,
+        "capacity": 0.8,
+        "people": 2
+      }
+    },
+    {
+      "check": "UP monthly PM integral",
+      "passed": true,
+      "detail": 44.0
+    },
+    {
+      "check": "UP Modelling scientific lead peak",
+      "passed": true,
+      "detail": {
+        "peak": 0.42874663957551656,
+        "capacity": 0.5,
+        "people": 1
+      }
+    },
+    {
+      "check": "UP Dynamic modelling researchers peak",
+      "passed": true,
+      "detail": {
+        "peak": 1.6077998984081872,
+        "capacity": 1.8,
+        "people": 2
+      }
+    },
+    {
+      "check": "UP Research software engineer peak",
+      "passed": true,
+      "detail": {
+        "peak": 0.3215599796816374,
+        "capacity": 0.4,
+        "people": 1
+      }
+    },
+    {
+      "check": "HPE monthly PM integral",
+      "passed": true,
+      "detail": 26.0
+    },
+    {
+      "check": "HPE Control scientific lead peak",
+      "passed": true,
+      "detail": {
+        "peak": 0.27837481146304677,
+        "capacity": 0.4,
+        "people": 1
+      }
+    },
+    {
+      "check": "HPE Control and HIL researchers peak",
+      "passed": true,
+      "detail": {
+        "peak": 0.9279160382101558,
+        "capacity": 1.3,
+        "people": 2
+      }
+    },
+    {
+      "check": "Personnel cost",
+      "passed": true,
+      "detail": 1458000.0
+    },
+    {
+      "check": "Direct and indirect closure",
+      "passed": true,
+      "detail": {
+        "direct": 1989780.0,
+        "indirect": 497445.0,
+        "total": 2487225.0
+      }
+    },
+    {
+      "check": "Ceiling and no reserve cost",
+      "passed": true,
+      "detail": 12775.0
+    },
+    {
+      "check": "All cost lines have task/WP ownership",
+      "passed": true,
+      "detail": 41
+    },
+    {
+      "check": "Snapshot independently reconciles",
+      "passed": true,
+      "detail": 2487225.0
+    },
+    {
+      "check": "Sensitivity arithmetic",
+      "passed": true,
+      "detail": {
+        "equipment_facility_compute": 274000.0,
+        "combined_stress": 2612600.0
+      }
+    },
+    {
+      "check": "D1.1 date inside action",
+      "passed": true,
+      "detail": 4
+    },
+    {
+      "check": "D2.1 date inside action",
+      "passed": true,
+      "detail": 18
+    },
+    {
+      "check": "D2.2 date inside action",
+      "passed": true,
+      "detail": 26
+    },
+    {
+      "check": "D3.1 date inside action",
+      "passed": true,
+      "detail": 18
+    },
+    {
+      "check": "D3.2 date inside action",
+      "passed": true,
+      "detail": 24
+    },
+    {
+      "check": "D4.1 date inside action",
+      "passed": true,
+      "detail": 22
+    },
+    {
+      "check": "D4.2 date inside action",
+      "passed": true,
+      "detail": 34
+    },
+    {
+      "check": "D5.1 date inside action",
+      "passed": true,
+      "detail": 24
+    },
+    {
+      "check": "D6.1 date inside action",
+      "passed": true,
+      "detail": 8
+    },
+    {
+      "check": "D6.2 date inside action",
+      "passed": true,
+      "detail": 36
+    },
+    {
+      "check": "D7.1 date inside action",
+      "passed": true,
+      "detail": 6
+    },
+    {
+      "check": "D7.2 date inside action",
+      "passed": true,
+      "detail": 32
+    },
+    {
+      "check": "D7.3 date inside action",
+      "passed": true,
+      "detail": 36
+    },
+    {
+      "check": "MS1 date inside action",
+      "passed": true,
+      "detail": 2
+    },
+    {
+      "check": "MS2 date inside action",
+      "passed": true,
+      "detail": 8
+    },
+    {
+      "check": "MS3 date inside action",
+      "passed": true,
+      "detail": 9
+    },
+    {
+      "check": "MS3A date inside action",
+      "passed": true,
+      "detail": 12
+    },
+    {
+      "check": "MS4 date inside action",
+      "passed": true,
+      "detail": 18
+    },
+    {
+      "check": "MS5 date inside action",
+      "passed": true,
+      "detail": 24
+    },
+    {
+      "check": "MS6 date inside action",
+      "passed": true,
+      "detail": 32
+    },
+    {
+      "check": "MS7 date inside action",
+      "passed": true,
+      "detail": 34
+    },
+    {
+      "check": "MS8 date inside action",
+      "passed": true,
+      "detail": 36
+    },
+    {
+      "check": "Separate early DMP and communication plan",
+      "passed": true,
+      "detail": {
+        "DMP": 4,
+        "PEC": 6
+      }
+    },
+    {
+      "check": "Early parallelism",
+      "passed": true,
+      "detail": true
+    },
+    {
+      "check": "At least nine months integrated validation",
+      "passed": true,
+      "detail": 12
+    },
+    {
+      "check": "Acyclic 36-month critical schedule",
+      "passed": true,
+      "detail": {
+        "A": 2,
+        "B": 9,
+        "R": 8,
+        "S": 14,
+        "C": 14,
+        "T": 20,
+        "D": 18,
+        "E": 21,
+        "J": 24,
+        "F": 24,
+        "G": 32,
+        "H": 34,
+        "I": 36
+      }
+    },
+    {
+      "check": "Final matrix includes a nominal 10 kW condition",
+      "passed": true,
+      "detail": [
+        [
+          "C09",
+          "FINAL",
+          55,
+          25,
+          70,
+          10.0,
+          "Nominal boundary with withheld preparation history"
+        ]
+      ]
+    },
+    {
+      "check": "User 10 kW module basis",
+      "passed": true,
+      "detail": {
+        "nominal_kW": 10,
+        "dry_mass_kg": 20,
+        "cycle_s": 600
+      }
+    },
+    {
+      "check": "Independent sizing and dimensions",
+      "passed": true,
+      "detail": {
+        "estimated_kW": 10.5,
+        "water_flow_m3h": 1.722488038277512
+      }
+    },
+    {
+      "check": "Vapour flow design range",
+      "passed": true,
+      "detail": {
+        "T_K": 323.15,
+        "p_abs_Pa": 12339.753799188664,
+        "water_kg_s": 0.005,
+        "m3_h": 217.54137835201374,
+        "source": "NIST Chemistry WebBook coefficients plus ideal-gas approximation"
+      }
+    },
+    {
+      "check": "All proposed condition duties use 10 kW basis",
+      "passed": true,
+      "detail": {
+        "C01": 10.0,
+        "C02": 8.0,
+        "C03": 10.0,
+        "C04": 8.0,
+        "C05": 10.0,
+        "C06": 8.0,
+        "C07": 10.0,
+        "C08": 5.0,
+        "C09": 10.0,
+        "C10": 10.0,
+        "C11": 7.0,
+        "C12": 8.0
+      }
+    },
+    {
+      "check": "237 syntheses and 186.12 kg new powder",
+      "passed": true,
+      "detail": {
+        "syntheses": 237,
+        "kg": 186.12
+      }
+    },
+    {
+      "check": "Final powder and shaped charge balance",
+      "passed": true,
+      "detail": {
+        "new_recovered": 153.0,
+        "all_final_active": 240
+      }
+    },
+    {
+      "check": "Reference development and final feed fits",
+      "passed": true,
+      "detail": {
+        "total_raw_spare": 34.823529411764696,
+        "batch_A_raw_spare": 8.941176470588232
+      }
+    },
+    {
+      "check": "Production finishes before M24 forming",
+      "passed": true,
+      "detail": {
+        "capacity": 5940,
+        "required": 5760,
+        "margin": 180
+      }
+    },
+    {
+      "check": "Full-history rig hours",
+      "passed": true,
+      "detail": {
+        "all_rig_hours": 2104,
+        "primary": 1152
+      }
+    },
+    {
+      "check": "Complete planned validation matrix",
+      "passed": true,
+      "detail": 144
+    },
+    {
+      "check": "Replication is at independent group level",
+      "passed": true,
+      "detail": "12 paired histories per set, 3 independent sets per physical cell"
+    },
+    {
+      "check": "R1 trigger impact and consequences",
+      "passed": true,
+      "detail": true
+    },
+    {
+      "check": "R2 trigger impact and consequences",
+      "passed": true,
+      "detail": true
+    },
+    {
+      "check": "R3 trigger impact and consequences",
+      "passed": true,
+      "detail": true
+    },
+    {
+      "check": "R4 trigger impact and consequences",
+      "passed": true,
+      "detail": true
+    },
+    {
+      "check": "R5 trigger impact and consequences",
+      "passed": true,
+      "detail": true
+    },
+    {
+      "check": "R6 trigger impact and consequences",
+      "passed": true,
+      "detail": true
+    },
+    {
+      "check": "R7 trigger impact and consequences",
+      "passed": true,
+      "detail": true
+    },
+    {
+      "check": "R8 trigger impact and consequences",
+      "passed": true,
+      "detail": true
+    },
+    {
+      "check": "R9 trigger impact and consequences",
+      "passed": true,
+      "detail": true
+    },
+    {
+      "check": "R10 trigger impact and consequences",
+      "passed": true,
+      "detail": true
+    },
+    {
+      "check": "Original template preserved",
+      "passed": true,
+      "detail": "507cc6ad2831936b3b41e2bed6ec784cb1c50ba61b1e8dd80590639565575977"
+    },
+    {
+      "check": "All official table identifiers",
+      "passed": true,
+      "detail": true
+    },
+    {
+      "check": "No obsolete small-module duty in final narrative",
+      "passed": true,
+      "detail": true
+    },
+    {
+      "check": "Narrative current budget",
+      "passed": true,
+      "detail": true
+    },
+    {
+      "check": "Word contains complete task and budget content",
+      "passed": true,
+      "detail": true
+    },
+    {
+      "check": "Table text at least 11 pt",
+      "passed": true,
+      "detail": 11.0
+    },
+    {
+      "check": "A4 section margins at least 15 mm",
+      "passed": true,
+      "detail": 9
+    },
+    {
+      "check": "No title paragraph border or hidden revisions",
+      "passed": true,
+      "detail": true
+    },
+    {
+      "check": "No inherited title border in styles",
+      "passed": true,
+      "detail": true
+    },
+    {
+      "check": "Workbook contains live formulas and no cached errors",
+      "passed": true,
+      "detail": {
+        "formula_cells": 2252,
+        "errors": []
+      }
+    },
+    {
+      "check": "Workbook recalculation tests passed",
+      "passed": true,
+      "detail": true
+    }
+  ],
+  "scope_limit": "Design/file/arithmetic checks only. No physical experiment, partner commitment or Portal submission was executed."
+}

@@ -1,0 +1,408 @@
+{
+  "budget": 2487225,
+  "pm": 224,
+  "personnel_test_delta": 82.5,
+  "expected_personnel_delta": 82.5,
+  "utility_test_delta": 51.25,
+  "expected_utility_delta": 51.25,
+  "restored": true,
+  "sheets": [
+    "Summary",
+    "Assumptions",
+    "Tasks",
+    "Cost lines",
+    "Workload",
+    "Monthly FTE",
+    "Schedule",
+    "Sensitivity",
+    "Checks"
+  ],
+  "summary": [
+    [
+      "SAV",
+      66,
+      396000,
+      12000,
+      128000,
+      97380,
+      633380,
+      158345,
+      791725,
+      720000,
+      71725
+    ],
+    [
+      "IRC",
+      48,
+      288000,
+      12000,
+      12000,
+      102400,
+      414400,
+      103600,
+      518000,
+      480000,
+      38000
+    ],
+    [
+      "IKTS",
+      40,
+      320000,
+      10000,
+      12000,
+      72000,
+      414000,
+      103500,
+      517500,
+      500000,
+      17500
+    ],
+    [
+      "UP",
+      44,
+      220000,
+      10000,
+      18000,
+      28000,
+      276000,
+      69000,
+      345000,
+      400000,
+      -55000
+    ],
+    [
+      "HPE",
+      26,
+      234000,
+      6000,
+      4000,
+      8000,
+      252000,
+      63000,
+      315000,
+      300000,
+      15000
+    ],
+    [
+      "Total",
+      224,
+      1458000,
+      50000,
+      174000,
+      307780,
+      1989780,
+      497445,
+      2487225,
+      2400000,
+      87225
+    ]
+  ],
+  "sizing": [
+    [
+      "Nominal module duty",
+      10,
+      "kW",
+      null
+    ],
+    [
+      "Average useful heat from inventory",
+      10.5,
+      "kW",
+      null
+    ],
+    [
+      "Useful water flow",
+      1.722488038277512,
+      "m3/h",
+      null
+    ],
+    [
+      "Source heat design",
+      25,
+      "kW",
+      null
+    ],
+    [
+      "Production recovered new MOF",
+      153,
+      "kg",
+      null
+    ],
+    [
+      "Main rig hours",
+      2104,
+      "hour",
+      null
+    ],
+    [
+      "Primary matrix run count",
+      144,
+      "history",
+      null
+    ],
+    [
+      "Primary rig booking capacity",
+      1440,
+      "hour",
+      null
+    ],
+    [
+      "Final production train capacity",
+      5940,
+      "hour",
+      null
+    ]
+  ],
+  "sensitivity": [
+    [
+      "Recommended",
+      0,
+      0,
+      0,
+      2487225,
+      12775
+    ],
+    [
+      "All personnel rates +5%",
+      0.05,
+      0,
+      72900,
+      2578350,
+      -78350
+    ],
+    [
+      "All personnel rates +10%",
+      0.1,
+      0,
+      145800,
+      2669475,
+      -169475
+    ],
+    [
+      "All equipment/facility/compute +10%",
+      0,
+      0.1,
+      27400,
+      2521475,
+      -21475
+    ],
+    [
+      "Personnel +5% and equipment/services +10%",
+      0.05,
+      0.1,
+      100300,
+      2612600,
+      -112600
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Reference powder EUR200/kg",
+      200,
+      null,
+      10000,
+      2499725,
+      275
+    ],
+    [
+      "New production materials EUR300/kg",
+      300,
+      null,
+      9000,
+      2498475,
+      1525
+    ],
+    [
+      "Rig utility price +50%",
+      270,
+      null,
+      3690,
+      2491837.5,
+      8162.5
+    ]
+  ],
+  "checks": [
+    [
+      "Partner vs task PM",
+      0,
+      0,
+      "Zero"
+    ],
+    [
+      "WP vs partner PM",
+      0,
+      0,
+      "Zero"
+    ],
+    [
+      "WP vs partner budget",
+      0,
+      0,
+      "Zero"
+    ],
+    [
+      "Ceiling headroom",
+      12775,
+      ">=0",
+      "Positive margin, not a reserve"
+    ],
+    [
+      "Nominal 10 kW basis",
+      0,
+      0,
+      "Zero"
+    ],
+    [
+      "Calculated duty margin",
+      0.5,
+      ">=0",
+      "Planning estimate only"
+    ],
+    [
+      "Primary matrix run count",
+      0,
+      0,
+      "Zero"
+    ],
+    [
+      "Rig hours",
+      0,
+      0,
+      "Zero"
+    ],
+    [
+      "Production capacity margin",
+      180,
+      ">=0",
+      "Positive under access assumptions"
+    ],
+    [
+      "New powder after 75% recovery",
+      15,
+      ">=0",
+      "Excludes 9 kg retained characterisation from minimum charge"
+    ],
+    [
+      "Role PM vs partner PM",
+      0,
+      0,
+      "Zero"
+    ],
+    [
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "SAV Scientific coordinator peak",
+      0.05094673597347377,
+      ">=0",
+      null
+    ],
+    [
+      "SAV Integration engineers peak",
+      0.12736683993368447,
+      ">=0",
+      null
+    ],
+    [
+      "SAV Experimental technicians peak",
+      0.08491122662245643,
+      ">=0",
+      null
+    ],
+    [
+      "SAV Project and data officer peak",
+      0.016982245324491274,
+      ">=0",
+      null
+    ],
+    [
+      "IRC Materials scientific lead peak",
+      0.05648260032451213,
+      ">=0",
+      null
+    ],
+    [
+      "IRC Synthesis and sorption researchers peak",
+      0.04691880151438954,
+      ">=0",
+      null
+    ],
+    [
+      "IRC Laboratory technicians peak",
+      0.09845940075719484,
+      ">=0",
+      null
+    ],
+    [
+      "IKTS Shaping scientific lead peak",
+      0.0475117407102702,
+      ">=0",
+      null
+    ],
+    [
+      "IKTS Process researchers peak",
+      0.09004696284108071,
+      ">=0",
+      null
+    ],
+    [
+      "IKTS Manufacturing technicians peak",
+      0.21251956785045034,
+      ">=0",
+      null
+    ],
+    [
+      "UP Modelling scientific lead peak",
+      0.07125336042448344,
+      ">=0",
+      null
+    ],
+    [
+      "UP Dynamic modelling researchers peak",
+      0.1922001015918129,
+      ">=0",
+      null
+    ],
+    [
+      "UP Research software engineer peak",
+      0.07844002031836261,
+      ">=0",
+      null
+    ],
+    [
+      "HPE Control scientific lead peak",
+      0.12162518853695325,
+      ">=0",
+      null
+    ],
+    [
+      "HPE Control and HIL researchers peak",
+      0.37208396178984426,
+      ">=0",
+      null
+    ]
+  ]
+}
