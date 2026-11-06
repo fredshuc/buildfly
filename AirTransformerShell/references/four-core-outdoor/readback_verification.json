@@ -1,0 +1,9 @@
+{
+  "roundtrip": true,
+  "instances": 521,
+  "group_count": 11,
+  "max_bbox_error_mm": 0.00028542700852085545,
+  "worst_occurrence": "M203_SADDLE_BOSS_S_B_L_O",
+  "exact_name_set_match": true,
+  "excluded_hx_and_water_groups": true
+}
