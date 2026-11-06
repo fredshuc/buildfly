@@ -1,0 +1,7 @@
+# Four-core horizontal reference for AirTransformer
+
+Open the unchanged outdoor STP inside FOUR_CORE_SHEET_METAL_SYNC.zip to compare panels, openings, plenums and the original four-core arrangement. The package includes the historical 521-occurrence readback and S1/S2 occurrence-name crosswalk. The checksum of the original STEP is d20fbdc7a29cf05dad60b861e0eac5a06509d531450b63370dea08928586f6ae. The same uncompressed original is in [four-core-outdoor](../four-core-outdoor/).
+
+M2-IN1-R2 retained the R1 STEP unchanged. The later DB-MAIN-CAD-01 S1/S2 full-machine exchanges each contain 4,191 product occurrences. Each confirms both lower and upper HX on beds A and B. Use the full-machine states for interfaces, and apply later local returns only within their reviewed scope. In both whole-machine states 325 names match the original exterior list exactly; the other 196 require engineering reconciliation. No unified fabrication-release STEP was found. The complete S1/S2 archives and local returns are collected separately in the engineering workspace.
+
+Use two horizontal HX stages per bed for AirTransformer. The [red-team Revision 4 concept](https://github.com/fredshuc/buildfly/blob/cde56de58a1cd26a73ae7c3dccb99397ce21aabe/AirTransformerShell/revisions/C07/RT3_REVIEW/TOPOLOGY_RESET/CUBE_TOPOLOGY_RESET.md) preserves the flow directions but models only one stage per bed. Do not use that skeleton's dimensions as the four-core enclosure.
