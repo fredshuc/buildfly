@@ -1,0 +1,58 @@
+{
+ "port_q_Pa": 22.9,
+ "mouth_q_Pa": 5.9,
+ "terms": {
+  "P damper in (K 0.3-0.8 on port q)": [
+   6.9,
+   18.3
+  ],
+  "damper jet to mouth (K 0.5-1 on port q)": [
+   11.4,
+   22.9
+  ],
+  "turn from header into coil (K 0.5-1.5 on mouth q)": [
+   2.9,
+   8.8
+  ],
+  "coil (assumed)": [
+   60,
+   60
+  ],
+  "coil exit into collector (K 0.5-1.5 on mouth q)": [
+   2.9,
+   8.8
+  ],
+  "collector to mouth (K 0.5-1)": [
+   2.9,
+   5.9
+  ],
+  "P damper out (K 0.3-0.8 on port q)": [
+   6.9,
+   18.3
+  ]
+ },
+ "cube_process_path_Pa": [
+  94,
+  143
+ ],
+ "selector_box_path_Pa_same_basis": [
+  233,
+  315
+ ],
+ "saving_Pa": [
+  90,
+  221
+ ],
+ "fan_shaft_power_saving_W_at_eta_0p6": [
+  202,
+  497
+ ],
+ "damper_packaging": {
+  "bed_pitch_mm": 800.0,
+  "flange_mm": 706,
+  "gap_between_beds_mm": 94.0,
+  "R21_feedback_end_beyond_flange_mm": 217,
+  "needed_for_two_inboard_feedback_ends_mm": 434,
+  "note": "Topology-independent: side-by-side 706 mm dampers with shafts along Y need >=434 mm between beds unless drive and feedback share one end."
+ }
+}

@@ -17,6 +17,8 @@ Labels:
 
 No CFD, FE or physical test was run.
 
+> **Superseded on 6 November 2026.** The owner rejected the C04–C07 topology, in which air enters selector boxes below the coil and climbs through inclined channels. The new direction is the 4-bed vertical topology, packaged as a cube. The "accept for prototype detailing" verdict below is withdrawn. The interface findings D1–D3 still apply to the next shell revision. See [TOPOLOGY_RESET/CUBE_TOPOLOGY_RESET.md](TOPOLOGY_RESET/CUBE_TOPOLOGY_RESET.md).
+
 ![Withdrawal clearance and clamp-loop stiffness](fig_c07.png)
 
 ## 0. Verdicts

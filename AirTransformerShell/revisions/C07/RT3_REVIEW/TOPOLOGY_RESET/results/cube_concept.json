@@ -1,0 +1,52 @@
+{
+ "D_mouth_mm": 700.0,
+ "bed_pitch_mm": 800.0,
+ "active_face_Z": [
+  300.0,
+  1300.0
+ ],
+ "envelope_mm": {
+  "x": [
+   -711.6,
+   931.6
+  ],
+  "y": [
+   -810.0,
+   810.0
+  ],
+  "z": [
+   0,
+   1520.0
+  ]
+ },
+ "dimensions_mm": {
+  "x": 1643.2,
+  "y": 1620.0,
+  "z": 1520.0
+ },
+ "slope_from_vertical_deg": 35.0,
+ "mouth_velocity_process_ms": 3.16,
+ "mouth_velocity_regen_2435_ms": 1.58,
+ "core_clashes_above_0p001_mm3": [],
+ "min_clearance_to_core_mm": {
+  "A_FRONT_SLOPE": 0.0,
+  "A_REAR_SLOPE": 0.0,
+  "A_FP_DAMPER_RESERVE": 8.0,
+  "A_FR_DAMPER_RESERVE": 445.0,
+  "A_RP_DAMPER_RESERVE": 8.0,
+  "A_RR_DAMPER_RESERVE": 445.0,
+  "A_WATER_BAY_RESERVE": 290.0,
+  "A_CORE_STAND_20": 0.0,
+  "A_CORE_STAND_160": 0.0,
+  "B_FRONT_SLOPE": 0.0,
+  "B_REAR_SLOPE": 0.0,
+  "B_FP_DAMPER_RESERVE": 8.0,
+  "B_FR_DAMPER_RESERVE": 445.0,
+  "B_RP_DAMPER_RESERVE": 8.0,
+  "B_RR_DAMPER_RESERVE": 445.0,
+  "B_WATER_BAY_RESERVE": 290.0,
+  "B_CORE_STAND_20": 0.0,
+  "B_CORE_STAND_160": 0.0
+ },
+ "scope": "Concept skeleton: plenum walls as single sheets, dampers and water bay as reserve boxes; no seals, frame or fans."
+}

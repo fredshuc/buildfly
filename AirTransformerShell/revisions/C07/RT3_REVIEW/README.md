@@ -8,3 +8,5 @@ This review covers the AirTransformer two-bed C07 shell and ducts at frozen comm
 - [results/](results/): JSON outputs used in the review.
 
 Status: review only. It changes no delivered file and is not a fabrication release.
+
+**Superseded on 2026-11-06.** The owner reset the module topology, so the C07 detailing verdict is withdrawn. [TOPOLOGY_RESET/](TOPOLOGY_RESET/CUBE_TOPOLOGY_RESET.md) records what the reviews missed and gives the cube Z-flow concept: a vertical coil between two opposed sloped plenums, with a header-model distribution, an envelope check against the detailed C05 coils, path loss, open decisions and the carry-over list.
