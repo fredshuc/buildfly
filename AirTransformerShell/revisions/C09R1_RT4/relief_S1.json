@@ -1,0 +1,22 @@
+{
+  "DAMPER_SEAT_A_UPPER_DEEP_O": {
+    "pipe_clearance_mm": 3.0
+  },
+  "DAMPER_STATIC_GASKET_A_UPPER_O": {
+    "pipe_clearance_mm": 3.0,
+    "nominal_contact_mm2_by_gland_half": {
+      "LOW": 0.0,
+      "HIGH": 38.07375
+    }
+  },
+  "DAMPER_SEAT_B_UPPER_DEEP_O": {
+    "pipe_clearance_mm": 3.0
+  },
+  "DAMPER_STATIC_GASKET_B_UPPER_O": {
+    "pipe_clearance_mm": 3.0,
+    "nominal_contact_mm2_by_gland_half": {
+      "LOW": 45.25719,
+      "HIGH": 45.25719
+    }
+  }
+}
