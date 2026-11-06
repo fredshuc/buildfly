@@ -1,0 +1,92 @@
+{
+ "orientation": "horizontal coil, vertical airflow (four-core topology, one coil per bed)",
+ "D_mouth_mm": 500.0,
+ "coil_bottom_Z": 850,
+ "coil_top_Z": 1070,
+ "roof_slope_deg": 26.6,
+ "P_to_R_damper_dihedral_deg": 63.4,
+ "envelope_mm": {
+  "x": [
+   -223.0,
+   1212.0
+  ],
+  "y": [
+   -810.0,
+   810.0
+  ],
+  "z": [
+   0,
+   1793.0
+  ]
+ },
+ "dimensions_mm": {
+  "x": 1435.0,
+  "y": 1620.0,
+  "z": 1793.0
+ },
+ "mouth_velocity_process_ms": 4.42,
+ "mouth_velocity_regen_2435_ms": 2.21,
+ "core_parts_in_front_of_X0": {
+  "count": 14,
+  "z_range": [
+   720.0,
+   1070.0
+  ],
+  "x_min": -203.0
+ },
+ "core_clashes_above_0p001_mm3": [],
+ "skeleton_self_intersections": [
+  [
+   "A_UPPER_CHEEK_L",
+   "A_R_OUT_DAMPER",
+   6.1
+  ],
+  [
+   "A_LOWER_CHEEK_L",
+   "A_R_IN_DAMPER",
+   6.1
+  ],
+  [
+   "A_UPPER_CHEEK_R",
+   "A_R_OUT_DAMPER",
+   6.1
+  ],
+  [
+   "A_LOWER_CHEEK_R",
+   "A_R_IN_DAMPER",
+   6.1
+  ],
+  [
+   "B_UPPER_CHEEK_L",
+   "B_R_OUT_DAMPER",
+   6.1
+  ],
+  [
+   "B_LOWER_CHEEK_L",
+   "B_R_IN_DAMPER",
+   6.1
+  ],
+  [
+   "B_UPPER_CHEEK_R",
+   "B_R_OUT_DAMPER",
+   6.1
+  ],
+  [
+   "B_LOWER_CHEEK_R",
+   "B_R_IN_DAMPER",
+   6.1
+  ]
+ ],
+ "min_clearance_to_core_mm": {
+  "A_P_IN_DAMPER": 79.0,
+  "A_P_OUT_DAMPER": 79.0,
+  "A_R_OUT_DAMPER": 387.5,
+  "A_R_IN_DAMPER": 387.5,
+  "A_HYDRONIC_RESERVE": 180.0,
+  "B_P_IN_DAMPER": 79.0,
+  "B_P_OUT_DAMPER": 79.0,
+  "B_R_OUT_DAMPER": 387.5,
+  "B_R_IN_DAMPER": 387.5,
+  "B_HYDRONIC_RESERVE": 180.0
+ }
+}

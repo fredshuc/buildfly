@@ -9,4 +9,4 @@ This review covers the AirTransformer two-bed C07 shell and ducts at frozen comm
 
 Status: review only. It changes no delivered file and is not a fabrication release.
 
-**Superseded on 2026-11-06.** The owner reset the module topology, so the C07 detailing verdict is withdrawn. [TOPOLOGY_RESET/](TOPOLOGY_RESET/CUBE_TOPOLOGY_RESET.md) records what the reviews missed and gives the cube Z-flow concept: a vertical coil between two opposed sloped plenums, with a header-model distribution, an envelope check against the detailed C05 coils, path loss, open decisions and the carry-over list.
+**Superseded on 2026-11-06.** The owner reset the module topology, so the C07 detailing verdict is withdrawn. [TOPOLOGY_RESET/](TOPOLOGY_RESET/CUBE_TOPOLOGY_RESET.md) records what the reviews missed. Its current recommendation (revision 4) keeps the four-core outdoor topology with one horizontal coil per bed: P enters and leaves through vertical dampers along +X, R enters and leaves through top and bottom dampers along +Z to a rooftop fan, and the hydronic pack sits front-bottom.
