@@ -1,5 +1,5 @@
 {
- "D_mouth_mm": 700.0,
+ "D_mouth_mm": 500.0,
  "bed_pitch_mm": 800.0,
  "active_face_Z": [
   300.0,
@@ -7,8 +7,8 @@
  ],
  "envelope_mm": {
   "x": [
-   -711.6,
-   931.6
+   -802.0,
+   1022.0
   ],
   "y": [
    -810.0,
@@ -20,16 +20,17 @@
   ]
  },
  "dimensions_mm": {
-  "x": 1643.2,
+  "x": 1824.0,
   "y": 1620.0,
   "z": 1520.0
  },
- "damper_layout": "corner: top P-in on front slope + R-out on roof; bottom P-out on floor + R-in on rear slope",
- "damper_dihedral_deg": 55.0,
+ "damper_layout": "four-core mapping: P in on front-plenum top face, R out on front slope -> exhaust chamber -> rooftop fan; P out on rear-plenum bottom face, R in on rear slope <- intake chamber <- floor",
+ "R_chamber_depth_S_mm": 300.0,
+ "damper_dihedral_deg": 63.4,
  "overall_incl_damper_bodies_mm": {
   "x": [
-   -847.5,
-   1067.5
+   -802.0,
+   1022.0
   ],
   "z": [
    0.0,
@@ -40,27 +41,39 @@
   "A": 0.0,
   "B": 0.0
  },
- "slope_from_vertical_deg": 35.0,
- "mouth_velocity_process_ms": 3.16,
- "mouth_velocity_regen_2435_ms": 1.58,
+ "R_damper_body_to_skin_mm": {
+  "A": {
+   "front": 141.0,
+   "rear": 141.0
+  },
+  "B": {
+   "front": 141.0,
+   "rear": 141.0
+  }
+ },
+ "R_chamber_section_at_corner_m2": 0.184,
+ "R_chamber_velocity_at_corner_2435_ms": 3.68,
+ "slope_from_vertical_deg": 26.6,
+ "mouth_velocity_process_ms": 4.42,
+ "mouth_velocity_regen_2435_ms": 2.21,
  "core_clashes_above_0p001_mm3": [],
  "min_clearance_to_core_mm": {
   "A_FRONT_SLOPE": 0.0,
   "A_REAR_SLOPE": 0.0,
-  "A_FP_DAMPER_RESERVE": 458.57,
-  "A_FR_DAMPER_RESERVE": 444.0,
-  "A_RP_DAMPER_RESERVE": 279.0,
-  "A_RR_DAMPER_RESERVE": 553.19,
-  "A_WATER_BAY_RESERVE": 290.0,
+  "A_FP_DAMPER_RESERVE": 79.0,
+  "A_FR_DAMPER_RESERVE": 385.51,
+  "A_RP_DAMPER_RESERVE": 79.0,
+  "A_RR_DAMPER_RESERVE": 385.51,
+  "A_WATER_BAY_RESERVE": 370.0,
   "A_CORE_STAND_20": 0.0,
   "A_CORE_STAND_160": 0.0,
   "B_FRONT_SLOPE": 0.0,
   "B_REAR_SLOPE": 0.0,
-  "B_FP_DAMPER_RESERVE": 458.57,
-  "B_FR_DAMPER_RESERVE": 444.0,
-  "B_RP_DAMPER_RESERVE": 279.0,
-  "B_RR_DAMPER_RESERVE": 553.19,
-  "B_WATER_BAY_RESERVE": 290.0,
+  "B_FP_DAMPER_RESERVE": 79.0,
+  "B_FR_DAMPER_RESERVE": 385.51,
+  "B_RP_DAMPER_RESERVE": 79.0,
+  "B_RR_DAMPER_RESERVE": 385.51,
+  "B_WATER_BAY_RESERVE": 370.0,
   "B_CORE_STAND_20": 0.0,
   "B_CORE_STAND_160": 0.0
  },

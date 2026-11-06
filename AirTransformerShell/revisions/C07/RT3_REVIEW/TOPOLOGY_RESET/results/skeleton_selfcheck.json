@@ -1,0 +1,26 @@
+{
+ "solids": 32,
+ "intersections": [],
+ "damper_on_wall_overlaps": [
+  [
+   "A_FRONT_SLOPE",
+   "A_FR_DAMPER_RESERVE",
+   220007.7
+  ],
+  [
+   "A_REAR_SLOPE",
+   "A_RR_DAMPER_RESERVE",
+   220007.7
+  ],
+  [
+   "B_FRONT_SLOPE",
+   "B_FR_DAMPER_RESERVE",
+   220007.7
+  ],
+  [
+   "B_REAR_SLOPE",
+   "B_RR_DAMPER_RESERVE",
+   220007.7
+  ]
+ ]
+}

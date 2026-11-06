@@ -1,0 +1,9380 @@
+[
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_BASE_X_-825_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.1",
+"bbox": [
+-640.0,
+-848.5,
+42.0,
+1198.5,
+-818.5,
+122.0
+],
+"volume": 1147224.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_TOP_X_-825_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.2",
+"bbox": [
+-640.0,
+-848.5,
+1484.0,
+1198.5,
+-818.5,
+1524.0
+],
+"volume": 705984.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_POST_-600_-825_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.3",
+"bbox": [
+-640.0,
+-845.0,
+122.0,
+-560.0,
+-805.0,
+1484.0
+],
+"volume": 931608.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_POST_1020_-825_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.4",
+"bbox": [
+980.0,
+-845.0,
+122.0,
+1060.0,
+-805.0,
+1484.0
+],
+"volume": 931608.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_HX_CROSS_-825_587_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.5",
+"bbox": [
+-560.0,
+-848.5,
+507.0,
+980.0,
+-818.5,
+587.0
+],
+"volume": 960960.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_HX_CROSS_-825_922_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.6",
+"bbox": [
+-560.0,
+-848.5,
+842.0,
+980.0,
+-818.5,
+922.0
+],
+"volume": 960960.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_BASE_X_0_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.7",
+"bbox": [
+-600.0,
+-20.0,
+42.0,
+1158.5,
+20.0,
+122.0
+],
+"volume": 1202814.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_TOP_X_0_REAR_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.8",
+"bbox": [
+-600.0,
+-20.0,
+1484.0,
+-282.0,
+20.0,
+1524.0
+],
+"volume": 141192.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_TOP_X_0_FRONT_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.9",
+"bbox": [
+282.0,
+-20.0,
+1484.0,
+1158.5,
+20.0,
+1524.0
+],
+"volume": 389166.0,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_POST_-600_0_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.10",
+"bbox": [
+-640.0,
+-20.0,
+122.0,
+-560.0,
+20.0,
+1484.0
+],
+"volume": 931608.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_POST_1020_0_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.11",
+"bbox": [
+980.0,
+-20.0,
+122.0,
+1060.0,
+20.0,
+1484.0
+],
+"volume": 931608.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_HX_CROSS_0_587_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.12",
+"bbox": [
+-560.0,
+-20.0,
+507.0,
+980.0,
+20.0,
+587.0
+],
+"volume": 1053360.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_HX_CROSS_0_922_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.13",
+"bbox": [
+-560.0,
+-20.0,
+842.0,
+980.0,
+20.0,
+922.0
+],
+"volume": 1053360.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_BASE_X_825_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.14",
+"bbox": [
+-640.0,
+818.5,
+42.0,
+1198.5,
+848.5,
+122.0
+],
+"volume": 1147224.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_TOP_X_825_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.15",
+"bbox": [
+-640.0,
+818.5,
+1484.0,
+1198.5,
+848.5,
+1524.0
+],
+"volume": 705984.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_POST_-600_825_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.16",
+"bbox": [
+-640.0,
+805.0,
+122.0,
+-560.0,
+845.0,
+1484.0
+],
+"volume": 931608.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_POST_1020_825_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.17",
+"bbox": [
+980.0,
+805.0,
+122.0,
+1060.0,
+845.0,
+1484.0
+],
+"volume": 931608.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_HX_CROSS_825_587_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.18",
+"bbox": [
+-560.0,
+818.5,
+507.0,
+980.0,
+848.5,
+587.0
+],
+"volume": 960960.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_HX_CROSS_825_922_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.19",
+"bbox": [
+-560.0,
+818.5,
+842.0,
+980.0,
+848.5,
+922.0
+],
+"volume": 960960.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_Y_TIE_-620_42_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.20",
+"bbox": [
+-640.0,
+-818.5,
+42.0,
+-600.0,
+818.5,
+122.0
+],
+"volume": 1119708.0,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_Y_TIE_-620_1484_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.21",
+"bbox": [
+-640.0,
+-818.5,
+1484.0,
+-600.0,
+818.5,
+1524.0
+],
+"volume": 726828.0,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_Y_TIE_1180_42_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.22",
+"bbox": [
+1158.5,
+-818.5,
+42.0,
+1198.5,
+818.5,
+67.0
+],
+"volume": 579498.0,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_Y_TIE_1180_1484_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.23",
+"bbox": [
+1158.5,
+-818.5,
+1484.0,
+1198.5,
+818.5,
+1524.0
+],
+"volume": 726828.0,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_HX_RAIL_A_612_-444_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.24",
+"bbox": [
+-464.0,
+-825.0,
+587.0,
+-424.0,
+-20.0,
+612.0
+],
+"volume": 284970.0,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_HX_RAIL_A_612_510_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.25",
+"bbox": [
+490.0,
+-825.0,
+587.0,
+530.0,
+-20.0,
+612.0
+],
+"volume": 284970.0,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_HX_RAIL_A_947_-444_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.26",
+"bbox": [
+-464.0,
+-825.0,
+922.0,
+-424.0,
+-20.0,
+947.0
+],
+"volume": 284970.0,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_HX_RAIL_A_947_510_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.27",
+"bbox": [
+490.0,
+-825.0,
+922.0,
+530.0,
+-20.0,
+947.0
+],
+"volume": 284970.0,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_HX_RAIL_B_612_-444_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.28",
+"bbox": [
+-464.0,
+20.0,
+587.0,
+-424.0,
+825.0,
+612.0
+],
+"volume": 284970.0,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_HX_RAIL_B_612_510_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.29",
+"bbox": [
+490.0,
+20.0,
+587.0,
+530.0,
+825.0,
+612.0
+],
+"volume": 284970.0,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_HX_RAIL_B_947_-444_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.30",
+"bbox": [
+-464.0,
+20.0,
+922.0,
+-424.0,
+825.0,
+947.0
+],
+"volume": 284970.0,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_HX_RAIL_B_947_510_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.31",
+"bbox": [
+490.0,
+20.0,
+922.0,
+530.0,
+825.0,
+947.0
+],
+"volume": 284970.0,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_DAMPER_RAIL_-825_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.32",
+"bbox": [
+-560.0,
+-848.5,
+230.0,
+980.0,
+-818.5,
+310.0
+],
+"volume": 960960.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_DAMPER_RAIL_825_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.33",
+"bbox": [
+-560.0,
+818.5,
+230.0,
+980.0,
+848.5,
+310.0
+],
+"volume": 960960.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/F_WATER_STRUT_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.34",
+"bbox": [
+1170.0,
+640.0,
+665.0,
+1195.0,
+665.0,
+1484.0
+],
+"volume": 216216.0,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/P_FOOT_-600_-825_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.35",
+"bbox": [
+-700.0,
+-850.0,
+34.0,
+-540.0,
+-724.0,
+42.0
+],
+"volume": 112550.4,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/P_FOOT_1020_-825_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.36",
+"bbox": [
+960.0,
+-850.0,
+34.0,
+1080.0,
+-765.0,
+42.0
+],
+"volume": 79790.4,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/P_FOOT_-600_0_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.37",
+"bbox": [
+-700.0,
+-63.0,
+34.0,
+-540.0,
+63.0,
+42.0
+],
+"volume": 135550.4,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/P_FOOT_1020_0_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.38",
+"bbox": [
+960.0,
+-70.0,
+34.0,
+1080.0,
+50.0,
+42.0
+],
+"volume": 113390.4,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/P_FOOT_-600_825_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.39",
+"bbox": [
+-700.0,
+724.0,
+34.0,
+-540.0,
+850.0,
+42.0
+],
+"volume": 112550.4,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/P_FOOT_1020_825_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.40",
+"bbox": [
+960.0,
+765.0,
+34.0,
+1080.0,
+850.0,
+42.0
+],
+"volume": 79790.4,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/WATER_SUPPORT_A_L_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.41",
+"bbox": [
+950.0,
+-182.0,
+528.0,
+1060.0,
+-20.0,
+558.0
+],
+"volume": 77635.8,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/WATER_SUPPORT_A_U_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.42",
+"bbox": [
+950.0,
+-182.0,
+993.0,
+1060.0,
+-20.0,
+1023.0
+],
+"volume": 77635.8,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/WATER_SUPPORT_B_L_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.43",
+"bbox": [
+950.0,
+20.0,
+528.0,
+1060.0,
+182.0,
+558.0
+],
+"volume": 77635.8,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/WATER_SUPPORT_B_U_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.44",
+"bbox": [
+950.0,
+20.0,
+993.0,
+1060.0,
+182.0,
+1023.0
+],
+"volume": 77635.8,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/CAP_F_HX_RAIL_A_612_-444_MIN_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.45",
+"bbox": [
+-464.0,
+-828.0,
+587.0,
+-424.0,
+-825.0,
+612.0
+],
+"volume": 3000.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/CAP_F_HX_RAIL_A_612_-444_MAX_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.46",
+"bbox": [
+-464.0,
+-20.0,
+587.0,
+-424.0,
+-17.0,
+612.0
+],
+"volume": 3000.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/CAP_F_HX_RAIL_A_612_510_MIN_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.47",
+"bbox": [
+490.0,
+-828.0,
+587.0,
+530.0,
+-825.0,
+612.0
+],
+"volume": 3000.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/CAP_F_HX_RAIL_A_612_510_MAX_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.48",
+"bbox": [
+490.0,
+-20.0,
+587.0,
+530.0,
+-17.0,
+612.0
+],
+"volume": 3000.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/CAP_F_HX_RAIL_A_947_-444_MIN_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.49",
+"bbox": [
+-464.0,
+-828.0,
+922.0,
+-424.0,
+-825.0,
+947.0
+],
+"volume": 3000.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/CAP_F_HX_RAIL_A_947_-444_MAX_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.50",
+"bbox": [
+-464.0,
+-20.0,
+922.0,
+-424.0,
+-17.0,
+947.0
+],
+"volume": 3000.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/CAP_F_HX_RAIL_A_947_510_MIN_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.51",
+"bbox": [
+490.0,
+-828.0,
+922.0,
+530.0,
+-825.0,
+947.0
+],
+"volume": 3000.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/CAP_F_HX_RAIL_A_947_510_MAX_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.52",
+"bbox": [
+490.0,
+-20.0,
+922.0,
+530.0,
+-17.0,
+947.0
+],
+"volume": 3000.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/CAP_F_HX_RAIL_B_612_-444_MIN_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.53",
+"bbox": [
+-464.0,
+17.0,
+587.0,
+-424.0,
+20.0,
+612.0
+],
+"volume": 3000.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/CAP_F_HX_RAIL_B_612_-444_MAX_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.54",
+"bbox": [
+-464.0,
+825.0,
+587.0,
+-424.0,
+828.0,
+612.0
+],
+"volume": 3000.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/CAP_F_HX_RAIL_B_612_510_MIN_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.55",
+"bbox": [
+490.0,
+17.0,
+587.0,
+530.0,
+20.0,
+612.0
+],
+"volume": 3000.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/CAP_F_HX_RAIL_B_612_510_MAX_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.56",
+"bbox": [
+490.0,
+825.0,
+587.0,
+530.0,
+828.0,
+612.0
+],
+"volume": 3000.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/CAP_F_HX_RAIL_B_947_-444_MIN_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.57",
+"bbox": [
+-464.0,
+17.0,
+922.0,
+-424.0,
+20.0,
+947.0
+],
+"volume": 3000.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/CAP_F_HX_RAIL_B_947_-444_MAX_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.58",
+"bbox": [
+-464.0,
+825.0,
+922.0,
+-424.0,
+828.0,
+947.0
+],
+"volume": 3000.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/CAP_F_HX_RAIL_B_947_510_MIN_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.59",
+"bbox": [
+490.0,
+17.0,
+922.0,
+530.0,
+20.0,
+947.0
+],
+"volume": 3000.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/CAP_F_HX_RAIL_B_947_510_MAX_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.60",
+"bbox": [
+490.0,
+825.0,
+922.0,
+530.0,
+828.0,
+947.0
+],
+"volume": 3000.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/M202_CAP_BEAM_WELD_A_612_-444_MIN_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.61",
+"bbox": [
+-464.0,
+-831.0,
+587.0,
+-424.0,
+-828.0,
+590.0
+],
+"volume": 180.0,
+"normal": [
+0.0,
+0.707,
+0.707
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/M202_CAP_BEAM_WELD_A_612_-444_MAX_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.62",
+"bbox": [
+-464.0,
+-17.0,
+587.0,
+-424.0,
+-14.0,
+590.0
+],
+"volume": 180.0,
+"normal": [
+0.0,
+0.707,
+0.707
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/M202_CAP_BEAM_WELD_A_612_510_MIN_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.63",
+"bbox": [
+490.0,
+-831.0,
+587.0,
+530.0,
+-828.0,
+590.0
+],
+"volume": 180.0,
+"normal": [
+0.0,
+0.707,
+0.707
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/M202_CAP_BEAM_WELD_A_612_510_MAX_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.64",
+"bbox": [
+490.0,
+-17.0,
+587.0,
+530.0,
+-14.0,
+590.0
+],
+"volume": 180.0,
+"normal": [
+0.0,
+0.707,
+0.707
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/M202_CAP_BEAM_WELD_A_947_-444_MIN_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.65",
+"bbox": [
+-464.0,
+-831.0,
+922.0,
+-424.0,
+-828.0,
+925.0
+],
+"volume": 180.0,
+"normal": [
+0.0,
+0.707,
+0.707
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/M202_CAP_BEAM_WELD_A_947_-444_MAX_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.66",
+"bbox": [
+-464.0,
+-17.0,
+922.0,
+-424.0,
+-14.0,
+925.0
+],
+"volume": 180.0,
+"normal": [
+0.0,
+0.707,
+0.707
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/M202_CAP_BEAM_WELD_A_947_510_MIN_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.67",
+"bbox": [
+490.0,
+-831.0,
+922.0,
+530.0,
+-828.0,
+925.0
+],
+"volume": 180.0,
+"normal": [
+0.0,
+0.707,
+0.707
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/M202_CAP_BEAM_WELD_A_947_510_MAX_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.68",
+"bbox": [
+490.0,
+-17.0,
+922.0,
+530.0,
+-14.0,
+925.0
+],
+"volume": 180.0,
+"normal": [
+0.0,
+0.707,
+0.707
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/M202_CAP_BEAM_WELD_B_612_-444_MIN_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.69",
+"bbox": [
+-464.0,
+14.0,
+587.0,
+-424.0,
+17.0,
+590.0
+],
+"volume": 180.0,
+"normal": [
+0.0,
+0.707,
+0.707
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/M202_CAP_BEAM_WELD_B_612_-444_MAX_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.70",
+"bbox": [
+-464.0,
+828.0,
+587.0,
+-424.0,
+831.0,
+590.0
+],
+"volume": 180.0,
+"normal": [
+0.0,
+0.707,
+0.707
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/M202_CAP_BEAM_WELD_B_612_510_MIN_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.71",
+"bbox": [
+490.0,
+14.0,
+587.0,
+530.0,
+17.0,
+590.0
+],
+"volume": 180.0,
+"normal": [
+0.0,
+0.707,
+0.707
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/M202_CAP_BEAM_WELD_B_612_510_MAX_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.72",
+"bbox": [
+490.0,
+828.0,
+587.0,
+530.0,
+831.0,
+590.0
+],
+"volume": 180.0,
+"normal": [
+0.0,
+0.707,
+0.707
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/M202_CAP_BEAM_WELD_B_947_-444_MIN_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.73",
+"bbox": [
+-464.0,
+14.0,
+922.0,
+-424.0,
+17.0,
+925.0
+],
+"volume": 180.0,
+"normal": [
+0.0,
+0.707,
+0.707
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/M202_CAP_BEAM_WELD_B_947_-444_MAX_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.74",
+"bbox": [
+-464.0,
+828.0,
+922.0,
+-424.0,
+831.0,
+925.0
+],
+"volume": 180.0,
+"normal": [
+0.0,
+0.707,
+0.707
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/M202_CAP_BEAM_WELD_B_947_510_MIN_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.75",
+"bbox": [
+490.0,
+14.0,
+922.0,
+530.0,
+17.0,
+925.0
+],
+"volume": 180.0,
+"normal": [
+0.0,
+0.707,
+0.707
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_FRAME_O/ASM_FRAME/M202_CAP_BEAM_WELD_B_947_510_MAX_O",
+"name": "Open CASCADE STEP translator 7.8 1.1.76",
+"bbox": [
+490.0,
+828.0,
+922.0,
+530.0,
+831.0,
+925.0
+],
+"volume": 180.0,
+"normal": [
+0.0,
+0.707,
+0.707
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_SIDE_OUT_A_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.1",
+"bbox": [
+-501.5,
+-816.5,
+42.0,
+750.8,
+-815.0,
+1524.0
+],
+"volume": 1998783.4,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_SIDE_IN_A_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.2",
+"bbox": [
+-500.0,
+-46.5,
+42.0,
+748.9,
+-45.0,
+1380.63
+],
+"volume": 1623547.7,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_REAR_A_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.3",
+"bbox": [
+-501.5,
+-815.0,
+560.0,
+-500.0,
+-45.0,
+1364.55
+],
+"volume": 705084.8,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_TOP_SPLITTER_A_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.4",
+"bbox": [
+-480.14,
+-815.0,
+1164.26,
+748.9,
+-46.5,
+1381.37
+],
+"volume": 1223990.8,
+"normal": [
+0.213,
+0.0,
+0.977
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_BOTTOM_SPLITTER_A_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.5",
+"bbox": [
+-500.16,
+-815.0,
+345.63,
+480.14,
+-46.5,
+560.73
+],
+"volume": 937065.3,
+"normal": [
+0.213,
+0.0,
+0.977
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_PROCESS_IN_WRAP_A_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.6",
+"bbox": [
+-650.0,
+-766.5,
+1145.0,
+-506.5,
+-83.5,
+1386.5
+],
+"volume": 235414.3,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_PROCESS_IN_FLOOR_A_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.7",
+"bbox": [
+-650.0,
+-765.0,
+1143.5,
+-506.5,
+-85.0,
+1145.0
+],
+"volume": 146370.0,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_REGEN_FLOOR_A_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.8",
+"bbox": [
+264.75,
+-765.0,
+68.03,
+748.5,
+-85.0,
+386.47
+],
+"volume": 657530.4,
+"normal": [
+0.54,
+0.0,
+0.842
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_REGEN_CHEEK_A_LOW_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.9",
+"bbox": [
+265.5,
+-766.5,
+69.0,
+748.5,
+-765.0,
+386.47
+],
+"volume": 110474.6,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_REGEN_CHEEK_A_HIGH_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.10",
+"bbox": [
+265.5,
+-85.0,
+69.0,
+748.5,
+-83.5,
+386.47
+],
+"volume": 110474.6,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_PORT_DIVIDER_A_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.11",
+"bbox": [
+520.26,
+-765.0,
+312.0,
+748.5,
+-85.0,
+340.35
+],
+"volume": 234313.9,
+"normal": [
+0.117,
+0.0,
+0.993
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_PROCESS_OUT_FLOOR_A_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.12",
+"bbox": [
+520.37,
+-768.0,
+342.85,
+746.5,
+-82.0,
+362.0
+],
+"volume": 233330.8,
+"normal": [
+0.078,
+0.0,
+0.997
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_SIDE_OUT_B_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.13",
+"bbox": [
+-501.5,
+815.0,
+42.0,
+750.8,
+816.5,
+1524.0
+],
+"volume": 1998783.4,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_SIDE_IN_B_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.14",
+"bbox": [
+-500.0,
+45.0,
+42.0,
+748.9,
+46.5,
+1380.63
+],
+"volume": 1623547.7,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_REAR_B_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.15",
+"bbox": [
+-501.5,
+45.0,
+560.0,
+-500.0,
+815.0,
+1364.55
+],
+"volume": 704803.4,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_TOP_SPLITTER_B_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.16",
+"bbox": [
+-480.14,
+46.5,
+1164.26,
+748.9,
+815.0,
+1381.37
+],
+"volume": 1223709.5,
+"normal": [
+0.213,
+0.0,
+0.977
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_BOTTOM_SPLITTER_B_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.17",
+"bbox": [
+-500.16,
+46.5,
+345.63,
+480.14,
+815.0,
+560.73
+],
+"volume": 936784.1,
+"normal": [
+0.213,
+0.0,
+0.977
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_PROCESS_IN_WRAP_B_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.18",
+"bbox": [
+-650.0,
+68.5,
+1145.0,
+-506.5,
+751.5,
+1386.5
+],
+"volume": 235414.3,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_PROCESS_IN_FLOOR_B_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.19",
+"bbox": [
+-650.0,
+70.0,
+1143.5,
+-506.5,
+750.0,
+1145.0
+],
+"volume": 146370.0,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_REGEN_FLOOR_B_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.20",
+"bbox": [
+264.75,
+70.0,
+68.03,
+748.5,
+750.0,
+386.47
+],
+"volume": 657530.6,
+"normal": [
+0.54,
+0.0,
+0.842
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_REGEN_CHEEK_B_LOW_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.21",
+"bbox": [
+265.5,
+68.5,
+69.0,
+748.5,
+70.0,
+386.47
+],
+"volume": 110474.6,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_REGEN_CHEEK_B_HIGH_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.22",
+"bbox": [
+265.5,
+750.0,
+69.0,
+748.5,
+751.5,
+386.47
+],
+"volume": 110474.6,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_PORT_DIVIDER_B_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.23",
+"bbox": [
+520.26,
+70.0,
+312.0,
+748.5,
+750.0,
+340.35
+],
+"volume": 234313.9,
+"normal": [
+0.117,
+0.0,
+0.993
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_PROCESS_OUT_FLOOR_B_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.24",
+"bbox": [
+520.37,
+67.0,
+342.85,
+746.5,
+753.0,
+362.0
+],
+"volume": 233330.8,
+"normal": [
+0.078,
+0.0,
+0.997
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_PORT_LAND_A_PROCESS_OUT_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.25",
+"bbox": [
+746.5,
+-780.0,
+347.0,
+748.0,
+-70.0,
+617.0
+],
+"volume": 42607.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_PORT_LAND_A_REGEN_IN_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.26",
+"bbox": [
+748.5,
+-780.0,
+57.0,
+750.0,
+-70.0,
+327.0
+],
+"volume": 42750.0,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_PORT_LAND_B_PROCESS_OUT_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.27",
+"bbox": [
+746.5,
+55.0,
+347.0,
+748.0,
+765.0,
+617.0
+],
+"volume": 42607.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_PORT_LAND_B_REGEN_IN_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.28",
+"bbox": [
+748.5,
+55.0,
+57.0,
+750.0,
+765.0,
+327.0
+],
+"volume": 42750.0,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_DRY_WET_BULKHEAD_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.29",
+"bbox": [
+749.3,
+-815.0,
+42.0,
+750.8,
+815.0,
+1524.0
+],
+"volume": 1559920.7,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_RETURN_REAR_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.30",
+"bbox": [
+-501.5,
+-815.0,
+1405.45,
+-500.0,
+-20.0,
+1524.0
+],
+"volume": 139588.4,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/ROOF_FLANGE_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.31",
+"bbox": [
+-310.0,
+-230.0,
+1530.8,
+310.0,
+230.0,
+1533.8
+],
+"volume": 173547.6,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_PROCESS_OUT_CHANNEL_A_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.32",
+"bbox": [
+506.5,
+-769.5,
+342.14,
+746.5,
+-80.5,
+603.97
+],
+"volume": 421376.8,
+"normal": [
+0.08,
+0.0,
+0.997
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_PROCESS_OUT_CHANNEL_B_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.33",
+"bbox": [
+506.5,
+65.5,
+342.14,
+746.5,
+754.5,
+603.97
+],
+"volume": 421376.8,
+"normal": [
+0.08,
+0.0,
+0.997
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_RETURN_REAR_RIGHT_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.34",
+"bbox": [
+-501.5,
+12.0,
+1405.45,
+-500.0,
+815.0,
+1524.0
+],
+"volume": 141073.7,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_CENTRAL_REAR_CLOSURE_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.35",
+"bbox": [
+-501.5,
+-44.0,
+42.0,
+-480.0,
+44.0,
+1380.5
+],
+"volume": 231838.7,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/AIR_RETURN_REAR_CENTER_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.36",
+"bbox": [
+-501.5,
+-30.0,
+1413.46,
+-500.0,
+15.0,
+1481.0
+],
+"volume": 4551.3,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_OUTER_PANEL_A_L_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.37",
+"bbox": [
+-496.0,
+-819.0,
+605.0,
+751.8,
+-817.5,
+841.5
+],
+"volume": 440356.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_FRONT_PANEL_A_L_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.38",
+"bbox": [
+751.8,
+-825.0,
+605.0,
+753.3,
+-26.5,
+841.5
+],
+"volume": 236836.9,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_WATER_SLOT_COVER_A_L_0_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.39",
+"bbox": [
+754.3,
+-72.5,
+640.0,
+755.8,
+-26.5,
+700.0
+],
+"volume": 3305.3,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_WATER_HALF_CLAMP_A_L_0_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.40",
+"bbox": [
+754.3,
+-102.5,
+640.0,
+755.8,
+-72.5,
+700.0
+],
+"volume": 1285.9,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_WATER_SLOT_COVER_A_L_1_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.41",
+"bbox": [
+754.3,
+-782.5,
+770.0,
+755.8,
+-26.5,
+830.0
+],
+"volume": 66777.7,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_WATER_HALF_CLAMP_A_L_1_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.42",
+"bbox": [
+754.3,
+-812.5,
+770.0,
+755.8,
+-782.5,
+830.0
+],
+"volume": 1285.9,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_OUTER_PANEL_A_U_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.43",
+"bbox": [
+-496.0,
+-819.0,
+933.5,
+751.8,
+-817.5,
+1180.0
+],
+"volume": 458098.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_FRONT_PANEL_A_U_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.44",
+"bbox": [
+751.8,
+-825.0,
+933.5,
+753.3,
+-26.5,
+1180.0
+],
+"volume": 247734.4,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_WATER_SLOT_COVER_A_U_0_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.45",
+"bbox": [
+754.3,
+-792.5,
+975.0,
+755.8,
+-26.5,
+1035.0
+],
+"volume": 67677.7,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_WATER_HALF_CLAMP_A_U_0_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.46",
+"bbox": [
+754.3,
+-822.5,
+975.0,
+755.8,
+-792.5,
+1035.0
+],
+"volume": 1285.9,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_WATER_SLOT_COVER_A_U_1_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.47",
+"bbox": [
+754.3,
+-82.5,
+1105.0,
+755.8,
+-26.5,
+1165.0
+],
+"volume": 4205.3,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_WATER_HALF_CLAMP_A_U_1_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.48",
+"bbox": [
+754.3,
+-112.5,
+1105.0,
+755.8,
+-82.5,
+1165.0
+],
+"volume": 1285.9,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_OUTER_PANEL_B_L_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.49",
+"bbox": [
+-496.0,
+817.5,
+605.0,
+751.8,
+819.0,
+841.5
+],
+"volume": 440356.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_FRONT_PANEL_B_L_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.50",
+"bbox": [
+751.8,
+26.5,
+605.0,
+753.3,
+825.0,
+841.5
+],
+"volume": 236836.9,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_WATER_SLOT_COVER_B_L_0_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.51",
+"bbox": [
+754.3,
+26.5,
+640.0,
+755.8,
+72.5,
+700.0
+],
+"volume": 3305.3,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_WATER_HALF_CLAMP_B_L_0_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.52",
+"bbox": [
+754.3,
+72.5,
+640.0,
+755.8,
+102.5,
+700.0
+],
+"volume": 1285.9,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_WATER_SLOT_COVER_B_L_1_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.53",
+"bbox": [
+754.3,
+26.5,
+770.0,
+755.8,
+782.5,
+830.0
+],
+"volume": 66777.7,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_WATER_HALF_CLAMP_B_L_1_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.54",
+"bbox": [
+754.3,
+782.5,
+770.0,
+755.8,
+812.5,
+830.0
+],
+"volume": 1285.9,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_OUTER_PANEL_B_U_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.55",
+"bbox": [
+-496.0,
+817.5,
+933.5,
+751.8,
+819.0,
+1180.0
+],
+"volume": 458098.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_FRONT_PANEL_B_U_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.56",
+"bbox": [
+751.8,
+26.5,
+933.5,
+753.3,
+825.0,
+1180.0
+],
+"volume": 247734.4,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_WATER_SLOT_COVER_B_U_0_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.57",
+"bbox": [
+754.3,
+26.5,
+975.0,
+755.8,
+792.5,
+1035.0
+],
+"volume": 67677.7,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_WATER_HALF_CLAMP_B_U_0_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.58",
+"bbox": [
+754.3,
+792.5,
+975.0,
+755.8,
+822.5,
+1035.0
+],
+"volume": 1285.9,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_WATER_SLOT_COVER_B_U_1_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.59",
+"bbox": [
+754.3,
+26.5,
+1105.0,
+755.8,
+82.5,
+1165.0
+],
+"volume": 4205.3,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_WATER_HALF_CLAMP_B_U_1_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.60",
+"bbox": [
+754.3,
+82.5,
+1105.0,
+755.8,
+112.5,
+1165.0
+],
+"volume": 1285.9,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_INNER_PANEL_A_L_0_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.61",
+"bbox": [
+-472.0,
+-49.0,
+605.0,
+730.0,
+-47.5,
+717.5
+],
+"volume": 200679.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_INNER_PANEL_A_L_1_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.62",
+"bbox": [
+-472.0,
+-49.0,
+718.5,
+730.0,
+-47.5,
+841.5
+],
+"volume": 221056.3,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_INNER_PANEL_A_U_0_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.63",
+"bbox": [
+-472.0,
+-49.0,
+933.5,
+730.0,
+-47.5,
+1052.5
+],
+"volume": 211423.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_INNER_PANEL_A_U_1_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.64",
+"bbox": [
+-472.0,
+-49.0,
+1053.5,
+730.0,
+-47.5,
+1159.0
+],
+"volume": 189503.8,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_INNER_PANEL_B_L_0_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.65",
+"bbox": [
+-472.0,
+47.5,
+605.0,
+730.0,
+49.0,
+717.5
+],
+"volume": 200679.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_INNER_PANEL_B_L_1_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.66",
+"bbox": [
+-472.0,
+47.5,
+718.5,
+730.0,
+49.0,
+841.5
+],
+"volume": 221056.3,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_INNER_PANEL_B_U_0_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.67",
+"bbox": [
+-472.0,
+47.5,
+933.5,
+730.0,
+49.0,
+1052.5
+],
+"volume": 211423.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_INNER_PANEL_B_U_1_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.68",
+"bbox": [
+-472.0,
+47.5,
+1053.5,
+730.0,
+49.0,
+1159.0
+],
+"volume": 189503.8,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_MASK_LIP_A_L_REAR_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.69",
+"bbox": [
+-473.5,
+-815.0,
+621.5,
+-472.0,
+-50.5,
+640.0
+],
+"volume": 20965.4,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_MASK_LIP_A_L_FRONT_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.70",
+"bbox": [
+747.8,
+-815.0,
+621.5,
+749.3,
+-50.5,
+640.0
+],
+"volume": 20965.4,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_MASK_LIP_A_L_OUTER_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.71",
+"bbox": [
+-472.0,
+-814.0,
+621.5,
+747.8,
+-812.5,
+640.0
+],
+"volume": 33493.1,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_MASK_LIP_A_L_INNER_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.72",
+"bbox": [
+-472.0,
+-52.0,
+621.5,
+747.8,
+-50.5,
+640.0
+],
+"volume": 33457.4,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_MASK_LIP_A_U_REAR_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.73",
+"bbox": [
+-473.5,
+-815.0,
+956.5,
+-472.0,
+-50.5,
+975.0
+],
+"volume": 20965.4,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_MASK_LIP_A_U_FRONT_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.74",
+"bbox": [
+747.8,
+-815.0,
+956.5,
+749.3,
+-50.5,
+975.0
+],
+"volume": 20965.4,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_MASK_LIP_A_U_OUTER_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.75",
+"bbox": [
+-472.0,
+-814.0,
+956.5,
+747.8,
+-812.5,
+975.0
+],
+"volume": 33493.1,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_MASK_LIP_A_U_INNER_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.76",
+"bbox": [
+-472.0,
+-52.0,
+956.5,
+747.8,
+-50.5,
+975.0
+],
+"volume": 33457.4,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_MASK_LIP_B_L_REAR_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.77",
+"bbox": [
+-473.5,
+50.5,
+621.5,
+-472.0,
+815.0,
+640.0
+],
+"volume": 20965.4,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_MASK_LIP_B_L_FRONT_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.78",
+"bbox": [
+747.8,
+50.5,
+621.5,
+749.3,
+815.0,
+640.0
+],
+"volume": 20965.4,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_MASK_LIP_B_L_OUTER_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.79",
+"bbox": [
+-472.0,
+812.5,
+621.5,
+747.8,
+814.0,
+640.0
+],
+"volume": 33493.1,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_MASK_LIP_B_L_INNER_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.80",
+"bbox": [
+-472.0,
+50.5,
+621.5,
+747.8,
+52.0,
+640.0
+],
+"volume": 33457.4,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_MASK_LIP_B_U_REAR_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.81",
+"bbox": [
+-473.5,
+50.5,
+956.5,
+-472.0,
+815.0,
+975.0
+],
+"volume": 20965.4,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_MASK_LIP_B_U_FRONT_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.82",
+"bbox": [
+747.8,
+50.5,
+956.5,
+749.3,
+815.0,
+975.0
+],
+"volume": 20965.4,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_MASK_LIP_B_U_OUTER_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.83",
+"bbox": [
+-472.0,
+812.5,
+956.5,
+747.8,
+814.0,
+975.0
+],
+"volume": 33493.1,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_MASK_LIP_B_U_INNER_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.84",
+"bbox": [
+-472.0,
+50.5,
+956.5,
+747.8,
+52.0,
+975.0
+],
+"volume": 33457.4,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_ROOF_RECEIVER_A_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.85",
+"bbox": [
+-500.0,
+-815.0,
+1522.5,
+749.3,
+-801.5,
+1524.0
+],
+"volume": 24581.6,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_ROOF_RECEIVER_B_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.86",
+"bbox": [
+-500.0,
+801.5,
+1522.5,
+749.3,
+815.0,
+1524.0
+],
+"volume": 24581.6,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_ROOF_RECEIVER_FRONT_0_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.87",
+"bbox": [
+735.8,
+-801.5,
+1522.5,
+749.3,
+-20.0,
+1524.0
+],
+"volume": 15467.0,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_ROOF_RECEIVER_FRONT_1_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.88",
+"bbox": [
+735.8,
+20.0,
+1522.5,
+749.3,
+801.5,
+1524.0
+],
+"volume": 15467.0,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_ROOF_RECEIVER_REAR_0_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.89",
+"bbox": [
+-500.0,
+-801.5,
+1522.5,
+-486.5,
+-20.0,
+1524.0
+],
+"volume": 15467.0,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_ROOF_RECEIVER_REAR_1_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.90",
+"bbox": [
+-500.0,
+20.0,
+1522.5,
+-486.5,
+801.5,
+1524.0
+],
+"volume": 15467.0,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_PROCESS_OUT_TOP_SPACER_A_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.91",
+"bbox": [
+748.0,
+-780.0,
+347.0,
+749.3,
+-70.0,
+617.0
+],
+"volume": 36926.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_PROCESS_OUT_TOP_SPACER_B_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.92",
+"bbox": [
+748.0,
+55.0,
+347.0,
+749.3,
+765.0,
+617.0
+],
+"volume": 36926.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_CENTRAL_TOOL_COVER_L_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.93",
+"bbox": [
+754.3,
+-46.5,
+616.0,
+755.8,
+46.5,
+639.5
+],
+"volume": 3207.0,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M302_CENTRAL_TOOL_COVER_U_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.94",
+"bbox": [
+754.3,
+-46.5,
+951.0,
+755.8,
+46.5,
+974.5
+],
+"volume": 3207.0,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M201_MASK_REAR_BENT_A_L_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.95",
+"bbox": [
+-500.0,
+-815.0,
+617.0,
+-474.5,
+-46.5,
+640.0
+],
+"volume": 52816.6,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M201_MASK_REAR_BENT_A_U_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.96",
+"bbox": [
+-500.0,
+-815.0,
+952.0,
+-474.5,
+-46.5,
+975.0
+],
+"volume": 52816.6,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M201_MASK_REAR_BENT_B_L_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.97",
+"bbox": [
+-500.0,
+46.5,
+617.0,
+-474.5,
+815.0,
+640.0
+],
+"volume": 52816.6,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M201_MASK_REAR_BENT_B_U_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.98",
+"bbox": [
+-500.0,
+46.5,
+952.0,
+-474.5,
+815.0,
+975.0
+],
+"volume": 52816.6,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M202_REGEN_PORT_OFFSET_SEAM_A_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.99",
+"bbox": [
+748.5,
+-780.4,
+56.6,
+750.8,
+-69.6,
+327.4
+],
+"volume": 1804.7,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M202_REGEN_PORT_OFFSET_SEAM_B_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.100",
+"bbox": [
+748.5,
+54.6,
+56.6,
+750.8,
+765.4,
+327.4
+],
+"volume": 1804.7,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M202_BULK_END_SEAM_SIDE_IN_A_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.101",
+"bbox": [
+748.9,
+-46.5,
+42.0,
+749.3,
+-45.0,
+1165.01
+],
+"volume": 673.8,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M202_BULK_END_SEAM_SIDE_IN_B_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.102",
+"bbox": [
+748.9,
+45.0,
+42.0,
+749.3,
+46.5,
+1165.01
+],
+"volume": 673.8,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M202_BULK_END_SEAM_TOP_SPLITTER_A_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.103",
+"bbox": [
+748.9,
+-815.0,
+1164.26,
+749.3,
+-46.5,
+1165.76
+],
+"volume": 461.1,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M202_BULK_END_SEAM_TOP_SPLITTER_B_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.104",
+"bbox": [
+748.9,
+46.5,
+1164.26,
+749.3,
+815.0,
+1165.76
+],
+"volume": 461.1,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M202_RAIL_AIR_SEAM_OUT_A_612_-444_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.105",
+"bbox": [
+-468.5,
+-816.5,
+582.5,
+-419.5,
+-812.0,
+616.5
+],
+"volume": 1261.6,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M202_RAIL_AIR_SEAM_OUT_A_612_510_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.106",
+"bbox": [
+485.5,
+-816.5,
+582.5,
+534.5,
+-812.0,
+616.5
+],
+"volume": 1261.6,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M202_RAIL_AIR_SEAM_OUT_A_947_-444_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.107",
+"bbox": [
+-468.5,
+-816.5,
+917.5,
+-419.5,
+-812.0,
+951.5
+],
+"volume": 1261.6,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M202_RAIL_AIR_SEAM_OUT_A_947_510_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.108",
+"bbox": [
+485.5,
+-816.5,
+917.5,
+534.5,
+-812.0,
+951.5
+],
+"volume": 1261.6,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M202_RAIL_AIR_SEAM_IN_A_612_-444_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.109",
+"bbox": [
+-465.5,
+-46.5,
+585.5,
+-422.5,
+-45.0,
+613.5
+],
+"volume": 303.1,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M202_RAIL_AIR_SEAM_IN_A_612_510_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.110",
+"bbox": [
+488.5,
+-46.5,
+585.5,
+531.5,
+-45.0,
+613.5
+],
+"volume": 303.1,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M202_RAIL_AIR_SEAM_IN_A_947_-444_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.111",
+"bbox": [
+-465.5,
+-46.5,
+920.5,
+-422.5,
+-45.0,
+948.5
+],
+"volume": 303.1,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M202_RAIL_AIR_SEAM_IN_A_947_510_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.112",
+"bbox": [
+488.5,
+-46.5,
+920.5,
+531.5,
+-45.0,
+948.5
+],
+"volume": 303.1,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M202_RAIL_AIR_SEAM_OUT_B_612_-444_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.113",
+"bbox": [
+-468.5,
+812.0,
+582.5,
+-419.5,
+816.5,
+616.5
+],
+"volume": 1261.6,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M202_RAIL_AIR_SEAM_OUT_B_612_510_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.114",
+"bbox": [
+485.5,
+812.0,
+582.5,
+534.5,
+816.5,
+616.5
+],
+"volume": 1261.6,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M202_RAIL_AIR_SEAM_OUT_B_947_-444_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.115",
+"bbox": [
+-468.5,
+812.0,
+917.5,
+-419.5,
+816.5,
+951.5
+],
+"volume": 1261.6,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M202_RAIL_AIR_SEAM_OUT_B_947_510_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.116",
+"bbox": [
+485.5,
+812.0,
+917.5,
+534.5,
+816.5,
+951.5
+],
+"volume": 1261.6,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M202_RAIL_AIR_SEAM_IN_B_612_-444_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.117",
+"bbox": [
+-465.5,
+45.0,
+585.5,
+-422.5,
+46.5,
+613.5
+],
+"volume": 303.1,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M202_RAIL_AIR_SEAM_IN_B_612_510_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.118",
+"bbox": [
+488.5,
+45.0,
+585.5,
+531.5,
+46.5,
+613.5
+],
+"volume": 303.1,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M202_RAIL_AIR_SEAM_IN_B_947_-444_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.119",
+"bbox": [
+-465.5,
+45.0,
+920.5,
+-422.5,
+46.5,
+948.5
+],
+"volume": 303.1,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR_O/ASM_AIR/M202_RAIL_AIR_SEAM_IN_B_947_510_O",
+"name": "Open CASCADE STEP translator 7.8 1.2.120",
+"bbox": [
+488.5,
+45.0,
+920.5,
+531.5,
+46.5,
+948.5
+],
+"volume": 303.1,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_HX_MASK_O/ASM_HX_MASK/HX_MASK_A_L_MIN_O",
+"name": "Open CASCADE STEP translator 7.8 1.3.1",
+"bbox": [
+-473.5,
+-815.0,
+620.0,
+749.3,
+-432.5,
+621.5
+],
+"volume": 243186.8,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_HX_MASK_O/ASM_HX_MASK/HX_MASK_A_L_MAX_O",
+"name": "Open CASCADE STEP translator 7.8 1.3.2",
+"bbox": [
+-473.5,
+-432.5,
+620.0,
+749.3,
+-50.5,
+621.5
+],
+"volume": 242269.7,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_HX_MASK_O/ASM_HX_MASK/HX_END_A_L_REAR_O",
+"name": "Open CASCADE STEP translator 7.8 1.3.3",
+"bbox": [
+-448.0,
+-739.58,
+622.5,
+-410.0,
+-125.42,
+798.4
+],
+"volume": 194007.3,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_HX_MASK_O/ASM_HX_MASK/HX_END_A_L_FRONT_O",
+"name": "Open CASCADE STEP translator 7.8 1.3.4",
+"bbox": [
+590.0,
+-739.58,
+622.5,
+628.0,
+-125.42,
+798.4
+],
+"volume": 194007.3,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_HX_MASK_O/ASM_HX_MASK/HX_MASK_A_U_MIN_O",
+"name": "Open CASCADE STEP translator 7.8 1.3.5",
+"bbox": [
+-473.5,
+-815.0,
+955.0,
+749.3,
+-432.5,
+956.5
+],
+"volume": 243186.8,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_HX_MASK_O/ASM_HX_MASK/HX_MASK_A_U_MAX_O",
+"name": "Open CASCADE STEP translator 7.8 1.3.6",
+"bbox": [
+-473.5,
+-432.5,
+955.0,
+749.3,
+-50.5,
+956.5
+],
+"volume": 242269.7,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_HX_MASK_O/ASM_HX_MASK/HX_END_A_U_REAR_O",
+"name": "Open CASCADE STEP translator 7.8 1.3.7",
+"bbox": [
+-448.0,
+-739.58,
+957.5,
+-410.0,
+-125.42,
+1133.4
+],
+"volume": 194007.3,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_HX_MASK_O/ASM_HX_MASK/HX_END_A_U_FRONT_O",
+"name": "Open CASCADE STEP translator 7.8 1.3.8",
+"bbox": [
+590.0,
+-739.58,
+957.5,
+628.0,
+-125.42,
+1133.4
+],
+"volume": 194007.3,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_HX_MASK_O/ASM_HX_MASK/HX_MASK_B_L_MIN_O",
+"name": "Open CASCADE STEP translator 7.8 1.3.9",
+"bbox": [
+-473.5,
+50.5,
+620.0,
+749.3,
+432.5,
+621.5
+],
+"volume": 242269.7,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_HX_MASK_O/ASM_HX_MASK/HX_MASK_B_L_MAX_O",
+"name": "Open CASCADE STEP translator 7.8 1.3.10",
+"bbox": [
+-473.5,
+432.5,
+620.0,
+749.3,
+815.0,
+621.5
+],
+"volume": 243186.8,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_HX_MASK_O/ASM_HX_MASK/HX_END_B_L_REAR_O",
+"name": "Open CASCADE STEP translator 7.8 1.3.11",
+"bbox": [
+-448.0,
+125.42,
+622.5,
+-410.0,
+739.58,
+798.4
+],
+"volume": 194007.3,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_HX_MASK_O/ASM_HX_MASK/HX_END_B_L_FRONT_O",
+"name": "Open CASCADE STEP translator 7.8 1.3.12",
+"bbox": [
+590.0,
+125.42,
+622.5,
+628.0,
+739.58,
+798.4
+],
+"volume": 194007.3,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_HX_MASK_O/ASM_HX_MASK/HX_MASK_B_U_MIN_O",
+"name": "Open CASCADE STEP translator 7.8 1.3.13",
+"bbox": [
+-473.5,
+50.5,
+955.0,
+749.3,
+432.5,
+956.5
+],
+"volume": 242269.7,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_HX_MASK_O/ASM_HX_MASK/HX_MASK_B_U_MAX_O",
+"name": "Open CASCADE STEP translator 7.8 1.3.14",
+"bbox": [
+-473.5,
+432.5,
+955.0,
+749.3,
+815.0,
+956.5
+],
+"volume": 243186.8,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_HX_MASK_O/ASM_HX_MASK/HX_END_B_U_REAR_O",
+"name": "Open CASCADE STEP translator 7.8 1.3.15",
+"bbox": [
+-448.0,
+125.42,
+957.5,
+-410.0,
+739.58,
+1133.4
+],
+"volume": 194007.3,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_HX_MASK_O/ASM_HX_MASK/HX_END_B_U_FRONT_O",
+"name": "Open CASCADE STEP translator 7.8 1.3.16",
+"bbox": [
+590.0,
+125.42,
+957.5,
+628.0,
+739.58,
+1133.4
+],
+"volume": 194007.3,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_SKIN_O/ASM_SKIN/SKIN_DRY_SIDE_A_O",
+"name": "Open CASCADE STEP translator 7.8 1.4.1",
+"bbox": [
+-650.0,
+-850.0,
+42.0,
+750.8,
+-848.5,
+1527.0
+],
+"volume": 3026057.2,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_SKIN_O/ASM_SKIN/SKIN_DRY_SIDE_B_O",
+"name": "Open CASCADE STEP translator 7.8 1.4.2",
+"bbox": [
+-650.0,
+838.5,
+42.0,
+750.8,
+850.0,
+1527.0
+],
+"volume": 3040575.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_SKIN_O/ASM_SKIN/SKIN_DRY_FLOOR_O",
+"name": "Open CASCADE STEP translator 7.8 1.4.3",
+"bbox": [
+-650.0,
+-850.0,
+40.5,
+750.8,
+850.0,
+42.0
+],
+"volume": 3530450.7,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_SKIN_O/ASM_SKIN/SKIN_DRY_ROOF_O",
+"name": "Open CASCADE STEP translator 7.8 1.4.4",
+"bbox": [
+-650.0,
+-848.5,
+1525.5,
+750.8,
+848.5,
+1527.0
+],
+"volume": 3227427.3,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_SKIN_O/ASM_SKIN/SKIN_REAR_O",
+"name": "Open CASCADE STEP translator 7.8 1.4.5",
+"bbox": [
+-650.8,
+-850.0,
+42.0,
+-649.3,
+850.0,
+1527.0
+],
+"volume": 3287172.2,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_SKIN_O/ASM_SKIN/SKIN_WET_FLOOR_O",
+"name": "Open CASCADE STEP translator 7.8 1.4.6",
+"bbox": [
+750.8,
+-848.5,
+602.0,
+1198.5,
+848.5,
+603.5
+],
+"volume": 1084845.8,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_SKIN_O/ASM_SKIN/SKIN_WET_ROOF_O",
+"name": "Open CASCADE STEP translator 7.8 1.4.7",
+"bbox": [
+750.8,
+-850.0,
+1525.5,
+1200.0,
+850.0,
+1527.0
+],
+"volume": 1143850.4,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_SKIN_O/ASM_SKIN/SKIN_WET_FRONT_A_O",
+"name": "Open CASCADE STEP translator 7.8 1.4.8",
+"bbox": [
+1198.5,
+-850.0,
+603.5,
+1200.0,
+0.0,
+1525.5
+],
+"volume": 1156979.8,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_SKIN_O/ASM_SKIN/SKIN_WET_FRONT_B_O",
+"name": "Open CASCADE STEP translator 7.8 1.4.9",
+"bbox": [
+1198.5,
+0.0,
+603.5,
+1200.0,
+850.0,
+1525.5
+],
+"volume": 1174979.8,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_SKIN_O/ASM_SKIN/SKIN_WET_SIDE_A_O",
+"name": "Open CASCADE STEP translator 7.8 1.4.10",
+"bbox": [
+750.8,
+-850.0,
+42.0,
+1198.5,
+-848.5,
+1525.5
+],
+"volume": 994105.3,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_SKIN_O/ASM_SKIN/SKIN_WET_SIDE_B_O",
+"name": "Open CASCADE STEP translator 7.8 1.4.11",
+"bbox": [
+753.3,
+838.5,
+42.0,
+1198.5,
+850.0,
+1525.5
+],
+"volume": 943109.8,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_BLADE_A_UPPER_0_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.1",
+"bbox": [
+-483.99,
+-750.0,
+1337.65,
+-284.93,
+-100.0,
+1381.97
+],
+"volume": 132279.9,
+"normal": [
+0.213,
+0.0,
+0.977
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_BLADE_A_UPPER_1_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.2",
+"bbox": [
+-426.29,
+-710.0,
+1365.61,
+-406.78,
+-140.0,
+1378.24
+],
+"volume": 19380.0,
+"normal": [
+0.213,
+0.0,
+0.977
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_BLADE_A_UPPER_2_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.3",
+"bbox": [
+-360.01,
+-710.0,
+1351.16,
+-340.5,
+-140.0,
+1363.79
+],
+"volume": 19380.0,
+"normal": [
+0.213,
+0.0,
+0.977
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_BLADE_A_UPPER_3_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.4",
+"bbox": [
+-516.5,
+-835.5,
+1368.5,
+-483.5,
+-833.5,
+1401.5
+],
+"volume": 278.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_BLADE_A_UPPER_4_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.5",
+"bbox": [
+-486.01,
+-835.5,
+1366.71,
+-458.79,
+-833.5,
+1391.26
+],
+"volume": 940.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_SEAT_A_UPPER_SLOPED_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.6",
+"bbox": [
+-482.92,
+-788.0,
+1335.72,
+-252.4,
+-62.0,
+1387.84
+],
+"volume": 115136.5,
+"normal": [
+0.213,
+0.0,
+0.977
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_SEAT_A_UPPER_DEEP_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.7",
+"bbox": [
+-506.5,
+-788.0,
+1133.0,
+-504.5,
+-62.0,
+1368.5
+],
+"volume": 115136.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_ACT_BRACKET_A_UPPER_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.8",
+"bbox": [
+-555.0,
+-853.0,
+1305.0,
+-445.0,
+-818.5,
+1484.0
+],
+"volume": 57550.9,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_BLADE_A_LOWER_0_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.9",
+"bbox": [
+284.93,
+-750.0,
+345.03,
+483.99,
+-100.0,
+389.35
+],
+"volume": 132279.9,
+"normal": [
+0.213,
+0.0,
+0.977
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_BLADE_A_LOWER_1_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.10",
+"bbox": [
+406.78,
+-710.0,
+348.76,
+426.29,
+-140.0,
+361.39
+],
+"volume": 19380.0,
+"normal": [
+0.213,
+0.0,
+0.977
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_BLADE_A_LOWER_2_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.11",
+"bbox": [
+340.5,
+-710.0,
+363.21,
+360.01,
+-140.0,
+375.84
+],
+"volume": 19380.0,
+"normal": [
+0.213,
+0.0,
+0.977
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_BLADE_A_LOWER_3_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.12",
+"bbox": [
+483.5,
+-835.5,
+325.5,
+516.5,
+-833.5,
+358.5
+],
+"volume": 278.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_BLADE_A_LOWER_4_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.13",
+"bbox": [
+458.79,
+-835.5,
+335.74,
+486.01,
+-833.5,
+360.29
+],
+"volume": 940.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_SEAT_A_LOWER_SLOPED_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.14",
+"bbox": [
+252.4,
+-788.0,
+339.16,
+482.92,
+-62.0,
+391.28
+],
+"volume": 115136.5,
+"normal": [
+0.213,
+0.0,
+0.977
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_SEAT_A_LOWER_DEEP_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.15",
+"bbox": [
+504.5,
+-788.0,
+358.5,
+506.5,
+-62.0,
+586.0
+],
+"volume": 103520.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_ACT_BRACKET_A_LOWER_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.16",
+"bbox": [
+445.0,
+-853.0,
+310.0,
+555.0,
+-818.5,
+410.0
+],
+"volume": 28910.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_BLADE_B_UPPER_0_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.17",
+"bbox": [
+-500.5,
+85.0,
+1164.99,
+-499.5,
+735.0,
+1368.5
+],
+"volume": 132279.9,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_BLADE_B_UPPER_1_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.18",
+"bbox": [
+-499.5,
+125.0,
+1291.66,
+-490.5,
+695.0,
+1309.66
+],
+"volume": 19380.0,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_BLADE_B_UPPER_2_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.19",
+"bbox": [
+-499.5,
+125.0,
+1223.83,
+-490.5,
+695.0,
+1241.83
+],
+"volume": 19380.0,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_BLADE_B_UPPER_3_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.20",
+"bbox": [
+-516.5,
+818.5,
+1368.5,
+-483.5,
+820.5,
+1401.5
+],
+"volume": 278.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_BLADE_B_UPPER_4_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.21",
+"bbox": [
+-510.0,
+818.5,
+1345.0,
+-490.0,
+820.5,
+1368.5
+],
+"volume": 940.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_SEAT_B_UPPER_SLOPED_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.22",
+"bbox": [
+-482.92,
+47.0,
+1335.72,
+-252.4,
+773.0,
+1387.84
+],
+"volume": 115136.5,
+"normal": [
+0.213,
+0.0,
+0.977
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_SEAT_B_UPPER_DEEP_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.23",
+"bbox": [
+-506.5,
+47.0,
+1133.0,
+-504.5,
+773.0,
+1368.5
+],
+"volume": 115136.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_ACT_BRACKET_B_UPPER_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.24",
+"bbox": [
+-555.0,
+818.5,
+1305.0,
+-445.0,
+853.0,
+1484.0
+],
+"volume": 57550.9,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_BLADE_B_LOWER_0_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.25",
+"bbox": [
+499.5,
+85.0,
+358.5,
+500.5,
+735.0,
+562.01
+],
+"volume": 132279.9,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_BLADE_B_LOWER_1_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.26",
+"bbox": [
+490.5,
+125.0,
+417.34,
+499.5,
+695.0,
+435.34
+],
+"volume": 19380.0,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_BLADE_B_LOWER_2_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.27",
+"bbox": [
+490.5,
+125.0,
+485.17,
+499.5,
+695.0,
+503.17
+],
+"volume": 19380.0,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_BLADE_B_LOWER_3_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.28",
+"bbox": [
+483.5,
+818.5,
+325.5,
+516.5,
+820.5,
+358.5
+],
+"volume": 278.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_BLADE_B_LOWER_4_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.29",
+"bbox": [
+490.0,
+818.5,
+358.5,
+510.0,
+820.5,
+382.0
+],
+"volume": 940.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_SEAT_B_LOWER_SLOPED_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.30",
+"bbox": [
+252.4,
+47.0,
+339.16,
+482.92,
+773.0,
+391.28
+],
+"volume": 115136.5,
+"normal": [
+0.213,
+0.0,
+0.977
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_SEAT_B_LOWER_DEEP_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.31",
+"bbox": [
+504.5,
+47.0,
+358.5,
+506.5,
+773.0,
+586.0
+],
+"volume": 103520.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_ACT_BRACKET_B_LOWER_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.32",
+"bbox": [
+445.0,
+818.5,
+310.0,
+555.0,
+853.0,
+410.0
+],
+"volume": 28910.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_ROOT_LIP_A_UPPER_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.33",
+"bbox": [
+-520.5,
+-750.0,
+1365.56,
+-479.62,
+-100.0,
+1405.5
+],
+"volume": 219060.4,
+"normal": [
+0.977,
+0.0,
+0.213
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_ROOT_LIP_A_LOWER_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.34",
+"bbox": [
+479.62,
+-750.0,
+321.5,
+520.5,
+-100.0,
+361.44
+],
+"volume": 219060.4,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_ROOT_LIP_B_UPPER_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.35",
+"bbox": [
+-520.5,
+85.0,
+1365.56,
+-479.62,
+735.0,
+1405.5
+],
+"volume": 219060.4,
+"normal": [
+0.977,
+0.0,
+0.213
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_ROOT_LIP_B_LOWER_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.36",
+"bbox": [
+479.62,
+85.0,
+321.5,
+520.5,
+735.0,
+361.44
+],
+"volume": 219060.4,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_INNER_RECEIVER_A_UPPER_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.37",
+"bbox": [
+-542.0,
+-33.0,
+1343.0,
+-458.0,
+0.0,
+1484.0
+],
+"volume": 34754.4,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_INNER_RECEIVER_A_LOWER_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.38",
+"bbox": [
+458.0,
+-33.0,
+300.0,
+542.0,
+-0.0,
+507.0
+],
+"volume": 51386.4,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_INNER_RECEIVER_B_UPPER_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.39",
+"bbox": [
+-542.0,
+0.0,
+1343.0,
+-458.0,
+18.0,
+1484.0
+],
+"volume": 30974.4,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/DAMPER_INNER_RECEIVER_B_LOWER_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.40",
+"bbox": [
+458.0,
+-0.0,
+300.0,
+542.0,
+18.0,
+507.0
+],
+"volume": 47606.4,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/M203_INNER_FLANGE_A_UPPER_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.41",
+"bbox": [
+-541.0,
+-30.0,
+1354.0,
+-459.0,
+-26.0,
+1416.0
+],
+"volume": 4002.3,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/M203_INNER_FLANGE_A_LOWER_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.42",
+"bbox": [
+459.0,
+-30.0,
+311.0,
+541.0,
+-26.0,
+373.0
+],
+"volume": 4049.8,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/M203_INNER_FLANGE_B_UPPER_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.43",
+"bbox": [
+-541.0,
+11.0,
+1354.0,
+-459.0,
+15.0,
+1416.0
+],
+"volume": 4002.3,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_DAMPER_O/ASM_DAMPER/M203_INNER_FLANGE_B_LOWER_O",
+"name": "Open CASCADE STEP translator 7.8 1.5.44",
+"bbox": [
+459.0,
+11.0,
+311.0,
+541.0,
+15.0,
+373.0
+],
+"volume": 4049.8,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_EQUIPMENT_SUPPORT_O/ASM_EQUIPMENT_SUPPORT/M203_SOURCE_TRAY_A_L_O",
+"name": "Open CASCADE STEP translator 7.8 1.6.1",
+"bbox": [
+1090.0,
+640.0,
+713.0,
+1170.0,
+811.0,
+743.0
+],
+"volume": 52949.8,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_EQUIPMENT_SUPPORT_O/ASM_EQUIPMENT_SUPPORT/M203_SOURCE_TRAY_B_L_O",
+"name": "Open CASCADE STEP translator 7.8 1.6.2",
+"bbox": [
+1033.0,
+587.0,
+898.5,
+1170.0,
+665.0,
+991.0
+],
+"volume": 58107.2,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_EQUIPMENT_SUPPORT_O/ASM_EQUIPMENT_SUPPORT/M203_SOURCE_TRAY_A_U_O",
+"name": "Open CASCADE STEP translator 7.8 1.6.3",
+"bbox": [
+1090.0,
+640.0,
+1178.0,
+1170.0,
+811.0,
+1208.0
+],
+"volume": 52949.8,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_EQUIPMENT_SUPPORT_O/ASM_EQUIPMENT_SUPPORT/M203_SOURCE_TRAY_B_U_O",
+"name": "Open CASCADE STEP translator 7.8 1.6.4",
+"bbox": [
+1033.0,
+587.0,
+1363.5,
+1170.0,
+665.0,
+1456.0
+],
+"volume": 58107.2,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_EQUIPMENT_SUPPORT_O/ASM_EQUIPMENT_SUPPORT/M203_D1_DRAIN_SHELF_A_O",
+"name": "Open CASCADE STEP translator 7.8 1.6.5",
+"bbox": [
+810.0,
+-840.0,
+717.85,
+980.0,
+-747.5,
+720.85
+],
+"volume": 36634.1,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_EQUIPMENT_SUPPORT_O/ASM_EQUIPMENT_SUPPORT/M203_D1_DRAIN_SHELF_A_GUSSET_0_O",
+"name": "Open CASCADE STEP translator 7.8 1.6.6",
+"bbox": [
+825.0,
+-835.0,
+687.85,
+980.0,
+-832.0,
+717.85
+],
+"volume": 6975.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_EQUIPMENT_SUPPORT_O/ASM_EQUIPMENT_SUPPORT/M203_D1_DRAIN_SHELF_A_GUSSET_1_O",
+"name": "Open CASCADE STEP translator 7.8 1.6.7",
+"bbox": [
+825.0,
+-812.0,
+687.85,
+980.0,
+-809.0,
+717.85
+],
+"volume": 6975.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_EQUIPMENT_SUPPORT_O/ASM_EQUIPMENT_SUPPORT/M203_D1_VENT_ROOT_A_O",
+"name": "Open CASCADE STEP translator 7.8 1.6.8",
+"bbox": [
+947.0,
+-107.5,
+998.0,
+950.0,
+-57.5,
+1055.85
+],
+"volume": 8677.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_EQUIPMENT_SUPPORT_O/ASM_EQUIPMENT_SUPPORT/M203_D1_VENT_SHELF_A_O",
+"name": "Open CASCADE STEP translator 7.8 1.6.9",
+"bbox": [
+810.0,
+-107.5,
+1052.85,
+947.0,
+-57.5,
+1055.85
+],
+"volume": 20359.1,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_EQUIPMENT_SUPPORT_O/ASM_EQUIPMENT_SUPPORT/M203_D1_VENT_SHELF_A_GUSSET_0_O",
+"name": "Open CASCADE STEP translator 7.8 1.6.10",
+"bbox": [
+825.0,
+-103.5,
+1004.0,
+947.0,
+-100.5,
+1052.85
+],
+"volume": 8939.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_EQUIPMENT_SUPPORT_O/ASM_EQUIPMENT_SUPPORT/M203_D1_VENT_SHELF_A_GUSSET_1_O",
+"name": "Open CASCADE STEP translator 7.8 1.6.11",
+"bbox": [
+825.0,
+-64.5,
+1004.0,
+947.0,
+-61.5,
+1052.85
+],
+"volume": 8939.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_EQUIPMENT_SUPPORT_O/ASM_EQUIPMENT_SUPPORT/M203_D1_DRAIN_SHELF_B_O",
+"name": "Open CASCADE STEP translator 7.8 1.6.12",
+"bbox": [
+810.0,
+747.5,
+717.85,
+980.0,
+840.0,
+720.85
+],
+"volume": 36634.1,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_EQUIPMENT_SUPPORT_O/ASM_EQUIPMENT_SUPPORT/M203_D1_DRAIN_SHELF_B_GUSSET_0_O",
+"name": "Open CASCADE STEP translator 7.8 1.6.13",
+"bbox": [
+825.0,
+832.0,
+687.85,
+980.0,
+835.0,
+717.85
+],
+"volume": 6975.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_EQUIPMENT_SUPPORT_O/ASM_EQUIPMENT_SUPPORT/M203_D1_DRAIN_SHELF_B_GUSSET_1_O",
+"name": "Open CASCADE STEP translator 7.8 1.6.14",
+"bbox": [
+825.0,
+809.0,
+687.85,
+980.0,
+812.0,
+717.85
+],
+"volume": 6975.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_EQUIPMENT_SUPPORT_O/ASM_EQUIPMENT_SUPPORT/M203_D1_VENT_ROOT_B_O",
+"name": "Open CASCADE STEP translator 7.8 1.6.15",
+"bbox": [
+947.0,
+57.5,
+998.0,
+950.0,
+107.5,
+1055.85
+],
+"volume": 8677.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_EQUIPMENT_SUPPORT_O/ASM_EQUIPMENT_SUPPORT/M203_D1_VENT_SHELF_B_O",
+"name": "Open CASCADE STEP translator 7.8 1.6.16",
+"bbox": [
+810.0,
+57.5,
+1052.85,
+947.0,
+107.5,
+1055.85
+],
+"volume": 20359.1,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_EQUIPMENT_SUPPORT_O/ASM_EQUIPMENT_SUPPORT/M203_D1_VENT_SHELF_B_GUSSET_0_O",
+"name": "Open CASCADE STEP translator 7.8 1.6.17",
+"bbox": [
+825.0,
+100.5,
+1004.0,
+947.0,
+103.5,
+1052.85
+],
+"volume": 8939.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_EQUIPMENT_SUPPORT_O/ASM_EQUIPMENT_SUPPORT/M203_D1_VENT_SHELF_B_GUSSET_1_O",
+"name": "Open CASCADE STEP translator 7.8 1.6.18",
+"bbox": [
+825.0,
+61.5,
+1004.0,
+947.0,
+64.5,
+1052.85
+],
+"volume": 8939.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_EQUIPMENT_SUPPORT_O/ASM_EQUIPMENT_SUPPORT/M203_SADDLE_LOWER_S_B_L_O",
+"name": "Open CASCADE STEP translator 7.8 1.6.19",
+"bbox": [
+1074.0,
+608.5,
+903.0,
+1120.5,
+631.5,
+1027.0
+],
+"volume": 11671.9,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_EQUIPMENT_SUPPORT_O/ASM_EQUIPMENT_SUPPORT/M203_SADDLE_UPPER_S_B_L_O",
+"name": "Open CASCADE STEP translator 7.8 1.6.20",
+"bbox": [
+1121.5,
+608.5,
+903.0,
+1168.0,
+631.5,
+1027.0
+],
+"volume": 11671.9,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_EQUIPMENT_SUPPORT_O/ASM_EQUIPMENT_SUPPORT/M203_SADDLE_BOSS_S_B_L_O",
+"name": "Open CASCADE STEP translator 7.8 1.6.21",
+"bbox": [
+1066.0,
+612.0,
+957.0,
+1074.69,
+628.0,
+973.0
+],
+"volume": 1186.2,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_EQUIPMENT_SUPPORT_O/ASM_EQUIPMENT_SUPPORT/M203_SADDLE_LOWER_S_B_U_O",
+"name": "Open CASCADE STEP translator 7.8 1.6.22",
+"bbox": [
+1074.0,
+608.5,
+1368.0,
+1120.5,
+631.5,
+1492.0
+],
+"volume": 11671.9,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_EQUIPMENT_SUPPORT_O/ASM_EQUIPMENT_SUPPORT/M203_SADDLE_UPPER_S_B_U_O",
+"name": "Open CASCADE STEP translator 7.8 1.6.23",
+"bbox": [
+1121.5,
+608.5,
+1368.0,
+1168.0,
+631.5,
+1492.0
+],
+"volume": 11671.9,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_EQUIPMENT_SUPPORT_O/ASM_EQUIPMENT_SUPPORT/M203_SADDLE_BOSS_S_B_U_O",
+"name": "Open CASCADE STEP translator 7.8 1.6.24",
+"bbox": [
+1066.0,
+612.0,
+1422.0,
+1074.69,
+628.0,
+1438.0
+],
+"volume": 1186.2,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_A_-520_132_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.1",
+"bbox": [
+-530.0,
+-848.5,
+122.0,
+-510.0,
+-845.5,
+142.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_A_-270_132_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.2",
+"bbox": [
+-280.0,
+-848.5,
+122.0,
+-260.0,
+-845.5,
+142.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_A_-20_132_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.3",
+"bbox": [
+-30.0,
+-848.5,
+122.0,
+-10.0,
+-845.5,
+142.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_A_230_132_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.4",
+"bbox": [
+220.0,
+-848.5,
+122.0,
+240.0,
+-845.5,
+142.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_A_480_132_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.5",
+"bbox": [
+470.0,
+-848.5,
+122.0,
+490.0,
+-845.5,
+142.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_A_730_132_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.6",
+"bbox": [
+720.0,
+-848.5,
+122.0,
+740.0,
+-845.5,
+142.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_A_-400_1474_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.7",
+"bbox": [
+-410.0,
+-848.5,
+1464.0,
+-390.0,
+-845.5,
+1484.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_A_-300_1474_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.8",
+"bbox": [
+-310.0,
+-848.5,
+1464.0,
+-290.0,
+-845.5,
+1484.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_A_0_1474_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.9",
+"bbox": [
+-10.0,
+-848.5,
+1464.0,
+10.0,
+-845.5,
+1484.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_A_300_1474_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.10",
+"bbox": [
+290.0,
+-848.5,
+1464.0,
+310.0,
+-845.5,
+1484.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_A_600_1474_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.11",
+"bbox": [
+590.0,
+-848.5,
+1464.0,
+610.0,
+-845.5,
+1484.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_A_720_1474_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.12",
+"bbox": [
+710.0,
+-848.5,
+1464.0,
+730.0,
+-845.5,
+1484.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_A_-520_497_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.13",
+"bbox": [
+-530.0,
+-848.5,
+487.0,
+-510.0,
+-845.5,
+507.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_A_-260_497_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.14",
+"bbox": [
+-270.0,
+-848.5,
+487.0,
+-250.0,
+-845.5,
+507.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_A_0_497_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.15",
+"bbox": [
+-10.0,
+-848.5,
+487.0,
+10.0,
+-845.5,
+507.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_A_260_497_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.16",
+"bbox": [
+250.0,
+-848.5,
+487.0,
+270.0,
+-845.5,
+507.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_A_570_497_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.17",
+"bbox": [
+560.0,
+-848.5,
+487.0,
+580.0,
+-845.5,
+507.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_A_720_497_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.18",
+"bbox": [
+710.0,
+-848.5,
+487.0,
+730.0,
+-845.5,
+507.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_A_-520_927_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.19",
+"bbox": [
+-530.0,
+-848.5,
+922.0,
+-510.0,
+-845.5,
+932.0
+],
+"volume": 503.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_A_-260_927_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.20",
+"bbox": [
+-270.0,
+-848.5,
+922.0,
+-250.0,
+-845.5,
+932.0
+],
+"volume": 503.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_A_0_927_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.21",
+"bbox": [
+-10.0,
+-848.5,
+922.0,
+10.0,
+-845.5,
+932.0
+],
+"volume": 503.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_A_260_927_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.22",
+"bbox": [
+250.0,
+-848.5,
+922.0,
+270.0,
+-845.5,
+932.0
+],
+"volume": 503.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_A_570_927_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.23",
+"bbox": [
+560.0,
+-848.5,
+922.0,
+580.0,
+-845.5,
+932.0
+],
+"volume": 503.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_A_720_927_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.24",
+"bbox": [
+710.0,
+-848.5,
+922.0,
+730.0,
+-845.5,
+932.0
+],
+"volume": 503.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_TAB_A_800_132_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.25",
+"bbox": [
+790.0,
+-848.5,
+122.0,
+810.0,
+-845.5,
+142.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_TAB_A_900_132_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.26",
+"bbox": [
+890.0,
+-848.5,
+122.0,
+910.0,
+-845.5,
+142.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_TAB_A_1100_132_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.27",
+"bbox": [
+1090.0,
+-848.5,
+122.0,
+1110.0,
+-845.5,
+142.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_TAB_A_1130_132_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.28",
+"bbox": [
+1120.0,
+-848.5,
+122.0,
+1140.0,
+-845.5,
+142.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_TAB_A_800_1474_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.29",
+"bbox": [
+790.0,
+-848.5,
+1464.0,
+810.0,
+-845.5,
+1484.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_TAB_A_900_1474_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.30",
+"bbox": [
+890.0,
+-848.5,
+1464.0,
+910.0,
+-845.5,
+1484.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_TAB_A_1100_1474_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.31",
+"bbox": [
+1090.0,
+-848.5,
+1464.0,
+1110.0,
+-845.5,
+1484.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_TAB_A_1130_1474_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.32",
+"bbox": [
+1120.0,
+-848.5,
+1464.0,
+1140.0,
+-845.5,
+1484.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_POST_TAB_A_430_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.33",
+"bbox": [
+1060.0,
+-847.0,
+420.0,
+1080.0,
+-844.0,
+440.0
+],
+"volume": 1109.4,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_POST_TAB_A_430_GAP_SPACER_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.34",
+"bbox": [
+1064.0,
+-848.5,
+424.0,
+1076.0,
+-847.0,
+436.0
+],
+"volume": 122.8,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_POST_TAB_A_750_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.35",
+"bbox": [
+1060.0,
+-847.0,
+740.0,
+1080.0,
+-844.0,
+760.0
+],
+"volume": 1109.4,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_POST_TAB_A_750_GAP_SPACER_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.36",
+"bbox": [
+1064.0,
+-848.5,
+744.0,
+1076.0,
+-847.0,
+756.0
+],
+"volume": 122.8,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_POST_TAB_A_1080_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.37",
+"bbox": [
+1060.0,
+-847.0,
+1070.0,
+1080.0,
+-844.0,
+1090.0
+],
+"volume": 1109.4,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_POST_TAB_A_1080_GAP_SPACER_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.38",
+"bbox": [
+1064.0,
+-848.5,
+1074.0,
+1076.0,
+-847.0,
+1086.0
+],
+"volume": 122.8,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_POST_TAB_A_1390_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.39",
+"bbox": [
+1060.0,
+-847.0,
+1380.0,
+1080.0,
+-844.0,
+1400.0
+],
+"volume": 1109.4,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_POST_TAB_A_1390_GAP_SPACER_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.40",
+"bbox": [
+1064.0,
+-848.5,
+1384.0,
+1076.0,
+-847.0,
+1396.0
+],
+"volume": 122.8,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_B_-520_132_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.41",
+"bbox": [
+-530.0,
+845.5,
+122.0,
+-510.0,
+848.5,
+142.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_B_-270_132_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.42",
+"bbox": [
+-280.0,
+845.5,
+122.0,
+-260.0,
+848.5,
+142.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_B_-20_132_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.43",
+"bbox": [
+-30.0,
+845.5,
+122.0,
+-10.0,
+848.5,
+142.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_B_230_132_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.44",
+"bbox": [
+220.0,
+845.5,
+122.0,
+240.0,
+848.5,
+142.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_B_480_132_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.45",
+"bbox": [
+470.0,
+845.5,
+122.0,
+490.0,
+848.5,
+142.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_B_730_132_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.46",
+"bbox": [
+720.0,
+845.5,
+122.0,
+740.0,
+848.5,
+142.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_B_-400_1474_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.47",
+"bbox": [
+-410.0,
+845.5,
+1464.0,
+-390.0,
+848.5,
+1484.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_B_-300_1474_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.48",
+"bbox": [
+-310.0,
+845.5,
+1464.0,
+-290.0,
+848.5,
+1484.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_B_0_1474_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.49",
+"bbox": [
+-10.0,
+845.5,
+1464.0,
+10.0,
+848.5,
+1484.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_B_300_1474_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.50",
+"bbox": [
+290.0,
+845.5,
+1464.0,
+310.0,
+848.5,
+1484.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_B_600_1474_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.51",
+"bbox": [
+590.0,
+845.5,
+1464.0,
+610.0,
+848.5,
+1484.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_B_720_1474_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.52",
+"bbox": [
+710.0,
+845.5,
+1464.0,
+730.0,
+848.5,
+1484.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_B_-520_497_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.53",
+"bbox": [
+-530.0,
+845.5,
+487.0,
+-510.0,
+848.5,
+507.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_B_-260_497_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.54",
+"bbox": [
+-270.0,
+845.5,
+487.0,
+-250.0,
+848.5,
+507.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_B_0_497_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.55",
+"bbox": [
+-10.0,
+845.5,
+487.0,
+10.0,
+848.5,
+507.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_B_260_497_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.56",
+"bbox": [
+250.0,
+845.5,
+487.0,
+270.0,
+848.5,
+507.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_B_570_497_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.57",
+"bbox": [
+560.0,
+845.5,
+487.0,
+580.0,
+848.5,
+507.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_B_720_497_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.58",
+"bbox": [
+710.0,
+845.5,
+487.0,
+730.0,
+848.5,
+507.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_B_-520_927_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.59",
+"bbox": [
+-530.0,
+845.5,
+922.0,
+-510.0,
+848.5,
+932.0
+],
+"volume": 503.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_B_-260_927_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.60",
+"bbox": [
+-270.0,
+845.5,
+922.0,
+-250.0,
+848.5,
+932.0
+],
+"volume": 503.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_B_0_927_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.61",
+"bbox": [
+-10.0,
+845.5,
+922.0,
+10.0,
+848.5,
+932.0
+],
+"volume": 503.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_B_260_927_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.62",
+"bbox": [
+250.0,
+845.5,
+922.0,
+270.0,
+848.5,
+932.0
+],
+"volume": 503.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_B_570_927_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.63",
+"bbox": [
+560.0,
+845.5,
+922.0,
+580.0,
+848.5,
+932.0
+],
+"volume": 503.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_SIDE_TAB_B_720_927_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.64",
+"bbox": [
+710.0,
+845.5,
+922.0,
+730.0,
+848.5,
+932.0
+],
+"volume": 503.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_TAB_B_800_132_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.65",
+"bbox": [
+790.0,
+845.5,
+122.0,
+810.0,
+848.5,
+142.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_TAB_B_900_132_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.66",
+"bbox": [
+890.0,
+845.5,
+122.0,
+910.0,
+848.5,
+142.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_TAB_B_1100_132_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.67",
+"bbox": [
+1090.0,
+845.5,
+122.0,
+1110.0,
+848.5,
+142.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_TAB_B_1130_132_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.68",
+"bbox": [
+1120.0,
+845.5,
+122.0,
+1140.0,
+848.5,
+142.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_TAB_B_800_1474_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.69",
+"bbox": [
+790.0,
+845.5,
+1464.0,
+810.0,
+848.5,
+1484.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_TAB_B_900_1474_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.70",
+"bbox": [
+890.0,
+845.5,
+1464.0,
+910.0,
+848.5,
+1484.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_TAB_B_1100_1474_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.71",
+"bbox": [
+1090.0,
+845.5,
+1464.0,
+1110.0,
+848.5,
+1484.0
+],
+"volume": 1103.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_POST_TAB_B_430_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.72",
+"bbox": [
+1060.0,
+844.0,
+420.0,
+1080.0,
+847.0,
+440.0
+],
+"volume": 1109.4,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_POST_TAB_B_430_GAP_SPACER_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.73",
+"bbox": [
+1064.0,
+847.0,
+424.0,
+1076.0,
+848.5,
+436.0
+],
+"volume": 122.8,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_POST_TAB_B_750_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.74",
+"bbox": [
+1060.0,
+844.0,
+740.0,
+1080.0,
+847.0,
+760.0
+],
+"volume": 1109.4,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_POST_TAB_B_750_GAP_SPACER_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.75",
+"bbox": [
+1064.0,
+847.0,
+744.0,
+1076.0,
+848.5,
+756.0
+],
+"volume": 122.8,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_POST_TAB_B_1080_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.76",
+"bbox": [
+1060.0,
+844.0,
+1070.0,
+1080.0,
+847.0,
+1090.0
+],
+"volume": 1109.4,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_POST_TAB_B_1080_GAP_SPACER_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.77",
+"bbox": [
+1064.0,
+847.0,
+1074.0,
+1076.0,
+848.5,
+1086.0
+],
+"volume": 122.8,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_POST_TAB_B_1390_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.78",
+"bbox": [
+1060.0,
+844.0,
+1380.0,
+1080.0,
+847.0,
+1400.0
+],
+"volume": 1109.4,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_POST_TAB_B_1390_GAP_SPACER_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.79",
+"bbox": [
+1064.0,
+847.0,
+1384.0,
+1076.0,
+848.5,
+1396.0
+],
+"volume": 122.8,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_DAMPER_BACKER_A_U_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.80",
+"bbox": [
+-590.0,
+-848.5,
+1288.0,
+-410.0,
+-845.5,
+1474.0
+],
+"volume": 41169.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_DAMPER_BLANK_A_U_LOW_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.81",
+"bbox": [
+-579.5,
+-850.0,
+1300.5,
+-420.5,
+-848.5,
+1384.5
+],
+"volume": 16898.4,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_DAMPER_BLANK_A_U_HIGH_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.82",
+"bbox": [
+-579.5,
+-850.0,
+1385.5,
+-420.5,
+-848.5,
+1469.5
+],
+"volume": 16898.4,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_DAMPER_BACKER_A_L_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.83",
+"bbox": [
+410.0,
+-848.5,
+318.0,
+590.0,
+-845.5,
+437.0
+],
+"volume": 24921.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_DAMPER_BLANK_A_L_LOW_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.84",
+"bbox": [
+420.5,
+-850.0,
+257.5,
+579.5,
+-848.5,
+341.5
+],
+"volume": 16593.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_DAMPER_BLANK_A_L_HIGH_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.85",
+"bbox": [
+420.5,
+-850.0,
+342.5,
+579.5,
+-848.5,
+426.5
+],
+"volume": 16797.8,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_DAMPER_BACKER_B_U_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.86",
+"bbox": [
+-590.0,
+845.5,
+1288.0,
+-410.0,
+848.5,
+1474.0
+],
+"volume": 41169.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_DAMPER_BLANK_B_U_LOW_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.87",
+"bbox": [
+-579.5,
+848.5,
+1300.5,
+-420.5,
+850.0,
+1384.5
+],
+"volume": 16898.4,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_DAMPER_BLANK_B_U_HIGH_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.88",
+"bbox": [
+-579.5,
+848.5,
+1385.5,
+-420.5,
+850.0,
+1469.5
+],
+"volume": 16898.4,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_DAMPER_BACKER_B_L_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.89",
+"bbox": [
+410.0,
+845.5,
+318.0,
+590.0,
+848.5,
+437.0
+],
+"volume": 24921.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_DAMPER_BLANK_B_L_LOW_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.90",
+"bbox": [
+420.5,
+848.5,
+257.5,
+579.5,
+850.0,
+341.5
+],
+"volume": 16593.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_DAMPER_BLANK_B_L_HIGH_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.91",
+"bbox": [
+420.5,
+848.5,
+342.5,
+579.5,
+850.0,
+426.5
+],
+"volume": 16797.8,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_REAR_BOSS_-600_82_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.92",
+"bbox": [
+-649.3,
+-610.0,
+72.0,
+-640.0,
+-590.0,
+92.0
+],
+"volume": 3520.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_REAR_BOSS_-600_1504_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.93",
+"bbox": [
+-649.3,
+-610.0,
+1494.0,
+-640.0,
+-590.0,
+1514.0
+],
+"volume": 3520.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_REAR_BOSS_-250_82_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.94",
+"bbox": [
+-649.3,
+-260.0,
+72.0,
+-640.0,
+-240.0,
+92.0
+],
+"volume": 3520.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_REAR_BOSS_-250_1504_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.95",
+"bbox": [
+-649.3,
+-260.0,
+1494.0,
+-640.0,
+-240.0,
+1514.0
+],
+"volume": 3520.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_REAR_BOSS_250_82_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.96",
+"bbox": [
+-649.3,
+240.0,
+72.0,
+-640.0,
+260.0,
+92.0
+],
+"volume": 3520.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_REAR_BOSS_250_1504_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.97",
+"bbox": [
+-649.3,
+240.0,
+1494.0,
+-640.0,
+260.0,
+1514.0
+],
+"volume": 3520.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_REAR_BOSS_600_82_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.98",
+"bbox": [
+-649.3,
+590.0,
+72.0,
+-640.0,
+610.0,
+92.0
+],
+"volume": 3520.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_REAR_BOSS_600_1504_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.99",
+"bbox": [
+-649.3,
+590.0,
+1494.0,
+-640.0,
+610.0,
+1514.0
+],
+"volume": 3520.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_REAR_BOSS_0_300_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.100",
+"bbox": [
+-649.3,
+-10.0,
+290.0,
+-640.0,
+10.0,
+310.0
+],
+"volume": 3520.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_REAR_BOSS_0_650_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.101",
+"bbox": [
+-649.3,
+-10.0,
+640.0,
+-640.0,
+10.0,
+660.0
+],
+"volume": 3520.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_REAR_BOSS_0_950_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.102",
+"bbox": [
+-649.3,
+-10.0,
+940.0,
+-640.0,
+10.0,
+960.0
+],
+"volume": 3520.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_REAR_BOSS_0_1430_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.103",
+"bbox": [
+-649.3,
+-10.0,
+1420.0,
+-640.0,
+10.0,
+1440.0
+],
+"volume": 3520.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_FLOOR_WEB_-833.5_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.104",
+"bbox": [
+770.0,
+-835.0,
+587.0,
+950.0,
+-832.0,
+602.0
+],
+"volume": 8100.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_FLOOR_WEB_0_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.105",
+"bbox": [
+770.0,
+-1.5,
+587.0,
+950.0,
+1.5,
+602.0
+],
+"volume": 8100.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_FLOOR_WEB_833.5_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.106",
+"bbox": [
+770.0,
+832.0,
+587.0,
+950.0,
+835.0,
+602.0
+],
+"volume": 8100.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_FLOOR_GUSSET_-805_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.107",
+"bbox": [
+1000.0,
+-805.0,
+510.0,
+1198.5,
+-802.0,
+602.0
+],
+"volume": 27393.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_FLOOR_GUSSET_20_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.108",
+"bbox": [
+1000.0,
+20.0,
+570.0,
+1198.5,
+23.0,
+602.0
+],
+"volume": 9528.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_FLOOR_GUSSET_802_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.109",
+"bbox": [
+1000.0,
+802.0,
+510.0,
+1198.5,
+805.0,
+602.0
+],
+"volume": 27393.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_CORNER_A_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.110",
+"bbox": [
+1163.5,
+-848.5,
+603.5,
+1198.5,
+-813.5,
+1484.0
+],
+"volume": 171106.7,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_CORNER_B_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.111",
+"bbox": [
+1163.5,
+813.5,
+603.5,
+1198.5,
+848.5,
+1484.0
+],
+"volume": 171106.7,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_FRONT_SPLICE_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.112",
+"bbox": [
+1195.5,
+-15.0,
+603.5,
+1198.5,
+15.0,
+1484.0
+],
+"volume": 78473.1,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_FRONT_TAB_A_75_613.5_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.113",
+"bbox": [
+1195.5,
+-85.0,
+603.5,
+1198.5,
+-65.0,
+623.5
+],
+"volume": 1103.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_FRONT_TAB_A_250_613.5_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.114",
+"bbox": [
+1195.5,
+-260.0,
+603.5,
+1198.5,
+-240.0,
+623.5
+],
+"volume": 1103.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_FRONT_TAB_A_520_613.5_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.115",
+"bbox": [
+1195.5,
+-530.0,
+603.5,
+1198.5,
+-510.0,
+623.5
+],
+"volume": 1103.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_FRONT_TAB_A_780_613.5_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.116",
+"bbox": [
+1195.5,
+-790.0,
+603.5,
+1198.5,
+-770.0,
+623.5
+],
+"volume": 1103.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_FRONT_TAB_A_75_1474_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.117",
+"bbox": [
+1195.5,
+-85.0,
+1464.0,
+1198.5,
+-65.0,
+1484.0
+],
+"volume": 1103.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_FRONT_TAB_A_250_1474_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.118",
+"bbox": [
+1195.5,
+-260.0,
+1464.0,
+1198.5,
+-240.0,
+1484.0
+],
+"volume": 1103.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_FRONT_TAB_A_520_1474_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.119",
+"bbox": [
+1195.5,
+-530.0,
+1464.0,
+1198.5,
+-510.0,
+1484.0
+],
+"volume": 1103.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_FRONT_TAB_A_780_1474_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.120",
+"bbox": [
+1195.5,
+-790.0,
+1464.0,
+1198.5,
+-770.0,
+1484.0
+],
+"volume": 1103.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_FRONT_TAB_B_75_613.5_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.121",
+"bbox": [
+1195.5,
+65.0,
+603.5,
+1198.5,
+85.0,
+623.5
+],
+"volume": 1103.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_FRONT_TAB_B_250_613.5_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.122",
+"bbox": [
+1195.5,
+240.0,
+603.5,
+1198.5,
+260.0,
+623.5
+],
+"volume": 1103.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_FRONT_TAB_B_520_613.5_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.123",
+"bbox": [
+1195.5,
+510.0,
+603.5,
+1198.5,
+530.0,
+623.5
+],
+"volume": 1103.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_FRONT_TAB_B_780_613.5_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.124",
+"bbox": [
+1195.5,
+770.0,
+603.5,
+1198.5,
+790.0,
+623.5
+],
+"volume": 1103.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_FRONT_TAB_B_75_1474_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.125",
+"bbox": [
+1195.5,
+65.0,
+1464.0,
+1198.5,
+85.0,
+1484.0
+],
+"volume": 1103.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_FRONT_TAB_B_250_1474_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.126",
+"bbox": [
+1195.5,
+240.0,
+1464.0,
+1198.5,
+260.0,
+1484.0
+],
+"volume": 1103.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_FRONT_TAB_B_520_1474_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.127",
+"bbox": [
+1195.5,
+510.0,
+1464.0,
+1198.5,
+530.0,
+1484.0
+],
+"volume": 1103.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_FRONT_TAB_B_780_1474_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.128",
+"bbox": [
+1195.5,
+770.0,
+1464.0,
+1198.5,
+790.0,
+1484.0
+],
+"volume": 1103.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_ROOF_NECK_Xm_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.129",
+"bbox": [
+-281.5,
+-201.5,
+1527.0,
+-280.0,
+201.5,
+1533.8
+],
+"volume": 4110.6,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_ROOF_NECK_Xp_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.130",
+"bbox": [
+280.0,
+-201.5,
+1527.0,
+281.5,
+201.5,
+1533.8
+],
+"volume": 4110.6,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_ROOF_NECK_Ym_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.131",
+"bbox": [
+-280.0,
+-201.5,
+1527.0,
+280.0,
+-200.0,
+1533.8
+],
+"volume": 5712.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_ROOF_NECK_Yp_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.132",
+"bbox": [
+-280.0,
+200.0,
+1527.0,
+280.0,
+201.5,
+1533.8
+],
+"volume": 5712.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_ROOF_TAB_-1_800_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.133",
+"bbox": [
+790.0,
+-818.5,
+1521.0,
+810.0,
+-798.5,
+1524.0
+],
+"volume": 1109.4,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_ROOF_TAB_-1_900_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.134",
+"bbox": [
+890.0,
+-818.5,
+1521.0,
+910.0,
+-798.5,
+1524.0
+],
+"volume": 1109.4,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_ROOF_TAB_-1_1050_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.135",
+"bbox": [
+1040.0,
+-818.5,
+1521.0,
+1060.0,
+-798.5,
+1524.0
+],
+"volume": 1109.4,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_ROOF_TAB_-1_1140_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.136",
+"bbox": [
+1130.0,
+-818.5,
+1521.0,
+1150.0,
+-798.5,
+1524.0
+],
+"volume": 1109.4,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_ROOF_CENTER_-1_800_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.137",
+"bbox": [
+790.0,
+-40.0,
+1521.0,
+810.0,
+-20.0,
+1524.0
+],
+"volume": 1109.4,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_ROOF_CENTER_-1_1050_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.138",
+"bbox": [
+1040.0,
+-40.0,
+1521.0,
+1060.0,
+-20.0,
+1524.0
+],
+"volume": 1109.4,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_ROOF_TAB_1_800_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.139",
+"bbox": [
+790.0,
+798.5,
+1521.0,
+810.0,
+818.5,
+1524.0
+],
+"volume": 1109.4,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_ROOF_TAB_1_900_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.140",
+"bbox": [
+890.0,
+798.5,
+1521.0,
+910.0,
+818.5,
+1524.0
+],
+"volume": 1109.4,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_ROOF_TAB_1_1050_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.141",
+"bbox": [
+1040.0,
+798.5,
+1521.0,
+1060.0,
+818.5,
+1524.0
+],
+"volume": 1109.4,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_ROOF_TAB_1_1140_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.142",
+"bbox": [
+1130.0,
+798.5,
+1521.0,
+1150.0,
+818.5,
+1524.0
+],
+"volume": 1109.4,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_ROOF_CENTER_1_800_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.143",
+"bbox": [
+790.0,
+20.0,
+1521.0,
+810.0,
+40.0,
+1524.0
+],
+"volume": 1109.4,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_ROOF_CENTER_1_1050_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.144",
+"bbox": [
+1040.0,
+20.0,
+1521.0,
+1060.0,
+40.0,
+1524.0
+],
+"volume": 1109.4,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_ROOF_FRONT_-600_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.145",
+"bbox": [
+1138.5,
+-610.0,
+1521.0,
+1158.5,
+-590.0,
+1524.0
+],
+"volume": 1109.4,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_ROOF_FRONT_-250_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.146",
+"bbox": [
+1138.5,
+-260.0,
+1521.0,
+1158.5,
+-240.0,
+1524.0
+],
+"volume": 1109.4,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_ROOF_FRONT_250_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.147",
+"bbox": [
+1138.5,
+240.0,
+1521.0,
+1158.5,
+260.0,
+1524.0
+],
+"volume": 1109.4,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_WET_ROOF_FRONT_600_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.148",
+"bbox": [
+1138.5,
+590.0,
+1521.0,
+1158.5,
+610.0,
+1524.0
+],
+"volume": 1109.4,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_ROOF_GAP_SPACER_M401_H0201_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.149",
+"bbox": [
+795.0,
+-813.5,
+1524.0,
+805.0,
+-803.5,
+1525.5
+],
+"volume": 70.9,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_ROOF_GAP_SPACER_M401_H0202_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.150",
+"bbox": [
+895.0,
+-813.5,
+1524.0,
+905.0,
+-803.5,
+1525.5
+],
+"volume": 70.9,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_ROOF_GAP_SPACER_M401_H0203_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.151",
+"bbox": [
+1045.0,
+-813.5,
+1524.0,
+1055.0,
+-803.5,
+1525.5
+],
+"volume": 70.9,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_ROOF_GAP_SPACER_M401_H0204_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.152",
+"bbox": [
+1135.0,
+-813.5,
+1524.0,
+1145.0,
+-803.5,
+1525.5
+],
+"volume": 70.9,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_ROOF_GAP_SPACER_M401_H0205_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.153",
+"bbox": [
+795.0,
+-35.0,
+1524.0,
+805.0,
+-25.0,
+1525.5
+],
+"volume": 70.9,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_ROOF_GAP_SPACER_M401_H0206_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.154",
+"bbox": [
+1045.0,
+-35.0,
+1524.0,
+1055.0,
+-25.0,
+1525.5
+],
+"volume": 70.9,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_ROOF_GAP_SPACER_M401_H0207_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.155",
+"bbox": [
+795.0,
+803.5,
+1524.0,
+805.0,
+813.5,
+1525.5
+],
+"volume": 70.9,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_ROOF_GAP_SPACER_M401_H0208_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.156",
+"bbox": [
+895.0,
+803.5,
+1524.0,
+905.0,
+813.5,
+1525.5
+],
+"volume": 70.9,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_ROOF_GAP_SPACER_M401_H0209_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.157",
+"bbox": [
+1045.0,
+803.5,
+1524.0,
+1055.0,
+813.5,
+1525.5
+],
+"volume": 70.9,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_ROOF_GAP_SPACER_M401_H0210_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.158",
+"bbox": [
+1135.0,
+803.5,
+1524.0,
+1145.0,
+813.5,
+1525.5
+],
+"volume": 70.9,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_ROOF_GAP_SPACER_M401_H0211_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.159",
+"bbox": [
+795.0,
+25.0,
+1524.0,
+805.0,
+35.0,
+1525.5
+],
+"volume": 70.9,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_ROOF_GAP_SPACER_M401_H0212_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.160",
+"bbox": [
+1045.0,
+25.0,
+1524.0,
+1055.0,
+35.0,
+1525.5
+],
+"volume": 70.9,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_ROOF_GAP_SPACER_M401_H0213_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.161",
+"bbox": [
+1143.5,
+-605.0,
+1524.0,
+1153.5,
+-595.0,
+1525.5
+],
+"volume": 70.9,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_ROOF_GAP_SPACER_M401_H0214_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.162",
+"bbox": [
+1143.5,
+-255.0,
+1524.0,
+1153.5,
+-245.0,
+1525.5
+],
+"volume": 70.9,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_ROOF_GAP_SPACER_M401_H0215_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.163",
+"bbox": [
+1143.5,
+245.0,
+1524.0,
+1153.5,
+255.0,
+1525.5
+],
+"volume": 70.9,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_ROOF_GAP_SPACER_M401_H0216_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.164",
+"bbox": [
+1143.5,
+595.0,
+1524.0,
+1153.5,
+605.0,
+1525.5
+],
+"volume": 70.9,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_LOWER_CABLE_BLANK_A_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.165",
+"bbox": [
+610.5,
+-850.0,
+135.5,
+689.5,
+-848.5,
+214.5
+],
+"volume": 8959.1,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_LOWER_CABLE_BLANK_A_BACKER_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.166",
+"bbox": [
+598.0,
+-848.5,
+123.0,
+702.0,
+-845.5,
+227.0
+],
+"volume": 22654.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_LOWER_CABLE_BLANK_B_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.167",
+"bbox": [
+610.5,
+848.5,
+135.5,
+689.5,
+850.0,
+214.5
+],
+"volume": 8959.1,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_LOWER_CABLE_BLANK_B_BACKER_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.168",
+"bbox": [
+598.0,
+845.5,
+123.0,
+702.0,
+848.5,
+227.0
+],
+"volume": 22654.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_CABINET_HANDOFF_BLANK_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.169",
+"bbox": [
+1198.5,
+-749.5,
+1280.5,
+1200.0,
+-630.5,
+1379.5
+],
+"volume": 17269.1,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_CABINET_HANDOFF_BLANK_BACKER_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.170",
+"bbox": [
+1195.5,
+-762.0,
+1268.0,
+1198.5,
+-618.0,
+1392.0
+],
+"volume": 31294.0,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_BRANCH_CLIP_TAB_A_760_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.171",
+"bbox": [
+1060.0,
+-820.0,
+758.5,
+1100.0,
+-805.0,
+761.5
+],
+"volume": 1728.7,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_BRANCH_CLIP_TAB_A_1240_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.172",
+"bbox": [
+1060.0,
+-820.0,
+1238.5,
+1100.0,
+-805.0,
+1241.5
+],
+"volume": 1728.7,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_BRANCH_CLIP_TAB_B_760_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.173",
+"bbox": [
+1060.0,
+805.0,
+758.5,
+1100.0,
+820.0,
+761.5
+],
+"volume": 1728.7,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M4_ENCLOSURE_O/ASM_M4_ENCLOSURE/M401_BRANCH_CLIP_TAB_B_1240_O",
+"name": "Open CASCADE STEP translator 7.8 1.7.174",
+"bbox": [
+1060.0,
+805.0,
+1238.5,
+1100.0,
+820.0,
+1241.5
+],
+"volume": 1728.7,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M402_WET_SERVICE_O/ASM_M402_WET_SERVICE/M402_WET_PAN_00_O",
+"name": "Open CASCADE STEP translator 7.8 1.8.1",
+"bbox": [
+769.5,
+-845.5,
+608.61,
+1110.0,
+-790.0,
+617.37
+],
+"volume": 22721.6,
+"normal": [
+0.02,
+0.01,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M402_WET_SERVICE_O/ASM_M402_WET_SERVICE/M402_WET_PAN_01_O",
+"name": "Open CASCADE STEP translator 7.8 1.8.2",
+"bbox": [
+769.5,
+-790.0,
+608.61,
+1110.0,
+845.5,
+633.16
+],
+"volume": 810116.3,
+"normal": [
+0.02,
+0.01,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M402_WET_SERVICE_O/ASM_M402_WET_SERVICE/M402_WET_PAN_10_O",
+"name": "Open CASCADE STEP translator 7.8 1.8.3",
+"bbox": [
+1110.0,
+-845.5,
+608.61,
+1189.5,
+-790.0,
+612.14
+],
+"volume": 6475.8,
+"normal": [
+0.02,
+0.01,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M402_WET_SERVICE_O/ASM_M402_WET_SERVICE/M402_WET_PAN_11_O",
+"name": "Open CASCADE STEP translator 7.8 1.8.4",
+"bbox": [
+1110.0,
+-790.0,
+608.61,
+1189.5,
+845.5,
+627.95
+],
+"volume": 190912.8,
+"normal": [
+0.02,
+0.01,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M402_WET_SERVICE_O/ASM_M402_WET_SERVICE/M402_PAN_STAND_780_-760_O",
+"name": "Open CASCADE STEP translator 7.8 1.8.5",
+"bbox": [
+774.0,
+-766.0,
+603.5,
+786.0,
+-754.0,
+615.58
+],
+"volume": 1713.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M402_WET_SERVICE_O/ASM_M402_WET_SERVICE/M402_PAN_STAND_1160_-760_O",
+"name": "Open CASCADE STEP translator 7.8 1.8.6",
+"bbox": [
+1154.0,
+-791.0,
+603.5,
+1166.0,
+-779.0,
+609.73
+],
+"volume": 871.3,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M402_WET_SERVICE_O/ASM_M402_WET_SERVICE/M402_PAN_STAND_780_760_O",
+"name": "Open CASCADE STEP translator 7.8 1.8.7",
+"bbox": [
+774.0,
+754.0,
+603.5,
+786.0,
+766.0,
+630.78
+],
+"volume": 3902.3,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M402_WET_SERVICE_O/ASM_M402_WET_SERVICE/M402_PAN_STAND_1160_760_O",
+"name": "Open CASCADE STEP translator 7.8 1.8.8",
+"bbox": [
+1154.0,
+754.0,
+603.5,
+1166.0,
+766.0,
+625.18
+],
+"volume": 3096.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M402_WET_SERVICE_O/ASM_M402_WET_SERVICE/M402_PAN_UPSTAND_REAR_O",
+"name": "Open CASCADE STEP translator 7.8 1.8.9",
+"bbox": [
+768.0,
+-847.0,
+615.31,
+769.5,
+847.0,
+648.21
+],
+"volume": 41926.5,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M402_WET_SERVICE_O/ASM_M402_WET_SERVICE/M402_PAN_UPSTAND_FRONT_O",
+"name": "Open CASCADE STEP translator 7.8 1.8.10",
+"bbox": [
+1189.5,
+-813.0,
+610.09,
+1191.0,
+813.0,
+642.65
+],
+"volume": 39795.0,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M402_WET_SERVICE_O/ASM_M402_WET_SERVICE/M402_PAN_UPSTAND_A_O",
+"name": "Open CASCADE STEP translator 7.8 1.8.11",
+"bbox": [
+769.5,
+-847.0,
+609.05,
+1163.0,
+-845.5,
+632.38
+],
+"volume": 9657.1,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M402_WET_SERVICE_O/ASM_M402_WET_SERVICE/M402_PAN_UPSTAND_B_O",
+"name": "Open CASCADE STEP translator 7.8 1.8.12",
+"bbox": [
+769.5,
+845.5,
+624.85,
+1163.0,
+847.0,
+648.18
+],
+"volume": 9657.1,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M402_WET_SERVICE_O/ASM_M402_WET_SERVICE/M402_PAN_COAMING_00_O",
+"name": "Open CASCADE STEP translator 7.8 1.8.13",
+"bbox": [
+977.5,
+-845.5,
+609.57,
+1062.5,
+-802.5,
+628.21
+],
+"volume": 4158.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M402_WET_SERVICE_O/ASM_M402_WET_SERVICE/M402_PAN_COAMING_01_O",
+"name": "Open CASCADE STEP translator 7.8 1.8.14",
+"bbox": [
+977.5,
+-22.5,
+617.12,
+1062.5,
+22.5,
+635.77
+],
+"volume": 6286.5,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M402_WET_SERVICE_O/ASM_M402_WET_SERVICE/M402_PAN_COAMING_02_O",
+"name": "Open CASCADE STEP translator 7.8 1.8.15",
+"bbox": [
+977.5,
+802.5,
+625.37,
+1062.5,
+845.5,
+644.0
+],
+"volume": 4158.0,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M402_WET_SERVICE_O/ASM_M402_WET_SERVICE/M402_PAN_COAMING_04_O",
+"name": "Open CASCADE STEP translator 7.8 1.8.16",
+"bbox": [
+1139.5,
+-647.5,
+610.51,
+1147.5,
+-602.5,
+627.62
+],
+"volume": 2475.0,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M402_WET_SERVICE_O/ASM_M402_WET_SERVICE/M402_PAN_COAMING_05_O",
+"name": "Open CASCADE STEP translator 7.8 1.8.17",
+"bbox": [
+1139.5,
+-537.5,
+611.61,
+1147.5,
+-492.5,
+628.73
+],
+"volume": 2475.0,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M402_WET_SERVICE_O/ASM_M402_WET_SERVICE/M402_FRONT_DRIP_FLASH_A_O",
+"name": "Open CASCADE STEP translator 7.8 1.8.18",
+"bbox": [
+1185.0,
+-813.0,
+645.5,
+1198.5,
+-16.0,
+650.0
+],
+"volume": 14647.5,
+"normal": [
+0.217,
+0.0,
+0.976
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M402_WET_SERVICE_O/ASM_M402_WET_SERVICE/M402_SIDE_DRIP_FLASH_A_O",
+"name": "Open CASCADE STEP translator 7.8 1.8.19",
+"bbox": [
+750.8,
+-848.5,
+645.5,
+1163.0,
+-843.0,
+650.0
+],
+"volume": 3066.3,
+"normal": [
+0.0,
+0.479,
+0.878
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M402_WET_SERVICE_O/ASM_M402_WET_SERVICE/M402_FRONT_DRIP_FLASH_B_O",
+"name": "Open CASCADE STEP translator 7.8 1.8.20",
+"bbox": [
+1185.0,
+16.0,
+645.5,
+1198.5,
+813.0,
+650.0
+],
+"volume": 15729.8,
+"normal": [
+0.217,
+0.0,
+0.976
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M402_WET_SERVICE_O/ASM_M402_WET_SERVICE/M402_SIDE_DRIP_FLASH_B_O",
+"name": "Open CASCADE STEP translator 7.8 1.8.21",
+"bbox": [
+750.8,
+843.0,
+650.29,
+1163.0,
+848.5,
+655.0
+],
+"volume": 3408.7,
+"normal": [
+0.0,
+0.479,
+0.878
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR2_LOCAL_O/ASM_AIR2_LOCAL/AIR2_STRUT_BOTTOM_CAP_O",
+"name": "Open CASCADE STEP translator 7.8 1.9.1",
+"bbox": [
+1173.0,
+643.0,
+665.0,
+1192.0,
+662.0,
+668.0
+],
+"volume": 1083.0,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR2_LOCAL_O/ASM_AIR2_LOCAL/AIR2_PROCESS_A_SIDE_LOW_O",
+"name": "Open CASCADE STEP translator 7.8 1.9.2",
+"bbox": [
+750.8,
+-766.5,
+335.58,
+1200.0,
+-765.0,
+602.0
+],
+"volume": 174566.2,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR2_LOCAL_O/ASM_AIR2_LOCAL/AIR2_PROCESS_A_SIDE_HIGH_O",
+"name": "Open CASCADE STEP translator 7.8 1.9.3",
+"bbox": [
+750.8,
+-85.0,
+342.43,
+1200.0,
+-83.5,
+602.0
+],
+"volume": 152618.2,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR2_LOCAL_O/ASM_AIR2_LOCAL/AIR2_PROCESS_A_POCKET_FLOOR_O",
+"name": "Open CASCADE STEP translator 7.8 1.9.4",
+"bbox": [
+930.0,
+-192.0,
+518.0,
+1080.0,
+-83.5,
+519.5
+],
+"volume": 24412.5,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR2_LOCAL_O/ASM_AIR2_LOCAL/AIR2_PROCESS_A_POCKET_REAR_O",
+"name": "Open CASCADE STEP translator 7.8 1.9.5",
+"bbox": [
+930.0,
+-192.0,
+519.5,
+931.5,
+-83.5,
+602.0
+],
+"volume": 13426.9,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR2_LOCAL_O/ASM_AIR2_LOCAL/AIR2_PROCESS_A_POCKET_FRONT_O",
+"name": "Open CASCADE STEP translator 7.8 1.9.6",
+"bbox": [
+1078.5,
+-192.0,
+519.5,
+1080.0,
+-83.5,
+602.0
+],
+"volume": 13426.9,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR2_LOCAL_O/ASM_AIR2_LOCAL/AIR2_PROCESS_A_POCKET_SIDE_O",
+"name": "Open CASCADE STEP translator 7.8 1.9.7",
+"bbox": [
+931.5,
+-192.0,
+519.5,
+1078.5,
+-190.5,
+602.0
+],
+"volume": 18191.2,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR2_LOCAL_O/ASM_AIR2_LOCAL/AIR2_PROCESS_B_SIDE_LOW_O",
+"name": "Open CASCADE STEP translator 7.8 1.9.8",
+"bbox": [
+750.8,
+68.5,
+342.43,
+1200.0,
+70.0,
+602.0
+],
+"volume": 152618.2,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR2_LOCAL_O/ASM_AIR2_LOCAL/AIR2_PROCESS_B_SIDE_HIGH_O",
+"name": "Open CASCADE STEP translator 7.8 1.9.9",
+"bbox": [
+750.8,
+750.0,
+335.58,
+1200.0,
+751.5,
+602.0
+],
+"volume": 174566.2,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR2_LOCAL_O/ASM_AIR2_LOCAL/AIR2_PROCESS_B_POCKET_FLOOR_O",
+"name": "Open CASCADE STEP translator 7.8 1.9.10",
+"bbox": [
+930.0,
+68.5,
+518.0,
+1080.0,
+192.0,
+519.5
+],
+"volume": 27787.5,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR2_LOCAL_O/ASM_AIR2_LOCAL/AIR2_PROCESS_B_POCKET_REAR_O",
+"name": "Open CASCADE STEP translator 7.8 1.9.11",
+"bbox": [
+930.0,
+68.5,
+519.5,
+931.5,
+192.0,
+602.0
+],
+"volume": 15283.1,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR2_LOCAL_O/ASM_AIR2_LOCAL/AIR2_PROCESS_B_POCKET_FRONT_O",
+"name": "Open CASCADE STEP translator 7.8 1.9.12",
+"bbox": [
+1078.5,
+68.5,
+519.5,
+1080.0,
+192.0,
+602.0
+],
+"volume": 15283.1,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR2_LOCAL_O/ASM_AIR2_LOCAL/AIR2_PROCESS_B_POCKET_SIDE_O",
+"name": "Open CASCADE STEP translator 7.8 1.9.13",
+"bbox": [
+931.5,
+190.5,
+519.5,
+1078.5,
+192.0,
+602.0
+],
+"volume": 18191.2,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR2_LOCAL_O/ASM_AIR2_LOCAL/AIR2_STRAP_1_L_O",
+"name": "Open CASCADE STEP translator 7.8 1.9.14",
+"bbox": [
+1077.0,
+-715.0,
+1051.0,
+1127.0,
+-695.0,
+1092.5
+],
+"volume": 1844.9,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR2_LOCAL_O/ASM_AIR2_LOCAL/AIR2_STRAP_1_R_O",
+"name": "Open CASCADE STEP translator 7.8 1.9.15",
+"bbox": [
+1128.0,
+-715.0,
+1051.0,
+1178.0,
+-695.0,
+1092.5
+],
+"volume": 1844.9,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR2_LOCAL_O/ASM_AIR2_LOCAL/AIR2_STRAP_2_L_O",
+"name": "Open CASCADE STEP translator 7.8 1.9.16",
+"bbox": [
+1077.0,
+-365.0,
+1051.0,
+1127.0,
+-345.0,
+1092.5
+],
+"volume": 1844.9,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR2_LOCAL_O/ASM_AIR2_LOCAL/AIR2_STRAP_2_R_O",
+"name": "Open CASCADE STEP translator 7.8 1.9.17",
+"bbox": [
+1128.0,
+-365.0,
+1051.0,
+1178.0,
+-345.0,
+1092.5
+],
+"volume": 1844.9,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR2_LOCAL_O/ASM_AIR2_LOCAL/AIR2_STRAP_3_L_O",
+"name": "Open CASCADE STEP translator 7.8 1.9.18",
+"bbox": [
+1077.0,
+-15.0,
+1051.0,
+1127.0,
+5.0,
+1092.5
+],
+"volume": 1844.9,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR2_LOCAL_O/ASM_AIR2_LOCAL/AIR2_STRAP_3_R_O",
+"name": "Open CASCADE STEP translator 7.8 1.9.19",
+"bbox": [
+1128.0,
+-15.0,
+1051.0,
+1178.0,
+5.0,
+1092.5
+],
+"volume": 1844.9,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR2_LOCAL_O/ASM_AIR2_LOCAL/AIR2_STRAP_4_L_O",
+"name": "Open CASCADE STEP translator 7.8 1.9.20",
+"bbox": [
+1077.0,
+205.0,
+1051.0,
+1127.0,
+225.0,
+1092.5
+],
+"volume": 1747.6,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR2_LOCAL_O/ASM_AIR2_LOCAL/AIR2_STRAP_4_R_O",
+"name": "Open CASCADE STEP translator 7.8 1.9.21",
+"bbox": [
+1128.0,
+205.0,
+1051.0,
+1178.0,
+225.0,
+1092.5
+],
+"volume": 1844.9,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR2_LOCAL_O/ASM_AIR2_LOCAL/AIR2_STRAP_5_L_O",
+"name": "Open CASCADE STEP translator 7.8 1.9.22",
+"bbox": [
+1077.0,
+405.0,
+1051.0,
+1127.0,
+425.0,
+1092.5
+],
+"volume": 1844.9,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR2_LOCAL_O/ASM_AIR2_LOCAL/AIR2_STRAP_5_R_O",
+"name": "Open CASCADE STEP translator 7.8 1.9.23",
+"bbox": [
+1128.0,
+405.0,
+1051.0,
+1178.0,
+425.0,
+1092.5
+],
+"volume": 1844.9,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR2_LOCAL_O/ASM_AIR2_LOCAL/AIR2_STRAP_6_L_O",
+"name": "Open CASCADE STEP translator 7.8 1.9.24",
+"bbox": [
+1077.0,
+605.0,
+1051.0,
+1127.0,
+625.0,
+1092.5
+],
+"volume": 1844.9,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR2_LOCAL_O/ASM_AIR2_LOCAL/AIR2_STRAP_6_R_O",
+"name": "Open CASCADE STEP translator 7.8 1.9.25",
+"bbox": [
+1128.0,
+605.0,
+1051.0,
+1178.0,
+625.0,
+1092.5
+],
+"volume": 1844.9,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR2_LOCAL_O/ASM_AIR2_LOCAL/AIR2_PROCESS_A_ROOF_END_O",
+"name": "Open CASCADE STEP translator 7.8 1.9.26",
+"bbox": [
+1198.5,
+-765.0,
+602.0,
+1200.0,
+-85.0,
+603.5
+],
+"volume": 1530.0,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_AIR2_LOCAL_O/ASM_AIR2_LOCAL/AIR2_PROCESS_B_ROOF_END_O",
+"name": "Open CASCADE STEP translator 7.8 1.9.27",
+"bbox": [
+1198.5,
+70.0,
+602.0,
+1200.0,
+750.0,
+603.5
+],
+"volume": 1530.0,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M608_FIXED_SUPPORT_O/ASM_M608_FIXED_SUPPORT/M608_G05_DROP_FOOT_O",
+"name": "Open CASCADE STEP translator 7.8 1.10.1",
+"bbox": [
+1163.0,
+-366.0,
+1047.5,
+1178.0,
+-344.0,
+1049.5
+],
+"volume": 596.4,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M608_FIXED_SUPPORT_O/ASM_M608_FIXED_SUPPORT/M608_G05_DROP_WEB_O",
+"name": "Open CASCADE STEP translator 7.8 1.10.2",
+"bbox": [
+1163.0,
+-386.0,
+780.0,
+1165.0,
+-344.0,
+1047.5
+],
+"volume": 22412.4,
+"normal": [
+1.0,
+0.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M608_FIXED_SUPPORT_O/ASM_M608_FIXED_SUPPORT/M608_G05_PWR_SHOE_O",
+"name": "Open CASCADE STEP translator 7.8 1.10.3",
+"bbox": [
+1165.0,
+-358.0,
+786.15,
+1175.0,
+-352.0,
+788.15
+],
+"volume": 120.0,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M608_FIXED_SUPPORT_O/ASM_M608_FIXED_SUPPORT/M608_G05_PWR_STRAP_O",
+"name": "Open CASCADE STEP translator 7.8 1.10.4",
+"bbox": [
+1162.0,
+-357.0,
+788.15,
+1179.35,
+-353.0,
+796.85
+],
+"volume": 192.4,
+"normal": [
+0.0,
+0.0,
+1.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M611_AIR_INTERFACE_O/ASM_M611_AIR_INTERFACE/M611_ROOT_RCV_A_LOW_O",
+"name": "Open CASCADE STEP translator 7.8 1.11.1",
+"bbox": [
+460.0,
+-770.5,
+304.0,
+540.0,
+-767.5,
+344.07
+],
+"volume": 6896.8,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M611_AIR_INTERFACE_O/ASM_M611_AIR_INTERFACE/M611_ROOT_RCV_A_HIGH_O",
+"name": "Open CASCADE STEP translator 7.8 1.11.2",
+"bbox": [
+460.0,
+-82.5,
+304.0,
+540.0,
+-79.5,
+344.07
+],
+"volume": 6896.8,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M611_AIR_INTERFACE_O/ASM_M611_AIR_INTERFACE/M611_ROOT_RCV_B_LOW_O",
+"name": "Open CASCADE STEP translator 7.8 1.11.3",
+"bbox": [
+460.0,
+64.5,
+304.0,
+540.0,
+67.5,
+344.07
+],
+"volume": 6896.8,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+},
+{
+"path": "V050_SM_M2_IN1_R1_OUTDOOR_SHEET_METAL_ONLY/ASM_M611_AIR_INTERFACE_O/ASM_M611_AIR_INTERFACE/M611_ROOT_RCV_B_HIGH_O",
+"name": "Open CASCADE STEP translator 7.8 1.11.4",
+"bbox": [
+460.0,
+752.5,
+304.0,
+540.0,
+755.5,
+344.07
+],
+"volume": 6896.8,
+"normal": [
+0.0,
+1.0,
+0.0
+]
+}
+]
