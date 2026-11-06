@@ -61,11 +61,14 @@ chk('Vapour flow design range',200<vflow<300,{'T_K':tv,'p_abs_Pa':pv,'water_kg_s
 chk('All proposed condition duties use 10 kW basis',all(5<=c[5]<=10 for c in m['conditions']),{c[0]:c[5] for c in m['conditions']})
 work={w['id']:w for w in m['workloads']};rig=sum(work[f'W{i:02d}']['count']*work[f'W{i:02d}']['hours_per_unit'] for i in range(15,22))
 syn=sum(work[f'W{i:02d}']['count'] for i in range(1,6));powder=sum(work[f'W{i:02d}']['count']*work[f'W{i:02d}']['amount_per_unit'] for i in range(1,6))
-chk('237 syntheses and 186.12 kg new powder',syn==237 and near(powder,186.12),{'syntheses':syn,'kg':powder})
+chk('93 syntheses and 186.12 kg new powder',syn==93 and near(powder,186.12),{'syntheses':syn,'kg':powder})
 rec=svc['production_recovery']*svc['new_final_powder_kg'];charge=work['W08']['count']*work['W08']['amount_per_unit'];chk('Final powder and shaped charge balance',near(rec,153) and charge==240 and near(120+9+24,rec),{'new_recovered':rec,'all_final_active':charge})
 chk('Reference development and final feed fits',200-24-120/.85>=0 and 60-4-40/.85>=0,{'total_raw_spare':200-24-120/.85,'batch_A_raw_spare':60-4-40/.85})
 capacity=m['production_capacity']['trains']*m['production_capacity']['hours_per_train_month']*m['production_capacity']['months'];required=work['W05']['count']*work['W05']['hours_per_unit']
 chk('Production finishes before M24 forming',m['production_capacity']['powder_finish_month']==23 and capacity>=required,{'capacity':capacity,'required':required,'margin':capacity-required})
+chk('All synthesis owned by Savery',all(work[f'W{i:02d}']['owner']=='SAV' for i in range(1,6)) and T['T2.3']['lead']=='SAV',5)
+chk('One 5 kg line and disjoint allocations',m['production_capacity']['trains']==1 and work['W05']['amount_per_unit']==5 and work['W05']['count']==36 and required==1152 and capacity==1980 and 6*6*5==svc['new_final_powder_kg'],{'groups':6,'lots_per_group':6})
+chk('Synthesis costing and task transfer',pm['SAV']==78 and pm['IRC']==36 and all(c['partner']=='SAV' for c in m['costs'] if c['id'] in {'S-M1','S-M2','S-M3','S-ME1'}),pm)
 chk('Full-history rig hours',rig==2104 and work['W19']['count']*work['W19']['hours_per_unit']==1152,{'all_rig_hours':rig,'primary':1152})
 matrixpath=R/'03_budget/CSV/Validation_Matrix.csv'
 with matrixpath.open(encoding='utf-8-sig') as f:matrix=list(csv.DictReader(f))
@@ -75,7 +78,7 @@ for risk in m['risks']:chk(risk['id']+' trigger impact and consequences',all(ris
 template=R/'00_call/templates/Tpl_Application Form (Part B) (HE RIA and IA).rtf';h=hashlib.sha256(template.read_bytes()).hexdigest();chk('Original template preserved',h=='507cc6ad2831936b3b41e2bed6ec784cb1c50ba61b1e8dd80590639565575977',h)
 md=(R/'01_proposal/Section3_Implementation_EN.md').read_text();chk('All official table identifiers',all('Table 3.1'+c in md for c in 'abcdefgh'),True)
 chk('No obsolete small-module duty in final narrative',not re.search(r'(?<![\d.])(?:0\.5|0\.25|0\.525|1)\s*kW\b',md),True)
-chk('Narrative current budget',all(x in md for x in ['2,487,225','791,725','518,000','517,500','345,000','315,000','186.12 kg','237 syntheses']),True)
+chk('Narrative current budget',all(x in md for x in ['2,487,225','972,225','337,500','517,500','345,000','315,000','186.12 kg','93 syntheses']),True)
 ns={'w':'http://schemas.openxmlformats.org/wordprocessingml/2006/main'}
 with zipfile.ZipFile(R/'01_proposal/Section3_Implementation_EN.docx') as z:
  doc=ET.fromstring(z.read('word/document.xml'));styles=ET.fromstring(z.read('word/styles.xml'))
@@ -97,7 +100,7 @@ with zipfile.ZipFile(R/'03_budget/Implementation_Resources.xlsx') as z:
 chk('Workbook recalculation tests passed',json.loads((R/'QA/workbook_recalculation.json').read_text())['restored'],True)
 result={'task':m['task_id'],'date':'2026-11-06','basis':'10 kW module','tests':len(checks),'passed':sum(x['passed'] for x in checks),'failed':sum(not x['passed'] for x in checks),'status':'PASS' if all(x['passed'] for x in checks) else 'FAIL','checks':checks,'scope_limit':'Design/file/arithmetic checks only. No physical experiment, partner commitment or Portal submission was executed.'}
 (R/'QA/qa_results.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n')
-(R/'QA/QA_Results_CN.md').write_text('# 一致性检查结果\n\n任务 '+m['task_id']+'，10 kW版。\n\n'+f"状态 **{result['status']}**；{result['passed']}/{result['tests']}项通过。\n\n"+'检查包括：任务/ID/日期/责任、逐层PM和成本、角色峰值、早期交付、36个月依赖、10 kW库存与水/蒸汽流量、237次合成及粉体平衡、M23前产能、144完整运行矩阵、风险字段、原模板哈希、Word字号/内容及Excel公式。\n\nExcel另有两个真实改输入→重算→恢复测试：Savery费率增加€1/PM使总额增加€82.50；实验室电价增加€1/MWh使总额增加€51.25。公式错误扫描零命中。没有执行Microsoft Excel界面复核；使用公式引擎及保存文件结构/缓存校核。\n\n这些是设计与文件检查，不是设备测试或伙伴能力确认。剩余执行前提见设计假设和L2回件。\n')
+(R/'QA/QA_Results_CN.md').write_text('# 一致性检查结果\n\n任务 '+m['task_id']+'，10 kW版。\n\n'+f"状态 **{result['status']}**；{result['passed']}/{result['tests']}项通过。\n\n"+'检查包括：任务/ID/日期/责任、逐层PM和成本、角色峰值、早期交付、36个月依赖、10 kW库存与水/蒸汽流量、93次合成及粉体平衡、M23前产能、144完整运行矩阵、风险字段、原模板哈希、Word字号/内容及Excel公式。\n\nExcel另有两个真实改输入→重算→恢复测试：Savery费率增加€1/PM使总额增加€97.50；实验室电价增加€1/MWh使总额增加€51.25。公式错误扫描零命中。没有执行Microsoft Excel界面复核；使用公式引擎及保存文件结构/缓存校核。\n\n这些是设计与文件检查，不是设备测试或伙伴能力确认。剩余执行前提见设计假设和L2回件。\n')
 print(json.dumps({k:result[k] for k in ['status','tests','passed','failed']}))
 for c in checks:
  if not c['passed']:print(c)

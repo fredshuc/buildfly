@@ -12,10 +12,10 @@ S-X1,SAV,C3,Traceable calibration services,12,set,600,WP6,Routine standard servi
 S-X2,SAV,C3,Leak and electrical conformity checks,6,check,800,WP6,"Routine purchased tests, no delegated research task",1,1,1,1,1,4800.0
 S-T1,SAV,C1,Travel and subsistence,12,mission,1000,WP1,"Six consortium reviews plus technical visits, blended planning allowance",1,1,1,1,1,12000.0
 S-D1,SAV,C3,Publication event and communication purchases,3,bundle,2000,WP7,Project-attributable external goods/services; not staff time,1,1,1,1,1,6000.0
-I-E1,IRC,C2,Eligible synthesis sorption and calorimetry equipment use,1,asset share,24000,WP2,"Apportioned remaining depreciable asset base across reactor/instrument pool; verify asset books, three 1 kg production trains and use shares. Staff and direct consumables are separate paid costs.",1,30,60,1,1,12000.0
-I-C1,IRC,C3,Small-batch chemistry consumables,57,batch,200,WP2,"36 exploratory, 12 confirmation, 6 route-development, 3 mechanism batches",1,1,1,1,1,11400.0
-I-C2,IRC,C3,Kilogram production consumables,180,batch,250,WP2,"180 separate 1 kg output batches. Working EUR/kg: yield-adjusted linker 90, metal precursor 20, modifier 30, net solvent 45, process consumables 35, sample/QC supplies 30. No salary/overhead or booked fee included. Not a quote.",1,1,1,1,1,45000.0
-I-C3,IRC,C3,Solvent recovery and waste consumables,10,campaign,1000,WP2,"Direct materials and routine disposal, excludes research personnel",1,1,1,1,1,10000.0
+I-E1,IRC,C2,Sorption and calorimetry equipment use,1,asset share,12000,WP2,IRCELYON measurement asset pool; verify eligible depreciation and actual use.,1,30,60,1,1,6000.0
+S-M1,SAV,C3,Small-batch chemistry consumables,57,batch,200,WP2,"36 exploratory, 12 confirmation, 6 route-development, 3 mechanism batches",1,1,1,1,1,11400.0
+S-M2,SAV,C3,Kilogram production consumables,180,kg dry output,250,WP2,"36 planned lots × 5 kg released dry powder. Working EUR/kg: yield-adjusted linker 90, metal precursor 20, modifier 30, net solvent 45, process consumables 35, sample/QC supplies 30. No salary/overhead or booked fee included. Not a quote.",1,1,1,1,1,45000.0
+S-M3,SAV,C3,Solvent recovery and waste consumables,10,campaign,1000,WP2,"Direct materials and routine disposal, excludes research personnel",1,1,1,1,1,10000.0
 I-X1,IRC,C3,Diffraction or spectroscopy facility use,200,hour,100,WP2,Routine instrument access; IRC staff design and interpret experiments; no synchrotron award assumed,1,1,1,1,1,20000.0
 I-X2,IRC,C3,Routine compositional assays,100,assay,100,WP2,"Purchased standard assay, no external synthesis task",1,1,1,1,1,10000.0
 I-T1,IRC,C1,Travel and subsistence,12,mission,1000,WP1,Blended planning allowance,1,1,1,1,1,12000.0
@@ -40,3 +40,4 @@ H-X2,HPE,C3,External GPU compute,1000,GPU-hour,3,WP5,Planning on-demand rate,1,1
 H-T1,HPE,C1,Travel and subsistence,6,mission,1000,WP1,Blended planning allowance,1,1,1,1,1,6000.0
 H-D1,HPE,C3,Publication and dissemination purchases,1,bundle,2000,WP7,Planning allowance,1,1,1,1,1,2000.0
 S-C5,SAV,C3,Measured laboratory rig utilities,41,MWh,180,WP6,"2104 rig-hours at approximately 19.5 kW average laboratory electrical input, including imposed thermal boundaries and machine electricity; whole-run average is a design assumption. Performance boundary keeps imposed heat and fixture electricity separate.",1,1,1,1,1,7380.0
+S-ME1,SAV,C2,Synthesis line equipment use,1,asset share,12000,WP2,"Provisional share of single 5 kg line depreciation; verify asset basis, remaining useful life and actual use.",1,30,60,1,1,6000.0

@@ -1,7 +1,3 @@
-# Controlled implementation task
+# MAT61 controlled working state
 
-Task MAT61-L2-S3-T01-R1 is being executed in the canonical mat-prod/ workspace. The intended public branch is limited to workspace governance. The original blank template is retained in the controlled task branch and private handover. It does not contain the unpublished proposal payload.
-
-As of 6 November 2026, native Git fetch works, but native push lacks an HTTPS credential. GitHub connector write attempts returned HTTP 403 (Resource not accessible by integration) for tree and ref creation. No remote publication is claimed.
-
-The user has authorised repository operations. That authorisation retains the task's confidentiality restrictions. The controlled branch and private handover record the full implementation candidate and its checks. No partner commitment, procurement, facility booking or Portal submission is implied by this index.
+The controlled branch mat-prod/l2-s3-t01-r1 contains the R2 implementation revision. See 05_reviews/L2_Return_CN.md for the synthesis responsibility, resources, validation and handover. The upstream buildfly repository is public. A public-index ref creation attempt returned HTTP 403. Transfer the full branch through the private handover bundle. L1 acceptance is pending.

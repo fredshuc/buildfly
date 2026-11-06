@@ -2,8 +2,8 @@
   "task": "MAT61-L2-S3-T01-R1",
   "date": "2026-11-06",
   "basis": "10 kW module",
-  "tests": 144,
-  "passed": 144,
+  "tests": 148,
+  "passed": 148,
   "failed": 0,
   "status": "PASS",
   "checks": [
@@ -25,7 +25,7 @@
     {
       "check": "Unique costs",
       "passed": true,
-      "detail": 41
+      "detail": 42
     },
     {
       "check": "Unique deliverables",
@@ -279,8 +279,8 @@
       "check": "PM closure",
       "passed": true,
       "detail": {
-        "SAV": 66,
-        "IRC": 48.0,
+        "SAV": 78,
+        "IRC": 36.0,
         "IKTS": 40.0,
         "UP": 44.0,
         "HPE": 26.0
@@ -289,12 +289,12 @@
     {
       "check": "SAV role PM closure",
       "passed": true,
-      "detail": 66
+      "detail": 78
     },
     {
       "check": "IRC role PM closure",
       "passed": true,
-      "detail": 48
+      "detail": 36
     },
     {
       "check": "IKTS role PM closure",
@@ -314,13 +314,13 @@
     {
       "check": "SAV monthly PM integral",
       "passed": true,
-      "detail": 66.0
+      "detail": 78.0
     },
     {
       "check": "SAV Scientific coordinator peak",
       "passed": true,
       "detail": {
-        "peak": 0.5490532640265261,
+        "peak": 0.5568912234070604,
         "capacity": 0.6,
         "people": 1
       }
@@ -329,7 +329,7 @@
       "check": "SAV Integration engineers peak",
       "passed": true,
       "detail": {
-        "peak": 1.3726331600663153,
+        "peak": 1.3922280585176512,
         "capacity": 1.5,
         "people": 2
       }
@@ -338,7 +338,7 @@
       "check": "SAV Experimental technicians peak",
       "passed": true,
       "detail": {
-        "peak": 0.9150887733775435,
+        "peak": 0.9281520390117675,
         "capacity": 1.0,
         "people": 2
       }
@@ -347,30 +347,39 @@
       "check": "SAV Project and data officer peak",
       "passed": true,
       "detail": {
-        "peak": 0.1830177546755087,
+        "peak": 0.1856304078023535,
         "capacity": 0.2,
         "people": 1
       }
     },
     {
+      "check": "SAV Synthesis scientist and technical operator peak",
+      "passed": true,
+      "detail": {
+        "peak": 0.5568912234070604,
+        "capacity": 0.85,
+        "people": 2
+      }
+    },
+    {
       "check": "IRC monthly PM integral",
       "passed": true,
-      "detail": 48.0
+      "detail": 36.0
     },
     {
       "check": "IRC Materials scientific lead peak",
       "passed": true,
       "detail": {
-        "peak": 0.34351739967548794,
+        "peak": 0.35802319956731726,
         "capacity": 0.4,
         "people": 1
       }
     },
     {
-      "check": "IRC Synthesis and sorption researchers peak",
+      "check": "IRC Sorption and materials researchers peak",
       "passed": true,
       "detail": {
-        "peak": 1.6030811984856104,
+        "peak": 1.1934106652243908,
         "capacity": 1.65,
         "people": 2
       }
@@ -379,7 +388,7 @@
       "check": "IRC Laboratory technicians peak",
       "passed": true,
       "detail": {
-        "peak": 0.8015405992428052,
+        "peak": 0.5967053326121954,
         "capacity": 0.9,
         "people": 2
       }
@@ -493,7 +502,7 @@
     {
       "check": "All cost lines have task/WP ownership",
       "passed": true,
-      "detail": 41
+      "detail": 42
     },
     {
       "check": "Snapshot independently reconciles",
@@ -643,12 +652,12 @@
         "A": 2,
         "B": 9,
         "R": 8,
-        "S": 14,
         "C": 14,
-        "T": 20,
+        "S": 14,
         "D": 18,
-        "E": 21,
+        "T": 20,
         "J": 24,
+        "E": 21,
         "F": 24,
         "G": 32,
         "H": 34,
@@ -717,10 +726,10 @@
       }
     },
     {
-      "check": "237 syntheses and 186.12 kg new powder",
+      "check": "93 syntheses and 186.12 kg new powder",
       "passed": true,
       "detail": {
-        "syntheses": 237,
+        "syntheses": 93,
         "kg": 186.12
       }
     },
@@ -744,9 +753,33 @@
       "check": "Production finishes before M24 forming",
       "passed": true,
       "detail": {
-        "capacity": 5940,
-        "required": 5760,
-        "margin": 180
+        "capacity": 1980,
+        "required": 1152,
+        "margin": 828
+      }
+    },
+    {
+      "check": "All synthesis owned by Savery",
+      "passed": true,
+      "detail": 5
+    },
+    {
+      "check": "One 5 kg line and disjoint allocations",
+      "passed": true,
+      "detail": {
+        "groups": 6,
+        "lots_per_group": 6
+      }
+    },
+    {
+      "check": "Synthesis costing and task transfer",
+      "passed": true,
+      "detail": {
+        "SAV": 78,
+        "IRC": 36.0,
+        "IKTS": 40.0,
+        "UP": 44.0,
+        "HPE": 26.0
       }
     },
     {
@@ -866,7 +899,7 @@
       "check": "Workbook contains live formulas and no cached errors",
       "passed": true,
       "detail": {
-        "formula_cells": 2252,
+        "formula_cells": 2301,
         "errors": []
       }
     },

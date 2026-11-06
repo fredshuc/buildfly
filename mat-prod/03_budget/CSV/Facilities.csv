@@ -1,6 +1,6 @@
 ﻿partner,facility,hours,unit,basis
 SAV,Main laboratory rig,2104,rig-hour,"Booked target 180 rig-hours/month in M25-M32; 24 repeat runs in M33-M34; pressure-system host and operator to confirm. Rentals costed, not free."
-IRC,Synthesis reactor and preparation,6372,instrument-hour,"237 separate syntheses, including 180 x 1 kg production batches. Three 1 kg trains x 180 instrument-hours/month x 11 months (M13-M23) = 5940 hours for 5760 production hours; M24 for final forming/qualification. Host, staff and actual access must be confirmed."
+SAV,Synthesis and preparation,1764,instrument-hour,"57 development batches: 612 h scheduled before bulk production or explicitly charged to shared-line capacity. One 5 kg line: 36 production batches × 32 h = 1,152 h in M13–M23; 1,980 planned available h. Validate dry output, turnaround and access."
 IRC,Sorption and calorimetry,864,instrument-hour,"108+36 isotherms at 4 h, 24 calorimetry at 6 h, 48 dynamics at 1.5 h, plus 72 h calibration; staff/depreciation/materials budgeted."
 IRC,Structural and population observations,200,instrument-hour,Purchased routine facility access allowance; no secured synchrotron access assumed.
 IRC,Parallel coupon ageing apparatus,1000,chamber-hour,"24 coupons x 500 cycles x 5 min; separate from main-rig bookings, may run concurrently subject to verified capacity."

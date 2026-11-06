@@ -23,8 +23,8 @@ decision=f'''# MAT61 Section 3 设计决策与工作假设
 1. **主要热服务**：55 °C源、25 °C排热、65→70 °C热水升级，单个完整双床Module以10 kW为机械和有用热基准。源热需同时包括蒸发和再生，假设热比0.4时约25 kW；有用水路约1.72 m³/h。额外八次只做相邻供水温度的转移检验，不建另一种机器或现场demo。
 2. **库存由问题推导**：20 kg活性干MOF（每床10 kg）、动态摆幅0.15 kg/kg、吸附焓2.8 MJ/kg-water、完整床循环600 s、可利用比例0.75，对应10.5 kW。半周期约300 s。摆幅0.08时仅5.6 kW，故10 kW是设计点，不是已证明的材料或整机性能。低容量配置仍报告可行域；5 kW共同服务只用于合格的部分负荷比较，不改机械基准。
 3. **机械共用与独立重复分开**：一套10 kW平台，四对可复用载体／接口，十二套独立成型双床内部件；不是十二台整机。参考／新材料×颗粒／导热结构形成四物理配置，每配置三独立组。控制与历史在同一组内配对，不能当成额外材料独立重复。
-4. **粉体与合成**：早期57次小／中批合成共6.12 kg；最终180次独立1 kg合成共180 kg新材料。六个不交叠的30 kg投料组，在85%有效回收率下各得25.5 kg活性MOF：20 kg装机、1.5 kg保留表征、4 kg归档／损失／返工。参考粉体共200 kg，含三个独立60 kg生产批和20 kg早期库存；从A批余量再拨4 kg，使早期成型进料达到24 kg，足够20.4 kg活性库存。最终参考两路线每批所需原料约47.1 kg，A批仍足够。
-5. **先锁可生产配方再持续机制研究**：M9四组成下选，M12从确认候选中选择一个可生产配方；M13–M23完成最终粉体，M24成型和资格确认。三个1 kg生产单元每月各180机时，11个月共5,940机时，对5,760机时需求余180机时。该时间裕度很小，实际产能必须核实，不能用“现有量热仪”代替。样本组A/B/C按M19/M21/M23逐次放行。
+4. **粉体与合成**：早期57次小／中批合成共6.12 kg；Savery最终36次独立5 kg合成共180 kg新材料。六个不交叠的30 kg投料组，在85%有效回收率下各得25.5 kg活性MOF：20 kg装机、1.5 kg保留表征、4 kg归档／损失／返工。参考粉体共200 kg，含三个独立60 kg生产批和20 kg早期库存；从A批余量再拨4 kg，使早期成型进料达到24 kg，足够20.4 kg活性库存。最终参考两路线每批所需原料约47.1 kg，A批仍足够。
+5. **先锁可生产配方再持续机制研究**：M9四组成下选，M12从确认候选中选择一个可生产配方；M13–M23完成最终粉体，M24成型和资格确认。Savery 一条5 kg线按每月180机时、每批32小时（含清洗周转）估算，11个月1,980机时，36批需1,152机时，余828机时。每批合格干粉量和实际节拍待验证。样本组A/B/C按M19/M21/M23逐次放行。
 6. **两条主要shaping路线**：颗粒／温和挤出和导热复合／整体结构；继承HESTIA的材料—传递—循环匹配。薄涂层只作为必要参考，不另开第三条开发路线，避免变成常规涂层优化项目。
 7. **早期双线并行**：参考台架M1起建、M8合格；模型M1、控制M3、参考成型M2启动。M24联合冻结，M25–M32初始比较，M33–M34明确纠正与复测，M35–M36转移及证据包。总集成验证窗口12个月。CPM的两条门控主线均在M24汇合；两个月纠正是有任务和资源的管理缓冲，不是额外免费浮时。
 8. **控制公平性**：固定周期充分离线优化；经济型MPC充分调参；RL实质控制热分配、切换、蒸汽输运及压力辅助。共用信息、动作约束、状态估计和允许的边界预测。每种策略每物理配置六个完整开发历史；控制CPU预算每策略最多1,500 h，余500 h用于集成，另计RL适用GPU。最终数据不能反向调参。
@@ -37,7 +37,7 @@ decision=f'''# MAT61 Section 3 设计决策与工作假设
 
 总人员费€1,458,000；设备使用€174,000；差旅€50,000；其他货物服务€307,780；直接费€1,989,780；间接费€497,445。无分包、无第三方补助、无预备费。人员费率是含雇主成本的假设，不是个人工资。设备采用租赁或经核实的折旧／项目使用比例，不自动按购置全额计费；设施机时与付费人员工时不等同。
 
-与初始分配相比，Savery增加€71,725，IRCELYON增加€38,000，IKTS增加€17,500，UPorto减少€55,000，HPE增加€15,000。增加项源于10 kW下的粉体、内部件、热源／蒸汽设备及实验能源；保留44 PM建模和26 PM控制。
+与初始分配相比，Savery增加€252,225，IRCELYON减少€142,500，IKTS增加€17,500，UPorto减少€55,000，HPE增加€15,000。增加项源于10 kW下的粉体、内部件、热源／蒸汽设备及实验能源；保留44 PM建模和26 PM控制。
 
 人工费率普涨5%时总额€2,578,350；再叠加设备／设施／算力基数€274,000涨10%时为€2,612,600，超上限€112,600。参考粉体单独升至€200/kg时总额€2,499,725；新MOF生产耗材单独升至€300/kg时为€2,498,475；两者不能同时吸收。统一人员费率仅有约0.70%上调空间。推荐预算符合上限，但成本鲁棒性有限，不能标成已核价或伙伴已接受。
 
@@ -49,7 +49,7 @@ decision=f'''# MAT61 Section 3 设计决策与工作假设
 
 ## 能力、法人及设施状态
 
-Savery：技术职责和候选协调人Frédéric Cui明确；实验室宿主、压力／真空责任、具体人员及10 kW设备租用／所有权未落实。IRCELYON：机构公开资料支持吸附量热及材料表征，不等于已落实多组分MOF合成、三套1 kg产线或6,372合成总机时。IKTS：用户确认on board；公开材料支持MOF造粒、挤出与结构化，不推定本项目设备预约或性能已达标。UPorto：公开周期吸附及模型／优化／控制能力有依据；团队姓名和44 PM排程未获确认。HPE Galway：Galway研发据点有公开依据；本项目具名MPC／RL／HIL人员和算力须确认。
+Savery：技术职责和候选协调人Frédéric Cui明确；实验室宿主、压力／真空责任、具体人员及10 kW设备租用／所有权未落实。IRCELYON：机构公开资料支持吸附量热及材料表征，具名人员与仪器时段待确认；Savery负责全部合成，单条5 kg线的净干粉产量、机时与可计费成本待核实。IKTS：用户确认on board；公开材料支持MOF造粒、挤出与结构化，不推定本项目设备预约或性能已达标。UPorto：公开周期吸附及模型／优化／控制能力有依据；团队姓名和44 PM排程未获确认。HPE Galway：Galway研发据点有公开依据；本项目具名MPC／RL／HIL人员和算力须确认。
 
 IRCELYON科研单位不直接当作申报法人；CNRS或UCBL签约及PIC单独核对。IKTS科研所与Fraunhofer申报法人、PIC分开。HPE Galway是团队／地点，不能直接冒充法人。没有因此添加第六方。
 
@@ -61,7 +61,7 @@ IRCELYON科研单位不直接当作申报法人；CNRS或UCBL签约及PIC单独�
 
 ## 文件与模板边界
 
-用户原RTF实际为V5.1，2026-01-22；不是任务书所述通用V5.0。保留原始字节及SHA-256。适用表3.1a–h已逐字段对照；3.1h仅要求设备成本超过该伙伴人员费15%时说明，Savery为€128,000/€396,000=32.32%。Word正文和表格均≥11 pt，A4、四边16 mm；图注及图中文字单独可读。后续仍需与登录后的本call提交会话表单、标签和最终Part A核对，不能称Portal-final。
+用户原RTF实际为V5.1，2026-01-22；不是任务书所述通用V5.0。保留原始字节及SHA-256。适用表3.1a–h已逐字段对照；3.1h仅要求设备成本超过该伙伴人员费15%时说明，Savery为€134,000/€468,000=28.63%。Word正文和表格均≥11 pt，A4、四边16 mm；图注及图中文字单独可读。后续仍需与登录后的本call提交会话表单、标签和最终Part A核对，不能称Portal-final。
 
 Section 3保留完整实施细节，当前版面页数见QA结果；全Part B的40页预算仍由L1统一分配。模板给3.1/3.2的页数仅是建议，不用缩小字体实现压页。来源读取等级与旧稿继承范围见Source_and_Reuse_Log.md。
 '''
@@ -93,7 +93,7 @@ A: original file or authoritative decision document, with relevant content read.
 | F2 | DOE27_T07_ACCEPT_WITH_ACTIONS_T09_R1_20261014.zip | Original ZIP and complete included English science readback read, A decision / B science; libfile_5429aa3e3b4481919b28df3818673e11 | Competing transport/population/internal-state models, same-state opposite-history tests, fixed mappings, complete-history holdouts and independent resets. T07 text is not labelled latest final science. |
 | F3 | DOE27_T10B_ACCEPT_T11_INPUT_GATED_20261018.zip | Original acceptance ZIP and full L1 final review read, A decision; libfile_4c167c4a4ad88191ae645d2fd59c85ae | Confirms science acceptance and its boundaries; preserves distinction between support for an extra state and frozen-parameter transfer. Accepted scientific DOCX/PDF are not present in this review ZIP. |
 | F4 | DOE27_R10prime_L1_FINAL_SUBMISSION_AUDIT_20261029.zip | Latest accessible original audit ZIP and full L1 audit read, A decision; libfile_a53d66c7ab0481919b19a913839d6fba | Later material-selection rule: thermodynamic/measurement qualification before dynamic model selection, then freeze with declared calibration and unseen challenges. Latest R10prime science main file itself was not obtained. Do not retain T07's single-material restriction as current MAT61 scope. |
-| S5 | IRCELYON ATARI and chemical/textural facility pages | Official pages opened and relevant sections read, A-scoped | Supports calorimetry/material characterisation; not named synthesis personnel, three 1 kg trains, booked access or project cost. |
+| S5 | IRCELYON ATARI and chemical/textural facility pages | Official pages opened and relevant sections read, A-scoped | Supports calorimetry/material characterisation; not named synthesis personnel, Savery production throughput, booked access or project cost. |
 | S6 | Fraunhofer IKTS Shaping of MOFs page | Official page opened and relevant section read, A-scoped | Direct MOF shaping capabilities, including granulation/extrusion/monoliths. No project booking or guarantee of retained uptake. |
 | S7 | UPorto LSRE-LCM Cyclic Adsorption Processes | Official page opened, A-scoped | Modelling, simulation, optimisation and control background, not this project's named team or reserved effort. |
 | S8 | HPE Galway R&D announcement dated 2 October 2023 | Official page opened, A-scoped | Establishes historical Galway R&D presence, not project-specific RL staffing, a data-centre demo or free compute. |
@@ -133,7 +133,7 @@ The original template SHA-256 is 507cc6ad2831936b3b41e2bed6ec784cb1c50ba61b1e8dd
 '''
 (refs/'Source_and_Reuse_Log.md').write_text(source)
 
-contract={'version':'MAT61-IF-R1','status':'DESIGN_NOT_MEASURED','units':'SI, absolute pressure, water loading per active dry MOF','release_control':'M24 freeze; later versioned corrections preserve original prospective results','fields':[
+contract={'version':'MAT61-IF-R2','status':'DESIGN_NOT_MEASURED','units':'SI, absolute pressure, water loading per active dry MOF','release_control':'M24 freeze; later versioned corrections preserve original prospective results','fields':[
  ['sample_id','string','n.a.','Immutable planned/actual specimen identifier'],['synthesis_batch_id','string','n.a.','One separately prepared synthesis, not a sampled time point'],['forming_lot_id','string','n.a.','Separately manufactured lot'],['assembly_group_id','string','n.a.','Independent material/assembly block A B or C'],['nominal_composition','component fractions','mol/mol','Feed composition; distinct from measured product'],['measured_composition','component fractions','mol/mol','Measured composition and phase identification'],['active_dry_mof_mass','number','kg','Dry active MOF only'],['shaped_dry_mass','number','kg','MOF plus binder/conductive phase'],['substrate_mass','number','kg','Separate hardware/substrate mass'],['water_loading','number','kg-water/kg-dry-MOF','Dry and wet bases never mixed'],['adsorption_enthalpy','loading-dependent array','J/mol-water','Uncertainty and uptake coordinate required'],['conductivity','tensor or scalar','W/(m K)','Orientation and validity range'],['permeability','tensor or scalar','m2','Geometry/process-specific'],['contact_resistance','number','m2 K/W','Measured thermal interface'],['time','array','s','Native timestamps and clock/lag calibration'],['temperature','array','K','Boundary and sample coordinates distinguished'],['vapour_pressure','array','Pa absolute','Never gauge pressure'],['volumetric_flow','array','m3/s','Measured state p/T recorded; not unlabelled normal flow'],['heat_flow','array by channel','W','Source evaporation/regeneration, useful, rejected and leak estimates'],['electrical_power','array by feeder','W','Pump valve vapour mover compressor electronics and fixture separately'],['liquid_water_inventory','array','kg','Measured reservoir inventory with uncertainty'],['state_definition','versioned list','mixed SI','Candidate bed/wall temperatures, loadings, vapour/liquid inventories and any qualified internal state'],['observation_mapping','versioned callable','n.a.','All candidate model classes predict common measurements, including structure where qualified'],['action_definition','versioned list','mixed SI','Heat allocation, timing, vapour conductance and branch pressure assistance'],['constraint_contract','versioned object','SI','Equipment maps and permitted domain confirmed before deployment'],['model_estimator_policy_hash','string','n.a.','Exact executable version and tuning manifest'],['forecast_contract','versioned object','SI and s','Same permitted exogenous information for all controllers'],['fallback_event','timestamped log','s','Command, realised action, interlock cause and recovery'],['run_split','enum','DEV / CALIBRATION / FINAL / CORRECTION','Whole history/block split; no random point split'],['initial_final_inventory','structured values','kg and J','Closure against 2% working-transfer/stored-energy rule'],['uncertainty','covariance and calibration records','corresponding SI','Expanded and model uncertainty distinguished']],
  'handoffs':m['interfaces'],'prospective_holdout':'Group C, complete C09-C12 waveforms and endpoint responses are not fitting data. Routine QC is permitted under frozen rules. Final waveform draws remain sealed until the M24 manifest.'}
 (refs/'Interface_Data_Contract.json').write_text(json.dumps(contract,ensure_ascii=False,indent=2)+'\n')
@@ -146,13 +146,15 @@ for material in ['REFERENCE','NEW']:
     for policy in ['FIXED','MPC','RL']:
      matrix.append(dict(planned_run_id=f'PLAN-{material}-{route}-{group}-{condition}-{policy}',material=material,route=route,group=group,condition=condition,policy=policy,active_dry_mof_kg=20,module_nominal_kW=m['service']['nominal_kw'],target_duty_kW=next(c[5] for c in m['conditions'] if c[0]==condition),service_hours=4,reset_hours=2,setup_hours=2,total_hours=8,status='PLANNED_NOT_RUN'))
 with (R/'03_budget/CSV/Validation_Matrix.csv').open('w',newline='',encoding='utf-8-sig') as f0:
- w=csv.DictWriter(f0,fieldnames=matrix[0].keys());w.writeheader();w.writerows(matrix)
+ w=csv.DictWriter(f0,fieldnames=matrix[0].keys(),lineterminator="\n");w.writeheader();w.writerows(matrix)
 
 task_contract='''# 已领取任务与规模修正
 
 2026年11月6日领取MAT61-L2-S3-T01-R1，完成Section 3.1/3.2、官方适用表、任务、人员月、预算、甘特及依赖、源记录、QA和集中回件。固定Savery、IRCELYON、Fraunhofer IKTS、UPorto、HPE Galway，36个月工作假设，规划上限€2.50m。完整科学链、TRL4实验室边界及保密/权限限制沿用用户本轮任务书。
 
 执行期间用户追加：单Module以10 kW为基准，1 kW找不到对应机械组件。该指令已成为最终硬件与热服务基准，旧小功率草算撤销。随后用户确认Git连接应恢复并授权操作repo。该授权适用于任务内的仓库读写及安全推送，不取消不公开未发布知识产权、私人工资或伙伴商业数据的限制。
+
+本次修订由用户指定Savery负责全部合成、使用一条5 kg合成线。
 
 输出以同一mat-prod受控根目录为准，不增第六方，不外发邮件、不采购付费、不预订、不作伙伴承诺、不提交Portal。
 '''

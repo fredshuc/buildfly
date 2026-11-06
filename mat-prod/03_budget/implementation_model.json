@@ -1,6 +1,6 @@
 {
   "task_id": "MAT61-L2-S3-T01-R1",
-  "revision": "R1 with user 10 kW module basis",
+  "revision": "R2: Savery synthesis, one 5 kg line",
   "date": "2026-11-06",
   "months": 36,
   "target_eur": 2400000,
@@ -39,6 +39,12 @@
           4,
           0.2,
           1
+        ],
+        [
+          "Synthesis scientist and technical operator",
+          12,
+          0.85,
+          2
         ]
       ]
     },
@@ -57,14 +63,14 @@
           1
         ],
         [
-          "Synthesis and sorption researchers",
-          28,
+          "Sorption and materials researchers",
+          20,
           1.65,
           2
         ],
         [
           "Laboratory technicians",
-          14,
+          10,
           0.9,
           2
         ]
@@ -270,14 +276,14 @@
       "start": 1,
       "end": 9,
       "pm": {
-        "SAV": 1,
-        "IRC": 10,
+        "SAV": 4,
+        "IRC": 7,
         "IKTS": 1,
         "UP": 1,
         "HPE": 0
       },
       "inputs": "Nominal heat service and boundary envelope from T6.1; baseline powder and reference structure.",
-      "work": "IRCELYON researchers explore 12 nominal compositions in two water-stable framework families, using mixed-linker and limited mixed-metal variants where synthesis permits. Prepare three genuinely separate 20 g syntheses per composition, giving 36 batches and 0.72 kg. Record feed and measured composition, phase identity, activation, yield and solvent use. Measure three-temperature isotherms on all 36 batches. UPorto and Savery use the resulting fingerprints to rank operating windows; IKTS checks process compatibility.",
+      "work": "IRCELYON researchers explore 12 nominal compositions in two water-stable framework families, using mixed-linker and limited mixed-metal variants where synthesis permits. Savery prepares three genuinely separate 20 g syntheses per composition, giving 36 batches and 0.72 kg. Savery records feed and measured composition, phase identity, activation, yield and solvent use. IRCELYON measures three-temperature isotherms on all 36 batches. UPorto and Savery use the resulting fingerprints to rank operating windows; IKTS checks process compatibility.",
       "acceptance": "Downselect four compositions by M9 using a declared score for usable swing, loading-dependent heat, rate and stability; a phase mixture is labelled as such; at least one tunable composition must show a reproducible fingerprint change beyond combined uncertainty, or the claimed composition mechanism is returned for revision."
     },
     {
@@ -288,32 +294,32 @@
       "start": 4,
       "end": 18,
       "pm": {
-        "SAV": 1,
-        "IRC": 12,
+        "SAV": 5,
+        "IRC": 8,
         "IKTS": 1,
         "UP": 1,
         "HPE": 0
       },
       "inputs": "T2.1 fingerprints and the early T4.1 transport model; provisional T3.1 forming needs.",
-      "work": "Prepare 12 independent 100 g confirmation batches for four compositions and six 600 g process-development batches for two finalists. A further three 200 g batches support mechanism discrimination. Obtain 36 confirmation isotherms, 24 loading-resolved calorimetric profiles and 48 reset-separated dynamic histories covering two chemistries, two thicknesses, two thermal contacts, two preparations and three batch blocks. Use selected diffraction and, only if discriminating, water-sensitive spectroscopy. Calibrate the instrument and vapour path separately. Select one production recipe at M12 from the confirmed finalists so that the 180 kg campaign can run in M13-M23; detailed mechanistic measurements continue to M18. The two-chemistry mechanism blocks use disjoint samples from the existing independently synthesised confirmation/process batches; the three extra 200 g batches supplement targeted observations and are not relabelled as six independent batches.",
-      "acceptance": "Deliver two traceable powder candidates and uncertainty-qualified constitutive cards by M18; explain composition and scale effects separately; identify a production route that can supply 180 separate 1 kg batches using three parallel production trains without pooling away batch identity."
+      "work": "Savery prepares 12 independent 100 g confirmation batches for four compositions and six 600 g process-development batches for two finalists. A further three 200 g batches support mechanism discrimination. IRCELYON obtains 36 confirmation isotherms, 24 loading-resolved calorimetric profiles and 48 reset-separated dynamic histories covering two chemistries, two thicknesses, two thermal contacts, two preparations and three batch blocks. Use selected diffraction and, only if discriminating, water-sensitive spectroscopy. Calibrate the instrument and vapour path separately. Select one production recipe at M12 from the confirmed finalists so that the 180 kg campaign can run in M13-M23; detailed mechanistic measurements continue to M18. The two-chemistry mechanism blocks use disjoint samples from the existing independently synthesised confirmation/process batches; the three extra 200 g batches supplement targeted observations and are not relabelled as six independent batches.",
+      "acceptance": "Deliver two traceable powder candidates and uncertainty-qualified constitutive cards by M18; explain composition and scale effects separately; qualify Savery’s single 5 kg line. Record released dry mass per lot, full turnaround including cleaning, and QC rejection before releasing the campaign."
     },
     {
       "id": "T2.3",
       "wp": "WP2",
       "name": "Validation batches and ageing",
-      "lead": "IRC",
+      "lead": "SAV",
       "start": 10,
       "end": 26,
       "pm": {
-        "SAV": 2,
-        "IRC": 10,
+        "SAV": 7,
+        "IRC": 5,
         "IKTS": 1,
         "UP": 2,
         "HPE": 0
       },
       "inputs": "M12 production recipe decision in T2.2; progressively qualified T3.2 process windows and operating stresses from T6.2.",
-      "work": "Produce 180 independent 1 kg batches of the selected new MOF and allocate six disjoint groups of 30 batches, three groups to each shaping route. At 85% recovered MOF yield, 153 kg provides 120 kg for validation cartridges, 9 kg for retained characterisation and 24 kg for archive, losses and rework. Three parallel 1 kg trains operating in M13-M23 provide 5,940 machine-hours against 5,760 production hours, with M24 retained for forming/qualification and recovery; synthesis staff and equipment access must be secured. Baseline powder comprises three independent 60 kg supplier-production batches plus 20 kg development stock. Test 24 material-route-batch-stress coupons for 500 cycles each on a separate ageing apparatus, with pre/post fingerprints and three inspection points. Release independent groups sequentially, with A by M19, B by M21 and C by M23, for final forming and qualification by M24.",
+      "work": "Savery produces 36 independent batches on one 5 kg line of the selected new MOF and allocate six disjoint groups of six batches, three groups to each shaping route. At 85% recovered MOF yield, 153 kg provides 120 kg for validation cartridges, 9 kg for retained characterisation and 24 kg for archive, losses and rework. The planning case assumes 5 kg released dry powder and 32 occupied hours per batch, including cleaning and turnaround. At 180 available line-hours per month in M13–M23, the campaign needs 1,152 of 1,980 hours. At M12 Savery recalculates the batch count from measured output and availability. Baseline powder comprises three independent 60 kg supplier-production batches plus 20 kg development stock. IRCELYON tests 24 material-route-batch-stress coupons for 500 cycles each on a separate ageing apparatus, with pre/post fingerprints and three inspection points. Release independent groups sequentially, with A by M19, B by M21 and C by M23, for final forming and qualification by M24.",
       "acceptance": "By M24 all six new-material cartridge groups retain independent batch provenance; within a selected recipe, cycle-working-capacity coefficient of variation is at most 10%, and retained capacity after 500 coupon cycles is at least 90%, or the failure domain and recovery plan are explicitly released. No achieved ageing performance is assumed."
     },
     {
@@ -818,12 +824,12 @@
       "id": "I-E1",
       "partner": "IRC",
       "category": "C2",
-      "description": "Eligible synthesis sorption and calorimetry equipment use",
+      "description": "Sorption and calorimetry equipment use",
       "qty": 1,
       "unit": "asset share",
-      "unit_cost": 24000,
+      "unit_cost": 12000,
       "wp": "WP2",
-      "basis": "Apportioned remaining depreciable asset base across reactor/instrument pool; verify asset books, three 1 kg production trains and use shares. Staff and direct consumables are separate paid costs.",
+      "basis": "IRCELYON measurement asset pool; verify eligible depreciation and actual use.",
       "eligible_fraction": 1,
       "project_months": 30,
       "life_months": 60,
@@ -831,8 +837,8 @@
       "indirect_eligible": 1
     },
     {
-      "id": "I-C1",
-      "partner": "IRC",
+      "id": "S-M1",
+      "partner": "SAV",
       "category": "C3",
       "description": "Small-batch chemistry consumables",
       "qty": 57,
@@ -847,15 +853,15 @@
       "indirect_eligible": 1
     },
     {
-      "id": "I-C2",
-      "partner": "IRC",
+      "id": "S-M2",
+      "partner": "SAV",
       "category": "C3",
       "description": "Kilogram production consumables",
       "qty": 180,
-      "unit": "batch",
+      "unit": "kg dry output",
       "unit_cost": 250,
       "wp": "WP2",
-      "basis": "180 separate 1 kg output batches. Working EUR/kg: yield-adjusted linker 90, metal precursor 20, modifier 30, net solvent 45, process consumables 35, sample/QC supplies 30. No salary/overhead or booked fee included. Not a quote.",
+      "basis": "36 planned lots × 5 kg released dry powder. Working EUR/kg: yield-adjusted linker 90, metal precursor 20, modifier 30, net solvent 45, process consumables 35, sample/QC supplies 30. No salary/overhead or booked fee included. Not a quote.",
       "eligible_fraction": 1,
       "project_months": 1,
       "life_months": 1,
@@ -863,8 +869,8 @@
       "indirect_eligible": 1
     },
     {
-      "id": "I-C3",
-      "partner": "IRC",
+      "id": "S-M3",
+      "partner": "SAV",
       "category": "C3",
       "description": "Solvent recovery and waste consumables",
       "qty": 10,
@@ -1261,6 +1267,22 @@
       "life_months": 1,
       "use_share": 1,
       "indirect_eligible": 1
+    },
+    {
+      "id": "S-ME1",
+      "partner": "SAV",
+      "category": "C2",
+      "description": "Synthesis line equipment use",
+      "qty": 1,
+      "unit": "asset share",
+      "unit_cost": 12000,
+      "wp": "WP2",
+      "basis": "Provisional share of single 5 kg line depreciation; verify asset basis, remaining useful life and actual use.",
+      "eligible_fraction": 1,
+      "project_months": 30,
+      "life_months": 60,
+      "use_share": 1,
+      "indirect_eligible": 1
     }
   ],
   "workloads": [
@@ -1272,7 +1294,7 @@
       "amount_per_unit": 0.02,
       "output_unit": "kg MOF",
       "hours_per_unit": 8,
-      "owner": "IRC",
+      "owner": "SAV",
       "task": "T2.1",
       "basis": "12 compositions x 3 separate syntheses"
     },
@@ -1284,7 +1306,7 @@
       "amount_per_unit": 0.1,
       "output_unit": "kg MOF",
       "hours_per_unit": 12,
-      "owner": "IRC",
+      "owner": "SAV",
       "task": "T2.2",
       "basis": "4 compositions x 3 separate syntheses"
     },
@@ -1296,7 +1318,7 @@
       "amount_per_unit": 0.6,
       "output_unit": "kg MOF",
       "hours_per_unit": 24,
-      "owner": "IRC",
+      "owner": "SAV",
       "task": "T2.2",
       "basis": "2 finalists x 3 batches; supplies 24 forming lots"
     },
@@ -1308,21 +1330,21 @@
       "amount_per_unit": 0.2,
       "output_unit": "kg MOF",
       "hours_per_unit": 12,
-      "owner": "IRC",
+      "owner": "SAV",
       "task": "T2.2",
       "basis": "Three independent batch blocks"
     },
     {
       "id": "W05",
       "stage": "Final production powder",
-      "count": 180,
+      "count": 36,
       "unit": "independent batch",
-      "amount_per_unit": 1,
+      "amount_per_unit": 5,
       "output_unit": "kg MOF",
       "hours_per_unit": 32,
-      "owner": "IRC",
+      "owner": "SAV",
       "task": "T2.3",
-      "basis": "Six disjoint groups of 30 separate 1 kg syntheses; each recovered group supplies one 20 kg two-bed adsorbent set"
+      "basis": "Six disjoint 30 kg groups of six independent 5 kg dry-output lots; 32 h full occupancy per lot is a planning assumption."
     },
     {
       "id": "W06",
@@ -1556,7 +1578,7 @@
       "name": "Production recipe and capacity decision",
       "wps": "WP2,WP3,WP6",
       "month": 12,
-      "verification": "One production recipe selected from confirmed finalist batches; three 1 kg production trains and 5940 production machine-hours in M13-M23 support 5760 required production hours. Group releases A/B/C planned at M19/M21/M23."
+      "verification": "Savery qualifies dry output and full turnaround of its 5 kg line; 36 lots at 32 h require 1,152 of 1,980 assumed hours in M13–M23. Reserve lots by route and group for A/B/C release at M19/M21/M23."
     },
     {
       "id": "MS4",
@@ -1619,11 +1641,11 @@
       "id": "D2.2",
       "name": "Validation production and ageing evidence",
       "wp": "WP2",
-      "lead": "IRC",
+      "lead": "SAV",
       "type": "R",
       "dissemination": "SEN",
       "month": 26,
-      "description": "180 independent 1 kg production batches, allocations and coupon-ageing results with limits."
+      "description": "Savery batch and allocation records for 36 planned 5 kg lots; IRCELYON coupon-ageing data with uncertainty and limits."
     },
     {
       "id": "D3.1",
@@ -1729,13 +1751,13 @@
   "risks": [
     {
       "id": "R1",
-      "name": "Synthesis and kilogram production capacity is not secured",
+      "name": "Single-line throughput or saleable dry yield falls short",
       "likelihood": "H",
       "severity": "H",
       "wps": "WP1,WP2",
-      "trigger": "No named synthesis lead, validated host or three-train 1 kg production route at M2; inability to supply 180 kg within 5760 production hours by M24; or less than 75% recovered yield in the route trial.",
+      "trigger": "At M12 the demonstrated dry output, complete turnaround or downtime prevents six independent 30 kg allocations by M23, or shaped recovery falls below 75%.",
       "impact": "Novel-composition and independent-batch claims fail.",
-      "mitigation": "Use reference MOF immediately for platform/models/control; redirect already budgeted IRC researcher and technician effort to a supported composition/route in the same two families; technical scope narrows only through a logged decision. No sixth beneficiary or outsourced core synthesis.",
+      "mitigation": "Savery tests the recipe, tracks rejected lots and schedules catch-up on the same line. IRCELYON characterises released lots; IKTS verifies recovery. Reforecast using six times the rounded-up lot count per 30 kg group. Continue reference-material work if new material release slips.",
       "consequence": "Up to 3 months within pre-M24 work; defined cost exposure EUR30k direct, requiring partner confirmation before release."
     },
     {
@@ -1841,10 +1863,10 @@
   "interfaces": [
     {
       "id": "IF1",
-      "sender": "IRC",
+      "sender": "SAV,IRC",
       "receiver": "IKTS,UP,SAV",
       "months": "M3 provisional; M9, M18 and M24 releases",
-      "contract": "Sample and synthesis-batch IDs; feed/measured composition and phase; activation; kg water/kg dry MOF; p in Pa absolute; T in K; loading-dependent J/mol-water enthalpy; dynamic histories; ageing and uncertainty.",
+      "contract": "Savery releases powder, batch IDs, dry yield and process history. IRCELYON releases measured composition, phase, adsorption thermodynamics, rate, ageing and uncertainty linked to the same sample IDs.",
       "acceptance": "IKTS accepts mass/processability; UPorto accepts identifiable constitutive/observation fields; Savery checks the cycle window."
     },
     {
@@ -2123,11 +2145,11 @@
       "Booked target 180 rig-hours/month in M25-M32; 24 repeat runs in M33-M34; pressure-system host and operator to confirm. Rentals costed, not free."
     ],
     [
-      "IRC",
-      "Synthesis reactor and preparation",
-      6372,
+      "SAV",
+      "Synthesis and preparation",
+      1764,
       "instrument-hour",
-      "237 separate syntheses, including 180 x 1 kg production batches. Three 1 kg trains x 180 instrument-hours/month x 11 months (M13-M23) = 5940 hours for 5760 production hours; M24 for final forming/qualification. Host, staff and actual access must be confirmed."
+      "57 development batches: 612 h scheduled before bulk production or explicitly charged to shared-line capacity. One 5 kg line: 36 production batches × 32 h = 1,152 h in M13–M23; 1,980 planned available h. Validate dry output, turnaround and access."
     ],
     [
       "IRC",
@@ -2194,8 +2216,8 @@
     [
       "A04",
       "Synthesis capability",
-      "Critical capacity gap",
-      "IRCELYON calorimetry evidence does not establish named multicomponent-MOF synthesis staff, kilogram production or booked reactor capacity. Confirm before application finalisation and operationally at M2. The 10 kW resource design now requires 180 kg final new-MOF powder in 180 independent 1 kg batches; confirm three parallel trains and the associated 5760 production machine-hours."
+      "User assigned owner and line scale",
+      "Savery performs all synthesis and operates one 5 kg line. At M12 qualify dry output, cycle including cleaning, production staffing and availability. Production target 180 kg; six disjoint 30 kg allocations. Plan 36 lots at 5 kg released dry MOF per lot."
     ],
     [
       "A05",
@@ -2225,7 +2247,7 @@
       "A09",
       "Equipment rentals/depreciation",
       "Unquoted planning bases",
-      "Savery C2 EUR128k includes rental use EUR123k and assumed sensor depreciation EUR5k; pressure/flow maps, rental quotes and asset use remain unconfirmed. Other participants verify synthesis/measurement/manufacturing asset books and access."
+      "Savery C2 EUR134k includes rental use EUR123k and assumed sensor depreciation EUR5k and synthesis-line depreciation EUR6k; pressure/flow maps, rental quotes and asset use remain unconfirmed. Other participants verify synthesis/measurement/manufacturing asset books and access."
     ],
     [
       "A10",
@@ -2277,7 +2299,7 @@
     ]
   ],
   "production_capacity": {
-    "trains": 3,
+    "trains": 1,
     "hours_per_train_month": 180,
     "start_month": 13,
     "powder_finish_month": 23,

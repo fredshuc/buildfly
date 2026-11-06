@@ -1,7 +1,7 @@
 ﻿id,name,wp,lead,type,dissemination,month,description
 D1.1,Data management plan and schema,WP1,SAV,DMP,PU,4,"Initial data management plan, access classes, units, identifiers and holdout governance; updates at M18 and M36."
 D2.1,Composition and production fingerprint dossier,WP2,IRC,R,SEN,18,"Constitutive data, independent batch evidence and two qualified powder candidates."
-D2.2,Validation production and ageing evidence,WP2,IRC,R,SEN,26,"180 independent 1 kg production batches, allocations and coupon-ageing results with limits."
+D2.2,Validation production and ageing evidence,WP2,SAV,R,SEN,26,Savery batch and allocation records for 36 planned 5 kg lots; IRCELYON coupon-ageing data with uncertainty and limits.
 D3.1,Manufacturing windows and cartridge interface,WP3,IKTS,R,SEN,18,"Two forming routes, measured transport and quality windows."
 D3.2,Independent validation cartridge release,WP3,IKTS,DEM,SEN,24,Twelve two-bed cartridge sets and as-built quality cards.
 D4.1,Control model and estimator release,WP4,UP,OTHER,SEN,22,"Executable model, estimator, observation mapping, domain, intervals and timing evidence."

@@ -1,5 +1,5 @@
 {
-  "version": "MAT61-IF-R1",
+  "version": "MAT61-IF-R2",
   "status": "DESIGN_NOT_MEASURED",
   "units": "SI, absolute pressure, water loading per active dry MOF",
   "release_control": "M24 freeze; later versioned corrections preserve original prospective results",
@@ -194,10 +194,10 @@
   "handoffs": [
     {
       "id": "IF1",
-      "sender": "IRC",
+      "sender": "SAV,IRC",
       "receiver": "IKTS,UP,SAV",
       "months": "M3 provisional; M9, M18 and M24 releases",
-      "contract": "Sample and synthesis-batch IDs; feed/measured composition and phase; activation; kg water/kg dry MOF; p in Pa absolute; T in K; loading-dependent J/mol-water enthalpy; dynamic histories; ageing and uncertainty.",
+      "contract": "Savery releases powder, batch IDs, dry yield and process history. IRCELYON releases measured composition, phase, adsorption thermodynamics, rate, ageing and uncertainty linked to the same sample IDs.",
       "acceptance": "IKTS accepts mass/processability; UPorto accepts identifiable constitutive/observation fields; Savery checks the cycle window."
     },
     {

@@ -1,9 +1,9 @@
 ﻿id,stage,count,unit,amount_per_unit,output_unit,hours_per_unit,owner,task,basis,total_output,total_hours
-W01,Exploratory synthesis,36,independent batch,0.02,kg MOF,8,IRC,T2.1,12 compositions x 3 separate syntheses,0.72,288
-W02,Confirmation synthesis,12,independent batch,0.1,kg MOF,12,IRC,T2.2,4 compositions x 3 separate syntheses,1.2000000000000002,144
-W03,Process-development powder,6,independent batch,0.6,kg MOF,24,IRC,T2.2,2 finalists x 3 batches; supplies 24 forming lots,3.5999999999999996,144
-W04,Mechanism-study powder,3,independent batch,0.2,kg MOF,12,IRC,T2.2,Three independent batch blocks,0.6000000000000001,36
-W05,Final production powder,180,independent batch,1,kg MOF,32,IRC,T2.3,Six disjoint groups of 30 separate 1 kg syntheses; each recovered group supplies one 20 kg two-bed adsorbent set,180,5760
+W01,Exploratory synthesis,36,independent batch,0.02,kg MOF,8,SAV,T2.1,12 compositions x 3 separate syntheses,0.72,288
+W02,Confirmation synthesis,12,independent batch,0.1,kg MOF,12,SAV,T2.2,4 compositions x 3 separate syntheses,1.2000000000000002,144
+W03,Process-development powder,6,independent batch,0.6,kg MOF,24,SAV,T2.2,2 finalists x 3 batches; supplies 24 forming lots,3.5999999999999996,144
+W04,Mechanism-study powder,3,independent batch,0.2,kg MOF,12,SAV,T2.2,Three independent batch blocks,0.6000000000000001,36
+W05,Final production powder,36,independent batch,5,kg MOF,32,SAV,T2.3,Six disjoint 30 kg groups of six independent 5 kg dry-output lots; 32 h full occupancy per lot is a planning assumption.,180,1152
 W06,Purchased reference powder,1,procurement batch plan,200,kg MOF,0,SAV,T2.1,180 kg from three independently produced 60 kg supplier batches plus 20 kg development stock,200,0
 W07,Shaping exploration,24,forming lot,0.15,kg MOF input,12,IKTS,T3.1,2 chemistries x 2 routes x 3 settings x 2 separately formed lots,3.5999999999999996,288
 W08,Complete validation sets,12,two-bed set,20,kg MOF charge,24,IKTS,T3.3,2 chemistries x 2 routes x 3 independent assembly groups; 240 kg active MOF installed sequentially on one 10 kW module,240,288

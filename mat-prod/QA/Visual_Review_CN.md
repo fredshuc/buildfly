@@ -10,6 +10,6 @@ PDF和这些图片用于排版检查，不是Portal上传、设备试验或伙�
 
 | 文件 | SHA256 |
 | --- | --- |
-| 01_proposal/Section3_Implementation_EN.docx | 1b463b891febdcaf503caf1ebc2abd6bed4862bb04cf8b75c47a0efe5f21958f |
-| 01_proposal/Section3_Implementation_EN.pdf | 0a52da34b7c0a7d45417c9524cbc0bbca3ed01a06877dd262871134451385dc9 |
-| 03_budget/Implementation_Resources.xlsx | bc721a2558116cb1a625daaa906a7e762107f0eeb1d49262bc4b241bb4e609ad |
+| 01_proposal/Section3_Implementation_EN.docx | d1bf29048d40a84747bc141c3b7d20755ce03b5a9f35cfeb8b463009eec187ba |
+| 01_proposal/Section3_Implementation_EN.pdf | 3459ff6789ee28c652555261628c3e91deac7ed754f1b7733bf64b61e1399db4 |
+| 03_budget/Implementation_Resources.xlsx | 3d6643c5dec309e33ec02604de0d0d7e0111b802cb1cd6ad55f604eb3ebb58da |
