@@ -1,0 +1,14 @@
+{
+  "imported_on": "2026-11-06",
+  "topic_id": "HORIZON-CL4-2027-01-MAT-PROD-61",
+  "source": "User-provided official template archive",
+  "archive_name": "templates (2).zip",
+  "archive_sha256": "e38469b3b65ffa8625b31c150f8acfe650dbdbaf5f7738d2d708d7541e849281",
+  "files": [{
+    "path": "templates/Tpl_Application Form (Part B) (HE RIA and IA).rtf",
+    "size_bytes": 2960735,
+    "sha256": "507cc6ad2831936b3b41e2bed6ec784cb1c50ba61b1e8dd80590639565575977",
+    "git_blob_sha1": "cf1d24d52bac9efab3f91615831359866ab146d0",
+    "preservation": "Unmodified bytes extracted from the uploaded archive"
+  }]
+}
