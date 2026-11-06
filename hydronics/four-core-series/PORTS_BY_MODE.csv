@@ -1,0 +1,9 @@
+bed,stage,port,cold_path,hot_path,connected_to,source
+A,LOWER,W1,cold supply enters,hot return exits,CS or HR selector,L2-E reported S0 series topology
+A,LOWER,W2,water leaves lower HX,water enters lower HX,UPPER.W1 interstage spool,L2-E reported S0 series topology
+A,UPPER,W1,water enters upper HX,water leaves upper HX,LOWER.W2 interstage spool,L2-E reported S0 series topology
+A,UPPER,W2,cold return exits,hot supply enters,CR or HS selector,L2-E reported S0 series topology
+B,LOWER,W1,cold supply enters,hot return exits,CS or HR selector,L2-E reported S0 series topology
+B,LOWER,W2,water leaves lower HX,water enters lower HX,UPPER.W1 interstage spool,L2-E reported S0 series topology
+B,UPPER,W1,water enters upper HX,water leaves upper HX,LOWER.W2 interstage spool,L2-E reported S0 series topology
+B,UPPER,W2,cold return exits,hot supply enters,CR or HS selector,L2-E reported S0 series topology

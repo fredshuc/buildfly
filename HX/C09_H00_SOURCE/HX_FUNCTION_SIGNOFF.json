@@ -1,0 +1,24 @@
+{
+  "issuer_role": "L2-HX",
+  "issuer": "Codex successor acting in the user-assigned L2-HX role",
+  "date": "2026-11-05",
+  "disposition": "CONDITIONAL_PROTOTYPE_INTERFACE_SIGNOFF",
+  "controlled_function_table": "C06_INSTALLED_PORT_FUNCTIONS.csv",
+  "table_sha256": "d39b9d3683538248a3425051cf606dd2b719ee0451e238224be43bde97bc7717",
+  "cold_and_hot_prototype_direction": "W1 -> W2",
+  "vent_interfaces": [
+    "W1.VENT",
+    "W2.VENT"
+  ],
+  "conditions": [
+    "Hydronics reconciles installation and control registers",
+    "Select and qualify actual pressure-rated vent hardware and joints",
+    "Demonstrate filling/purging in both comparison directions",
+    "Compare regeneration performance before product adoption"
+  ],
+  "does_not_release": [
+    "pressure manufacture",
+    "two-bed manufacture",
+    "live-water operation"
+  ]
+}
