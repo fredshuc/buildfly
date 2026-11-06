@@ -1,0 +1,60 @@
+{
+ "fin_face": {
+  "area_m2": 0.6101,
+  "v_per_1000m3h_ms": 0.455,
+  "v_at_4870_ms": 2.22,
+  "q_at_4870_Pa": 2.9,
+  "v_at_2435_ms": 1.11,
+  "q_at_2435_Pa": 0.7,
+  "fpm_at_4870": 437.0
+ },
+ "damper_aperture": {
+  "area_m2": 0.1134,
+  "v_per_1000m3h_ms": 2.45,
+  "v_at_4870_ms": 11.93,
+  "q_at_4870_Pa": 84.0,
+  "v_at_2435_ms": 5.96,
+  "q_at_2435_Pa": 21.0
+ },
+ "Rin_throat": {
+  "area_m2": 0.0853,
+  "v_per_1000m3h_ms": 3.257,
+  "v_at_4870_ms": 15.86,
+  "q_at_4870_Pa": 148.5,
+  "v_at_2435_ms": 7.93,
+  "q_at_2435_Pa": 37.1
+ },
+ "lower_shaft_end_gap": {
+  "nominal_gap_mm": 1.0,
+  "closure_mm": {
+   "carbon steel, one shaft hot dT=40K": 0.421,
+   "carbon steel, both shafts dT=40K": 0.835,
+   "carbon steel, one shaft hot dT=70K": 0.737,
+   "carbon steel, both shafts dT=70K": 1.462,
+   "stainless 304, one shaft hot dT=40K": 0.623,
+   "stainless 304, both shafts dT=40K": 1.235,
+   "stainless 304, one shaft hot dT=70K": 1.09,
+   "stainless 304, both shafts dT=70K": 2.162
+  },
+  "ISO2768m_length_tol_400_1000_mm": 0.8,
+  "note": "axial location at the outboard bearing (README_CN: shoulder + lock ring), so growth closes the central gap"
+ },
+ "face_seal": {
+  "thickness_mm": 2.0,
+  "working_stroke_25_40pct_mm": [
+   0.5,
+   0.8
+  ],
+  "perimeter_estimate_m": 3.22,
+  "implied_land_width_mm": 13.0
+ },
+ "upper_seat_vs_W2_pipe": {
+  "seat_bottom_Z": 1133.0,
+  "pipe_top_Z_A": 1139.48,
+  "pipe_top_Z_B": 1139.85,
+  "penetration_mm_A": 6.48,
+  "penetration_mm_B": 6.85,
+  "Pin_aperture_bottom_Z": 1174.9925,
+  "flange_below_aperture_mm": 41.99
+ }
+}

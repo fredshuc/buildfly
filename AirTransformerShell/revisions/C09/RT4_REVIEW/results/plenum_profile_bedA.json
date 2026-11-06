@@ -1,0 +1,461 @@
+[
+ {
+  "X": -410,
+  "roof_Z": 1525.5,
+  "roof_part": "SKIN_DRY_ROOF_O",
+  "top_depth_mm": 350.5,
+  "floor_Z": 543.42,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 76.58
+ },
+ {
+  "X": -390,
+  "roof_Z": 1525.5,
+  "roof_part": "SKIN_DRY_ROOF_O",
+  "top_depth_mm": 350.5,
+  "floor_Z": 539.62,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 80.38
+ },
+ {
+  "X": -370,
+  "roof_Z": 1525.5,
+  "roof_part": "SKIN_DRY_ROOF_O",
+  "top_depth_mm": 350.5,
+  "floor_Z": 535.82,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 84.18
+ },
+ {
+  "X": -350,
+  "roof_Z": 1525.5,
+  "roof_part": "SKIN_DRY_ROOF_O",
+  "top_depth_mm": 350.5,
+  "floor_Z": 532.03,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 87.97
+ },
+ {
+  "X": -330,
+  "roof_Z": 1525.5,
+  "roof_part": "SKIN_DRY_ROOF_O",
+  "top_depth_mm": 350.5,
+  "floor_Z": 528.23,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 91.77
+ },
+ {
+  "X": -310,
+  "roof_Z": 1525.5,
+  "roof_part": "SKIN_DRY_ROOF_O",
+  "top_depth_mm": 350.5,
+  "floor_Z": 524.43,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 95.57
+ },
+ {
+  "X": -290,
+  "roof_Z": 1525.5,
+  "roof_part": "SKIN_DRY_ROOF_O",
+  "top_depth_mm": 350.5,
+  "floor_Z": 520.64,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 99.36
+ },
+ {
+  "X": -270,
+  "roof_Z": 1334.07,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 159.07,
+  "floor_Z": 516.84,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 103.16
+ },
+ {
+  "X": -250,
+  "roof_Z": 1329.71,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 154.71,
+  "floor_Z": 513.04,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 106.96
+ },
+ {
+  "X": -230,
+  "roof_Z": 1325.86,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 150.86,
+  "floor_Z": 509.24,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 110.76
+ },
+ {
+  "X": -210,
+  "roof_Z": 1322.01,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 147.01,
+  "floor_Z": 505.45,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 114.55
+ },
+ {
+  "X": -190,
+  "roof_Z": 1318.16,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 143.16,
+  "floor_Z": 501.65,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 118.35
+ },
+ {
+  "X": -170,
+  "roof_Z": 1314.3,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 139.3,
+  "floor_Z": 497.85,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 122.15
+ },
+ {
+  "X": -150,
+  "roof_Z": 1310.45,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 135.45,
+  "floor_Z": 494.06,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 125.94
+ },
+ {
+  "X": -130,
+  "roof_Z": 1306.6,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 131.6,
+  "floor_Z": 490.26,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 129.74
+ },
+ {
+  "X": -110,
+  "roof_Z": 1302.75,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 127.75,
+  "floor_Z": 486.46,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 133.54
+ },
+ {
+  "X": -90,
+  "roof_Z": 1298.89,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 123.89,
+  "floor_Z": 482.66,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 137.34
+ },
+ {
+  "X": -70,
+  "roof_Z": 1295.04,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 120.04,
+  "floor_Z": 478.87,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 141.13
+ },
+ {
+  "X": -50,
+  "roof_Z": 1291.19,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 116.19,
+  "floor_Z": 475.07,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 144.93
+ },
+ {
+  "X": -30,
+  "roof_Z": 1287.34,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 112.34,
+  "floor_Z": 471.27,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 148.73
+ },
+ {
+  "X": -10,
+  "roof_Z": 1283.48,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 108.48,
+  "floor_Z": 467.48,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 152.52
+ },
+ {
+  "X": 10,
+  "roof_Z": 1279.63,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 104.63,
+  "floor_Z": 463.68,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 156.32
+ },
+ {
+  "X": 30,
+  "roof_Z": 1275.78,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 100.78,
+  "floor_Z": 459.88,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 160.12
+ },
+ {
+  "X": 50,
+  "roof_Z": 1271.93,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 96.93,
+  "floor_Z": 456.09,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 163.91
+ },
+ {
+  "X": 70,
+  "roof_Z": 1268.07,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 93.07,
+  "floor_Z": 452.29,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 167.71
+ },
+ {
+  "X": 90,
+  "roof_Z": 1264.22,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 89.22,
+  "floor_Z": 448.49,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 171.51
+ },
+ {
+  "X": 110,
+  "roof_Z": 1260.37,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 85.37,
+  "floor_Z": 444.69,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 175.31
+ },
+ {
+  "X": 130,
+  "roof_Z": 1256.51,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 81.51,
+  "floor_Z": 440.9,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 179.1
+ },
+ {
+  "X": 150,
+  "roof_Z": 1252.66,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 77.66,
+  "floor_Z": 437.1,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 182.9
+ },
+ {
+  "X": 170,
+  "roof_Z": 1248.81,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 73.81,
+  "floor_Z": 433.3,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 186.7
+ },
+ {
+  "X": 190,
+  "roof_Z": 1244.96,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 69.96,
+  "floor_Z": 429.51,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 190.49
+ },
+ {
+  "X": 210,
+  "roof_Z": 1241.1,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 66.1,
+  "floor_Z": 425.71,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 194.29
+ },
+ {
+  "X": 230,
+  "roof_Z": 1237.25,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 62.25,
+  "floor_Z": 421.91,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 198.09
+ },
+ {
+  "X": 250,
+  "roof_Z": 1233.4,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 58.4,
+  "floor_Z": 418.11,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 201.89
+ },
+ {
+  "X": 270,
+  "roof_Z": 1229.55,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 54.55,
+  "floor_Z": 414.32,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 205.68
+ },
+ {
+  "X": 290,
+  "roof_Z": 1225.69,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 50.69,
+  "floor_Z": 410.52,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 209.48
+ },
+ {
+  "X": 310,
+  "roof_Z": 1221.84,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 46.84,
+  "floor_Z": 406.72,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 213.28
+ },
+ {
+  "X": 330,
+  "roof_Z": 1217.99,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 42.99,
+  "floor_Z": 402.93,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 217.07
+ },
+ {
+  "X": 350,
+  "roof_Z": 1214.14,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 39.14,
+  "floor_Z": 399.13,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 220.87
+ },
+ {
+  "X": 370,
+  "roof_Z": 1210.28,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 35.28,
+  "floor_Z": 395.11,
+  "floor_part": "AIR_BOTTOM_SPLITTER_A_O",
+  "bottom_depth_mm": 224.89
+ },
+ {
+  "X": 390,
+  "roof_Z": 1206.43,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 31.43,
+  "floor_Z": 270.64,
+  "floor_part": "AIR_REGEN_FLOOR_A_O",
+  "bottom_depth_mm": 349.36
+ },
+ {
+  "X": 410,
+  "roof_Z": 1202.58,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 27.58,
+  "floor_Z": 266.29,
+  "floor_part": "AIR_REGEN_FLOOR_A_O",
+  "bottom_depth_mm": 353.71
+ },
+ {
+  "X": 430,
+  "roof_Z": 1198.47,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 23.47,
+  "floor_Z": 261.94,
+  "floor_part": "AIR_REGEN_FLOOR_A_O",
+  "bottom_depth_mm": 358.06
+ },
+ {
+  "X": 450,
+  "roof_Z": 1194.11,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 19.11,
+  "floor_Z": 257.59,
+  "floor_part": "AIR_REGEN_FLOOR_A_O",
+  "bottom_depth_mm": 362.41
+ },
+ {
+  "X": 470,
+  "roof_Z": 1189.75,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 14.75,
+  "floor_Z": 253.24,
+  "floor_part": "AIR_REGEN_FLOOR_A_O",
+  "bottom_depth_mm": 366.76
+ },
+ {
+  "X": 490,
+  "roof_Z": 1185.39,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 10.39,
+  "floor_Z": 612.0,
+  "floor_part": "F_HX_RAIL_A_612_510_O",
+  "bottom_depth_mm": 8.0
+ },
+ {
+  "X": 510,
+  "roof_Z": 1183.17,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 8.17,
+  "floor_Z": 612.0,
+  "floor_part": "F_HX_RAIL_A_612_510_O",
+  "bottom_depth_mm": 8.0
+ },
+ {
+  "X": 530,
+  "roof_Z": 1183.01,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 8.01,
+  "floor_Z": 612.0,
+  "floor_part": "F_HX_RAIL_A_612_510_O",
+  "bottom_depth_mm": 8.0
+ },
+ {
+  "X": 550,
+  "roof_Z": 1182.85,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 7.85,
+  "floor_Z": 235.84,
+  "floor_part": "AIR_REGEN_FLOOR_A_O",
+  "bottom_depth_mm": 384.16
+ },
+ {
+  "X": 570,
+  "roof_Z": 1182.69,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 7.69,
+  "floor_Z": 231.49,
+  "floor_part": "AIR_REGEN_FLOOR_A_O",
+  "bottom_depth_mm": 388.51
+ },
+ {
+  "X": 590,
+  "roof_Z": 1182.53,
+  "roof_part": "AIR_TOP_SPLITTER_A_O",
+  "top_depth_mm": 7.53,
+  "floor_Z": 227.14,
+  "floor_part": "AIR_REGEN_FLOOR_A_O",
+  "bottom_depth_mm": 392.86
+ }
+]
