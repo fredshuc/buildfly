@@ -1,0 +1,11 @@
+# Reproduce the design artifacts
+
+Run from the existing repository root. The canonical subtree is mat-prod/. Preserve the official RTF bytes. No network or paid service is required for the arithmetic checks.
+
+1. Use Python 3 with python-docx, matplotlib and Pillow. Run `python mat-prod/QA/build_implementation.py --docx`, then `python mat-prod/QA/make_review_docs.py`. This regenerates prose tables, CSVs, derived JSON, diagrams and DOCX from the narrative source and implementation_model.json. The additional capacity status and validation protocol are authored review records and must be revised if their assumptions change.
+2. Use Node with `@oai/artifact-tool`. Set MAT61_ROOT to the absolute mat-prod directory and MAT61_OUTPUT_DIR to an absolute output directory. Run `node mat-prod/QA/build_resources.mjs`. It writes the workbook to the output directory and canonical budget path, saves formula/error evidence, performs two input-change/recalculation/restore checks, and exports worksheet previews. The library is supplied in the authoring runtime; it is not vendored here.
+3. Run `python mat-prod/QA/check_consistency.py`. It returns nonzero on a failed design/file check and writes QA_Results_CN.md and qa_results.json. The expected released design has 148 checks. This count differs from the 144 planned physical validation runs; they are unrelated quantities.
+4. Render DOCX with a Word-compatible renderer and inspect every page. This release was rendered through LibreOffice to the accompanying 22-page PDF and reviewed using page images/contact sheets. Font metrics can differ on another host; check pagination before inserting into the final submission-session form.
+5. Reconcile any edit to duty, sample output, task dates, PM or prices in the JSON source first. Workbook scenario inputs are live, but are not automatically written back to the JSON or proposal; retain a scenario separately or deliberately promote its inputs and regenerate all artifacts.
+
+QA scope: IDs, dates, DAG, PM/cost reconciliation, FTE capacity assumptions, powder and test balances, independent nominal validation condition, original-template integrity, DOCX structure/fonts and saved workbook formulas. It does not validate actual equipment performance, legal entities, grant eligibility of a specific invoice or partner availability.

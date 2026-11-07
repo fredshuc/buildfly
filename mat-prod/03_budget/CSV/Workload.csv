@@ -1,0 +1,23 @@
+﻿id,stage,count,unit,amount_per_unit,output_unit,hours_per_unit,owner,task,basis,total_output,total_hours
+W01,Exploratory synthesis,36,independent batch,0.02,kg MOF,8,SAV,T2.1,12 compositions x 3 separate syntheses,0.72,288
+W02,Confirmation synthesis,12,independent batch,0.1,kg MOF,12,SAV,T2.2,4 compositions x 3 separate syntheses,1.2000000000000002,144
+W03,Process-development powder,6,independent batch,0.6,kg MOF,24,SAV,T2.2,2 finalists x 3 batches; supplies 24 forming lots,3.5999999999999996,144
+W04,Mechanism-study powder,3,independent batch,0.2,kg MOF,12,SAV,T2.2,Three independent batch blocks,0.6000000000000001,36
+W05,Final production powder,36,independent batch,5,kg MOF,32,SAV,T2.3,Six disjoint 30 kg groups of six independent 5 kg dry-output lots; 32 h full occupancy per lot is a planning assumption.,180,1152
+W06,Purchased reference powder,1,procurement batch plan,200,kg MOF,0,SAV,T2.1,180 kg from three independently produced 60 kg supplier batches plus 20 kg development stock,200,0
+W07,Shaping exploration,24,forming lot,0.15,kg MOF input,12,IKTS,T3.1,2 chemistries x 2 routes x 3 settings x 2 separately formed lots,3.5999999999999996,288
+W08,Complete validation sets,12,two-bed set,20,kg MOF charge,24,IKTS,T3.3,2 chemistries x 2 routes x 3 independent assembly groups; 240 kg active MOF installed sequentially on one 10 kW module,240,288
+W09,Screening isotherms,108,isotherm,1,profile,4,IRC,T2.1,36 independent synthesis batches x 3 temperatures,108,432
+W10,Confirmation isotherms,36,isotherm,1,profile,4,IRC,T2.2,12 independent confirmation batches x 3 temperatures,36,144
+W11,Calorimetry,24,loading profile,1,profile,6,IRC,T2.2,4 compositions x 3 batch blocks x adsorption/desorption,24,144
+W12,Mechanism histories,48,complete history,1,history,1.5,IRC,T2.2,2 chemistries x 2 thicknesses x 2 contacts x 2 preparations x 3 batch blocks; reset included,48,72.0
+W13,Shaping property profiles,288,lot-property profile,1,profile,0.5,IKTS,T3.2,"24 forming lots x 12 profiles; these are measurements, not 288 independent material replicates",288,144.0
+W14,Coupon ageing,24,coupon,500,cycle,41.666666666666664,IRC,T2.3,"4 physical cells x 3 batch blocks x 2 stress histories, 5 min/cycle; 1000 chamber-hours, separate from main rig",12000,1000.0
+W15,Rig commissioning,1,campaign,1,campaign,160,SAV,T6.1,160 main-rig hours,1,160
+W16,Reference metering checks,1,campaign,1,campaign,120,SAV,T6.2,120 main-rig hours,1,120
+W17,Actuator ablation,32,complete history,1,history,4,SAV,T6.2,"Four actuator modes, eight discriminating histories; complete reset included",32,128
+W18,Controller development,72,complete history,1,history,4,SAV,T6.2,4 physical cells x 3 policies x 6 development histories; all strategies receive equal physical tuning opportunities,72,288
+W19,Prospective primary validation,144,complete history,1,history,8,SAV,T6.3,4 physical cells x 3 policies x 4 sealed challenges x 3 independent blocks; 4 service + 2 reset + 2 setup hours,144,1152
+W20,Reserved correction and repeats,24,complete history,1,history,8,SAV,T6.3,"Defined repeated-test allocation, not a monetary reserve",24,192
+W21,Transfer validation,8,complete history,1,history,8,SAV,T6.4,Adjacent delivery-temperature check after primary tests; no second operating mode,8,64
+W22,HIL validation,108,test history,1,test,1,HPE,T5.2,36 normal/fault histories x 3 policies; no physical MOF use,108,108

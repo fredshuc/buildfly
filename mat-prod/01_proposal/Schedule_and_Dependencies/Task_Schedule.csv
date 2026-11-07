@@ -1,0 +1,23 @@
+﻿id,wp,name,lead,start,end
+T1.1,WP1,Coordination and technical decisions,SAV,1,36
+T1.2,WP1,Data quality and reproducibility,SAV,1,36
+T1.3,WP1,Resources and operational readiness,SAV,1,36
+T2.1,WP2,Composition exploration and cycle fingerprints,IRC,1,9
+T2.2,WP2,Reproducible production and mechanistic measurements,IRC,4,18
+T2.3,WP2,Validation batches and ageing,SAV,10,26
+T3.1,WP3,Two shaping routes and interface specification,IKTS,2,10
+T3.2,WP3,Manufacturing windows and transport parameters,IKTS,8,18
+T3.3,WP3,Independent cartridges and quality release,IKTS,16,25
+T4.1,WP4,Conservation models and identifiable experiments,UP,1,10
+T4.2,WP4,Reduced models and state estimation,UP,6,22
+T4.3,WP4,Prospective prediction and model correction,UP,18,34
+T5.1,WP5,Control baselines and common information,HPE,3,12
+T5.2,WP5,Constrained RL for energy flow allocation,HPE,8,24
+T5.3,WP5,Closed loop comparison and transfer,HPE,20,34
+T6.1,WP6,Early instrumented reference platform,SAV,1,8
+T6.2,WP6,Actuator ablation and component iterations,SAV,7,22
+T6.3,WP6,Blinded integrated comparison,SAV,23,34
+T6.4,WP6,Evidence consolidation and TRL 4 assessment,SAV,31,36
+T7.1,WP7,Early dissemination exploitation and communication plan,SAV,1,6
+T7.2,WP7,Manufacturing sustainability and economic boundaries,SAV,7,32
+T7.3,WP7,Protected results and subsequent development,SAV,12,36

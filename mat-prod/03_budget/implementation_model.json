@@ -1,0 +1,2309 @@
+{
+  "task_id": "MAT61-L2-S3-T01-R1",
+  "revision": "R2: Savery synthesis, one 5 kg line",
+  "date": "2026-11-06",
+  "months": 36,
+  "target_eur": 2400000,
+  "ceiling_eur": 2500000,
+  "indirect_rate": 0.25,
+  "funding_rate": 1.0,
+  "partners": [
+    {
+      "id": "SAV",
+      "number": 1,
+      "name": "Savery",
+      "country": "FR",
+      "pm_rate": 6000,
+      "initial_budget": 720000,
+      "roles": [
+        [
+          "Scientific coordinator",
+          12,
+          0.6,
+          1
+        ],
+        [
+          "Integration engineers",
+          30,
+          1.5,
+          2
+        ],
+        [
+          "Experimental technicians",
+          20,
+          1.0,
+          2
+        ],
+        [
+          "Project and data officer",
+          4,
+          0.2,
+          1
+        ],
+        [
+          "Synthesis scientist and technical operator",
+          12,
+          0.85,
+          2
+        ]
+      ]
+    },
+    {
+      "id": "IRC",
+      "number": 2,
+      "name": "IRCELYON",
+      "country": "FR",
+      "pm_rate": 6000,
+      "initial_budget": 480000,
+      "roles": [
+        [
+          "Materials scientific lead",
+          6,
+          0.4,
+          1
+        ],
+        [
+          "Sorption and materials researchers",
+          20,
+          1.65,
+          2
+        ],
+        [
+          "Laboratory technicians",
+          10,
+          0.9,
+          2
+        ]
+      ]
+    },
+    {
+      "id": "IKTS",
+      "number": 3,
+      "name": "Fraunhofer IKTS",
+      "country": "DE",
+      "pm_rate": 8000,
+      "initial_budget": 500000,
+      "roles": [
+        [
+          "Shaping scientific lead",
+          6,
+          0.4,
+          1
+        ],
+        [
+          "Process researchers",
+          24,
+          1.5,
+          2
+        ],
+        [
+          "Manufacturing technicians",
+          10,
+          0.8,
+          2
+        ]
+      ]
+    },
+    {
+      "id": "UP",
+      "number": 4,
+      "name": "UPorto",
+      "country": "PT",
+      "pm_rate": 5000,
+      "initial_budget": 400000,
+      "roles": [
+        [
+          "Modelling scientific lead",
+          8,
+          0.5,
+          1
+        ],
+        [
+          "Dynamic modelling researchers",
+          30,
+          1.8,
+          2
+        ],
+        [
+          "Research software engineer",
+          6,
+          0.4,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "HPE",
+      "number": 5,
+      "name": "HPE Galway",
+      "country": "IE",
+      "pm_rate": 9000,
+      "initial_budget": 300000,
+      "roles": [
+        [
+          "Control scientific lead",
+          6,
+          0.4,
+          1
+        ],
+        [
+          "Control and HIL researchers",
+          20,
+          1.3,
+          2
+        ]
+      ]
+    }
+  ],
+  "wps": [
+    {
+      "id": "WP1",
+      "title": "Coordination quality and data governance",
+      "lead": "SAV",
+      "start": 1,
+      "end": 36,
+      "objectives": "Maintain scientific integration, auditable resources and controlled data and software releases."
+    },
+    {
+      "id": "WP2",
+      "title": "Cycle directed MOF design and reproducible production",
+      "lead": "IRC",
+      "start": 1,
+      "end": 26,
+      "objectives": "Test composition as a means of shifting cycle-relevant energetics and establish reproducible powder production."
+    },
+    {
+      "id": "WP3",
+      "title": "Shaping and structured adsorber manufacturing",
+      "lead": "IKTS",
+      "start": 2,
+      "end": 25,
+      "objectives": "Compare two transport regimes and establish reproducible manufacturing windows and cartridge interfaces."
+    },
+    {
+      "id": "WP4",
+      "title": "Non equilibrium models and state estimation",
+      "lead": "UP",
+      "start": 1,
+      "end": 34,
+      "objectives": "Discriminate mechanisms, identify a sufficient operational state and validate predictive transfer with frozen models."
+    },
+    {
+      "id": "WP5",
+      "title": "Adaptive energy flow allocation and control",
+      "lead": "HPE",
+      "start": 3,
+      "end": 34,
+      "objectives": "Test whether constrained RL adds value beyond a well tuned fixed policy and economic MPC under common information and limits."
+    },
+    {
+      "id": "WP6",
+      "title": "Instrumented platform and TRL 4 validation",
+      "lead": "SAV",
+      "start": 1,
+      "end": 36,
+      "objectives": "Measure complete heat transformation histories and determine material, shaping, actuation and control contributions in the laboratory."
+    },
+    {
+      "id": "WP7",
+      "title": "Exploitation sustainability and dissemination",
+      "lead": "SAV",
+      "start": 1,
+      "end": 36,
+      "objectives": "Translate measured results into protected exploitable outputs, manufacturing evidence and bounded environmental and economic assessments."
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1.1",
+      "wp": "WP1",
+      "name": "Coordination and technical decisions",
+      "lead": "SAV",
+      "start": 1,
+      "end": 36,
+      "pm": {
+        "SAV": 5,
+        "IRC": 0.5,
+        "IKTS": 0.5,
+        "UP": 0.5,
+        "HPE": 0.5
+      },
+      "inputs": "Signed work plan and partner role sheets; technical releases from every WP.",
+      "work": "Savery chairs 36 monthly technical boards and six six-monthly resource reviews, maintains a decision register and resolves interface changes with the affected WP leads. Each partner supplies a named deputy, effort record and quarterly forecast. Scientific changes require a stated test, resource consequence and versioned disposition.",
+      "acceptance": "Six review records reconcile task, WP and partner totals; no unresolved interface change enters a frozen test; each critical action has an owner and due month."
+    },
+    {
+      "id": "T1.2",
+      "wp": "WP1",
+      "name": "Data quality and reproducibility",
+      "lead": "SAV",
+      "start": 1,
+      "end": 36,
+      "pm": {
+        "SAV": 3,
+        "IRC": 1,
+        "IKTS": 1,
+        "UP": 1,
+        "HPE": 1
+      },
+      "inputs": "Initial sample and signal schemas from T2.1, T3.1 and T6.1, then measured datasets and executable models.",
+      "work": "The data officer and the five technical leads implement one sample-to-cartridge-to-run identifier chain, a unit dictionary, access classes, calibration records and model/controller registries. Publish a data management plan by M4 and revise it at M18 and M36. Audit one sample-to-result chain per partner at six reviews, including failed runs and non-public background access.",
+      "acceptance": "Every released run resolves material batch, forming lot, cartridge, calibration and controller/model versions; raw records remain immutable; all holdout access and deviations are logged."
+    },
+    {
+      "id": "T1.3",
+      "wp": "WP1",
+      "name": "Resources and operational readiness",
+      "lead": "SAV",
+      "start": 1,
+      "end": 36,
+      "pm": {
+        "SAV": 2,
+        "IRC": 0.5,
+        "IKTS": 0.5,
+        "UP": 0.5,
+        "HPE": 0.5
+      },
+      "inputs": "Personnel slots, facility calendars and equipment cost bases; workload and risk updates.",
+      "work": "Partners produce five access and staffing sheets, maintain six rolling FTE and facility-capacity forecasts and check that charged work is unique to this action. The M2 operational review verifies synthesis staff, the kilogram production route, laboratory hosting, pressure-system responsibility and digital access. Reforecast costs at each six-monthly review.",
+      "acceptance": "All five operating sheets identify accountable staff, equipment owner, eligible charge method and booking capacity; unresolved gaps trigger the risk actions before dependent work starts."
+    },
+    {
+      "id": "T2.1",
+      "wp": "WP2",
+      "name": "Composition exploration and cycle fingerprints",
+      "lead": "IRC",
+      "start": 1,
+      "end": 9,
+      "pm": {
+        "SAV": 4,
+        "IRC": 7,
+        "IKTS": 1,
+        "UP": 1,
+        "HPE": 0
+      },
+      "inputs": "Nominal heat service and boundary envelope from T6.1; baseline powder and reference structure.",
+      "work": "IRCELYON researchers explore 12 nominal compositions in two water-stable framework families, using mixed-linker and limited mixed-metal variants where synthesis permits. Savery prepares three genuinely separate 20 g syntheses per composition, giving 36 batches and 0.72 kg. Savery records feed and measured composition, phase identity, activation, yield and solvent use. IRCELYON measures three-temperature isotherms on all 36 batches. UPorto and Savery use the resulting fingerprints to rank operating windows; IKTS checks process compatibility.",
+      "acceptance": "Downselect four compositions by M9 using a declared score for usable swing, loading-dependent heat, rate and stability; a phase mixture is labelled as such; at least one tunable composition must show a reproducible fingerprint change beyond combined uncertainty, or the claimed composition mechanism is returned for revision."
+    },
+    {
+      "id": "T2.2",
+      "wp": "WP2",
+      "name": "Reproducible production and mechanistic measurements",
+      "lead": "IRC",
+      "start": 4,
+      "end": 18,
+      "pm": {
+        "SAV": 5,
+        "IRC": 8,
+        "IKTS": 1,
+        "UP": 1,
+        "HPE": 0
+      },
+      "inputs": "T2.1 fingerprints and the early T4.1 transport model; provisional T3.1 forming needs.",
+      "work": "Savery prepares 12 independent 100 g confirmation batches for four compositions and six 600 g process-development batches for two finalists. A further three 200 g batches support mechanism discrimination. IRCELYON obtains 36 confirmation isotherms, 24 loading-resolved calorimetric profiles and 48 reset-separated dynamic histories covering two chemistries, two thicknesses, two thermal contacts, two preparations and three batch blocks. Use selected diffraction and, only if discriminating, water-sensitive spectroscopy. Calibrate the instrument and vapour path separately. Select one production recipe at M12 from the confirmed finalists so that the 180 kg campaign can run in M13-M23; detailed mechanistic measurements continue to M18. The two-chemistry mechanism blocks use disjoint samples from the existing independently synthesised confirmation/process batches; the three extra 200 g batches supplement targeted observations and are not relabelled as six independent batches.",
+      "acceptance": "Deliver two traceable powder candidates and uncertainty-qualified constitutive cards by M18; explain composition and scale effects separately; qualify Savery’s single 5 kg line. Record released dry mass per lot, full turnaround including cleaning, and QC rejection before releasing the campaign."
+    },
+    {
+      "id": "T2.3",
+      "wp": "WP2",
+      "name": "Validation batches and ageing",
+      "lead": "SAV",
+      "start": 10,
+      "end": 26,
+      "pm": {
+        "SAV": 7,
+        "IRC": 5,
+        "IKTS": 1,
+        "UP": 2,
+        "HPE": 0
+      },
+      "inputs": "M12 production recipe decision in T2.2; progressively qualified T3.2 process windows and operating stresses from T6.2.",
+      "work": "Savery produces 36 independent batches on one 5 kg line of the selected new MOF and allocate six disjoint groups of six batches, three groups to each shaping route. At 85% recovered MOF yield, 153 kg provides 120 kg for validation cartridges, 9 kg for retained characterisation and 24 kg for archive, losses and rework. The planning case assumes 5 kg released dry powder and 32 occupied hours per batch, including cleaning and turnaround. At 180 available line-hours per month in M13–M23, the campaign needs 1,152 of 1,980 hours. At M12 Savery recalculates the batch count from measured output and availability. Baseline powder comprises three independent 60 kg supplier-production batches plus 20 kg development stock. IRCELYON tests 24 material-route-batch-stress coupons for 500 cycles each on a separate ageing apparatus, with pre/post fingerprints and three inspection points. Release independent groups sequentially, with A by M19, B by M21 and C by M23, for final forming and qualification by M24.",
+      "acceptance": "By M24 all six new-material cartridge groups retain independent batch provenance; within a selected recipe, cycle-working-capacity coefficient of variation is at most 10%, and retained capacity after 500 coupon cycles is at least 90%, or the failure domain and recovery plan are explicitly released. No achieved ageing performance is assumed."
+    },
+    {
+      "id": "T3.1",
+      "wp": "WP3",
+      "name": "Two shaping routes and interface specification",
+      "lead": "IKTS",
+      "start": 2,
+      "end": 10,
+      "pm": {
+        "SAV": 1,
+        "IRC": 2,
+        "IKTS": 8,
+        "UP": 1,
+        "HPE": 0
+      },
+      "inputs": "Reference powder available at M1, the provisional T2.1 fingerprints and T6.1 cartridge envelope.",
+      "work": "IKTS develops freeze-granulated or gently extruded granules for a permeable bed, and a low-temperature conductive composite or monolithic structure for heat-transfer-limited operation. Use two candidate chemistries, two routes and three process settings per route, with two separately formed 150 g-MOF lots per setting: 24 forming lots consuming 3.6 kg MOF. Measure accessible uptake, binder fraction, dimensions, bulk density, permeability and mechanical integrity. Savery releases an interchangeable thermal and vapour interface at M4. An existing reference-granule process supplies the early rig by M6; this baseline does not wait for experimental route downselection.",
+      "acceptance": "Two routes have buildable coupons by M10; retain at least 80% of powder working capacity per dry-MOF mass as a target and report capacity per total shaped mass and volume as well; process settings and rejected lots remain traceable."
+    },
+    {
+      "id": "T3.2",
+      "wp": "WP3",
+      "name": "Manufacturing windows and transport parameters",
+      "lead": "IKTS",
+      "start": 8,
+      "end": 18,
+      "pm": {
+        "SAV": 1,
+        "IRC": 2,
+        "IKTS": 10,
+        "UP": 2,
+        "HPE": 0
+      },
+      "inputs": "T3.1 lots, refined powder cards and the independently calibrated T4.1 model.",
+      "work": "Characterise 24 forming lots and a small set of reference-powder coupons using 12 measurement profiles per lot, giving 288 lot-property profiles. Bound heat conduction, interfacial contact, vapour permeability, effective mass transfer, strength and dimensional spread. UPorto separates intrinsic kinetic parameters from geometry-dependent closures. Downselect one process window for each route using measured useful power and auxiliary-loss estimates rather than surface area alone.",
+      "acceptance": "M18 process windows state temperature, pressure/shear, binder, yield and tolerances; the model can use their parameters with uncertainty; reject a window that only raises peak uptake while losing service feasibility or increasing net resource use."
+    },
+    {
+      "id": "T3.3",
+      "wp": "WP3",
+      "name": "Independent cartridges and quality release",
+      "lead": "IKTS",
+      "start": 16,
+      "end": 25,
+      "pm": {
+        "SAV": 2,
+        "IRC": 1,
+        "IKTS": 8,
+        "UP": 1,
+        "HPE": 0
+      },
+      "inputs": "T2.3 batch groups, T3.2 windows and the fixed T6.1 interface.",
+      "work": "Manufacture twelve complete two-bed cartridge sets: two chemistries times two routes times three independent assembly blocks. Each set contains 20 kg active dry MOF across two 10 kg beds. A set is a matched pair of replaceable bed internals, not a second machine. Qualify mass, dimensions, thermal contact, conductance, attrition and leak-compatible assembly. Savery provides the one reusable 10 kW mechanical module, pressure housing and metering; IKTS supplies the shaped internals and production travellers.",
+      "acceptance": "Release all twelve sets and as-built cards by M24, with M25 reserved for correction; do not mix validation-group powder with development material; the first cartridge per route meets the agreed interface and metering conditions before the remaining lots are built."
+    },
+    {
+      "id": "T4.1",
+      "wp": "WP4",
+      "name": "Conservation models and identifiable experiments",
+      "lead": "UP",
+      "start": 1,
+      "end": 10,
+      "pm": {
+        "SAV": 2,
+        "IRC": 1,
+        "IKTS": 1,
+        "UP": 7,
+        "HPE": 1
+      },
+      "inputs": "Reference MOF data and early bench topology, then measured T2.1 and T3.1 cards.",
+      "work": "UPorto starts a distributed heat-and-mass balance model on the reference material at M1. Compare equilibrium/transport, water-population and additional internal-state descriptions with common observation mappings and physically bounded parameters. Design the 48 mechanism histories to separate thermal-contact, thickness and preparation effects. HPE receives a runnable reference simulator and common state/action/observation schema by M4; Savery qualifies actual actuator and sensor dynamics.",
+      "acceptance": "M10 model release closes mass and energy numerically, preserves non-negative dissipation in its stated domain and documents which parameters the available observations can identify; model complexity increases only when withheld whole histories discriminate it."
+    },
+    {
+      "id": "T4.2",
+      "wp": "WP4",
+      "name": "Reduced models and state estimation",
+      "lead": "UP",
+      "start": 6,
+      "end": 22,
+      "pm": {
+        "SAV": 2,
+        "IRC": 2,
+        "IKTS": 1,
+        "UP": 9,
+        "HPE": 2
+      },
+      "inputs": "T4.1 candidate models, T2.2 dynamic records and T6.2 interventions; T3.2 transport maps.",
+      "work": "Build a control model with a declared minimum sufficient state, an estimator and predictive intervals for each physical configuration. Test at least three estimator structures and three model orders using whole-run partitions. Predict heat, water inventory and internal temperatures under held-out preparation and boundary blocks. HPE checks computational cost and deployability; material and shaping leads test the interpretation of inferred states.",
+      "acceptance": "By M22 the selected ROM and estimator meet a five-second supervisory step with 99th-percentile solve time below one second on declared hardware; on development holdouts, heat prediction NRMSE is at most 10% of rated duty, inventory error is at most 5% of measured swing, and 90% predictive intervals have stated empirical coverage. Failure narrows the earned domain rather than hiding extrapolation."
+    },
+    {
+      "id": "T4.3",
+      "wp": "WP4",
+      "name": "Prospective prediction and model correction",
+      "lead": "UP",
+      "start": 18,
+      "end": 34,
+      "pm": {
+        "SAV": 1,
+        "IRC": 1,
+        "IKTS": 0,
+        "UP": 6,
+        "HPE": 1
+      },
+      "inputs": "M22 models, M24 frozen policies and the sealed T6.3 validation manifest.",
+      "work": "Freeze model form, fitting rules and observation mappings before the four final challenge histories are released. Use independently designated calibration specimens, while reserving batch group C, the four boundary histories and their terminal states from fitting. Compare complete-trajectory errors and cycle totals. Diagnose failures during M31-M34 with a versioned correction branch; original prospective results remain unchanged and correction claims use the reserved rerun histories.",
+      "acceptance": "Deliver M34 predictive-transfer evidence with separate results for cross-batch, cross-history and cross-boundary tests; any adapted parameter is labelled as calibrated, and no validation set is silently reused as training."
+    },
+    {
+      "id": "T5.1",
+      "wp": "WP5",
+      "name": "Control baselines and common information",
+      "lead": "HPE",
+      "start": 3,
+      "end": 12,
+      "pm": {
+        "SAV": 1,
+        "IRC": 0,
+        "IKTS": 0,
+        "UP": 2,
+        "HPE": 4
+      },
+      "inputs": "Reference simulator at M4, T6.1 actuator limits and a shared training-data manifest.",
+      "work": "HPE implements an optimised fixed-cycle policy and economic MPC before new MOFs arrive. Both can use the same sensors, state estimator, permitted actuator range and declared boundary forecasts later available to RL. Fix an economic objective using measured drive heat, all electrical work and qualified heat delivery, with a common unmet-service penalty. Each strategy receives six full development histories per physical configuration and a declared, comparable tuning-compute allowance.",
+      "acceptance": "M12 baseline release includes tuned fixed-cycle schedules, an MPC implementation, objective and forecast contracts, and reproducible tuning logs; the fixed baseline may optimise offline but cannot access final challenge histories."
+    },
+    {
+      "id": "T5.2",
+      "wp": "WP5",
+      "name": "Constrained RL for energy flow allocation",
+      "lead": "HPE",
+      "start": 8,
+      "end": 24,
+      "pm": {
+        "SAV": 2,
+        "IRC": 1,
+        "IKTS": 1,
+        "UP": 3,
+        "HPE": 8
+      },
+      "inputs": "T5.1 baseline, T4.2 ROM/estimator and measured process and actuator uncertainties.",
+      "work": "Train a constrained RL policy to allocate source heat, regeneration timing, heat recovery, vapour circulation and branch pressure assistance. Use twenty training seeds and up to one thousand simulated episodes per seed for each of four physical configurations, within 1,500 CPU-hours of the 5,000 CPU-hour control allocation and a separately costed 1,000 GPU-hours. A model-based safety filter enforces temperature, pressure, flow and service constraints; a watchdog returns to the qualified fixed policy. Test 36 normal/fault histories for each of three policies in HIL, giving 108 tests.",
+      "acceptance": "M24 deployment candidate has zero unresolved hard-limit violations in HIL, deterministic fallback, complete logs and bounded real-time inference. RL has an explicit scientific test against MPC; deployment is conditional on safety qualification, not on presuming a savings gain."
+    },
+    {
+      "id": "T5.3",
+      "wp": "WP5",
+      "name": "Closed loop comparison and transfer",
+      "lead": "HPE",
+      "start": 20,
+      "end": 34,
+      "pm": {
+        "SAV": 2,
+        "IRC": 0,
+        "IKTS": 0,
+        "UP": 1,
+        "HPE": 4
+      },
+      "inputs": "Qualified policies from T5.2 and the physical T6.3 protocol; identical allowed measurements and forecasts.",
+      "work": "Deploy all three policies on the four physical configurations. Freeze tuning at M24 and run the 144 final whole-history tests with blocked order across independent assembly groups. Compare economic cost, electrical and thermal inputs, delivered-service error and feasibility. Evaluate RL-minus-MPC interaction with material and shape; use eight reserved transfer runs at an adjacent hot-water setpoint only after the primary dataset is complete.",
+      "acceptance": "Report effect sizes and uncertainty by independent batch/assembly block. Retain MPC as the deployment recommendation if RL is equivalent, less robust or more resource-intensive; the tested RL mechanism and its domain remain substantive scientific outputs."
+    },
+    {
+      "id": "T6.1",
+      "wp": "WP6",
+      "name": "Early instrumented reference platform",
+      "lead": "SAV",
+      "start": 1,
+      "end": 8,
+      "pm": {
+        "SAV": 10,
+        "IRC": 0,
+        "IKTS": 0,
+        "UP": 1,
+        "HPE": 0
+      },
+      "inputs": "Existing reference MOF and published thermophysical relations; the primary 10 kW hot-water service.",
+      "work": "Savery engineers build one reconfigurable 10 kW two-bed laboratory module with two 10 kg-MOF bed internals, measured source, rejection and useful-heat circuits, a calibrated vapour path, a bypassable vapour mover and branch compressor. Commission on reference granules by M8 using 160 rig-hours. The M4 topology and instrument release lets modelling and control proceed in parallel. Meter all heat inputs and outputs, each electrical feeder, liquid-water inventories, pressure, temperatures and commanded/realised actuation.",
+      "acceptance": "At M8, calibrations and blank/reference tests target cycle energy residual within 5% of accounted input, mass residual within 2% of transferred water and 95% expanded useful-heat uncertainty at most 5%; unresolved residuals suspend gain claims and trigger re-instrumentation."
+    },
+    {
+      "id": "T6.2",
+      "wp": "WP6",
+      "name": "Actuator ablation and component iterations",
+      "lead": "SAV",
+      "start": 7,
+      "end": 22,
+      "pm": {
+        "SAV": 8,
+        "IRC": 1,
+        "IKTS": 1,
+        "UP": 1,
+        "HPE": 1
+      },
+      "inputs": "T6.1 qualified rig; development cartridges and progressively updated models/policies.",
+      "work": "Run 32 complete four-hour ablation histories across passive, circulation-only, compression-only and combined modes to separate transport and pressure effects. Allocate 120 further rig-hours to repeated reference checks and 72 four-hour controller-development histories across four physical configurations and three policies. Complete two component-iteration cycles by M16 and M22, correcting metering, heat leaks, contact or conductance before validation hardware is frozen.",
+      "acceptance": "M22 readiness pack identifies useful service, feasible actuator domain, parasitic-loss floor and a measured reference baseline. If active assistance loses its net benefit, preserve bypass comparisons and test the resulting feasibility domain without a fabricated energy-saving percentage."
+    },
+    {
+      "id": "T6.3",
+      "wp": "WP6",
+      "name": "Blinded integrated comparison",
+      "lead": "SAV",
+      "start": 23,
+      "end": 34,
+      "pm": {
+        "SAV": 10,
+        "IRC": 1,
+        "IKTS": 2,
+        "UP": 2,
+        "HPE": 2
+      },
+      "inputs": "T3.3 independent cartridge sets; frozen models, estimator and policies; M24 validation manifest.",
+      "work": "Use four physical cells (reference/new MOF times granule/conductive structure), three policies, four unseen complete boundary/history challenges and three independent assembly blocks: 144 eight-hour runs, including four hours service, two hours reset and two hours setup/stabilisation. Schedule first comparisons in M25-M32. Reserve twenty-four additional eight-hour histories for faults, declared model correction and replication in M33-M34. Verify service equality, inventory closure and full reset before any paired saving calculation.",
+      "acceptance": "Primary evidence reports service feasibility and the complete thermal/electrical boundary for all cells. At nominal 55 C source, 25 C rejection and 70 C hot-water delivery, test the 10 kW design point; if a cell cannot meet it, report its feasible duty and restrict matched-input comparisons to a predeclared common duty, down to 5 kW, with capacity differences reported separately."
+    },
+    {
+      "id": "T6.4",
+      "wp": "WP6",
+      "name": "Evidence consolidation and TRL 4 assessment",
+      "lead": "SAV",
+      "start": 31,
+      "end": 36,
+      "pm": {
+        "SAV": 4,
+        "IRC": 0,
+        "IKTS": 1,
+        "UP": 0,
+        "HPE": 0
+      },
+      "inputs": "All prospective results, failure/correction logs and manufacturing records.",
+      "work": "Complete eight eight-hour transfer histories at an adjacent delivery temperature, retain three independent nominal replications per physical cell from the primary dataset, and reconcile every reported KPI to raw signals. Produce a laboratory TRL 4 evidence file for the material-component-control chain, including the qualified operating domain, independent repeatability, uncertainty, reproducible analysis and remaining scale-up limitations. No site demonstrator is built.",
+      "acceptance": "At M36, technical leads can reproduce the principal comparisons from released data and code; evidence supports validation in a laboratory only, and failed configurations or claims remain visible."
+    },
+    {
+      "id": "T7.1",
+      "wp": "WP7",
+      "name": "Early dissemination exploitation and communication plan",
+      "lead": "SAV",
+      "start": 1,
+      "end": 6,
+      "pm": {
+        "SAV": 2,
+        "IRC": 0,
+        "IKTS": 0,
+        "UP": 0,
+        "HPE": 0
+      },
+      "inputs": "Scientific objectives, background inventory and partner exploitation interests.",
+      "work": "Savery prepares a distinct plan by M6 with four result families, target users, ownership interfaces, publication review and a communication calendar. Materials, manufacturing, modelling/control and system evidence each receive a named exploitation owner. Define six research-output submissions, three public technical events and six bounded adopter requirements interviews over the action, subject to normal later activity approvals.",
+      "acceptance": "M6 plan is separate from the M4 data management plan, identifies audiences and actions, and protects unpublished recipes, patent matter and commercial background."
+    },
+    {
+      "id": "T7.2",
+      "wp": "WP7",
+      "name": "Manufacturing sustainability and economic boundaries",
+      "lead": "SAV",
+      "start": 7,
+      "end": 32,
+      "pm": {
+        "SAV": 2,
+        "IRC": 1,
+        "IKTS": 1,
+        "UP": 1,
+        "HPE": 0
+      },
+      "inputs": "Measured batch yields, solvent/material inputs, process windows and integrated energy balances.",
+      "work": "IRCELYON and IKTS supply production and forming inventories; UPorto and Savery assess four physical configurations per qualified kWh of delivered heat and per reusable cartridge. Quantify material demand, solvent use, yield, cycling life and full thermal/electrical inputs. Compare current laboratory manufacture and two explicitly projected production scales without claiming industrial performance or an ISO-certified lifecycle assessment.",
+      "acceptance": "M32 assessment gives functional unit, allocation, data quality, electricity/source-heat assumptions and sensitivity to life and yield; a net-benefit claim excludes neither regeneration/reset nor auxiliaries."
+    },
+    {
+      "id": "T7.3",
+      "wp": "WP7",
+      "name": "Protected results and subsequent development",
+      "lead": "SAV",
+      "start": 12,
+      "end": 36,
+      "pm": {
+        "SAV": 2,
+        "IRC": 1,
+        "IKTS": 1,
+        "UP": 1,
+        "HPE": 1
+      },
+      "inputs": "T7.1 plan, technical releases, measured validation and partner background declarations.",
+      "work": "Update exploitation and communication at M18 and M36. Hold three technical exchange events, prepare six research-output submissions, complete six adopter requirement interviews and maintain four exploitable-result records. Savery leads the subsequent whole heat-recovery equipment/system route; IKTS supports manufacturing transfer, while UPorto and HPE define model/control reuse. Each partner reviews access rights before disclosure; neither patents nor downstream commercial performance are presumed.",
+      "acceptance": "M36 route assigns result owner, access terms, next evidence and resources needed beyond TRL 4. Scientific and exploitation claims remain bounded by measured results; no additional beneficiary or site demonstrator is implied."
+    }
+  ],
+  "costs": [
+    {
+      "id": "S-E1",
+      "partner": "SAV",
+      "category": "C2",
+      "description": "Thermal bath rental",
+      "qty": 40,
+      "unit": "bath-month",
+      "unit_cost": 800,
+      "wp": "WP6",
+      "basis": "Two 25 kW-class thermal boundary units for 20 months at 75% use; 10 kW module planning rental, no quote",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 0.75,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "S-E2",
+      "partner": "SAV",
+      "category": "C2",
+      "description": "Instrumented test skid rental",
+      "qty": 24,
+      "unit": "month",
+      "unit_cost": 2000,
+      "wp": "WP6",
+      "basis": "10 kW useful-heat module, approximately 25 kW source heat; project-exclusive planning rental, not a reservation",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "S-E3",
+      "partner": "SAV",
+      "category": "C2",
+      "description": "Vapour mover and branch compressor rental",
+      "qty": 24,
+      "unit": "month",
+      "unit_cost": 1500,
+      "wp": "WP6",
+      "basis": "10 kW module vapour train, approximately 200-300 m3/h at design suction; actual pressure/flow map and quote unconfirmed",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "S-E4",
+      "partner": "SAV",
+      "category": "C2",
+      "description": "DAQ and electrical metering rental",
+      "qty": 30,
+      "unit": "month",
+      "unit_cost": 500,
+      "wp": "WP6",
+      "basis": "Planning rental with calibration; project-exclusive use",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "S-E5",
+      "partner": "SAV",
+      "category": "C2",
+      "description": "Sensor asset eligible depreciation",
+      "qty": 1,
+      "unit": "asset",
+      "unit_cost": 10000,
+      "wp": "WP6",
+      "basis": "Assumed eligible asset cost; remaining useful life and ownership to verify",
+      "eligible_fraction": 1,
+      "project_months": 30,
+      "life_months": 60,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "S-C1",
+      "partner": "SAV",
+      "category": "C3",
+      "description": "Reference MOF purchase",
+      "qty": 200,
+      "unit": "kg",
+      "unit_cost": 150,
+      "wp": "WP2",
+      "basis": "Bulk reference-MOF planning price; three independent 60 kg production batches plus 20 kg development, not a supplier quote",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "S-C2",
+      "partner": "SAV",
+      "category": "C3",
+      "description": "Reusable carrier and housing interface pairs",
+      "qty": 4,
+      "unit": "set",
+      "unit_cost": 6000,
+      "wp": "WP6",
+      "basis": "Four reusable pairs for the single 10 kW rig; twelve independently manufactured adsorbent sets use the same mechanical platform",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "S-C3",
+      "partner": "SAV",
+      "category": "C3",
+      "description": "Valves seals fluids and assembly consumables",
+      "qty": 12,
+      "unit": "lot",
+      "unit_cost": 1000,
+      "wp": "WP6",
+      "basis": "Twelve complete test-set interventions",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "S-C4",
+      "partner": "SAV",
+      "category": "C3",
+      "description": "Rework and calibration consumables",
+      "qty": 6,
+      "unit": "lot",
+      "unit_cost": 1000,
+      "wp": "WP6",
+      "basis": "Defined consumable lots, not contingency",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "S-X1",
+      "partner": "SAV",
+      "category": "C3",
+      "description": "Traceable calibration services",
+      "qty": 12,
+      "unit": "set",
+      "unit_cost": 600,
+      "wp": "WP6",
+      "basis": "Routine standard services; scientific interpretation stays with beneficiary",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "S-X2",
+      "partner": "SAV",
+      "category": "C3",
+      "description": "Leak and electrical conformity checks",
+      "qty": 6,
+      "unit": "check",
+      "unit_cost": 800,
+      "wp": "WP6",
+      "basis": "Routine purchased tests, no delegated research task",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "S-T1",
+      "partner": "SAV",
+      "category": "C1",
+      "description": "Travel and subsistence",
+      "qty": 12,
+      "unit": "mission",
+      "unit_cost": 1000,
+      "wp": "WP1",
+      "basis": "Six consortium reviews plus technical visits, blended planning allowance",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "S-D1",
+      "partner": "SAV",
+      "category": "C3",
+      "description": "Publication event and communication purchases",
+      "qty": 3,
+      "unit": "bundle",
+      "unit_cost": 2000,
+      "wp": "WP7",
+      "basis": "Project-attributable external goods/services; not staff time",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "I-E1",
+      "partner": "IRC",
+      "category": "C2",
+      "description": "Sorption and calorimetry equipment use",
+      "qty": 1,
+      "unit": "asset share",
+      "unit_cost": 12000,
+      "wp": "WP2",
+      "basis": "IRCELYON measurement asset pool; verify eligible depreciation and actual use.",
+      "eligible_fraction": 1,
+      "project_months": 30,
+      "life_months": 60,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "S-M1",
+      "partner": "SAV",
+      "category": "C3",
+      "description": "Small-batch chemistry consumables",
+      "qty": 57,
+      "unit": "batch",
+      "unit_cost": 200,
+      "wp": "WP2",
+      "basis": "36 exploratory, 12 confirmation, 6 route-development, 3 mechanism batches",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "S-M2",
+      "partner": "SAV",
+      "category": "C3",
+      "description": "Kilogram production consumables",
+      "qty": 180,
+      "unit": "kg dry output",
+      "unit_cost": 250,
+      "wp": "WP2",
+      "basis": "36 planned lots × 5 kg released dry powder. Working EUR/kg: yield-adjusted linker 90, metal precursor 20, modifier 30, net solvent 45, process consumables 35, sample/QC supplies 30. No salary/overhead or booked fee included. Not a quote.",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "S-M3",
+      "partner": "SAV",
+      "category": "C3",
+      "description": "Solvent recovery and waste consumables",
+      "qty": 10,
+      "unit": "campaign",
+      "unit_cost": 1000,
+      "wp": "WP2",
+      "basis": "Direct materials and routine disposal, excludes research personnel",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "I-X1",
+      "partner": "IRC",
+      "category": "C3",
+      "description": "Diffraction or spectroscopy facility use",
+      "qty": 200,
+      "unit": "hour",
+      "unit_cost": 100,
+      "wp": "WP2",
+      "basis": "Routine instrument access; IRC staff design and interpret experiments; no synchrotron award assumed",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "I-X2",
+      "partner": "IRC",
+      "category": "C3",
+      "description": "Routine compositional assays",
+      "qty": 100,
+      "unit": "assay",
+      "unit_cost": 100,
+      "wp": "WP2",
+      "basis": "Purchased standard assay, no external synthesis task",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "I-T1",
+      "partner": "IRC",
+      "category": "C1",
+      "description": "Travel and subsistence",
+      "qty": 12,
+      "unit": "mission",
+      "unit_cost": 1000,
+      "wp": "WP1",
+      "basis": "Blended planning allowance",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "I-D1",
+      "partner": "IRC",
+      "category": "C3",
+      "description": "Publication and dissemination purchases",
+      "qty": 3,
+      "unit": "bundle",
+      "unit_cost": 2000,
+      "wp": "WP7",
+      "basis": "Planning allowance",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "K-E1",
+      "partner": "IKTS",
+      "category": "C2",
+      "description": "Low-temperature forming equipment depreciation",
+      "qty": 1,
+      "unit": "asset share",
+      "unit_cost": 40000,
+      "wp": "WP3",
+      "basis": "Assumed remaining depreciable base; verify equipment and use method",
+      "eligible_fraction": 1,
+      "project_months": 18,
+      "life_months": 60,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "K-C1",
+      "partner": "IKTS",
+      "category": "C3",
+      "description": "Exploratory forming consumables",
+      "qty": 24,
+      "unit": "lot",
+      "unit_cost": 500,
+      "wp": "WP3",
+      "basis": "Twenty-four independent forming lots",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "K-C2",
+      "partner": "IKTS",
+      "category": "C3",
+      "description": "Structured cartridge internals",
+      "qty": 12,
+      "unit": "set",
+      "unit_cost": 1500,
+      "wp": "WP3",
+      "basis": "Twelve 20 kg-active-MOF sets: binder/conductive phase and structured internals only; powder and reusable Savery carriers charged separately",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "K-C3",
+      "partner": "IKTS",
+      "category": "C3",
+      "description": "Quality and ageing consumables",
+      "qty": 8,
+      "unit": "campaign",
+      "unit_cost": 1000,
+      "wp": "WP3",
+      "basis": "Direct consumables for property tests and 24 ageing coupons",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "K-X1",
+      "partner": "IKTS",
+      "category": "C3",
+      "description": "Standard mechanical and property test access",
+      "qty": 200,
+      "unit": "hour",
+      "unit_cost": 100,
+      "wp": "WP3",
+      "basis": "Routine instrument-use access; core process work remains with IKTS",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "K-X2",
+      "partner": "IKTS",
+      "category": "C3",
+      "description": "External dimensional metrology and calibration",
+      "qty": 10,
+      "unit": "set",
+      "unit_cost": 1000,
+      "wp": "WP3",
+      "basis": "Standard purchases",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "K-T1",
+      "partner": "IKTS",
+      "category": "C1",
+      "description": "Travel and subsistence",
+      "qty": 10,
+      "unit": "mission",
+      "unit_cost": 1000,
+      "wp": "WP1",
+      "basis": "Blended planning allowance",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "K-D1",
+      "partner": "IKTS",
+      "category": "C3",
+      "description": "Publication and dissemination purchases",
+      "qty": 2,
+      "unit": "bundle",
+      "unit_cost": 2000,
+      "wp": "WP7",
+      "basis": "Planning allowance",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "U-E1",
+      "partner": "UP",
+      "category": "C2",
+      "description": "Modelling compute equipment depreciation",
+      "qty": 1,
+      "unit": "asset pool",
+      "unit_cost": 36000,
+      "wp": "WP4",
+      "basis": "Planning depreciable asset base and project use, not a free facility",
+      "eligible_fraction": 1,
+      "project_months": 18,
+      "life_months": 36,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "U-X1",
+      "partner": "UP",
+      "category": "C3",
+      "description": "External CPU compute",
+      "qty": 20000,
+      "unit": "CPU-hour",
+      "unit_cost": 0.6,
+      "wp": "WP4",
+      "basis": "Planning on-demand rate, not an institutional overhead-inclusive recharge",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "U-X2",
+      "partner": "UP",
+      "category": "C3",
+      "description": "External GPU compute",
+      "qty": 2000,
+      "unit": "GPU-hour",
+      "unit_cost": 3,
+      "wp": "WP4",
+      "basis": "Planning on-demand rate",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "U-X3",
+      "partner": "UP",
+      "category": "C3",
+      "description": "Versioned dataset storage and reproducibility services",
+      "qty": 4,
+      "unit": "bundle",
+      "unit_cost": 1000,
+      "wp": "WP4",
+      "basis": "Planning external storage and archival-service allowance",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "U-T1",
+      "partner": "UP",
+      "category": "C1",
+      "description": "Travel and subsistence",
+      "qty": 10,
+      "unit": "mission",
+      "unit_cost": 1000,
+      "wp": "WP1",
+      "basis": "Blended planning allowance",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "U-D1",
+      "partner": "UP",
+      "category": "C3",
+      "description": "Publication and dissemination purchases",
+      "qty": 3,
+      "unit": "bundle",
+      "unit_cost": 2000,
+      "wp": "WP7",
+      "basis": "Planning allowance",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "H-E1",
+      "partner": "HPE",
+      "category": "C2",
+      "description": "Control HIL compute asset depreciation",
+      "qty": 1,
+      "unit": "asset",
+      "unit_cost": 10000,
+      "wp": "WP5",
+      "basis": "Assumed project use and remaining asset life",
+      "eligible_fraction": 1,
+      "project_months": 24,
+      "life_months": 60,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "H-X1",
+      "partner": "HPE",
+      "category": "C3",
+      "description": "External CPU compute",
+      "qty": 5000,
+      "unit": "CPU-hour",
+      "unit_cost": 0.6,
+      "wp": "WP5",
+      "basis": "Planning on-demand rate",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "H-X2",
+      "partner": "HPE",
+      "category": "C3",
+      "description": "External GPU compute",
+      "qty": 1000,
+      "unit": "GPU-hour",
+      "unit_cost": 3,
+      "wp": "WP5",
+      "basis": "Planning on-demand rate",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "H-T1",
+      "partner": "HPE",
+      "category": "C1",
+      "description": "Travel and subsistence",
+      "qty": 6,
+      "unit": "mission",
+      "unit_cost": 1000,
+      "wp": "WP1",
+      "basis": "Blended planning allowance",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "H-D1",
+      "partner": "HPE",
+      "category": "C3",
+      "description": "Publication and dissemination purchases",
+      "qty": 1,
+      "unit": "bundle",
+      "unit_cost": 2000,
+      "wp": "WP7",
+      "basis": "Planning allowance",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "S-C5",
+      "partner": "SAV",
+      "category": "C3",
+      "description": "Measured laboratory rig utilities",
+      "qty": 41,
+      "unit": "MWh",
+      "unit_cost": 180,
+      "wp": "WP6",
+      "basis": "2104 rig-hours at approximately 19.5 kW average laboratory electrical input, including imposed thermal boundaries and machine electricity; whole-run average is a design assumption. Performance boundary keeps imposed heat and fixture electricity separate.",
+      "eligible_fraction": 1,
+      "project_months": 1,
+      "life_months": 1,
+      "use_share": 1,
+      "indirect_eligible": 1
+    },
+    {
+      "id": "S-ME1",
+      "partner": "SAV",
+      "category": "C2",
+      "description": "Synthesis line equipment use",
+      "qty": 1,
+      "unit": "asset share",
+      "unit_cost": 12000,
+      "wp": "WP2",
+      "basis": "Provisional share of single 5 kg line depreciation; verify asset basis, remaining useful life and actual use.",
+      "eligible_fraction": 1,
+      "project_months": 30,
+      "life_months": 60,
+      "use_share": 1,
+      "indirect_eligible": 1
+    }
+  ],
+  "workloads": [
+    {
+      "id": "W01",
+      "stage": "Exploratory synthesis",
+      "count": 36,
+      "unit": "independent batch",
+      "amount_per_unit": 0.02,
+      "output_unit": "kg MOF",
+      "hours_per_unit": 8,
+      "owner": "SAV",
+      "task": "T2.1",
+      "basis": "12 compositions x 3 separate syntheses"
+    },
+    {
+      "id": "W02",
+      "stage": "Confirmation synthesis",
+      "count": 12,
+      "unit": "independent batch",
+      "amount_per_unit": 0.1,
+      "output_unit": "kg MOF",
+      "hours_per_unit": 12,
+      "owner": "SAV",
+      "task": "T2.2",
+      "basis": "4 compositions x 3 separate syntheses"
+    },
+    {
+      "id": "W03",
+      "stage": "Process-development powder",
+      "count": 6,
+      "unit": "independent batch",
+      "amount_per_unit": 0.6,
+      "output_unit": "kg MOF",
+      "hours_per_unit": 24,
+      "owner": "SAV",
+      "task": "T2.2",
+      "basis": "2 finalists x 3 batches; supplies 24 forming lots"
+    },
+    {
+      "id": "W04",
+      "stage": "Mechanism-study powder",
+      "count": 3,
+      "unit": "independent batch",
+      "amount_per_unit": 0.2,
+      "output_unit": "kg MOF",
+      "hours_per_unit": 12,
+      "owner": "SAV",
+      "task": "T2.2",
+      "basis": "Three independent batch blocks"
+    },
+    {
+      "id": "W05",
+      "stage": "Final production powder",
+      "count": 36,
+      "unit": "independent batch",
+      "amount_per_unit": 5,
+      "output_unit": "kg MOF",
+      "hours_per_unit": 32,
+      "owner": "SAV",
+      "task": "T2.3",
+      "basis": "Six disjoint 30 kg groups of six independent 5 kg dry-output lots; 32 h full occupancy per lot is a planning assumption."
+    },
+    {
+      "id": "W06",
+      "stage": "Purchased reference powder",
+      "count": 1,
+      "unit": "procurement batch plan",
+      "amount_per_unit": 200,
+      "output_unit": "kg MOF",
+      "hours_per_unit": 0,
+      "owner": "SAV",
+      "task": "T2.1",
+      "basis": "180 kg from three independently produced 60 kg supplier batches plus 20 kg development stock"
+    },
+    {
+      "id": "W07",
+      "stage": "Shaping exploration",
+      "count": 24,
+      "unit": "forming lot",
+      "amount_per_unit": 0.15,
+      "output_unit": "kg MOF input",
+      "hours_per_unit": 12,
+      "owner": "IKTS",
+      "task": "T3.1",
+      "basis": "2 chemistries x 2 routes x 3 settings x 2 separately formed lots"
+    },
+    {
+      "id": "W08",
+      "stage": "Complete validation sets",
+      "count": 12,
+      "unit": "two-bed set",
+      "amount_per_unit": 20,
+      "output_unit": "kg MOF charge",
+      "hours_per_unit": 24,
+      "owner": "IKTS",
+      "task": "T3.3",
+      "basis": "2 chemistries x 2 routes x 3 independent assembly groups; 240 kg active MOF installed sequentially on one 10 kW module"
+    },
+    {
+      "id": "W09",
+      "stage": "Screening isotherms",
+      "count": 108,
+      "unit": "isotherm",
+      "amount_per_unit": 1,
+      "output_unit": "profile",
+      "hours_per_unit": 4,
+      "owner": "IRC",
+      "task": "T2.1",
+      "basis": "36 independent synthesis batches x 3 temperatures"
+    },
+    {
+      "id": "W10",
+      "stage": "Confirmation isotherms",
+      "count": 36,
+      "unit": "isotherm",
+      "amount_per_unit": 1,
+      "output_unit": "profile",
+      "hours_per_unit": 4,
+      "owner": "IRC",
+      "task": "T2.2",
+      "basis": "12 independent confirmation batches x 3 temperatures"
+    },
+    {
+      "id": "W11",
+      "stage": "Calorimetry",
+      "count": 24,
+      "unit": "loading profile",
+      "amount_per_unit": 1,
+      "output_unit": "profile",
+      "hours_per_unit": 6,
+      "owner": "IRC",
+      "task": "T2.2",
+      "basis": "4 compositions x 3 batch blocks x adsorption/desorption"
+    },
+    {
+      "id": "W12",
+      "stage": "Mechanism histories",
+      "count": 48,
+      "unit": "complete history",
+      "amount_per_unit": 1,
+      "output_unit": "history",
+      "hours_per_unit": 1.5,
+      "owner": "IRC",
+      "task": "T2.2",
+      "basis": "2 chemistries x 2 thicknesses x 2 contacts x 2 preparations x 3 batch blocks; reset included"
+    },
+    {
+      "id": "W13",
+      "stage": "Shaping property profiles",
+      "count": 288,
+      "unit": "lot-property profile",
+      "amount_per_unit": 1,
+      "output_unit": "profile",
+      "hours_per_unit": 0.5,
+      "owner": "IKTS",
+      "task": "T3.2",
+      "basis": "24 forming lots x 12 profiles; these are measurements, not 288 independent material replicates"
+    },
+    {
+      "id": "W14",
+      "stage": "Coupon ageing",
+      "count": 24,
+      "unit": "coupon",
+      "amount_per_unit": 500,
+      "output_unit": "cycle",
+      "hours_per_unit": 41.666666666666664,
+      "owner": "IRC",
+      "task": "T2.3",
+      "basis": "4 physical cells x 3 batch blocks x 2 stress histories, 5 min/cycle; 1000 chamber-hours, separate from main rig"
+    },
+    {
+      "id": "W15",
+      "stage": "Rig commissioning",
+      "count": 1,
+      "unit": "campaign",
+      "amount_per_unit": 1,
+      "output_unit": "campaign",
+      "hours_per_unit": 160,
+      "owner": "SAV",
+      "task": "T6.1",
+      "basis": "160 main-rig hours"
+    },
+    {
+      "id": "W16",
+      "stage": "Reference metering checks",
+      "count": 1,
+      "unit": "campaign",
+      "amount_per_unit": 1,
+      "output_unit": "campaign",
+      "hours_per_unit": 120,
+      "owner": "SAV",
+      "task": "T6.2",
+      "basis": "120 main-rig hours"
+    },
+    {
+      "id": "W17",
+      "stage": "Actuator ablation",
+      "count": 32,
+      "unit": "complete history",
+      "amount_per_unit": 1,
+      "output_unit": "history",
+      "hours_per_unit": 4,
+      "owner": "SAV",
+      "task": "T6.2",
+      "basis": "Four actuator modes, eight discriminating histories; complete reset included"
+    },
+    {
+      "id": "W18",
+      "stage": "Controller development",
+      "count": 72,
+      "unit": "complete history",
+      "amount_per_unit": 1,
+      "output_unit": "history",
+      "hours_per_unit": 4,
+      "owner": "SAV",
+      "task": "T6.2",
+      "basis": "4 physical cells x 3 policies x 6 development histories; all strategies receive equal physical tuning opportunities"
+    },
+    {
+      "id": "W19",
+      "stage": "Prospective primary validation",
+      "count": 144,
+      "unit": "complete history",
+      "amount_per_unit": 1,
+      "output_unit": "history",
+      "hours_per_unit": 8,
+      "owner": "SAV",
+      "task": "T6.3",
+      "basis": "4 physical cells x 3 policies x 4 sealed challenges x 3 independent blocks; 4 service + 2 reset + 2 setup hours"
+    },
+    {
+      "id": "W20",
+      "stage": "Reserved correction and repeats",
+      "count": 24,
+      "unit": "complete history",
+      "amount_per_unit": 1,
+      "output_unit": "history",
+      "hours_per_unit": 8,
+      "owner": "SAV",
+      "task": "T6.3",
+      "basis": "Defined repeated-test allocation, not a monetary reserve"
+    },
+    {
+      "id": "W21",
+      "stage": "Transfer validation",
+      "count": 8,
+      "unit": "complete history",
+      "amount_per_unit": 1,
+      "output_unit": "history",
+      "hours_per_unit": 8,
+      "owner": "SAV",
+      "task": "T6.4",
+      "basis": "Adjacent delivery-temperature check after primary tests; no second operating mode"
+    },
+    {
+      "id": "W22",
+      "stage": "HIL validation",
+      "count": 108,
+      "unit": "test history",
+      "amount_per_unit": 1,
+      "output_unit": "test",
+      "hours_per_unit": 1,
+      "owner": "HPE",
+      "task": "T5.2",
+      "basis": "36 normal/fault histories x 3 policies; no physical MOF use"
+    }
+  ],
+  "milestones": [
+    {
+      "id": "MS1",
+      "name": "Operational ownership and measurement contract",
+      "wps": "WP1,WP2,WP3,WP6",
+      "month": 2,
+      "verification": "Five staffing/access sheets; responsible synthesis staff and kilogram route identified; primary service, measurement boundary and unit dictionary approved."
+    },
+    {
+      "id": "MS2",
+      "name": "Reference rig qualified",
+      "wps": "WP4,WP5,WP6",
+      "month": 8,
+      "verification": "Reference rig operates; numerical and experimental closure checks meet stated uncertainty limits or a dated corrective plan suspends gain claims."
+    },
+    {
+      "id": "MS3",
+      "name": "Compositions selected with independent batches",
+      "wps": "WP2,WP3,WP4",
+      "month": 9,
+      "verification": "Four composition candidates ranked using 36 independent syntheses; measured composition/phase and cycle fingerprints available; no claim of successful chemical tuning without an uncertainty-resolved effect."
+    },
+    {
+      "id": "MS3A",
+      "name": "Production recipe and capacity decision",
+      "wps": "WP2,WP3,WP6",
+      "month": 12,
+      "verification": "Savery qualifies dry output and full turnaround of its 5 kg line; 36 lots at 32 h require 1,152 of 1,980 assumed hours in M13–M23. Reserve lots by route and group for A/B/C release at M19/M21/M23."
+    },
+    {
+      "id": "MS4",
+      "name": "Two process windows and sufficient state selected",
+      "wps": "WP2,WP3,WP4",
+      "month": 18,
+      "verification": "Two shaping windows and two material candidates qualified; transport closures measured; at least one model can predict reserved development histories with a declared domain."
+    },
+    {
+      "id": "MS5",
+      "name": "Control and validation freeze",
+      "wps": "WP3,WP4,WP5,WP6",
+      "month": 24,
+      "verification": "Twelve two-bed sets and three policy releases accepted; independent group C and four complete challenge histories remain unfitted; HIL constraints/fallback pass; reference nominal service and metering qualify."
+    },
+    {
+      "id": "MS6",
+      "name": "Prospective dataset complete",
+      "wps": "WP4,WP5,WP6",
+      "month": 32,
+      "verification": "144 complete eight-hour histories logged or each failed cell explicitly reported; service and inventory eligibility applied before cost differences are computed."
+    },
+    {
+      "id": "MS7",
+      "name": "Correction and repeat decision closed",
+      "wps": "WP4,WP5,WP6",
+      "month": 34,
+      "verification": "Twenty-four reserved runs accounted for; original and corrected-model predictions separated; RL/MPC recommendation based on paired independent-block results."
+    },
+    {
+      "id": "MS8",
+      "name": "Laboratory evidence and exploitation release",
+      "wps": "WP6,WP7",
+      "month": 36,
+      "verification": "Principal results reproducible; TRL 4 claim matched to laboratory evidence and earned domain; four result-owner routes and complete resource account accepted."
+    }
+  ],
+  "deliverables": [
+    {
+      "id": "D1.1",
+      "name": "Data management plan and schema",
+      "wp": "WP1",
+      "lead": "SAV",
+      "type": "DMP",
+      "dissemination": "PU",
+      "month": 4,
+      "description": "Initial data management plan, access classes, units, identifiers and holdout governance; updates at M18 and M36."
+    },
+    {
+      "id": "D2.1",
+      "name": "Composition and production fingerprint dossier",
+      "wp": "WP2",
+      "lead": "IRC",
+      "type": "R",
+      "dissemination": "SEN",
+      "month": 18,
+      "description": "Constitutive data, independent batch evidence and two qualified powder candidates."
+    },
+    {
+      "id": "D2.2",
+      "name": "Validation production and ageing evidence",
+      "wp": "WP2",
+      "lead": "SAV",
+      "type": "R",
+      "dissemination": "SEN",
+      "month": 26,
+      "description": "Savery batch and allocation records for 36 planned 5 kg lots; IRCELYON coupon-ageing data with uncertainty and limits."
+    },
+    {
+      "id": "D3.1",
+      "name": "Manufacturing windows and cartridge interface",
+      "wp": "WP3",
+      "lead": "IKTS",
+      "type": "R",
+      "dissemination": "SEN",
+      "month": 18,
+      "description": "Two forming routes, measured transport and quality windows."
+    },
+    {
+      "id": "D3.2",
+      "name": "Independent validation cartridge release",
+      "wp": "WP3",
+      "lead": "IKTS",
+      "type": "DEM",
+      "dissemination": "SEN",
+      "month": 24,
+      "description": "Twelve two-bed cartridge sets and as-built quality cards."
+    },
+    {
+      "id": "D4.1",
+      "name": "Control model and estimator release",
+      "wp": "WP4",
+      "lead": "UP",
+      "type": "OTHER",
+      "dissemination": "SEN",
+      "month": 22,
+      "description": "Executable model, estimator, observation mapping, domain, intervals and timing evidence."
+    },
+    {
+      "id": "D4.2",
+      "name": "Predictive transfer and mechanism assessment",
+      "wp": "WP4",
+      "lead": "UP",
+      "type": "R",
+      "dissemination": "PU",
+      "month": 34,
+      "description": "Redacted reproducible findings with frozen and corrected predictions distinguished."
+    },
+    {
+      "id": "D5.1",
+      "name": "Qualified fixed MPC and RL policies",
+      "wp": "WP5",
+      "lead": "HPE",
+      "type": "OTHER",
+      "dissemination": "SEN",
+      "month": 24,
+      "description": "Three policies, tuning manifest, constraints, fallback and 108-test HIL evidence."
+    },
+    {
+      "id": "D6.1",
+      "name": "Instrumented reference platform and boundary",
+      "wp": "WP6",
+      "lead": "SAV",
+      "type": "DEM",
+      "dissemination": "SEN",
+      "month": 8,
+      "description": "Calibrated rig, reference protocol and full boundary/instrument contract."
+    },
+    {
+      "id": "D6.2",
+      "name": "Integrated laboratory validation and TRL evidence",
+      "wp": "WP6",
+      "lead": "SAV",
+      "type": "R",
+      "dissemination": "SEN",
+      "month": 36,
+      "description": "Complete matrix, independent repetitions, losses, uncertainty, failures and laboratory-readiness evidence; public redacted subset through D7.3."
+    },
+    {
+      "id": "D7.1",
+      "name": "Dissemination exploitation and communication plan",
+      "wp": "WP7",
+      "lead": "SAV",
+      "type": "R",
+      "dissemination": "PU",
+      "month": 6,
+      "description": "Separate early plan with audiences, outputs, ownership and communication actions."
+    },
+    {
+      "id": "D7.2",
+      "name": "Manufacturing environmental and economic assessment",
+      "wp": "WP7",
+      "lead": "SAV",
+      "type": "R",
+      "dissemination": "SEN",
+      "month": 32,
+      "description": "Measured inventory and resource assessment with bounded scale-up assumptions."
+    },
+    {
+      "id": "D7.3",
+      "name": "Public results and protected exploitation roadmap",
+      "wp": "WP7",
+      "lead": "SAV",
+      "type": "R",
+      "dissemination": "PU",
+      "month": 36,
+      "description": "Six research-output submissions, three events, adopter synthesis and four exploitable-result routes, redacted before publication."
+    }
+  ],
+  "risks": [
+    {
+      "id": "R1",
+      "name": "Single-line throughput or saleable dry yield falls short",
+      "likelihood": "H",
+      "severity": "H",
+      "wps": "WP1,WP2",
+      "trigger": "At M12 the demonstrated dry output, complete turnaround or downtime prevents six independent 30 kg allocations by M23, or shaped recovery falls below 75%.",
+      "impact": "Novel-composition and independent-batch claims fail.",
+      "mitigation": "Savery tests the recipe, tracks rejected lots and schedules catch-up on the same line. IRCELYON characterises released lots; IKTS verifies recovery. Reforecast using six times the rounded-up lot count per 30 kg group. Continue reference-material work if new material release slips.",
+      "consequence": "Up to 3 months within pre-M24 work; defined cost exposure EUR30k direct, requiring partner confirmation before release."
+    },
+    {
+      "id": "R2",
+      "name": "Shaping loses accessible capacity or conductance",
+      "likelihood": "M",
+      "severity": "H",
+      "wps": "WP3,WP6",
+      "trigger": "Less than 80% powder working capacity, more than 10% lot CV, excessive attrition or a vapour pressure loss that prevents the common service at M10/M18.",
+      "impact": "A transport route cannot sustain useful duty.",
+      "mitigation": "Reduce binder or compaction, shorten diffusion length, or reopen one of the three already tested settings; retain both granule and conductive routes as comparative experiments even if one has a narrow earned domain.",
+      "consequence": "One manufacturing iteration in M19-M24; up to EUR15k direct from the defined cartridge/rework work, with reduction elsewhere if needed."
+    },
+    {
+      "id": "R3",
+      "name": "Models are non-identifiable or do not transfer",
+      "likelihood": "H",
+      "severity": "H",
+      "wps": "WP2,WP4",
+      "trigger": "Two mechanisms remain equivalent across thickness/contact/history tests, or heat NRMSE exceeds 10% rated duty on whole-run holdouts at M18/M22.",
+      "impact": "Mechanism attribution and adaptive-model reliability weaken.",
+      "mitigation": "Use the simplest sufficient state, add the bounded independent structural/population observation already budgeted, and restrict the predictive domain; corrections get a new version and unused repeat histories.",
+      "consequence": "Up to 2 months and EUR10k direct equivalent effort/access, using the existing observation allocation."
+    },
+    {
+      "id": "R4",
+      "name": "RL does not outperform economic MPC",
+      "likelihood": "M",
+      "severity": "M",
+      "wps": "WP5,WP6",
+      "trigger": "At M32 the paired independent-block uncertainty interval includes zero benefit, constraint reliability is worse, or inference exceeds its timing limit.",
+      "impact": "Incremental RL benefit is unsupported.",
+      "mitigation": "Retain the RL-versus-MPC result and causal action/log analysis; deploy MPC while reporting where RL is useful, equivalent or dominated. Do not retune on final challenges.",
+      "consequence": "No critical-path delay or extra budget; analysis remains in T5.3."
+    },
+    {
+      "id": "R5",
+      "name": "Auxiliary electricity cancels useful gains",
+      "likelihood": "H",
+      "severity": "H",
+      "wps": "WP4,WP6",
+      "trigger": "Metered active-mode cost/exergy exceeds passive operation at equal service, or compression/circulation consumes the predicted margin at M16/M22.",
+      "impact": "Net resource advantage or attainable service shrinks.",
+      "mitigation": "Map bypass, circulation-only and compression-only domains; reduce pressure/conductance losses or duty; report feasible service and separate drive heat/electricity instead of a net-saving claim where services differ.",
+      "consequence": "One component iteration, up to 2 months and EUR15k direct within T6.2 and defined consumables."
+    },
+    {
+      "id": "R6",
+      "name": "Rig or pressure/vapour equipment is late",
+      "likelihood": "M",
+      "severity": "H",
+      "wps": "WP5,WP6",
+      "trigger": "M4 specification cannot secure a 10 kW module with approximately 25 kW source duty and 200-300 m3/h vapour train, or M8 metering qualification slips by more than 1 month.",
+      "impact": "Identification and final validation windows contract.",
+      "mitigation": "Keep digital and coupon work active on reference data; use the same-budget modular low-pressure train and qualify metering first; absorb at most two months before M24 and protect at least nine months integrated validation.",
+      "consequence": "Up to 2 months and EUR20k direct rental/iteration exposure; M25-M36 window is not consumed without a revised capacity check."
+    },
+    {
+      "id": "R7",
+      "name": "Key staff or facilities are unavailable",
+      "likelihood": "M",
+      "severity": "H",
+      "wps": "WP1-WP6",
+      "trigger": "A role exceeds its reserved monthly FTE, a named deputy is absent, or instrument access falls below 80% of the booked capacity for two months.",
+      "impact": "Synthesis, model or validation throughput slips.",
+      "mitigation": "Redistribute effort among the already budgeted staff slots of the five partners, cross-train deputies and move routine measurement blocks within the same partner infrastructure. No assumed free labour or facility.",
+      "consequence": "Up to 2 months and EUR15k direct equivalent effort/access; role or access failure remains a pre-submission capacity gap."
+    },
+    {
+      "id": "R8",
+      "name": "Cost rates rental availability or cost eligibility differ",
+      "likelihood": "H",
+      "severity": "H",
+      "wps": "WP1,WP6",
+      "trigger": "Personnel rates increase by more than 0.70%, reference powder exceeds approximately EUR201/kg, or combined quotes/eligibility changes consume the EUR12,775 headroom.",
+      "impact": "Recommended work cannot be funded within EUR2.50m.",
+      "mitigation": "Replace assumptions with partner cost sheets, consolidate standard equipment rentals, cut non-critical extra sweeps/events first and protect independent batches, three policy comparisons and reset accounting. No budget reserve is booked.",
+      "consequence": "The 10 kW recommendation is EUR2,487,225. All personnel +5% plus the defined EUR274k equipment/facility/compute base +10% requires EUR2,612,600; EUR112,600 total-cost reductions would be required. No contingency is booked."
+    },
+    {
+      "id": "R9",
+      "name": "Water inventory or thermal closure biases comparisons",
+      "likelihood": "M",
+      "severity": "H",
+      "wps": "WP2,WP4,WP6",
+      "trigger": "Energy residual exceeds 5%, mass residual exceeds 2%, or terminal inventory/stored-heat mismatch exceeds 2% of cycle transfer/heat.",
+      "impact": "Apparent gain may be stored energy or measurement error.",
+      "mitigation": "Pause comparative gain claims, run blanks and calibration, extend and meter reset, or report only bounded feasibility/transfer. Preserve rejected records.",
+      "consequence": "Up to 1 month and six of the 24 reserved rerun histories; costs included in repeat/calibration allocations."
+    },
+    {
+      "id": "R10",
+      "name": "Powder yield or 500-cycle life misses qualification",
+      "likelihood": "M",
+      "severity": "H",
+      "wps": "WP2,WP3,WP7",
+      "trigger": "Recovered production MOF below 75%, group-level supply below 20 kg per assembly, or more than 10% capacity loss in coupon ageing.",
+      "impact": "Independent set production and lifecycle inference are at risk.",
+      "mitigation": "Use the 24 kg nominal retained/spare allocation, reduce destructive tests, adjust the tested process window and report short-life limits. Do not pool separate validation groups or erase the ageing failure.",
+      "consequence": "Up to 2 months and EUR10k direct equivalent rework; no new endurance claim or larger prototype is introduced."
+    }
+  ],
+  "interfaces": [
+    {
+      "id": "IF1",
+      "sender": "SAV,IRC",
+      "receiver": "IKTS,UP,SAV",
+      "months": "M3 provisional; M9, M18 and M24 releases",
+      "contract": "Savery releases powder, batch IDs, dry yield and process history. IRCELYON releases measured composition, phase, adsorption thermodynamics, rate, ageing and uncertainty linked to the same sample IDs.",
+      "acceptance": "IKTS accepts mass/processability; UPorto accepts identifiable constitutive/observation fields; Savery checks the cycle window."
+    },
+    {
+      "id": "IF2",
+      "sender": "IKTS",
+      "receiver": "SAV,UP",
+      "months": "M4 interface; M10 coupons; M18 windows; M24 as-built",
+      "contract": "Forming-lot/cartridge IDs; binder and MOF mass fractions; dimensions in m; active/shaped/substrate masses separately; conductivity W/(m K), permeability m2, contact resistance m2 K/W; mechanical properties and covariance.",
+      "acceptance": "Savery accepts mechanical/thermal/vapour fit; UPorto accepts parameter provenance and variance."
+    },
+    {
+      "id": "IF3",
+      "sender": "SAV",
+      "receiver": "IRC,IKTS,UP,HPE",
+      "months": "M2 boundary; M4 virtual rig; M8 measured; M16/M22 updates",
+      "contract": "Topology and control-volume IDs; SI boundary histories; calibrated sensor transfer functions; actuator realised limits/delay; bypass state; W and J by heat/electric channel; liquid and adsorbed inventories.",
+      "acceptance": "UPorto verifies closure and observable quantities; HPE checks executable I/O, timing and fallback authority."
+    },
+    {
+      "id": "IF4",
+      "sender": "UP",
+      "receiver": "HPE,SAV",
+      "months": "M4 simulator; M10 model; M22 ROM; M24 freeze; M34 assessment",
+      "contract": "State/action/observation definitions; model and estimator hashes; calibrated/earned domain; uncertainty and observation mappings; timestep, solver hardware and 99th-percentile timing.",
+      "acceptance": "HPE runs contract and real-time tests; Savery tests declared observability and boundary reconstruction."
+    },
+    {
+      "id": "IF5",
+      "sender": "HPE",
+      "receiver": "SAV,UP",
+      "months": "M12 baselines; M24 qualified policies; M34 comparison",
+      "contract": "Policy and tuning-data manifests; forecasts/constraints; safety-filter/fallback version; HIL outcomes; deployment timing; commanded/realised actions, overrides and reward/cost logs.",
+      "acceptance": "Savery accepts actuator and interlock compatibility; UPorto checks common estimator and prospective split."
+    }
+  ],
+  "conditions": [
+    [
+      "C01",
+      "DEV",
+      55,
+      25,
+      70,
+      10.0,
+      "Steady nominal"
+    ],
+    [
+      "C02",
+      "DEV",
+      50,
+      25,
+      65,
+      8.0,
+      "Source step"
+    ],
+    [
+      "C03",
+      "DEV",
+      60,
+      25,
+      70,
+      10.0,
+      "Load ramp"
+    ],
+    [
+      "C04",
+      "DEV",
+      55,
+      30,
+      70,
+      8.0,
+      "Rejection step"
+    ],
+    [
+      "C05",
+      "DEV",
+      55,
+      20,
+      70,
+      10.0,
+      "Source ramp"
+    ],
+    [
+      "C06",
+      "DEV",
+      60,
+      30,
+      75,
+      8.0,
+      "Two-level demand"
+    ],
+    [
+      "C07",
+      "DEV",
+      50,
+      20,
+      65,
+      10.0,
+      "Warm/cold preparation"
+    ],
+    [
+      "C08",
+      "DEV",
+      55,
+      25,
+      70,
+      5.0,
+      "Part load"
+    ],
+    [
+      "C09",
+      "FINAL",
+      55,
+      25,
+      70,
+      10.0,
+      "Nominal boundary with withheld preparation history"
+    ],
+    [
+      "C10",
+      "FINAL",
+      58,
+      23,
+      72,
+      10.0,
+      "Unseen load step sequence"
+    ],
+    [
+      "C11",
+      "FINAL",
+      50,
+      30,
+      70,
+      7.0,
+      "Edge-of-domain disturbance and recovery"
+    ],
+    [
+      "C12",
+      "FINAL",
+      60,
+      28,
+      75,
+      8.0,
+      "Unseen order-reversed boundary history"
+    ]
+  ],
+  "cpm": [
+    [
+      "A",
+      "Service and interface contract",
+      2,
+      []
+    ],
+    [
+      "B",
+      "Composition screening",
+      7,
+      [
+        "A"
+      ]
+    ],
+    [
+      "C",
+      "Production confirmation",
+      5,
+      [
+        "B"
+      ]
+    ],
+    [
+      "D",
+      "Two shaping windows",
+      4,
+      [
+        "C"
+      ]
+    ],
+    [
+      "E",
+      "Production and process release",
+      3,
+      [
+        "D"
+      ]
+    ],
+    [
+      "F",
+      "Cartridges and validation freeze",
+      3,
+      [
+        "E"
+      ]
+    ],
+    [
+      "G",
+      "Prospective comparisons",
+      8,
+      [
+        "F",
+        "J"
+      ]
+    ],
+    [
+      "H",
+      "Correction and repeat buffer",
+      2,
+      [
+        "G"
+      ]
+    ],
+    [
+      "I",
+      "Transfer and evidence",
+      2,
+      [
+        "H"
+      ]
+    ],
+    [
+      "R",
+      "Reference rig",
+      6,
+      [
+        "A"
+      ]
+    ],
+    [
+      "S",
+      "Reference identification and ROM",
+      6,
+      [
+        "R"
+      ]
+    ],
+    [
+      "T",
+      "Policies and HIL qualification",
+      6,
+      [
+        "S"
+      ]
+    ],
+    [
+      "J",
+      "Deployment and metering closure",
+      4,
+      [
+        "T"
+      ]
+    ]
+  ],
+  "service": {
+    "nominal_kw": 10,
+    "source_c": 55,
+    "rejection_c": 25,
+    "hot_return_c": 65,
+    "hot_supply_c": 70,
+    "beds": 2,
+    "dry_mof_kg_per_bed": 10,
+    "working_swing_kgkg": 0.15,
+    "adsorption_enthalpy_jkg": 2800000,
+    "full_bed_cycle_s": 600,
+    "useful_heat_fraction": 0.75,
+    "cp_water_jkgK": 4180,
+    "production_recovery": 0.85,
+    "new_final_powder_kg": 180,
+    "final_active_fraction": 0.85,
+    "supervisory_step_s": 5,
+    "reference_min_common_kw": 5
+  },
+  "facilities": [
+    [
+      "SAV",
+      "Main laboratory rig",
+      2104,
+      "rig-hour",
+      "Booked target 180 rig-hours/month in M25-M32; 24 repeat runs in M33-M34; pressure-system host and operator to confirm. Rentals costed, not free."
+    ],
+    [
+      "SAV",
+      "Synthesis and preparation",
+      1764,
+      "instrument-hour",
+      "57 development batches: 612 h scheduled before bulk production or explicitly charged to shared-line capacity. One 5 kg line: 36 production batches × 32 h = 1,152 h in M13–M23; 1,980 planned available h. Validate dry output, turnaround and access."
+    ],
+    [
+      "IRC",
+      "Sorption and calorimetry",
+      864,
+      "instrument-hour",
+      "108+36 isotherms at 4 h, 24 calorimetry at 6 h, 48 dynamics at 1.5 h, plus 72 h calibration; staff/depreciation/materials budgeted."
+    ],
+    [
+      "IRC",
+      "Structural and population observations",
+      200,
+      "instrument-hour",
+      "Purchased routine facility access allowance; no secured synchrotron access assumed."
+    ],
+    [
+      "IRC",
+      "Parallel coupon ageing apparatus",
+      1000,
+      "chamber-hour",
+      "24 coupons x 500 cycles x 5 min; separate from main-rig bookings, may run concurrently subject to verified capacity."
+    ],
+    [
+      "IKTS",
+      "Low-temperature forming and quality equipment",
+      720,
+      "instrument-hour",
+      "24 forming lots x 12 h, 12 large sets x 24 h, 288 property profiles x 0.5 h; 200 external routine-test hours additional. Equipment and staff access to confirm."
+    ],
+    [
+      "UP",
+      "CPU/GPU compute",
+      20000,
+      "CPU-hour",
+      "Plus 2000 GPU-hours and costed compute assets; on-demand planning rates."
+    ],
+    [
+      "HPE",
+      "Training compute and HIL",
+      5000,
+      "CPU-hour",
+      "Plus 1000 GPU-hours and 108 HIL-hours; target hardware and actual staff access to confirm."
+    ]
+  ],
+  "assumptions": [
+    [
+      "A01",
+      "36 months",
+      "L2 design choice",
+      "Duration is not quoted as a mandatory call rule."
+    ],
+    [
+      "A02",
+      "Personnel rates",
+      "Unconfirmed planning rates",
+      "EUR/PM 6000 SAV and IRC, 8000 IKTS, 5000 UP, 9000 HPE; eligible employer cost, not salary or partner commitment."
+    ],
+    [
+      "A03",
+      "Legal entities and PICs",
+      "Unconfirmed",
+      "Savery Tech SAS is supported by the later DOE source but current HE signatory/PIC needs verification; IRCELYON research unit and CNRS/UCBL signatory are separate; IKTS is a Fraunhofer institute; HPE Galway is a site/team, not a verified legal person."
+    ],
+    [
+      "A04",
+      "Synthesis capability",
+      "User assigned owner and line scale",
+      "Savery performs all synthesis and operates one 5 kg line. At M12 qualify dry output, cycle including cleaning, production staffing and availability. Production target 180 kg; six disjoint 30 kg allocations. Plan 36 lots at 5 kg released dry MOF per lot."
+    ],
+    [
+      "A05",
+      "IKTS participation",
+      "User-confirmed on board",
+      "Named personnel, specific equipment and cost rates are still unconfirmed."
+    ],
+    [
+      "A06",
+      "UPorto and HPE staff",
+      "Role slots costed, names/access pending",
+      "No individual commitment, facility booking or free compute is implied."
+    ],
+    [
+      "A07",
+      "Primary thermal service",
+      "Calculated design point",
+      "User instruction 6 November 2026: single Module uses a 10 kW basis because 1 kW mechanical components are unsuitable. One 10 kW two-bed module with 20 kg active MOF; 55/25/70 C service. All full-machine comparisons use this platform, with replaceable independent adsorbent sets."
+    ],
+    [
+      "A08",
+      "Working swing and enthalpy",
+      "Design assumptions",
+      "0.15 kg/kg, 2.8 MJ/kg-water and a 600 s full bed cycle yield 10.5 kW at 20 kg active MOF and 75% useful-heat fraction; replace with measured values. At swing 0.08 the same hardware/inventory gives 5.6 kW, so achieved capacity remains an experimental result."
+    ],
+    [
+      "A09",
+      "Equipment rentals/depreciation",
+      "Unquoted planning bases",
+      "Savery C2 EUR134k includes rental use EUR123k and assumed sensor depreciation EUR5k and synthesis-line depreciation EUR6k; pressure/flow maps, rental quotes and asset use remain unconfirmed. Other participants verify synthesis/measurement/manufacturing asset books and access."
+    ],
+    [
+      "A10",
+      "Financial model",
+      "Standard actual-cost RIA planning basis",
+      "100% eligible cost and 25% indirect rate with explicit exclusions; no lump-sum exception found in the read MAT61 topic text; Portal form and grant model must be checked before freezing Part A."
+    ],
+    [
+      "A11",
+      "Service/facility purchases",
+      "Routine service assumption",
+      "Research design and interpretation remain at beneficiaries. If actual contract delegates an action task or uses an overhead-inclusive internal recharge, reclassify and recalculate indirect costs."
+    ],
+    [
+      "A12",
+      "Template",
+      "User original V5.1 read",
+      "RTF V5.1 dated 22 January 2026, original SHA256 retained; authenticated call-session rendering/tags not accessed; do not label Portal-final."
+    ],
+    [
+      "A13",
+      "Original source access",
+      "Mixed reading levels",
+      "HESTIA B1 and ESRs read; GRACE scientific extract and reconstruction read; DOE T04/T07/T10B/R10prime reviews read, T07 full scientific readback available; latest R10prime original not accessible on offline computer."
+    ],
+    [
+      "A14",
+      "Publication and IP",
+      "No public Git push",
+      "Repository visibility is public. Do not push proposal, internal evidence, budget or private source extracts; local branch retains canonical mat-prod path."
+    ],
+    [
+      "A15",
+      "Independent replication",
+      "Group-level design",
+      "Three disjoint powder/assembly groups per physical cell; repeated policies/histories within a group are paired observations, not additional independent material replicates."
+    ],
+    [
+      "A16",
+      "Other applications",
+      "No additional field or machine mode",
+      "Eight adjacent-temperature transfer runs only; no data-centre/urban site, new beneficiary or cooling-mode prototype."
+    ],
+    [
+      "A17",
+      "10 kW budget change",
+      "User-steered re-costing",
+      "EUR2,487,225 recommended, including powder/large internals, thermal/vapour equipment and laboratory utilities. EUR12,775 remains below the EUR2.50m ceiling. Bulk powder and precursor prices are assumptions, not quotes; the initial EUR100k headroom is no longer available."
+    ]
+  ],
+  "production_capacity": {
+    "trains": 1,
+    "hours_per_train_month": 180,
+    "start_month": 13,
+    "powder_finish_month": 23,
+    "months": 11,
+    "manufacture_buffer_month": 24
+  }
+}

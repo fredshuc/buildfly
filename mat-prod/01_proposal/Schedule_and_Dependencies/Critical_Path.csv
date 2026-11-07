@@ -1,0 +1,14 @@
+﻿id,name,duration,predecessors,ES,EF,LF,LS,float,start_month,end_month
+A,Service and interface contract,2,,0,2,2,0,0,1,2
+B,Composition screening,7,A,2,9,9,2,0,3,9
+R,Reference rig,6,A,2,8,8,2,0,3,8
+C,Production confirmation,5,B,9,14,14,9,0,10,14
+S,Reference identification and ROM,6,R,8,14,14,8,0,9,14
+D,Two shaping windows,4,C,14,18,18,14,0,15,18
+T,Policies and HIL qualification,6,S,14,20,20,14,0,15,20
+E,Production and process release,3,D,18,21,21,18,0,19,21
+J,Deployment and metering closure,4,T,20,24,24,20,0,21,24
+F,Cartridges and validation freeze,3,E,21,24,24,21,0,22,24
+G,Prospective comparisons,8,"F,J",24,32,32,24,0,25,32
+H,Correction and repeat buffer,2,G,32,34,34,32,0,33,34
+I,Transfer and evidence,2,H,34,36,36,34,0,35,36

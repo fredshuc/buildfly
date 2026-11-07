@@ -1,0 +1,14 @@
+﻿predecessor,successor,type,lag_months
+A,B,finish-to-start,0
+B,C,finish-to-start,0
+C,D,finish-to-start,0
+D,E,finish-to-start,0
+E,F,finish-to-start,0
+F,G,finish-to-start,0
+J,G,finish-to-start,0
+G,H,finish-to-start,0
+H,I,finish-to-start,0
+A,R,finish-to-start,0
+R,S,finish-to-start,0
+S,T,finish-to-start,0
+T,J,finish-to-start,0

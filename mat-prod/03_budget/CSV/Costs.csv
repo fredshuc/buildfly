@@ -1,0 +1,43 @@
+﻿id,partner,category,description,qty,unit,unit_cost,wp,basis,eligible_fraction,project_months,life_months,use_share,indirect_eligible,calculated_cost
+S-E1,SAV,C2,Thermal bath rental,40,bath-month,800,WP6,"Two 25 kW-class thermal boundary units for 20 months at 75% use; 10 kW module planning rental, no quote",1,1,1,0.75,1,24000.0
+S-E2,SAV,C2,Instrumented test skid rental,24,month,2000,WP6,"10 kW useful-heat module, approximately 25 kW source heat; project-exclusive planning rental, not a reservation",1,1,1,1,1,48000.0
+S-E3,SAV,C2,Vapour mover and branch compressor rental,24,month,1500,WP6,"10 kW module vapour train, approximately 200-300 m3/h at design suction; actual pressure/flow map and quote unconfirmed",1,1,1,1,1,36000.0
+S-E4,SAV,C2,DAQ and electrical metering rental,30,month,500,WP6,Planning rental with calibration; project-exclusive use,1,1,1,1,1,15000.0
+S-E5,SAV,C2,Sensor asset eligible depreciation,1,asset,10000,WP6,Assumed eligible asset cost; remaining useful life and ownership to verify,1,30,60,1,1,5000.0
+S-C1,SAV,C3,Reference MOF purchase,200,kg,150,WP2,"Bulk reference-MOF planning price; three independent 60 kg production batches plus 20 kg development, not a supplier quote",1,1,1,1,1,30000.0
+S-C2,SAV,C3,Reusable carrier and housing interface pairs,4,set,6000,WP6,Four reusable pairs for the single 10 kW rig; twelve independently manufactured adsorbent sets use the same mechanical platform,1,1,1,1,1,24000.0
+S-C3,SAV,C3,Valves seals fluids and assembly consumables,12,lot,1000,WP6,Twelve complete test-set interventions,1,1,1,1,1,12000.0
+S-C4,SAV,C3,Rework and calibration consumables,6,lot,1000,WP6,"Defined consumable lots, not contingency",1,1,1,1,1,6000.0
+S-X1,SAV,C3,Traceable calibration services,12,set,600,WP6,Routine standard services; scientific interpretation stays with beneficiary,1,1,1,1,1,7200.0
+S-X2,SAV,C3,Leak and electrical conformity checks,6,check,800,WP6,"Routine purchased tests, no delegated research task",1,1,1,1,1,4800.0
+S-T1,SAV,C1,Travel and subsistence,12,mission,1000,WP1,"Six consortium reviews plus technical visits, blended planning allowance",1,1,1,1,1,12000.0
+S-D1,SAV,C3,Publication event and communication purchases,3,bundle,2000,WP7,Project-attributable external goods/services; not staff time,1,1,1,1,1,6000.0
+I-E1,IRC,C2,Sorption and calorimetry equipment use,1,asset share,12000,WP2,IRCELYON measurement asset pool; verify eligible depreciation and actual use.,1,30,60,1,1,6000.0
+S-M1,SAV,C3,Small-batch chemistry consumables,57,batch,200,WP2,"36 exploratory, 12 confirmation, 6 route-development, 3 mechanism batches",1,1,1,1,1,11400.0
+S-M2,SAV,C3,Kilogram production consumables,180,kg dry output,250,WP2,"36 planned lots × 5 kg released dry powder. Working EUR/kg: yield-adjusted linker 90, metal precursor 20, modifier 30, net solvent 45, process consumables 35, sample/QC supplies 30. No salary/overhead or booked fee included. Not a quote.",1,1,1,1,1,45000.0
+S-M3,SAV,C3,Solvent recovery and waste consumables,10,campaign,1000,WP2,"Direct materials and routine disposal, excludes research personnel",1,1,1,1,1,10000.0
+I-X1,IRC,C3,Diffraction or spectroscopy facility use,200,hour,100,WP2,Routine instrument access; IRC staff design and interpret experiments; no synchrotron award assumed,1,1,1,1,1,20000.0
+I-X2,IRC,C3,Routine compositional assays,100,assay,100,WP2,"Purchased standard assay, no external synthesis task",1,1,1,1,1,10000.0
+I-T1,IRC,C1,Travel and subsistence,12,mission,1000,WP1,Blended planning allowance,1,1,1,1,1,12000.0
+I-D1,IRC,C3,Publication and dissemination purchases,3,bundle,2000,WP7,Planning allowance,1,1,1,1,1,6000.0
+K-E1,IKTS,C2,Low-temperature forming equipment depreciation,1,asset share,40000,WP3,Assumed remaining depreciable base; verify equipment and use method,1,18,60,1,1,12000.0
+K-C1,IKTS,C3,Exploratory forming consumables,24,lot,500,WP3,Twenty-four independent forming lots,1,1,1,1,1,12000.0
+K-C2,IKTS,C3,Structured cartridge internals,12,set,1500,WP3,Twelve 20 kg-active-MOF sets: binder/conductive phase and structured internals only; powder and reusable Savery carriers charged separately,1,1,1,1,1,18000.0
+K-C3,IKTS,C3,Quality and ageing consumables,8,campaign,1000,WP3,Direct consumables for property tests and 24 ageing coupons,1,1,1,1,1,8000.0
+K-X1,IKTS,C3,Standard mechanical and property test access,200,hour,100,WP3,Routine instrument-use access; core process work remains with IKTS,1,1,1,1,1,20000.0
+K-X2,IKTS,C3,External dimensional metrology and calibration,10,set,1000,WP3,Standard purchases,1,1,1,1,1,10000.0
+K-T1,IKTS,C1,Travel and subsistence,10,mission,1000,WP1,Blended planning allowance,1,1,1,1,1,10000.0
+K-D1,IKTS,C3,Publication and dissemination purchases,2,bundle,2000,WP7,Planning allowance,1,1,1,1,1,4000.0
+U-E1,UP,C2,Modelling compute equipment depreciation,1,asset pool,36000,WP4,"Planning depreciable asset base and project use, not a free facility",1,18,36,1,1,18000.0
+U-X1,UP,C3,External CPU compute,20000,CPU-hour,0.6,WP4,"Planning on-demand rate, not an institutional overhead-inclusive recharge",1,1,1,1,1,12000.0
+U-X2,UP,C3,External GPU compute,2000,GPU-hour,3,WP4,Planning on-demand rate,1,1,1,1,1,6000.0
+U-X3,UP,C3,Versioned dataset storage and reproducibility services,4,bundle,1000,WP4,Planning external storage and archival-service allowance,1,1,1,1,1,4000.0
+U-T1,UP,C1,Travel and subsistence,10,mission,1000,WP1,Blended planning allowance,1,1,1,1,1,10000.0
+U-D1,UP,C3,Publication and dissemination purchases,3,bundle,2000,WP7,Planning allowance,1,1,1,1,1,6000.0
+H-E1,HPE,C2,Control HIL compute asset depreciation,1,asset,10000,WP5,Assumed project use and remaining asset life,1,24,60,1,1,4000.0
+H-X1,HPE,C3,External CPU compute,5000,CPU-hour,0.6,WP5,Planning on-demand rate,1,1,1,1,1,3000.0
+H-X2,HPE,C3,External GPU compute,1000,GPU-hour,3,WP5,Planning on-demand rate,1,1,1,1,1,3000.0
+H-T1,HPE,C1,Travel and subsistence,6,mission,1000,WP1,Blended planning allowance,1,1,1,1,1,6000.0
+H-D1,HPE,C3,Publication and dissemination purchases,1,bundle,2000,WP7,Planning allowance,1,1,1,1,1,2000.0
+S-C5,SAV,C3,Measured laboratory rig utilities,41,MWh,180,WP6,"2104 rig-hours at approximately 19.5 kW average laboratory electrical input, including imposed thermal boundaries and machine electricity; whole-run average is a design assumption. Performance boundary keeps imposed heat and fixture electricity separate.",1,1,1,1,1,7380.0
+S-ME1,SAV,C2,Synthesis line equipment use,1,asset share,12000,WP2,"Provisional share of single 5 kg line depreciation; verify asset basis, remaining useful life and actual use.",1,30,60,1,1,6000.0

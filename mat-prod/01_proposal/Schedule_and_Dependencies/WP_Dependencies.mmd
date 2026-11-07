@@ -1,0 +1,13 @@
+flowchart TD
+  A["WP2 Composition and production"] --> B["WP3 Shaping and manufacture"]
+  A --> C["WP4 Models and estimation"]
+  B --> C
+  C --> D["WP5 MPC and RL"]
+  B --> E["WP6 Laboratory validation"]
+  D --> E
+  E -.-> C
+  E -.-> A
+  E -.-> B
+  F["WP1 Quality and governance"] -.-> B
+  E --> G["WP7 Exploitation and sustainability"]
+  B --> G

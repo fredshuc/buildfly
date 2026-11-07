@@ -1,0 +1,13 @@
+﻿id,split,source_C,rejection_C,hot_supply_C,duty_kW,history
+C01,DEV,55,25,70,10.0,Steady nominal
+C02,DEV,50,25,65,8.0,Source step
+C03,DEV,60,25,70,10.0,Load ramp
+C04,DEV,55,30,70,8.0,Rejection step
+C05,DEV,55,20,70,10.0,Source ramp
+C06,DEV,60,30,75,8.0,Two-level demand
+C07,DEV,50,20,65,10.0,Warm/cold preparation
+C08,DEV,55,25,70,5.0,Part load
+C09,FINAL,55,25,70,10.0,Nominal boundary with withheld preparation history
+C10,FINAL,58,23,72,10.0,Unseen load step sequence
+C11,FINAL,50,30,70,7.0,Edge-of-domain disturbance and recovery
+C12,FINAL,60,28,75,8.0,Unseen order-reversed boundary history

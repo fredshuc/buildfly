@@ -1,0 +1,237 @@
+{
+  "version": "MAT61-IF-R2",
+  "status": "DESIGN_NOT_MEASURED",
+  "units": "SI, absolute pressure, water loading per active dry MOF",
+  "release_control": "M24 freeze; later versioned corrections preserve original prospective results",
+  "fields": [
+    [
+      "sample_id",
+      "string",
+      "n.a.",
+      "Immutable planned/actual specimen identifier"
+    ],
+    [
+      "synthesis_batch_id",
+      "string",
+      "n.a.",
+      "One separately prepared synthesis, not a sampled time point"
+    ],
+    [
+      "forming_lot_id",
+      "string",
+      "n.a.",
+      "Separately manufactured lot"
+    ],
+    [
+      "assembly_group_id",
+      "string",
+      "n.a.",
+      "Independent material/assembly block A B or C"
+    ],
+    [
+      "nominal_composition",
+      "component fractions",
+      "mol/mol",
+      "Feed composition; distinct from measured product"
+    ],
+    [
+      "measured_composition",
+      "component fractions",
+      "mol/mol",
+      "Measured composition and phase identification"
+    ],
+    [
+      "active_dry_mof_mass",
+      "number",
+      "kg",
+      "Dry active MOF only"
+    ],
+    [
+      "shaped_dry_mass",
+      "number",
+      "kg",
+      "MOF plus binder/conductive phase"
+    ],
+    [
+      "substrate_mass",
+      "number",
+      "kg",
+      "Separate hardware/substrate mass"
+    ],
+    [
+      "water_loading",
+      "number",
+      "kg-water/kg-dry-MOF",
+      "Dry and wet bases never mixed"
+    ],
+    [
+      "adsorption_enthalpy",
+      "loading-dependent array",
+      "J/mol-water",
+      "Uncertainty and uptake coordinate required"
+    ],
+    [
+      "conductivity",
+      "tensor or scalar",
+      "W/(m K)",
+      "Orientation and validity range"
+    ],
+    [
+      "permeability",
+      "tensor or scalar",
+      "m2",
+      "Geometry/process-specific"
+    ],
+    [
+      "contact_resistance",
+      "number",
+      "m2 K/W",
+      "Measured thermal interface"
+    ],
+    [
+      "time",
+      "array",
+      "s",
+      "Native timestamps and clock/lag calibration"
+    ],
+    [
+      "temperature",
+      "array",
+      "K",
+      "Boundary and sample coordinates distinguished"
+    ],
+    [
+      "vapour_pressure",
+      "array",
+      "Pa absolute",
+      "Never gauge pressure"
+    ],
+    [
+      "volumetric_flow",
+      "array",
+      "m3/s",
+      "Measured state p/T recorded; not unlabelled normal flow"
+    ],
+    [
+      "heat_flow",
+      "array by channel",
+      "W",
+      "Source evaporation/regeneration, useful, rejected and leak estimates"
+    ],
+    [
+      "electrical_power",
+      "array by feeder",
+      "W",
+      "Pump valve vapour mover compressor electronics and fixture separately"
+    ],
+    [
+      "liquid_water_inventory",
+      "array",
+      "kg",
+      "Measured reservoir inventory with uncertainty"
+    ],
+    [
+      "state_definition",
+      "versioned list",
+      "mixed SI",
+      "Candidate bed/wall temperatures, loadings, vapour/liquid inventories and any qualified internal state"
+    ],
+    [
+      "observation_mapping",
+      "versioned callable",
+      "n.a.",
+      "All candidate model classes predict common measurements, including structure where qualified"
+    ],
+    [
+      "action_definition",
+      "versioned list",
+      "mixed SI",
+      "Heat allocation, timing, vapour conductance and branch pressure assistance"
+    ],
+    [
+      "constraint_contract",
+      "versioned object",
+      "SI",
+      "Equipment maps and permitted domain confirmed before deployment"
+    ],
+    [
+      "model_estimator_policy_hash",
+      "string",
+      "n.a.",
+      "Exact executable version and tuning manifest"
+    ],
+    [
+      "forecast_contract",
+      "versioned object",
+      "SI and s",
+      "Same permitted exogenous information for all controllers"
+    ],
+    [
+      "fallback_event",
+      "timestamped log",
+      "s",
+      "Command, realised action, interlock cause and recovery"
+    ],
+    [
+      "run_split",
+      "enum",
+      "DEV / CALIBRATION / FINAL / CORRECTION",
+      "Whole history/block split; no random point split"
+    ],
+    [
+      "initial_final_inventory",
+      "structured values",
+      "kg and J",
+      "Closure against 2% working-transfer/stored-energy rule"
+    ],
+    [
+      "uncertainty",
+      "covariance and calibration records",
+      "corresponding SI",
+      "Expanded and model uncertainty distinguished"
+    ]
+  ],
+  "handoffs": [
+    {
+      "id": "IF1",
+      "sender": "SAV,IRC",
+      "receiver": "IKTS,UP,SAV",
+      "months": "M3 provisional; M9, M18 and M24 releases",
+      "contract": "Savery releases powder, batch IDs, dry yield and process history. IRCELYON releases measured composition, phase, adsorption thermodynamics, rate, ageing and uncertainty linked to the same sample IDs.",
+      "acceptance": "IKTS accepts mass/processability; UPorto accepts identifiable constitutive/observation fields; Savery checks the cycle window."
+    },
+    {
+      "id": "IF2",
+      "sender": "IKTS",
+      "receiver": "SAV,UP",
+      "months": "M4 interface; M10 coupons; M18 windows; M24 as-built",
+      "contract": "Forming-lot/cartridge IDs; binder and MOF mass fractions; dimensions in m; active/shaped/substrate masses separately; conductivity W/(m K), permeability m2, contact resistance m2 K/W; mechanical properties and covariance.",
+      "acceptance": "Savery accepts mechanical/thermal/vapour fit; UPorto accepts parameter provenance and variance."
+    },
+    {
+      "id": "IF3",
+      "sender": "SAV",
+      "receiver": "IRC,IKTS,UP,HPE",
+      "months": "M2 boundary; M4 virtual rig; M8 measured; M16/M22 updates",
+      "contract": "Topology and control-volume IDs; SI boundary histories; calibrated sensor transfer functions; actuator realised limits/delay; bypass state; W and J by heat/electric channel; liquid and adsorbed inventories.",
+      "acceptance": "UPorto verifies closure and observable quantities; HPE checks executable I/O, timing and fallback authority."
+    },
+    {
+      "id": "IF4",
+      "sender": "UP",
+      "receiver": "HPE,SAV",
+      "months": "M4 simulator; M10 model; M22 ROM; M24 freeze; M34 assessment",
+      "contract": "State/action/observation definitions; model and estimator hashes; calibrated/earned domain; uncertainty and observation mappings; timestep, solver hardware and 99th-percentile timing.",
+      "acceptance": "HPE runs contract and real-time tests; Savery tests declared observability and boundary reconstruction."
+    },
+    {
+      "id": "IF5",
+      "sender": "HPE",
+      "receiver": "SAV,UP",
+      "months": "M12 baselines; M24 qualified policies; M34 comparison",
+      "contract": "Policy and tuning-data manifests; forecasts/constraints; safety-filter/fallback version; HIL outcomes; deployment timing; commanded/realised actions, overrides and reward/cost logs.",
+      "acceptance": "Savery accepts actuator and interlock compatibility; UPorto checks common estimator and prospective split."
+    }
+  ],
+  "prospective_holdout": "Group C, complete C09-C12 waveforms and endpoint responses are not fitting data. Routine QC is permitted under frozen rules. Final waveform draws remain sealed until the M24 manifest."
+}
