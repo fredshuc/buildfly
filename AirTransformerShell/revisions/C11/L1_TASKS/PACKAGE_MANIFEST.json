@@ -1,0 +1,48 @@
+{
+  "task_group": "AT-SHELL-C11-RT5-T01-R1",
+  "issue_date": "2026-11-07",
+  "source_commit": "16b44e96c4640a4bccb565ae371fee445999634f",
+  "scope": "L1 disposition and four L2 task books; no new CAD generated",
+  "files": [
+    {
+      "file": "00_L1_DISPOSITION_AND_SEQUENCE_CN.md",
+      "bytes": 12721,
+      "sha256": "1eece8d43bf9185b0638223baf5617bc2efe89a8239840f7245d45e295e0940f"
+    },
+    {
+      "file": "01_L2_HYDRONICS_C11_T01_R1_CN.md",
+      "bytes": 9008,
+      "sha256": "3824294294bff6172bb6a78be00b0d705e855888161f69dcfdfe8cb0fc14b2b2"
+    },
+    {
+      "file": "02_L2_HX_C11_T01_R1_CN.md",
+      "bytes": 11009,
+      "sha256": "92995155c3592251dd1cde91308bb03f03960f5d7d2510bda8823e810386ec25"
+    },
+    {
+      "file": "03_L2_DAMPERS_C11_T01_R1_CN.md",
+      "bytes": 8634,
+      "sha256": "f8228422a8b5307cff750c576a04819632757d4d99a6037b5ce8885f69d4d758"
+    },
+    {
+      "file": "04_L2_SHELL_C11_T01_R1_CN.md",
+      "bytes": 13259,
+      "sha256": "b1485ab3136b36bd8d799d34393aa4ce7b8bab84e026a3a393b35b4a8eaa30b7"
+    },
+    {
+      "file": "05_C11_CLOSURE_MATRIX.csv",
+      "bytes": 4386,
+      "sha256": "f4553d30fc9a945c73e99c8c97894e3cc2fe5f3a1913357a8d5160905ef28426"
+    },
+    {
+      "file": "06_C11_INTERFACE_REGISTER.csv",
+      "bytes": 2651,
+      "sha256": "9fc697abfe884d92457ee1de3ac0808ab74f6d8142b78ab3bd997be5f363268d"
+    },
+    {
+      "file": "07_L1_EVIDENCE_NOTES_CN.md",
+      "bytes": 8274,
+      "sha256": "f33b939111f795ec4fb6e201b2bd2fafe3c4b8cf911b9084930bb74c6856c580"
+    }
+  ]
+}
