@@ -1,0 +1,542 @@
+[
+ {
+  "core": "A_LOWER",
+  "feature": "W1_DRAIN_BOSS",
+  "bbox": [
+   603.0,
+   -797.6,
+   671.4,
+   613.0,
+   -785.6,
+   683.4
+  ],
+  "zone": "air enclosure",
+  "nearest_host_mm": 19.92,
+  "nearest_host": "M302_OUTER_PANEL_A_L_O"
+ },
+ {
+  "core": "A_LOWER",
+  "feature": "W1_DRAIN_CLOSURE_PROXY",
+  "bbox": [
+   613.0,
+   -797.6,
+   671.4,
+   618.0,
+   -785.6,
+   683.4
+  ],
+  "zone": "air enclosure",
+  "nearest_host_mm": 19.92,
+  "nearest_host": "M302_OUTER_PANEL_A_L_O"
+ },
+ {
+  "core": "A_LOWER",
+  "feature": "W2_DRAIN_BOSS",
+  "bbox": [
+   603.0,
+   -797.6,
+   781.4,
+   613.0,
+   -785.6,
+   793.4
+  ],
+  "zone": "air enclosure",
+  "nearest_host_mm": 19.92,
+  "nearest_host": "M302_OUTER_PANEL_A_L_O"
+ },
+ {
+  "core": "A_LOWER",
+  "feature": "W2_DRAIN_CLOSURE_PROXY",
+  "bbox": [
+   613.0,
+   -797.6,
+   781.4,
+   618.0,
+   -785.6,
+   793.4
+  ],
+  "zone": "air enclosure",
+  "nearest_host_mm": 19.92,
+  "nearest_host": "M302_OUTER_PANEL_A_L_O"
+ },
+ {
+  "core": "A_LOWER",
+  "feature": "C05_SHORT_DRAIN_SPIGOT",
+  "bbox": [
+   619.0,
+   -681.5,
+   719.0,
+   635.0,
+   -659.5,
+   741.0
+  ],
+  "zone": "air enclosure",
+  "nearest_host_mm": ">80",
+  "nearest_host": null
+ },
+ {
+  "core": "A_LOWER",
+  "feature": "W1_VENT_CAP",
+  "bbox": [
+   -463.0,
+   -798.6,
+   706.4,
+   -449.0,
+   -784.6,
+   711.4
+  ],
+  "zone": "air enclosure",
+  "nearest_host_mm": 18.92,
+  "nearest_host": "M302_OUTER_PANEL_A_L_O"
+ },
+ {
+  "core": "A_LOWER",
+  "feature": "W1_DRAIN_CAP",
+  "bbox": [
+   -705.0,
+   -727.0,
+   526.0,
+   -691.0,
+   -713.0,
+   531.0
+  ],
+  "zone": "wet bay (X<-501.5)",
+  "nearest_host_mm": 38.62,
+  "nearest_host": "C10_A_L_GLAND_MEMBRANE"
+ },
+ {
+  "core": "A_LOWER",
+  "feature": "W2_VENT_CAP",
+  "bbox": [
+   -463.0,
+   -798.6,
+   816.4,
+   -449.0,
+   -784.6,
+   821.4
+  ],
+  "zone": "air enclosure",
+  "nearest_host_mm": 17.37,
+  "nearest_host": "AIR_SIDE_OUT_A_O"
+ },
+ {
+  "core": "A_LOWER",
+  "feature": "W2_DRAIN_CAP",
+  "bbox": [
+   -705.0,
+   -577.0,
+   526.0,
+   -691.0,
+   -563.0,
+   531.0
+  ],
+  "zone": "wet bay (X<-501.5)",
+  "nearest_host_mm": 39.13,
+  "nearest_host": "C10_A_L_GLAND_MEMBRANE"
+ },
+ {
+  "core": "A_UPPER",
+  "feature": "W1_DRAIN_BOSS",
+  "bbox": [
+   603.0,
+   -797.6,
+   1006.4,
+   613.0,
+   -785.6,
+   1018.4
+  ],
+  "zone": "air enclosure",
+  "nearest_host_mm": 19.92,
+  "nearest_host": "M302_OUTER_PANEL_A_U_O"
+ },
+ {
+  "core": "A_UPPER",
+  "feature": "W1_DRAIN_CLOSURE_PROXY",
+  "bbox": [
+   613.0,
+   -797.6,
+   1006.4,
+   618.0,
+   -785.6,
+   1018.4
+  ],
+  "zone": "air enclosure",
+  "nearest_host_mm": 19.92,
+  "nearest_host": "M302_OUTER_PANEL_A_U_O"
+ },
+ {
+  "core": "A_UPPER",
+  "feature": "W2_DRAIN_BOSS",
+  "bbox": [
+   603.0,
+   -797.6,
+   1116.3,
+   613.0,
+   -785.6,
+   1128.3
+  ],
+  "zone": "air enclosure",
+  "nearest_host_mm": 19.92,
+  "nearest_host": "M302_OUTER_PANEL_A_U_O"
+ },
+ {
+  "core": "A_UPPER",
+  "feature": "W2_DRAIN_CLOSURE_PROXY",
+  "bbox": [
+   613.0,
+   -797.6,
+   1116.3,
+   618.0,
+   -785.6,
+   1128.3
+  ],
+  "zone": "air enclosure",
+  "nearest_host_mm": 19.92,
+  "nearest_host": "M302_OUTER_PANEL_A_U_O"
+ },
+ {
+  "core": "A_UPPER",
+  "feature": "C05_SHORT_DRAIN_SPIGOT",
+  "bbox": [
+   619.0,
+   -681.5,
+   1054.0,
+   635.0,
+   -659.5,
+   1076.0
+  ],
+  "zone": "air enclosure",
+  "nearest_host_mm": ">80",
+  "nearest_host": null
+ },
+ {
+  "core": "A_UPPER",
+  "feature": "W1_VENT_CAP",
+  "bbox": [
+   -463.0,
+   -798.6,
+   1041.3,
+   -449.0,
+   -784.6,
+   1046.3
+  ],
+  "zone": "air enclosure",
+  "nearest_host_mm": 18.92,
+  "nearest_host": "M302_OUTER_PANEL_A_U_O"
+ },
+ {
+  "core": "A_UPPER",
+  "feature": "W1_DRAIN_CAP",
+  "bbox": [
+   -705.0,
+   -727.0,
+   861.0,
+   -691.0,
+   -713.0,
+   866.0
+  ],
+  "zone": "wet bay (X<-501.5)",
+  "nearest_host_mm": 38.62,
+  "nearest_host": "C10_A_U_GLAND_MEMBRANE"
+ },
+ {
+  "core": "A_UPPER",
+  "feature": "W2_VENT_CAP",
+  "bbox": [
+   -463.0,
+   -798.6,
+   1151.3,
+   -449.0,
+   -784.6,
+   1156.3
+  ],
+  "zone": "air enclosure",
+  "nearest_host_mm": 17.07,
+  "nearest_host": "AIR_SIDE_OUT_A_O"
+ },
+ {
+  "core": "A_UPPER",
+  "feature": "W2_DRAIN_CAP",
+  "bbox": [
+   -705.0,
+   -577.0,
+   861.0,
+   -691.0,
+   -563.0,
+   866.0
+  ],
+  "zone": "wet bay (X<-501.5)",
+  "nearest_host_mm": 39.13,
+  "nearest_host": "C10_A_U_GLAND_MEMBRANE"
+ },
+ {
+  "core": "B_LOWER",
+  "feature": "W1_DRAIN_BOSS",
+  "bbox": [
+   603.0,
+   67.4,
+   671.4,
+   613.0,
+   79.4,
+   683.4
+  ],
+  "zone": "air enclosure",
+  "nearest_host_mm": 18.42,
+  "nearest_host": "M302_INNER_PANEL_B_L_0_O"
+ },
+ {
+  "core": "B_LOWER",
+  "feature": "W1_DRAIN_CLOSURE_PROXY",
+  "bbox": [
+   613.0,
+   67.4,
+   671.4,
+   618.0,
+   79.4,
+   683.4
+  ],
+  "zone": "air enclosure",
+  "nearest_host_mm": 18.42,
+  "nearest_host": "M302_INNER_PANEL_B_L_0_O"
+ },
+ {
+  "core": "B_LOWER",
+  "feature": "W2_DRAIN_BOSS",
+  "bbox": [
+   603.0,
+   67.4,
+   781.4,
+   613.0,
+   79.4,
+   793.4
+  ],
+  "zone": "air enclosure",
+  "nearest_host_mm": 18.42,
+  "nearest_host": "M302_INNER_PANEL_B_L_1_O"
+ },
+ {
+  "core": "B_LOWER",
+  "feature": "W2_DRAIN_CLOSURE_PROXY",
+  "bbox": [
+   613.0,
+   67.4,
+   781.4,
+   618.0,
+   79.4,
+   793.4
+  ],
+  "zone": "air enclosure",
+  "nearest_host_mm": 18.42,
+  "nearest_host": "M302_INNER_PANEL_B_L_1_O"
+ },
+ {
+  "core": "B_LOWER",
+  "feature": "C05_SHORT_DRAIN_SPIGOT",
+  "bbox": [
+   619.0,
+   183.5,
+   719.0,
+   635.0,
+   205.5,
+   741.0
+  ],
+  "zone": "air enclosure",
+  "nearest_host_mm": ">80",
+  "nearest_host": null
+ },
+ {
+  "core": "B_LOWER",
+  "feature": "W1_VENT_CAP",
+  "bbox": [
+   -463.0,
+   66.4,
+   706.4,
+   -449.0,
+   80.4,
+   711.4
+  ],
+  "zone": "air enclosure",
+  "nearest_host_mm": 17.42,
+  "nearest_host": "M302_INNER_PANEL_B_L_0_O"
+ },
+ {
+  "core": "B_LOWER",
+  "feature": "W1_DRAIN_CAP",
+  "bbox": [
+   -705.0,
+   138.0,
+   526.0,
+   -691.0,
+   152.0,
+   531.0
+  ],
+  "zone": "wet bay (X<-501.5)",
+  "nearest_host_mm": 38.62,
+  "nearest_host": "C10_B_L_GLAND_MEMBRANE"
+ },
+ {
+  "core": "B_LOWER",
+  "feature": "W2_VENT_CAP",
+  "bbox": [
+   -463.0,
+   66.4,
+   816.4,
+   -449.0,
+   80.4,
+   821.4
+  ],
+  "zone": "air enclosure",
+  "nearest_host_mm": 17.42,
+  "nearest_host": "M302_INNER_PANEL_B_L_1_O"
+ },
+ {
+  "core": "B_LOWER",
+  "feature": "W2_DRAIN_CAP",
+  "bbox": [
+   -705.0,
+   288.0,
+   526.0,
+   -691.0,
+   302.0,
+   531.0
+  ],
+  "zone": "wet bay (X<-501.5)",
+  "nearest_host_mm": 39.13,
+  "nearest_host": "C10_B_L_GLAND_MEMBRANE"
+ },
+ {
+  "core": "B_UPPER",
+  "feature": "W1_DRAIN_BOSS",
+  "bbox": [
+   603.0,
+   67.4,
+   1006.4,
+   613.0,
+   79.4,
+   1018.4
+  ],
+  "zone": "air enclosure",
+  "nearest_host_mm": 18.42,
+  "nearest_host": "M302_INNER_PANEL_B_U_0_O"
+ },
+ {
+  "core": "B_UPPER",
+  "feature": "W1_DRAIN_CLOSURE_PROXY",
+  "bbox": [
+   613.0,
+   67.4,
+   1006.4,
+   618.0,
+   79.4,
+   1018.4
+  ],
+  "zone": "air enclosure",
+  "nearest_host_mm": 18.42,
+  "nearest_host": "M302_INNER_PANEL_B_U_0_O"
+ },
+ {
+  "core": "B_UPPER",
+  "feature": "W2_DRAIN_BOSS",
+  "bbox": [
+   603.0,
+   67.4,
+   1116.3,
+   613.0,
+   79.4,
+   1128.3
+  ],
+  "zone": "air enclosure",
+  "nearest_host_mm": 18.42,
+  "nearest_host": "M302_INNER_PANEL_B_U_1_O"
+ },
+ {
+  "core": "B_UPPER",
+  "feature": "W2_DRAIN_CLOSURE_PROXY",
+  "bbox": [
+   613.0,
+   67.4,
+   1116.3,
+   618.0,
+   79.4,
+   1128.3
+  ],
+  "zone": "air enclosure",
+  "nearest_host_mm": 18.42,
+  "nearest_host": "M302_INNER_PANEL_B_U_1_O"
+ },
+ {
+  "core": "B_UPPER",
+  "feature": "C05_SHORT_DRAIN_SPIGOT",
+  "bbox": [
+   619.0,
+   183.5,
+   1054.0,
+   635.0,
+   205.5,
+   1076.0
+  ],
+  "zone": "air enclosure",
+  "nearest_host_mm": ">80",
+  "nearest_host": null
+ },
+ {
+  "core": "B_UPPER",
+  "feature": "W1_VENT_CAP",
+  "bbox": [
+   -463.0,
+   66.4,
+   1041.3,
+   -449.0,
+   80.4,
+   1046.3
+  ],
+  "zone": "air enclosure",
+  "nearest_host_mm": 17.42,
+  "nearest_host": "M302_INNER_PANEL_B_U_0_O"
+ },
+ {
+  "core": "B_UPPER",
+  "feature": "W1_DRAIN_CAP",
+  "bbox": [
+   -705.0,
+   138.0,
+   861.0,
+   -691.0,
+   152.0,
+   866.0
+  ],
+  "zone": "wet bay (X<-501.5)",
+  "nearest_host_mm": 38.62,
+  "nearest_host": "C10_B_U_GLAND_MEMBRANE"
+ },
+ {
+  "core": "B_UPPER",
+  "feature": "W2_VENT_CAP",
+  "bbox": [
+   -463.0,
+   66.4,
+   1151.3,
+   -449.0,
+   80.4,
+   1156.3
+  ],
+  "zone": "air enclosure",
+  "nearest_host_mm": 17.42,
+  "nearest_host": "M302_INNER_PANEL_B_U_1_O"
+ },
+ {
+  "core": "B_UPPER",
+  "feature": "W2_DRAIN_CAP",
+  "bbox": [
+   -705.0,
+   288.0,
+   861.0,
+   -691.0,
+   302.0,
+   866.0
+  ],
+  "zone": "wet bay (X<-501.5)",
+  "nearest_host_mm": 39.13,
+  "nearest_host": "C10_B_U_GLAND_MEMBRANE"
+ }
+]

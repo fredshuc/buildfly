@@ -1,0 +1,166 @@
+{
+ "file": "C10_INSTALLED_S1.step",
+ "inventory": {
+  "SHELL": 560,
+  "DAMPERS": 244,
+  "HEAT_EXCHANGERS": 2204,
+  "WATER_RACK": 36,
+  "FIRST_SPOOLS": 72
+ },
+ "threshold_mm3": 0.001,
+ "DAMPERS_x_FIRST_SPOOLS": {
+  "candidate_pairs": 0,
+  "overlaps": []
+ },
+ "DAMPERS_x_HEAT_EXCHANGERS": {
+  "candidate_pairs": 18,
+  "overlaps": []
+ },
+ "DAMPERS_x_SHELL": {
+  "candidate_pairs": 321,
+  "overlaps": []
+ },
+ "DAMPERS_x_WATER_RACK": {
+  "candidate_pairs": 0,
+  "overlaps": []
+ },
+ "FIRST_SPOOLS_x_HEAT_EXCHANGERS": {
+  "candidate_pairs": 8,
+  "overlaps": []
+ },
+ "FIRST_SPOOLS_x_SHELL": {
+  "candidate_pairs": 0,
+  "overlaps": []
+ },
+ "FIRST_SPOOLS_x_WATER_RACK": {
+  "candidate_pairs": 26,
+  "overlaps": []
+ },
+ "HEAT_EXCHANGERS_x_SHELL": {
+  "candidate_pairs": 198,
+  "overlaps": []
+ },
+ "HEAT_EXCHANGERS_x_WATER_RACK": {
+  "candidate_pairs": 0,
+  "overlaps": []
+ },
+ "SHELL_x_WATER_RACK": {
+  "candidate_pairs": 0,
+  "overlaps": []
+ },
+ "DAMPERS_x_DAMPERS": {
+  "candidate_pairs": 657,
+  "overlaps": [
+   [
+    "C10_INSTALLED_S1/DAMPERS/D04_S1/DAMPER_ROOT_END_SEAL_A_LOWER_IN_O",
+    "C10_INSTALLED_S1/DAMPERS/D04_S1/DAMPER_SHAFT_A_LOWER_0_O",
+    1285.1077
+   ],
+   [
+    "C10_INSTALLED_S1/DAMPERS/D04_S1/DAMPER_ROOT_END_SEAL_A_LOWER_OUT_O",
+    "C10_INSTALLED_S1/DAMPERS/D04_S1/DAMPER_SHAFT_A_LOWER_0_O",
+    1308.4733
+   ],
+   [
+    "C10_INSTALLED_S1/DAMPERS/D04_S1/DAMPER_ROOT_END_SEAL_A_UPPER_IN_O",
+    "C10_INSTALLED_S1/DAMPERS/D04_S1/DAMPER_SHAFT_A_UPPER_0_O",
+    1635.5917
+   ],
+   [
+    "C10_INSTALLED_S1/DAMPERS/D04_S1/DAMPER_ROOT_END_SEAL_A_UPPER_OUT_O",
+    "C10_INSTALLED_S1/DAMPERS/D04_S1/DAMPER_SHAFT_A_UPPER_0_O",
+    1308.4733
+   ],
+   [
+    "C10_INSTALLED_S1/DAMPERS/D04_S1/DAMPER_ROOT_END_SEAL_B_LOWER_IN_O",
+    "C10_INSTALLED_S1/DAMPERS/D04_S1/DAMPER_SHAFT_B_LOWER_0_O",
+    934.6238
+   ],
+   [
+    "C10_INSTALLED_S1/DAMPERS/D04_S1/DAMPER_ROOT_END_SEAL_B_LOWER_OUT_O",
+    "C10_INSTALLED_S1/DAMPERS/D04_S1/DAMPER_SHAFT_B_LOWER_0_O",
+    1577.1777
+   ],
+   [
+    "C10_INSTALLED_S1/DAMPERS/D04_S1/DAMPER_ROOT_END_SEAL_B_UPPER_IN_O",
+    "C10_INSTALLED_S1/DAMPERS/D04_S1/DAMPER_SHAFT_B_UPPER_0_O",
+    1635.5917
+   ],
+   [
+    "C10_INSTALLED_S1/DAMPERS/D04_S1/DAMPER_ROOT_END_SEAL_B_UPPER_OUT_O",
+    "C10_INSTALLED_S1/DAMPERS/D04_S1/DAMPER_SHAFT_B_UPPER_0_O",
+    1577.1777
+   ],
+   [
+    "C10_INSTALLED_S1/DAMPERS/D04_S1/DAMPER_ROOT_LIP_A_LOWER_O",
+    "C10_INSTALLED_S1/DAMPERS/D04_S1/DAMPER_ROOT_SLEEVE_A_LOWER_0_O",
+    12894.1504
+   ],
+   [
+    "C10_INSTALLED_S1/DAMPERS/D04_S1/DAMPER_ROOT_LIP_A_UPPER_O",
+    "C10_INSTALLED_S1/DAMPERS/D04_S1/DAMPER_ROOT_SLEEVE_A_UPPER_0_O",
+    12894.6514
+   ],
+   [
+    "C10_INSTALLED_S1/DAMPERS/D04_S1/DAMPER_ROOT_LIP_B_LOWER_O",
+    "C10_INSTALLED_S1/DAMPERS/D04_S1/DAMPER_ROOT_SLEEVE_B_LOWER_0_O",
+    12894.1615
+   ],
+   [
+    "C10_INSTALLED_S1/DAMPERS/D04_S1/DAMPER_ROOT_LIP_B_UPPER_O",
+    "C10_INSTALLED_S1/DAMPERS/D04_S1/DAMPER_ROOT_SLEEVE_B_UPPER_0_O",
+    12893.8656
+   ]
+  ]
+ },
+ "WATER_RACK_x_WATER_RACK": {
+  "candidate_pairs": 58,
+  "overlaps": []
+ },
+ "FIRST_SPOOLS_x_FIRST_SPOOLS": {
+  "candidate_pairs": 120,
+  "overlaps": []
+ },
+ "group_bbox": {
+  "SHELL": [
+   -700.0,
+   -850.0,
+   34.0,
+   1200.0,
+   850.0,
+   1533.8
+  ],
+  "DAMPERS": [
+   -555.0,
+   -1014.0,
+   219.0,
+   693.0,
+   1014.0,
+   1484.0
+  ],
+  "HEAT_EXCHANGERS": [
+   -787.5,
+   -809.08,
+   526.0,
+   644.0,
+   800.27,
+   1175.0
+  ],
+  "WATER_RACK": [
+   -1618.5,
+   -1145.0,
+   543.15,
+   -790.19,
+   631.85,
+   1013.0
+  ],
+  "FIRST_SPOOLS": [
+   -865.0,
+   -754.0,
+   526.0,
+   -787.5,
+   329.0,
+   929.0
+  ]
+ }
+}

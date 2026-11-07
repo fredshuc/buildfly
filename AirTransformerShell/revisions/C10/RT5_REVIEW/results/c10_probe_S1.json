@@ -1,0 +1,230 @@
+{
+ "DAMPER_SEAT_A_UPPER_DEEP_O->HX_A_UPPER": {
+  "min_mm": 3.0,
+  "detail": [
+   "DAMPER_SEAT_A_UPPER_DEEP_O",
+   "H01_SINGLE_CORE/W2_D35_END_PIPE",
+   [
+    -506.5,
+    -774.059,
+    1133.0
+   ],
+   [
+    -506.5,
+    -776.622,
+    1131.441
+   ]
+  ]
+ },
+ "DAMPER_STATIC_GASKET_A_UPPER_O->HX_A_UPPER": {
+  "min_mm": 3.0,
+  "detail": [
+   "DAMPER_STATIC_GASKET_A_UPPER_O",
+   "H01_SINGLE_CORE/W2_D35_END_PIPE",
+   [
+    -504.5,
+    -774.059,
+    1133.0
+   ],
+   [
+    -504.5,
+    -776.622,
+    1131.441
+   ]
+  ]
+ },
+ "D04_A_local(7)->HX_A_UPPER": {
+  "min_mm": 0.0,
+  "detail": [
+   "D04_A_WET_BOOT",
+   "H01_SINGLE_CORE/W2_D35_END_PIPE",
+   [
+    -501.5,
+    -791.575,
+    1139.85
+   ],
+   [
+    -501.5,
+    -791.575,
+    1139.85
+   ]
+  ]
+ },
+ "DAMPER_SEAT_B_UPPER_DEEP_O->HX_B_UPPER": {
+  "min_mm": 3.0,
+  "detail": [
+   "DAMPER_SEAT_B_UPPER_DEEP_O",
+   "H01_SINGLE_CORE/W2_D35_END_PIPE",
+   [
+    -506.5,
+    90.941,
+    1133.0
+   ],
+   [
+    -506.5,
+    88.378,
+    1131.441
+   ]
+  ]
+ },
+ "DAMPER_STATIC_GASKET_B_UPPER_O->HX_B_UPPER": {
+  "min_mm": 3.0,
+  "detail": [
+   "DAMPER_STATIC_GASKET_B_UPPER_O",
+   "H01_SINGLE_CORE/W2_D35_END_PIPE",
+   [
+    -504.5,
+    90.941,
+    1133.0
+   ],
+   [
+    -504.5,
+    88.378,
+    1131.441
+   ]
+  ]
+ },
+ "D04_B_local(8)->HX_B_UPPER": {
+  "min_mm": 0.0,
+  "detail": [
+   "D04_B_WET_BOOT",
+   "H01_SINGLE_CORE/W2_D35_END_PIPE",
+   [
+    -501.5,
+    73.425,
+    1139.85
+   ],
+   [
+    -501.5,
+    73.425,
+    1139.85
+   ]
+  ]
+ },
+ "insulation->F_POST_-600_-825_O": {
+  "min_mm": 2.0,
+  "detail": [
+   "A_W2_25mm_CROWN_ONLY",
+   "C10_SHELL/F_POST_-600_-825_O",
+   [
+    -558.0,
+    -813.472,
+    1141.5
+   ],
+   [
+    -560.0,
+    -813.472,
+    1141.5
+   ]
+  ]
+ },
+ "insulation->C09_A_POST_SISTER_RHS_22x60x3": {
+  "min_mm": ">60.0",
+  "detail": null
+ },
+ "insulation->C09_A_POST_UPPER_FRONT_WEB": {
+  "min_mm": ">60.0",
+  "detail": null
+ },
+ "insulation->C09_A_POST_UPPER_REAR_WEB": {
+  "min_mm": ">60.0",
+  "detail": null
+ },
+ "insulation->C10_A_W2_POCKET_ROOF": {
+  "min_mm": 10.0222,
+  "detail": [
+   "A_W2_25mm_CROWN_ONLY",
+   "C10_SHELL/C10_A_W2_POCKET_ROOF",
+   [
+    -510.0,
+    -771.285,
+    1159.694
+   ],
+   [
+    -510.0,
+    -766.5,
+    1168.5
+   ]
+  ]
+ },
+ "insulation->C10_B_W2_POCKET_ROOF": {
+  "min_mm": 3.65,
+  "detail": [
+   "B_W2_25mm_CROWN_ONLY",
+   "C10_SHELL/C10_B_W2_POCKET_ROOF",
+   [
+    -510.0,
+    73.425,
+    1164.85
+   ],
+   [
+    -510.0,
+    73.425,
+    1168.5
+   ]
+  ]
+ },
+ "insulation->AIR_PROCESS_IN_FLOOR_A_O": {
+  "min_mm": 7.1772,
+  "detail": [
+   "A_W2_25mm_CROWN_ONLY",
+   "C10_SHELL/AIR_PROCESS_IN_FLOOR_A_O",
+   [
+    -545.391,
+    -750.893,
+    1141.5
+   ],
+   [
+    -545.391,
+    -744.0,
+    1143.5
+   ]
+  ]
+ },
+ "insulation->AIR_PROCESS_IN_FLOOR_B_O": {
+  "min_mm": 6.2231,
+  "detail": [
+   "B_W2_25mm_CROWN_ONLY",
+   "C10_SHELL/AIR_PROCESS_IN_FLOOR_B_O",
+   [
+    -545.391,
+    114.107,
+    1141.5
+   ],
+   [
+    -545.391,
+    120.0,
+    1143.5
+   ]
+  ]
+ },
+ "insulation->DAMPERS": {
+  "min_mm": 0.5,
+  "detail": [
+   "A_W2_25mm_CROWN_ONLY",
+   "D04_S1/DAMPER_SEAT_A_UPPER_DEEP_O",
+   [
+    -507.0,
+    -753.634,
+    1141.5
+   ],
+   [
+    -506.5,
+    -753.634,
+    1141.5
+   ]
+  ]
+ },
+ "first_spools->SHELL": {
+  "min_mm": ">30.0",
+  "detail": null
+ },
+ "water_rack->SHELL": {
+  "min_mm": ">60.0",
+  "detail": null
+ },
+ "water_rack->HX": {
+  "min_mm": ">60.0",
+  "detail": null
+ }
+}

@@ -1,0 +1,10 @@
+{
+ "procedure": "fresh extraction of C10_REVIEW_PACKAGE.zip (sha ec2bdaca...) into an empty root; python source/prepare.py, build.py, verify.py S1, verify.py S2, measure_detail.py, verify_service.py; Python 3.13 / CadQuery 2.8 / OCP 7.9",
+ "return_codes": {"prepare": 0, "build": 0, "verify_S1": 0, "verify_S2": 0, "measure_detail": 0, "verify_service": 0},
+ "wall_time": "04:39:34 -> 04:43:53",
+ "verify_pass": {"S1": true, "S2": true},
+ "evidence_identical_excluding_hashes_and_timing": ["verify_S1.json", "verify_S2.json", "detail_measurements.json", "shell_changes.json", "service_overlay_readback.json", "build.json"],
+ "step_byte_hashes": "differ (STEP header timestamp)",
+ "geometry_signature_identical": {"C10_SHELL.step": 560, "C10_CHANGED_SHEET_AND_GLANDS.step": 75, "C10_INSTALLED_S1.step": 3116},
+ "signature_definition": "multiset of (leaf name, volume rounded 1 mm3, bbox rounded 0.1 mm)"
+}
