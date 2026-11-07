@@ -1,0 +1,17 @@
+tag,layer,cut_from_x,y_mm,z_mm,diameter_mm,status
+A_L_W1,INNER,-502,-791.575,677.35,45,proposal; shell owner to detail split gland
+A_L_W1,SKIN,-651,-696.654896442182,560.0000000179853,120,proposal; shell owner to detail split gland
+A_L_W2,INNER,-502,-791.575,787.35,45,proposal; shell owner to detail split gland
+A_L_W2,SKIN,-651,-570.0,560.0,94,proposal; shell owner to detail split gland
+A_U_W1,INNER,-502,-791.575,1012.35,45,proposal; shell owner to detail split gland
+A_U_W1,SKIN,-651,-696.654896442182,895.0000000179857,120,proposal; shell owner to detail split gland
+A_U_W2,INNER,-502,-791.575,1122.35,45,proposal; shell owner to detail split gland
+A_U_W2,SKIN,-651,-570.0,895.0,94,proposal; shell owner to detail split gland
+B_L_W1,INNER,-502,73.42500000000007,677.35,45,proposal; shell owner to detail split gland
+B_L_W1,SKIN,-651,168.34510355781285,560.0000000179856,120,proposal; shell owner to detail split gland
+B_L_W2,INNER,-502,73.42500000000007,787.35,45,proposal; shell owner to detail split gland
+B_L_W2,SKIN,-651,295.0,560.0,94,proposal; shell owner to detail split gland
+B_U_W1,INNER,-502,73.42500000000007,1012.35,45,proposal; shell owner to detail split gland
+B_U_W1,SKIN,-651,168.34510355781282,895.0000000179857,120,proposal; shell owner to detail split gland
+B_U_W2,INNER,-502,73.42500000000007,1122.35,45,proposal; shell owner to detail split gland
+B_U_W2,SKIN,-651,295.0,895.0,94,proposal; shell owner to detail split gland

@@ -1,0 +1,130 @@
+{
+  "shell_sha256": "bc7b82ca5a851cf371baa1f6a4760e7a52b8f0d221b1d975f098e56fd74ff1b3",
+  "roof_gauge": [
+    {
+      "bed": "A",
+      "x_mm": 84.5,
+      "normal_mm": 1.4999999993951216
+    },
+    {
+      "bed": "A",
+      "x_mm": 460.1945,
+      "normal_mm": 1.499999999924499
+    },
+    {
+      "bed": "A",
+      "x_mm": 570.1945000000001,
+      "normal_mm": 1.499999999204082
+    },
+    {
+      "bed": "A",
+      "x_mm": 692.0,
+      "normal_mm": 1.4999999996896696
+    },
+    {
+      "bed": "A",
+      "x_mm": 746.45,
+      "normal_mm": 1.5000000003458378
+    },
+    {
+      "bed": "B",
+      "x_mm": 84.5,
+      "normal_mm": 1.4999999993951216
+    },
+    {
+      "bed": "B",
+      "x_mm": 460.1945,
+      "normal_mm": 1.499999999924499
+    },
+    {
+      "bed": "B",
+      "x_mm": 570.1945000000001,
+      "normal_mm": 1.499999999204082
+    },
+    {
+      "bed": "B",
+      "x_mm": 692.0,
+      "normal_mm": 1.4999999996896696
+    },
+    {
+      "bed": "B",
+      "x_mm": 746.45,
+      "normal_mm": 1.5000000003458378
+    }
+  ],
+  "pocket_seams": [
+    {
+      "part": "C10_A_W2_POCKET_ROOF",
+      "seat_min_distance_mm": 0.0,
+      "seat_contact_area_mm2": 33.75
+    },
+    {
+      "part": "C10_A_W2_POCKET_INBOARD_RETURN",
+      "seat_min_distance_mm": 0.0,
+      "seat_contact_area_mm2": 37.5
+    },
+    {
+      "part": "C10_A_W2_POCKET_REAR_RETURN",
+      "seat_min_distance_mm": 76.0,
+      "seat_contact_area_mm2": 0
+    },
+    {
+      "part": "C10_B_W2_POCKET_ROOF",
+      "seat_min_distance_mm": 0.0,
+      "seat_contact_area_mm2": 77.25
+    },
+    {
+      "part": "C10_B_W2_POCKET_INBOARD_RETURN",
+      "seat_min_distance_mm": 0.0,
+      "seat_contact_area_mm2": 37.5
+    },
+    {
+      "part": "C10_B_W2_POCKET_REAR_RETURN",
+      "seat_min_distance_mm": 76.0,
+      "seat_contact_area_mm2": 0
+    }
+  ],
+  "gland_retainers": [
+    {
+      "part": "C10_A_L_GLAND_RETAINER_LOW",
+      "release_dX_mm": -12,
+      "shell_hits": []
+    },
+    {
+      "part": "C10_A_L_GLAND_RETAINER_HIGH",
+      "release_dX_mm": -12,
+      "shell_hits": []
+    },
+    {
+      "part": "C10_A_U_GLAND_RETAINER_LOW",
+      "release_dX_mm": -12,
+      "shell_hits": []
+    },
+    {
+      "part": "C10_A_U_GLAND_RETAINER_HIGH",
+      "release_dX_mm": -12,
+      "shell_hits": []
+    },
+    {
+      "part": "C10_B_L_GLAND_RETAINER_LOW",
+      "release_dX_mm": -12,
+      "shell_hits": []
+    },
+    {
+      "part": "C10_B_L_GLAND_RETAINER_HIGH",
+      "release_dX_mm": -12,
+      "shell_hits": []
+    },
+    {
+      "part": "C10_B_U_GLAND_RETAINER_LOW",
+      "release_dX_mm": -12,
+      "shell_hits": []
+    },
+    {
+      "part": "C10_B_U_GLAND_RETAINER_HIGH",
+      "release_dX_mm": -12,
+      "shell_hits": []
+    }
+  ],
+  "pass": true
+}

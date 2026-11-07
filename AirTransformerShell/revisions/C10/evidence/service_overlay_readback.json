@@ -1,0 +1,31 @@
+{
+  "sha256": "97dd2ad94f20ae9d1464b4f8c0fd4c14c8693baa793a8903805f9da88d32d1c6",
+  "groups": {
+    "HYD_S2_AND_H01_SERVICE": {
+      "expected_occurrences": 226,
+      "exported_occurrences": 226,
+      "same_named_world_bounds": true
+    },
+    "HYD_OUTBOARD": {
+      "expected_occurrences": 4,
+      "exported_occurrences": 4,
+      "same_named_world_bounds": true
+    },
+    "D04_SERVICE": {
+      "expected_occurrences": 14,
+      "exported_occurrences": 14,
+      "same_named_world_bounds": true
+    },
+    "D03_MOTION_SERVICE": {
+      "expected_occurrences": 82,
+      "exported_occurrences": 82,
+      "same_named_world_bounds": true
+    },
+    "W2_CROWN": {
+      "expected_occurrences": 2,
+      "exported_occurrences": 2,
+      "same_named_world_bounds": true
+    }
+  },
+  "pass": true
+}

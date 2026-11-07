@@ -1,0 +1,25 @@
+panel,y_mm,z_mm,hole_diameter_mm,stud
+A_L,-762.654896442182,494.00000001798526,4.5,M4 weld stud envelope; 9 mm projection
+A_L,-762.654896442182,626.0000000179853,4.5,M4 weld stud envelope; 9 mm projection
+A_L,-639.827448221091,494.00000001798526,4.5,M4 weld stud envelope; 9 mm projection
+A_L,-639.827448221091,626.0000000179853,4.5,M4 weld stud envelope; 9 mm projection
+A_L,-517.0,494.00000001798526,4.5,M4 weld stud envelope; 9 mm projection
+A_L,-517.0,626.0000000179853,4.5,M4 weld stud envelope; 9 mm projection
+A_U,-762.654896442182,829.0000000179857,4.5,M4 weld stud envelope; 9 mm projection
+A_U,-762.654896442182,961.0000000179857,4.5,M4 weld stud envelope; 9 mm projection
+A_U,-639.827448221091,829.0000000179857,4.5,M4 weld stud envelope; 9 mm projection
+A_U,-639.827448221091,961.0000000179857,4.5,M4 weld stud envelope; 9 mm projection
+A_U,-517.0,829.0000000179857,4.5,M4 weld stud envelope; 9 mm projection
+A_U,-517.0,961.0000000179857,4.5,M4 weld stud envelope; 9 mm projection
+B_L,102.34510355781285,494.0000000179856,4.5,M4 weld stud envelope; 9 mm projection
+B_L,102.34510355781285,626.0000000179856,4.5,M4 weld stud envelope; 9 mm projection
+B_L,225.17255177890644,494.0000000179856,4.5,M4 weld stud envelope; 9 mm projection
+B_L,225.17255177890644,626.0000000179856,4.5,M4 weld stud envelope; 9 mm projection
+B_L,348.0,494.0000000179856,4.5,M4 weld stud envelope; 9 mm projection
+B_L,348.0,626.0000000179856,4.5,M4 weld stud envelope; 9 mm projection
+B_U,102.34510355781282,829.0000000179857,4.5,M4 weld stud envelope; 9 mm projection
+B_U,102.34510355781282,961.0000000179857,4.5,M4 weld stud envelope; 9 mm projection
+B_U,225.1725517789064,829.0000000179857,4.5,M4 weld stud envelope; 9 mm projection
+B_U,225.1725517789064,961.0000000179857,4.5,M4 weld stud envelope; 9 mm projection
+B_U,348.0,829.0000000179857,4.5,M4 weld stud envelope; 9 mm projection
+B_U,348.0,961.0000000179857,4.5,M4 weld stud envelope; 9 mm projection

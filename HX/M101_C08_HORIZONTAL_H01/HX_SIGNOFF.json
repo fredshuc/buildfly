@@ -1,0 +1,17 @@
+{
+  "revision": "HX-C08-H01",
+  "issuer_role": "L2-HX",
+  "date": "2026-11-06",
+  "scope": "conditional four-core series interface for prototype integration",
+  "controlled_table_sha256": "85892e5080ccec960e36efda13e18a179a7c43139bc6b5c5f4e938ae50b43174",
+  "core_definition_sha256": "6e68c079395bd31c93027bcdd711e98aad296187e795cb523bfcba74a4f73b7e",
+  "cold": "CS/L.W1/L.W2/FS/Q/U.W1/U.W2/CR",
+  "hot": "HS/U.W2/U.W1/Q(reverse)/FS/L.W2/L.W1/HR",
+  "conditions": [
+    "8 P0 straight runs shortened by 130 mm; downstream owner acceptance",
+    "planned inner/outer penetrations and R1 upper seat relief",
+    "qualify joint retention/pressure, wrench engagement, thermal insulation, venting and draining",
+    "four FS/Q proxy intersections remain with L2-E"
+  ],
+  "live_water": "HOLD"
+}
