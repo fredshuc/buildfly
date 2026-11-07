@@ -1,0 +1,577 @@
+{
+  "state": "S2",
+  "sha256": "5e547cd158b5c6d3692a940d672a6aa8a1ae074655237abf4ff09e1fbfe0ecff",
+  "counts": {
+    "SHELL": 560,
+    "DAMPERS": 244,
+    "HEAT_EXCHANGERS": 2204,
+    "WATER_RACK": 36,
+    "FIRST_SPOOLS": 72
+  },
+  "threshold_mm3": 0.001,
+  "checks": {
+    "SHELL_x_DAMPERS": {
+      "candidate_pairs": 323,
+      "hits": []
+    },
+    "SHELL_x_HEAT_EXCHANGERS": {
+      "candidate_pairs": 214,
+      "hits": []
+    },
+    "DAMPERS_x_HEAT_EXCHANGERS": {
+      "candidate_pairs": 18,
+      "hits": []
+    },
+    "WATER_RACK_x_SHELL": {
+      "candidate_pairs": 0,
+      "hits": []
+    },
+    "WATER_RACK_x_DAMPERS": {
+      "candidate_pairs": 0,
+      "hits": []
+    },
+    "WATER_RACK_x_HEAT_EXCHANGERS": {
+      "candidate_pairs": 0,
+      "hits": []
+    },
+    "FIRST_SPOOLS_x_SHELL": {
+      "candidate_pairs": 0,
+      "hits": []
+    },
+    "FIRST_SPOOLS_x_DAMPERS": {
+      "candidate_pairs": 0,
+      "hits": []
+    },
+    "FIRST_SPOOLS_x_HEAT_EXCHANGERS": {
+      "candidate_pairs": 8,
+      "hits": []
+    },
+    "FIRST_SPOOLS_x_WATER_RACK": {
+      "candidate_pairs": 26,
+      "hits": []
+    },
+    "changed_shell_increased_overlap": {
+      "candidate_pairs": 417,
+      "hits": []
+    },
+    "shell_changes_x_D03_motion_service": {
+      "candidate_pairs": 18,
+      "hits": []
+    },
+    "shell_changes_x_D04_local_service": {
+      "candidate_pairs": 0,
+      "hits": []
+    },
+    "shell_changes_x_H01_service": {
+      "candidate_pairs": 54,
+      "hits": []
+    },
+    "shell_changes_x_HYD_S2_service": {
+      "candidate_pairs": 54,
+      "hits": []
+    },
+    "shell_changes_x_HYD_outboard_service": {
+      "candidate_pairs": 0,
+      "hits": []
+    },
+    "shell_changes_x_thermal_request": {
+      "candidate_pairs": 10,
+      "hits": []
+    },
+    "shell_changes_x_thermal_material": {
+      "candidate_pairs": 10,
+      "hits": []
+    },
+    "D04_x_thermal_material": {
+      "candidate_pairs": 0,
+      "hits": []
+    }
+  },
+  "identity": {
+    "SHELL": {
+      "unchanged_occurrences": 485,
+      "max_volume_delta_mm3": 4.819594323635101e-08,
+      "max_bbox_delta_mm": 9.777068044058979e-12
+    },
+    "DAMPERS": {
+      "unchanged_occurrences": 244,
+      "max_volume_delta_mm3": 1.6007106751203537e-09,
+      "max_bbox_delta_mm": 3.979039320256561e-13
+    },
+    "H01": {
+      "occurrences": 2204,
+      "max_world_bbox_delta_mm": 0.0
+    },
+    "WATER_RACK": {
+      "max_world_bbox_delta_mm": 0.0
+    },
+    "FIRST_SPOOLS": {
+      "max_world_bbox_delta_mm": 0.0
+    }
+  },
+  "invalid_parts": [],
+  "validity_geometry_reuse": {
+    "unique_exact_topologies": 973,
+    "repeated_rigid_instances": 2143
+  },
+  "thermal_clearance_mm": [
+    3.650000000000091,
+    "C10_B_W2_POCKET_ROOF",
+    "W2_INSULATION_ADDITIONAL_CROWN/B_W2_25mm_CROWN_ONLY"
+  ],
+  "thermal_to_A_post_mm": [
+    2.0,
+    "F_POST_-600_-825_O",
+    "W2_INSULATION_ADDITIONAL_CROWN/A_W2_25mm_CROWN_ONLY"
+  ],
+  "upper_plenum_sections": [
+    {
+      "bed": "A",
+      "x_mm": -250,
+      "old_roof_lower_mm": 1329.73238535,
+      "new_roof_lower_mm": 1329.73238535,
+      "lift_mm": 0.0,
+      "above_fin_top_mm": 186.38238535000005
+    },
+    {
+      "bed": "A",
+      "x_mm": 0,
+      "old_roof_lower_mm": 1281.5756689320895,
+      "new_roof_lower_mm": 1304.0333057324294,
+      "lift_mm": 22.45763680033997,
+      "above_fin_top_mm": 160.68330573242952
+    },
+    {
+      "bed": "A",
+      "x_mm": 200,
+      "old_roof_lower_mm": 1243.0502957977612,
+      "new_roof_lower_mm": 1283.3916027718155,
+      "lift_mm": 40.341306974054305,
+      "above_fin_top_mm": 140.04160277181563
+    },
+    {
+      "bed": "A",
+      "x_mm": 420,
+      "old_roof_lower_mm": 1200.67238535,
+      "new_roof_lower_mm": 1260.6722615437343,
+      "lift_mm": 59.99987619373428,
+      "above_fin_top_mm": 117.32226154373438
+    },
+    {
+      "bed": "A",
+      "x_mm": 490,
+      "old_roof_lower_mm": 1185.412385350201,
+      "new_roof_lower_mm": 1245.4837414688855,
+      "lift_mm": 60.071356118684434,
+      "above_fin_top_mm": 102.13374146888555
+    },
+    {
+      "bed": "A",
+      "x_mm": 510,
+      "old_roof_lower_mm": 1183.1699760005345,
+      "new_roof_lower_mm": 1243.170080285775,
+      "lift_mm": 60.00010428524047,
+      "above_fin_top_mm": 99.82008028577502
+    },
+    {
+      "bed": "A",
+      "x_mm": 530,
+      "old_roof_lower_mm": 1183.0099760005346,
+      "new_roof_lower_mm": 1243.010064241194,
+      "lift_mm": 60.00008824065935,
+      "above_fin_top_mm": 99.66006424119405
+    },
+    {
+      "bed": "A",
+      "x_mm": 550,
+      "old_roof_lower_mm": 1182.8499760005348,
+      "new_roof_lower_mm": 1242.8500481966128,
+      "lift_mm": 60.00007219607801,
+      "above_fin_top_mm": 99.50004819661285
+    },
+    {
+      "bed": "A",
+      "x_mm": 570,
+      "old_roof_lower_mm": 1182.689976000535,
+      "new_roof_lower_mm": 1242.6900321520316,
+      "lift_mm": 60.000056151496665,
+      "above_fin_top_mm": 99.34003215203165
+    },
+    {
+      "bed": "A",
+      "x_mm": 590,
+      "old_roof_lower_mm": 1182.5299760005348,
+      "new_roof_lower_mm": 1242.5300161074504,
+      "lift_mm": 60.00004010691555,
+      "above_fin_top_mm": 99.18001610745046
+    },
+    {
+      "bed": "A",
+      "x_mm": 610,
+      "old_roof_lower_mm": 1182.369976000535,
+      "new_roof_lower_mm": 1242.3700000628692,
+      "lift_mm": 60.000024062334205,
+      "above_fin_top_mm": 99.02000006286926
+    },
+    {
+      "bed": "A",
+      "x_mm": 640,
+      "old_roof_lower_mm": 1182.129976001,
+      "new_roof_lower_mm": 1241.9432264220347,
+      "lift_mm": 59.81325042103481,
+      "above_fin_top_mm": 98.59322642203483
+    },
+    {
+      "bed": "A",
+      "x_mm": 680,
+      "old_roof_lower_mm": 1175.2715144625383,
+      "new_roof_lower_mm": 1212.0078418066435,
+      "lift_mm": 36.73632734410512,
+      "above_fin_top_mm": 68.65784180664355
+    },
+    {
+      "bed": "A",
+      "x_mm": 720,
+      "old_roof_lower_mm": 1168.413052924077,
+      "new_roof_lower_mm": 1182.0724571912522,
+      "lift_mm": 13.659404267175205,
+      "above_fin_top_mm": 38.72245719125226
+    },
+    {
+      "bed": "A",
+      "x_mm": 744,
+      "old_roof_lower_mm": 1164.297976001,
+      "new_roof_lower_mm": 1164.2979760004223,
+      "lift_mm": -5.777565093012527e-10,
+      "above_fin_top_mm": 20.947976000422386
+    },
+    {
+      "bed": "B",
+      "x_mm": -250,
+      "old_roof_lower_mm": 1329.73238535,
+      "new_roof_lower_mm": 1329.73238535,
+      "lift_mm": 0.0,
+      "above_fin_top_mm": 186.38238535000005
+    },
+    {
+      "bed": "B",
+      "x_mm": 0,
+      "old_roof_lower_mm": 1281.5756689320895,
+      "new_roof_lower_mm": 1304.0333057324294,
+      "lift_mm": 22.45763680033997,
+      "above_fin_top_mm": 160.68330573242952
+    },
+    {
+      "bed": "B",
+      "x_mm": 200,
+      "old_roof_lower_mm": 1243.0502957977612,
+      "new_roof_lower_mm": 1283.3916027718155,
+      "lift_mm": 40.341306974054305,
+      "above_fin_top_mm": 140.04160277181563
+    },
+    {
+      "bed": "B",
+      "x_mm": 420,
+      "old_roof_lower_mm": 1200.67238535,
+      "new_roof_lower_mm": 1260.6722615437343,
+      "lift_mm": 59.99987619373428,
+      "above_fin_top_mm": 117.32226154373438
+    },
+    {
+      "bed": "B",
+      "x_mm": 490,
+      "old_roof_lower_mm": 1185.412385350201,
+      "new_roof_lower_mm": 1245.4837414688855,
+      "lift_mm": 60.071356118684434,
+      "above_fin_top_mm": 102.13374146888555
+    },
+    {
+      "bed": "B",
+      "x_mm": 510,
+      "old_roof_lower_mm": 1183.1699760005345,
+      "new_roof_lower_mm": 1243.170080285775,
+      "lift_mm": 60.00010428524047,
+      "above_fin_top_mm": 99.82008028577502
+    },
+    {
+      "bed": "B",
+      "x_mm": 530,
+      "old_roof_lower_mm": 1183.0099760005346,
+      "new_roof_lower_mm": 1243.010064241194,
+      "lift_mm": 60.00008824065935,
+      "above_fin_top_mm": 99.66006424119405
+    },
+    {
+      "bed": "B",
+      "x_mm": 550,
+      "old_roof_lower_mm": 1182.8499760005348,
+      "new_roof_lower_mm": 1242.8500481966128,
+      "lift_mm": 60.00007219607801,
+      "above_fin_top_mm": 99.50004819661285
+    },
+    {
+      "bed": "B",
+      "x_mm": 570,
+      "old_roof_lower_mm": 1182.689976000535,
+      "new_roof_lower_mm": 1242.6900321520316,
+      "lift_mm": 60.000056151496665,
+      "above_fin_top_mm": 99.34003215203165
+    },
+    {
+      "bed": "B",
+      "x_mm": 590,
+      "old_roof_lower_mm": 1182.5299760005348,
+      "new_roof_lower_mm": 1242.5300161074504,
+      "lift_mm": 60.00004010691555,
+      "above_fin_top_mm": 99.18001610745046
+    },
+    {
+      "bed": "B",
+      "x_mm": 610,
+      "old_roof_lower_mm": 1182.369976000535,
+      "new_roof_lower_mm": 1242.3700000628692,
+      "lift_mm": 60.000024062334205,
+      "above_fin_top_mm": 99.02000006286926
+    },
+    {
+      "bed": "B",
+      "x_mm": 640,
+      "old_roof_lower_mm": 1182.129976001,
+      "new_roof_lower_mm": 1241.9432264220347,
+      "lift_mm": 59.81325042103481,
+      "above_fin_top_mm": 98.59322642203483
+    },
+    {
+      "bed": "B",
+      "x_mm": 680,
+      "old_roof_lower_mm": 1175.2715144625383,
+      "new_roof_lower_mm": 1212.0078418066435,
+      "lift_mm": 36.73632734410512,
+      "above_fin_top_mm": 68.65784180664355
+    },
+    {
+      "bed": "B",
+      "x_mm": 720,
+      "old_roof_lower_mm": 1168.413052924077,
+      "new_roof_lower_mm": 1182.0724571912522,
+      "lift_mm": 13.659404267175205,
+      "above_fin_top_mm": 38.72245719125226
+    },
+    {
+      "bed": "B",
+      "x_mm": 744,
+      "old_roof_lower_mm": 1164.297976001,
+      "new_roof_lower_mm": 1164.2979760004223,
+      "lift_mm": -5.777565093012527e-10,
+      "above_fin_top_mm": 20.947976000422386
+    }
+  ],
+  "inner_cheek_seams": [
+    {
+      "bed": "A",
+      "x_mm": -250,
+      "roof_upper_minus_cheek_upper_mm": 0.043402268597674265
+    },
+    {
+      "bed": "A",
+      "x_mm": 0,
+      "roof_upper_minus_cheek_upper_mm": 0.027210253405201
+    },
+    {
+      "bed": "A",
+      "x_mm": 200,
+      "roof_upper_minus_cheek_upper_mm": 0.014256640903113293
+    },
+    {
+      "bed": "A",
+      "x_mm": 420,
+      "roof_upper_minus_cheek_upper_mm": 7.66715083955205e-06
+    },
+    {
+      "bed": "A",
+      "x_mm": 490,
+      "roof_upper_minus_cheek_upper_mm": 0.0
+    },
+    {
+      "bed": "A",
+      "x_mm": 510,
+      "roof_upper_minus_cheek_upper_mm": 0.0
+    },
+    {
+      "bed": "A",
+      "x_mm": 530,
+      "roof_upper_minus_cheek_upper_mm": 0.0
+    },
+    {
+      "bed": "A",
+      "x_mm": 550,
+      "roof_upper_minus_cheek_upper_mm": 0.0
+    },
+    {
+      "bed": "A",
+      "x_mm": 570,
+      "roof_upper_minus_cheek_upper_mm": 0.0
+    },
+    {
+      "bed": "A",
+      "x_mm": 590,
+      "roof_upper_minus_cheek_upper_mm": 0.0
+    },
+    {
+      "bed": "A",
+      "x_mm": 610,
+      "roof_upper_minus_cheek_upper_mm": 0.0
+    },
+    {
+      "bed": "A",
+      "x_mm": 640,
+      "roof_upper_minus_cheek_upper_mm": 0.0
+    },
+    {
+      "bed": "A",
+      "x_mm": 680,
+      "roof_upper_minus_cheek_upper_mm": 0.0
+    },
+    {
+      "bed": "A",
+      "x_mm": 720,
+      "roof_upper_minus_cheek_upper_mm": 0.0
+    },
+    {
+      "bed": "A",
+      "x_mm": 744,
+      "roof_upper_minus_cheek_upper_mm": 0.0
+    },
+    {
+      "bed": "B",
+      "x_mm": -250,
+      "roof_upper_minus_cheek_upper_mm": 0.043402268597674265
+    },
+    {
+      "bed": "B",
+      "x_mm": 0,
+      "roof_upper_minus_cheek_upper_mm": 0.027210253405201
+    },
+    {
+      "bed": "B",
+      "x_mm": 200,
+      "roof_upper_minus_cheek_upper_mm": 0.014256640903113293
+    },
+    {
+      "bed": "B",
+      "x_mm": 420,
+      "roof_upper_minus_cheek_upper_mm": 7.66715083955205e-06
+    },
+    {
+      "bed": "B",
+      "x_mm": 490,
+      "roof_upper_minus_cheek_upper_mm": 0.0
+    },
+    {
+      "bed": "B",
+      "x_mm": 510,
+      "roof_upper_minus_cheek_upper_mm": 0.0
+    },
+    {
+      "bed": "B",
+      "x_mm": 530,
+      "roof_upper_minus_cheek_upper_mm": 0.0
+    },
+    {
+      "bed": "B",
+      "x_mm": 550,
+      "roof_upper_minus_cheek_upper_mm": 0.0
+    },
+    {
+      "bed": "B",
+      "x_mm": 570,
+      "roof_upper_minus_cheek_upper_mm": 0.0
+    },
+    {
+      "bed": "B",
+      "x_mm": 590,
+      "roof_upper_minus_cheek_upper_mm": 0.0
+    },
+    {
+      "bed": "B",
+      "x_mm": 610,
+      "roof_upper_minus_cheek_upper_mm": 0.0
+    },
+    {
+      "bed": "B",
+      "x_mm": 640,
+      "roof_upper_minus_cheek_upper_mm": 0.0
+    },
+    {
+      "bed": "B",
+      "x_mm": 680,
+      "roof_upper_minus_cheek_upper_mm": 0.0
+    },
+    {
+      "bed": "B",
+      "x_mm": 720,
+      "roof_upper_minus_cheek_upper_mm": 0.0
+    },
+    {
+      "bed": "B",
+      "x_mm": 744,
+      "roof_upper_minus_cheek_upper_mm": 0.0
+    }
+  ],
+  "minimum_last_100mm_above_fin_top_mm": 99.18001610745046,
+  "maximum_inner_cheek_gap_mm": 0.043402268597674265,
+  "roof_normal_gauge": [
+    {
+      "bed": "A",
+      "x_mm": 84.5,
+      "normal_gauge_mm": 1.4999999993951216
+    },
+    {
+      "bed": "A",
+      "x_mm": 460.1945,
+      "normal_gauge_mm": 1.499999999924499
+    },
+    {
+      "bed": "A",
+      "x_mm": 570.1945000000001,
+      "normal_gauge_mm": 1.4999999992045367
+    },
+    {
+      "bed": "A",
+      "x_mm": 692.0,
+      "normal_gauge_mm": 1.4999999996896696
+    },
+    {
+      "bed": "A",
+      "x_mm": 746.45,
+      "normal_gauge_mm": 1.5000000003458378
+    },
+    {
+      "bed": "B",
+      "x_mm": 84.5,
+      "normal_gauge_mm": 1.4999999993951216
+    },
+    {
+      "bed": "B",
+      "x_mm": 460.1945,
+      "normal_gauge_mm": 1.499999999924499
+    },
+    {
+      "bed": "B",
+      "x_mm": 570.1945000000001,
+      "normal_gauge_mm": 1.4999999992045367
+    },
+    {
+      "bed": "B",
+      "x_mm": 692.0,
+      "normal_gauge_mm": 1.4999999996896696
+    },
+    {
+      "bed": "B",
+      "x_mm": 746.45,
+      "normal_gauge_mm": 1.5000000003458378
+    }
+  ],
+  "elapsed_seconds": 398.30421566963196,
+  "pass": true
+}

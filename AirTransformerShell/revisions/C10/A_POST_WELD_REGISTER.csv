@@ -1,0 +1,9 @@
+joint,member_1,member_2,contact_plane,edge_start_global_mm,edge_end_global_mm,nominal_member_gauge_mm,disposition
+LOWER_REAR_POST,C09_A_POST_LOWER_REAR_WEB,F_POST_-600_-825_O,Y=-824,"(-640,-824,443)","(-640,-824,712)",3,"Continuous load-transfer seam; size, access and sequence require structural/welding signoff"
+LOWER_FRONT_POST,C09_A_POST_LOWER_FRONT_WEB,F_POST_-600_-825_O,Y=-824,"(-618,-824,443)","(-618,-824,712)",3,"Continuous load-transfer seam; size, access and sequence require structural/welding signoff"
+LOWER_REAR_SISTER,C09_A_POST_LOWER_REAR_WEB,C09_A_POST_SISTER_RHS_22x60x3,Y=-805,"(-640,-805,443)","(-640,-805,712)",3,"Continuous load-transfer seam; confirm H01 insulation clearance after weld dressing"
+LOWER_FRONT_SISTER,C09_A_POST_LOWER_FRONT_WEB,C09_A_POST_SISTER_RHS_22x60x3,Y=-805,"(-618,-805,443)","(-618,-805,712)",3,"Continuous load-transfer seam; confirm H01 insulation clearance after weld dressing"
+UPPER_REAR_POST,C09_A_POST_UPPER_REAR_WEB,F_POST_-600_-825_O,Y=-824,"(-640,-824,778)","(-640,-824,1047)",3,"Continuous load-transfer seam; size, access and sequence require structural/welding signoff"
+UPPER_FRONT_POST,C09_A_POST_UPPER_FRONT_WEB,F_POST_-600_-825_O,Y=-824,"(-618,-824,778)","(-618,-824,1047)",3,"Continuous load-transfer seam; size, access and sequence require structural/welding signoff"
+UPPER_REAR_SISTER,C09_A_POST_UPPER_REAR_WEB,C09_A_POST_SISTER_RHS_22x60x3,Y=-805,"(-640,-805,778)","(-640,-805,1047)",3,"Continuous load-transfer seam; confirm H01 insulation clearance after weld dressing"
+UPPER_FRONT_SISTER,C09_A_POST_UPPER_FRONT_WEB,C09_A_POST_SISTER_RHS_22x60x3,Y=-805,"(-618,-805,778)","(-618,-805,1047)",3,"Continuous load-transfer seam; confirm H01 insulation clearance after weld dressing"

@@ -1,0 +1,6 @@
+.work/
+__pycache__/
+*.pyc
+source/probe.py
+source/inspect_sections.py
+evidence/probe.json

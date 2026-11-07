@@ -1,0 +1,1267 @@
+{
+  "parent_shell_count": 494,
+  "shell_count": 560,
+  "modified": {
+    "SKIN_REAR_O": "H01 eight outer-skin openings",
+    "AIR_TOP_SPLITTER_A_O": "constant-gauge roof; +60 mm over end of upper fin face",
+    "AIR_SIDE_IN_A_O": "extend inner cheek continuously to raised roof",
+    "AIR_PROCESS_IN_FLOOR_A_O": "sealed W2 insulation corner pocket",
+    "AIR_PROCESS_IN_WRAP_A_O": "sealed W2 insulation corner pocket",
+    "AIR_TOP_SPLITTER_B_O": "constant-gauge roof; +60 mm over end of upper fin face",
+    "AIR_SIDE_IN_B_O": "extend inner cheek continuously to raised roof",
+    "AIR_PROCESS_IN_FLOOR_B_O": "sealed W2 insulation corner pocket",
+    "AIR_PROCESS_IN_WRAP_B_O": "sealed W2 insulation corner pocket"
+  },
+  "added": [
+    "C10_A_W2_POCKET_ROOF",
+    "C10_A_W2_POCKET_INBOARD_RETURN",
+    "C10_A_W2_POCKET_REAR_RETURN",
+    "C10_B_W2_POCKET_ROOF",
+    "C10_B_W2_POCKET_INBOARD_RETURN",
+    "C10_B_W2_POCKET_REAR_RETURN",
+    "C10_A_L_GLAND_STUD_1",
+    "C10_A_L_GLAND_NUT_1",
+    "C10_A_L_GLAND_STUD_2",
+    "C10_A_L_GLAND_NUT_2",
+    "C10_A_L_GLAND_STUD_3",
+    "C10_A_L_GLAND_NUT_3",
+    "C10_A_L_GLAND_STUD_4",
+    "C10_A_L_GLAND_NUT_4",
+    "C10_A_L_GLAND_STUD_5",
+    "C10_A_L_GLAND_NUT_5",
+    "C10_A_L_GLAND_STUD_6",
+    "C10_A_L_GLAND_NUT_6",
+    "C10_A_L_GLAND_MEMBRANE",
+    "C10_A_L_GLAND_RETAINER_LOW",
+    "C10_A_L_GLAND_RETAINER_HIGH",
+    "C10_A_U_GLAND_STUD_1",
+    "C10_A_U_GLAND_NUT_1",
+    "C10_A_U_GLAND_STUD_2",
+    "C10_A_U_GLAND_NUT_2",
+    "C10_A_U_GLAND_STUD_3",
+    "C10_A_U_GLAND_NUT_3",
+    "C10_A_U_GLAND_STUD_4",
+    "C10_A_U_GLAND_NUT_4",
+    "C10_A_U_GLAND_STUD_5",
+    "C10_A_U_GLAND_NUT_5",
+    "C10_A_U_GLAND_STUD_6",
+    "C10_A_U_GLAND_NUT_6",
+    "C10_A_U_GLAND_MEMBRANE",
+    "C10_A_U_GLAND_RETAINER_LOW",
+    "C10_A_U_GLAND_RETAINER_HIGH",
+    "C10_B_L_GLAND_STUD_1",
+    "C10_B_L_GLAND_NUT_1",
+    "C10_B_L_GLAND_STUD_2",
+    "C10_B_L_GLAND_NUT_2",
+    "C10_B_L_GLAND_STUD_3",
+    "C10_B_L_GLAND_NUT_3",
+    "C10_B_L_GLAND_STUD_4",
+    "C10_B_L_GLAND_NUT_4",
+    "C10_B_L_GLAND_STUD_5",
+    "C10_B_L_GLAND_NUT_5",
+    "C10_B_L_GLAND_STUD_6",
+    "C10_B_L_GLAND_NUT_6",
+    "C10_B_L_GLAND_MEMBRANE",
+    "C10_B_L_GLAND_RETAINER_LOW",
+    "C10_B_L_GLAND_RETAINER_HIGH",
+    "C10_B_U_GLAND_STUD_1",
+    "C10_B_U_GLAND_NUT_1",
+    "C10_B_U_GLAND_STUD_2",
+    "C10_B_U_GLAND_NUT_2",
+    "C10_B_U_GLAND_STUD_3",
+    "C10_B_U_GLAND_NUT_3",
+    "C10_B_U_GLAND_STUD_4",
+    "C10_B_U_GLAND_NUT_4",
+    "C10_B_U_GLAND_STUD_5",
+    "C10_B_U_GLAND_NUT_5",
+    "C10_B_U_GLAND_STUD_6",
+    "C10_B_U_GLAND_NUT_6",
+    "C10_B_U_GLAND_MEMBRANE",
+    "C10_B_U_GLAND_RETAINER_LOW",
+    "C10_B_U_GLAND_RETAINER_HIGH"
+  ],
+  "parts": {
+    "AIR_PROCESS_IN_FLOOR_A_O": {
+      "operation": "sealed W2 insulation corner pocket",
+      "bbox": [
+        -650.0,
+        -765.0,
+        1143.5,
+        -506.5,
+        -85.0,
+        1145.0
+      ],
+      "volume_mm3": 143928.75,
+      "solids": 1
+    },
+    "AIR_PROCESS_IN_FLOOR_B_O": {
+      "operation": "sealed W2 insulation corner pocket",
+      "bbox": [
+        -650.0,
+        70.0,
+        1143.5,
+        -506.5,
+        750.0,
+        1145.0
+      ],
+      "volume_mm3": 140557.5,
+      "solids": 1
+    },
+    "AIR_PROCESS_IN_WRAP_A_O": {
+      "operation": "sealed W2 insulation corner pocket",
+      "bbox": [
+        -650.0,
+        -766.5,
+        1145.0,
+        -506.5,
+        -83.5,
+        1386.5000000000045
+      ],
+      "volume_mm3": 232508.01220864992,
+      "solids": 1
+    },
+    "AIR_PROCESS_IN_WRAP_B_O": {
+      "operation": "sealed W2 insulation corner pocket",
+      "bbox": [
+        -650.0,
+        68.5,
+        1145.0,
+        -506.5,
+        751.5,
+        1386.5000000000045
+      ],
+      "volume_mm3": 232508.01220864992,
+      "solids": 1
+    },
+    "AIR_SIDE_IN_A_O": {
+      "operation": "extend inner cheek continuously to raised roof",
+      "bbox": [
+        -500.0,
+        -46.5,
+        42.0,
+        748.9000000000001,
+        -45.0,
+        1380.6335512840242
+      ],
+      "volume_mm3": 1694843.114492259,
+      "solids": 1
+    },
+    "AIR_SIDE_IN_B_O": {
+      "operation": "extend inner cheek continuously to raised roof",
+      "bbox": [
+        -500.0,
+        45.0,
+        42.0,
+        748.9000000000001,
+        46.5,
+        1380.6335512840242
+      ],
+      "volume_mm3": 1694843.114492259,
+      "solids": 1
+    },
+    "AIR_TOP_SPLITTER_A_O": {
+      "operation": "constant-gauge roof; +60 mm over end of upper fin face",
+      "bbox": [
+        -480.1435760353054,
+        -815.0000001000002,
+        1164.2587760003842,
+        748.9,
+        -46.49999989999981,
+        1381.369264043011
+      ],
+      "volume_mm3": 1239818.8567526632,
+      "solids": 1
+    },
+    "AIR_TOP_SPLITTER_B_O": {
+      "operation": "constant-gauge roof; +60 mm over end of upper fin face",
+      "bbox": [
+        -480.1435760353054,
+        46.49999989999977,
+        1164.2587760003842,
+        748.9,
+        815.0000001000002,
+        1381.369264043011
+      ],
+      "volume_mm3": 1239373.4208868702,
+      "solids": 1
+    },
+    "SKIN_REAR_O": {
+      "operation": "H01 eight outer-skin openings",
+      "bbox": [
+        -650.8,
+        -850.0,
+        42.0,
+        -649.3,
+        850.0,
+        1527.0
+      ],
+      "volume_mm3": 3177675.106966676,
+      "solids": 1
+    },
+    "C10_A_W2_POCKET_ROOF": {
+      "operation": "add",
+      "bbox": [
+        -584.0,
+        -766.5,
+        1168.5,
+        -506.5,
+        -744.0,
+        1170.0
+      ],
+      "volume_mm3": 2615.625,
+      "solids": 1
+    },
+    "C10_A_W2_POCKET_INBOARD_RETURN": {
+      "operation": "add",
+      "bbox": [
+        -582.5,
+        -745.5,
+        1143.5,
+        -506.5,
+        -744.0,
+        1168.5
+      ],
+      "volume_mm3": 2850.0,
+      "solids": 1
+    },
+    "C10_A_W2_POCKET_REAR_RETURN": {
+      "operation": "add",
+      "bbox": [
+        -584.0,
+        -766.5,
+        1143.5,
+        -582.5,
+        -744.0,
+        1168.5
+      ],
+      "volume_mm3": 843.75,
+      "solids": 1
+    },
+    "C10_B_W2_POCKET_ROOF": {
+      "operation": "add",
+      "bbox": [
+        -584.0,
+        68.5,
+        1168.5,
+        -506.5,
+        120.0,
+        1170.0
+      ],
+      "volume_mm3": 5986.875,
+      "solids": 1
+    },
+    "C10_B_W2_POCKET_INBOARD_RETURN": {
+      "operation": "add",
+      "bbox": [
+        -582.5,
+        118.5,
+        1143.5,
+        -506.5,
+        120.0,
+        1168.5
+      ],
+      "volume_mm3": 2850.0,
+      "solids": 1
+    },
+    "C10_B_W2_POCKET_REAR_RETURN": {
+      "operation": "add",
+      "bbox": [
+        -584.0,
+        68.5,
+        1143.5,
+        -582.5,
+        120.0,
+        1168.5
+      ],
+      "volume_mm3": 1931.25,
+      "solids": 1
+    },
+    "C10_A_L_GLAND_STUD_1": {
+      "operation": "add",
+      "bbox": [
+        -659.8,
+        -764.654896442182,
+        492.00000001798526,
+        -650.8,
+        -760.654896442182,
+        496.00000001798526
+      ],
+      "volume_mm3": 113.09733552923251,
+      "solids": 1
+    },
+    "C10_A_L_GLAND_NUT_1": {
+      "operation": "add",
+      "bbox": [
+        -658.3,
+        -766.6963483265093,
+        490.50000001798526,
+        -654.2999999999998,
+        -758.6134445578547,
+        497.50000001798526
+      ],
+      "volume_mm3": 119.47549668431276,
+      "solids": 1
+    },
+    "C10_A_L_GLAND_STUD_2": {
+      "operation": "add",
+      "bbox": [
+        -659.8,
+        -764.654896442182,
+        624.0000000179853,
+        -650.8,
+        -760.654896442182,
+        628.0000000179853
+      ],
+      "volume_mm3": 113.09733552923208,
+      "solids": 1
+    },
+    "C10_A_L_GLAND_NUT_2": {
+      "operation": "add",
+      "bbox": [
+        -658.3,
+        -766.6963483265093,
+        622.5000000179853,
+        -654.2999999999998,
+        -758.6134445578547,
+        629.5000000179853
+      ],
+      "volume_mm3": 119.47549668431296,
+      "solids": 1
+    },
+    "C10_A_L_GLAND_STUD_3": {
+      "operation": "add",
+      "bbox": [
+        -659.8,
+        -641.827448221091,
+        492.00000001798526,
+        -650.8,
+        -637.827448221091,
+        496.00000001798526
+      ],
+      "volume_mm3": 113.09733552923251,
+      "solids": 1
+    },
+    "C10_A_L_GLAND_NUT_3": {
+      "operation": "add",
+      "bbox": [
+        -658.3,
+        -643.8689001054183,
+        490.50000001798526,
+        -654.2999999999998,
+        -635.7859963367637,
+        497.50000001798526
+      ],
+      "volume_mm3": 119.47549668431279,
+      "solids": 1
+    },
+    "C10_A_L_GLAND_STUD_4": {
+      "operation": "add",
+      "bbox": [
+        -659.8,
+        -641.827448221091,
+        624.0000000179853,
+        -650.8,
+        -637.827448221091,
+        628.0000000179853
+      ],
+      "volume_mm3": 113.0973355292321,
+      "solids": 1
+    },
+    "C10_A_L_GLAND_NUT_4": {
+      "operation": "add",
+      "bbox": [
+        -658.3,
+        -643.8689001054183,
+        622.5000000179853,
+        -654.2999999999998,
+        -635.7859963367637,
+        629.5000000179853
+      ],
+      "volume_mm3": 119.47549668431299,
+      "solids": 1
+    },
+    "C10_A_L_GLAND_STUD_5": {
+      "operation": "add",
+      "bbox": [
+        -659.8,
+        -519.0,
+        492.00000001798526,
+        -650.8,
+        -515.0,
+        496.00000001798526
+      ],
+      "volume_mm3": 113.09733552923251,
+      "solids": 1
+    },
+    "C10_A_L_GLAND_NUT_5": {
+      "operation": "add",
+      "bbox": [
+        -658.3,
+        -521.0414518843273,
+        490.50000001798526,
+        -654.2999999999998,
+        -512.9585481156727,
+        497.50000001798526
+      ],
+      "volume_mm3": 119.47549668431276,
+      "solids": 1
+    },
+    "C10_A_L_GLAND_STUD_6": {
+      "operation": "add",
+      "bbox": [
+        -659.8,
+        -519.0,
+        624.0000000179853,
+        -650.8,
+        -515.0,
+        628.0000000179853
+      ],
+      "volume_mm3": 113.0973355292321,
+      "solids": 1
+    },
+    "C10_A_L_GLAND_NUT_6": {
+      "operation": "add",
+      "bbox": [
+        -658.3,
+        -521.0414518843273,
+        622.5000000179853,
+        -654.2999999999998,
+        -512.9585481156727,
+        629.5000000179853
+      ],
+      "volume_mm3": 119.47549668431296,
+      "solids": 1
+    },
+    "C10_A_L_GLAND_MEMBRANE": {
+      "operation": "add",
+      "bbox": [
+        -652.8000001,
+        -768.654896542182,
+        487.99999991798524,
+        -650.7999999,
+        -510.9999999,
+        632.0000001179852
+      ],
+      "volume_mm3": 47572.551403022175,
+      "solids": 1
+    },
+    "C10_A_L_GLAND_RETAINER_LOW": {
+      "operation": "add",
+      "bbox": [
+        -654.3,
+        -768.654896442182,
+        488.00000001798526,
+        -652.8,
+        -511.0,
+        559.8500000179853
+      ],
+      "volume_mm3": 12505.814838826514,
+      "solids": 1
+    },
+    "C10_A_L_GLAND_RETAINER_HIGH": {
+      "operation": "add",
+      "bbox": [
+        -654.3,
+        -768.654896442182,
+        560.1500000179852,
+        -652.8,
+        -511.0,
+        632.0000000179853
+      ],
+      "volume_mm3": 12505.814838826514,
+      "solids": 1
+    },
+    "C10_A_U_GLAND_STUD_1": {
+      "operation": "add",
+      "bbox": [
+        -659.8,
+        -764.654896442182,
+        827.0000000179857,
+        -650.8,
+        -760.654896442182,
+        831.0000000179857
+      ],
+      "volume_mm3": 113.0973355292321,
+      "solids": 1
+    },
+    "C10_A_U_GLAND_NUT_1": {
+      "operation": "add",
+      "bbox": [
+        -658.3,
+        -766.6963483265093,
+        825.5000000179857,
+        -654.2999999999998,
+        -758.6134445578547,
+        832.5000000179857
+      ],
+      "volume_mm3": 119.47549668431299,
+      "solids": 1
+    },
+    "C10_A_U_GLAND_STUD_2": {
+      "operation": "add",
+      "bbox": [
+        -659.8,
+        -764.654896442182,
+        959.0000000179857,
+        -650.8,
+        -760.654896442182,
+        963.0000000179857
+      ],
+      "volume_mm3": 113.0973355292321,
+      "solids": 1
+    },
+    "C10_A_U_GLAND_NUT_2": {
+      "operation": "add",
+      "bbox": [
+        -658.3,
+        -766.6963483265093,
+        957.5000000179857,
+        -654.2999999999998,
+        -758.6134445578547,
+        964.5000000179857
+      ],
+      "volume_mm3": 119.47549668431299,
+      "solids": 1
+    },
+    "C10_A_U_GLAND_STUD_3": {
+      "operation": "add",
+      "bbox": [
+        -659.8,
+        -641.827448221091,
+        827.0000000179857,
+        -650.8,
+        -637.827448221091,
+        831.0000000179857
+      ],
+      "volume_mm3": 113.09733552923208,
+      "solids": 1
+    },
+    "C10_A_U_GLAND_NUT_3": {
+      "operation": "add",
+      "bbox": [
+        -658.3,
+        -643.8689001054183,
+        825.5000000179857,
+        -654.2999999999998,
+        -635.7859963367637,
+        832.5000000179857
+      ],
+      "volume_mm3": 119.47549668431296,
+      "solids": 1
+    },
+    "C10_A_U_GLAND_STUD_4": {
+      "operation": "add",
+      "bbox": [
+        -659.8,
+        -641.827448221091,
+        959.0000000179857,
+        -650.8,
+        -637.827448221091,
+        963.0000000179857
+      ],
+      "volume_mm3": 113.09733552923208,
+      "solids": 1
+    },
+    "C10_A_U_GLAND_NUT_4": {
+      "operation": "add",
+      "bbox": [
+        -658.3,
+        -643.8689001054183,
+        957.5000000179857,
+        -654.2999999999998,
+        -635.7859963367637,
+        964.5000000179857
+      ],
+      "volume_mm3": 119.47549668431296,
+      "solids": 1
+    },
+    "C10_A_U_GLAND_STUD_5": {
+      "operation": "add",
+      "bbox": [
+        -659.8,
+        -519.0,
+        827.0000000179857,
+        -650.8,
+        -515.0,
+        831.0000000179857
+      ],
+      "volume_mm3": 113.09733552923208,
+      "solids": 1
+    },
+    "C10_A_U_GLAND_NUT_5": {
+      "operation": "add",
+      "bbox": [
+        -658.3,
+        -521.0414518843273,
+        825.5000000179857,
+        -654.2999999999998,
+        -512.9585481156727,
+        832.5000000179857
+      ],
+      "volume_mm3": 119.47549668431299,
+      "solids": 1
+    },
+    "C10_A_U_GLAND_STUD_6": {
+      "operation": "add",
+      "bbox": [
+        -659.8,
+        -519.0,
+        959.0000000179857,
+        -650.8,
+        -515.0,
+        963.0000000179857
+      ],
+      "volume_mm3": 113.09733552923208,
+      "solids": 1
+    },
+    "C10_A_U_GLAND_NUT_6": {
+      "operation": "add",
+      "bbox": [
+        -658.3,
+        -521.0414518843273,
+        957.5000000179857,
+        -654.2999999999998,
+        -512.9585481156727,
+        964.5000000179857
+      ],
+      "volume_mm3": 119.47549668431299,
+      "solids": 1
+    },
+    "C10_A_U_GLAND_MEMBRANE": {
+      "operation": "add",
+      "bbox": [
+        -652.8000001,
+        -768.654896542182,
+        822.9999999179857,
+        -650.7999999,
+        -510.9999999,
+        967.0000001179857
+      ],
+      "volume_mm3": 47572.55140303592,
+      "solids": 1
+    },
+    "C10_A_U_GLAND_RETAINER_LOW": {
+      "operation": "add",
+      "bbox": [
+        -654.3,
+        -768.654896442182,
+        823.0000000179857,
+        -652.8,
+        -511.0,
+        894.8500000179857
+      ],
+      "volume_mm3": 12505.814838826514,
+      "solids": 1
+    },
+    "C10_A_U_GLAND_RETAINER_HIGH": {
+      "operation": "add",
+      "bbox": [
+        -654.3,
+        -768.654896442182,
+        895.1500000179857,
+        -652.8,
+        -511.0,
+        967.0000000179857
+      ],
+      "volume_mm3": 12505.814838826514,
+      "solids": 1
+    },
+    "C10_B_L_GLAND_STUD_1": {
+      "operation": "add",
+      "bbox": [
+        -659.8,
+        100.34510355781285,
+        492.0000000179856,
+        -650.8,
+        104.34510355781285,
+        496.0000000179856
+      ],
+      "volume_mm3": 113.09733552923268,
+      "solids": 1
+    },
+    "C10_B_L_GLAND_NUT_1": {
+      "operation": "add",
+      "bbox": [
+        -658.3,
+        98.30365167348546,
+        490.5000000179856,
+        -654.2999999999998,
+        106.38655544214024,
+        497.5000000179856
+      ],
+      "volume_mm3": 119.47549668431353,
+      "solids": 1
+    },
+    "C10_B_L_GLAND_STUD_2": {
+      "operation": "add",
+      "bbox": [
+        -659.8,
+        100.34510355781285,
+        624.0000000179856,
+        -650.8,
+        104.34510355781285,
+        628.0000000179856
+      ],
+      "volume_mm3": 113.09733552923224,
+      "solids": 1
+    },
+    "C10_B_L_GLAND_NUT_2": {
+      "operation": "add",
+      "bbox": [
+        -658.3,
+        98.30365167348546,
+        622.5000000179856,
+        -654.2999999999998,
+        106.38655544214024,
+        629.5000000179856
+      ],
+      "volume_mm3": 119.47549668431373,
+      "solids": 1
+    },
+    "C10_B_L_GLAND_STUD_3": {
+      "operation": "add",
+      "bbox": [
+        -659.8,
+        223.17255177890644,
+        492.0000000179856,
+        -650.8,
+        227.17255177890644,
+        496.0000000179856
+      ],
+      "volume_mm3": 113.09733552923267,
+      "solids": 1
+    },
+    "C10_B_L_GLAND_NUT_3": {
+      "operation": "add",
+      "bbox": [
+        -658.3,
+        221.13109989457905,
+        490.5000000179856,
+        -654.2999999999998,
+        229.21400366323383,
+        497.5000000179856
+      ],
+      "volume_mm3": 119.47549668431353,
+      "solids": 1
+    },
+    "C10_B_L_GLAND_STUD_4": {
+      "operation": "add",
+      "bbox": [
+        -659.8,
+        223.17255177890644,
+        624.0000000179856,
+        -650.8,
+        227.17255177890644,
+        628.0000000179856
+      ],
+      "volume_mm3": 113.09733552923221,
+      "solids": 1
+    },
+    "C10_B_L_GLAND_NUT_4": {
+      "operation": "add",
+      "bbox": [
+        -658.3,
+        221.13109989457905,
+        622.5000000179856,
+        -654.2999999999998,
+        229.21400366323383,
+        629.5000000179856
+      ],
+      "volume_mm3": 119.47549668431373,
+      "solids": 1
+    },
+    "C10_B_L_GLAND_STUD_5": {
+      "operation": "add",
+      "bbox": [
+        -659.8,
+        346.0,
+        492.0000000179856,
+        -650.8,
+        350.0,
+        496.0000000179856
+      ],
+      "volume_mm3": 113.09733552923298,
+      "solids": 1
+    },
+    "C10_B_L_GLAND_NUT_5": {
+      "operation": "add",
+      "bbox": [
+        -658.3000000000002,
+        343.9585481156726,
+        490.5000000179856,
+        -654.3,
+        352.0414518843274,
+        497.5000000179856
+      ],
+      "volume_mm3": 119.47549668431259,
+      "solids": 1
+    },
+    "C10_B_L_GLAND_STUD_6": {
+      "operation": "add",
+      "bbox": [
+        -659.8,
+        346.0,
+        624.0000000179856,
+        -650.8,
+        350.0,
+        628.0000000179856
+      ],
+      "volume_mm3": 113.09733552923252,
+      "solids": 1
+    },
+    "C10_B_L_GLAND_NUT_6": {
+      "operation": "add",
+      "bbox": [
+        -658.3000000000002,
+        343.9585481156726,
+        622.5000000179856,
+        -654.3,
+        352.0414518843274,
+        629.5000000179856
+      ],
+      "volume_mm3": 119.47549668431282,
+      "solids": 1
+    },
+    "C10_B_L_GLAND_MEMBRANE": {
+      "operation": "add",
+      "bbox": [
+        -652.8000001,
+        96.34510345781285,
+        487.9999999179856,
+        -650.7999999,
+        354.0000001,
+        632.0000001179856
+      ],
+      "volume_mm3": 47572.55140302285,
+      "solids": 1
+    },
+    "C10_B_L_GLAND_RETAINER_LOW": {
+      "operation": "add",
+      "bbox": [
+        -654.3,
+        96.34510355781285,
+        488.0000000179856,
+        -652.8,
+        354.0,
+        559.8500000179856
+      ],
+      "volume_mm3": 12505.814838827064,
+      "solids": 1
+    },
+    "C10_B_L_GLAND_RETAINER_HIGH": {
+      "operation": "add",
+      "bbox": [
+        -654.3,
+        96.34510355781285,
+        560.1500000179856,
+        -652.8,
+        354.0,
+        632.0000000179856
+      ],
+      "volume_mm3": 12505.814838827057,
+      "solids": 1
+    },
+    "C10_B_U_GLAND_STUD_1": {
+      "operation": "add",
+      "bbox": [
+        -659.8,
+        100.34510355781282,
+        827.0000000179857,
+        -650.8,
+        104.34510355781282,
+        831.0000000179857
+      ],
+      "volume_mm3": 113.09733552923224,
+      "solids": 1
+    },
+    "C10_B_U_GLAND_NUT_1": {
+      "operation": "add",
+      "bbox": [
+        -658.3,
+        98.30365167348543,
+        825.5000000179857,
+        -654.2999999999998,
+        106.3865554421402,
+        832.5000000179857
+      ],
+      "volume_mm3": 119.47549668431373,
+      "solids": 1
+    },
+    "C10_B_U_GLAND_STUD_2": {
+      "operation": "add",
+      "bbox": [
+        -659.8,
+        100.34510355781282,
+        959.0000000179857,
+        -650.8,
+        104.34510355781282,
+        963.0000000179857
+      ],
+      "volume_mm3": 113.09733552923224,
+      "solids": 1
+    },
+    "C10_B_U_GLAND_NUT_2": {
+      "operation": "add",
+      "bbox": [
+        -658.3,
+        98.30365167348543,
+        957.5000000179857,
+        -654.2999999999998,
+        106.3865554421402,
+        964.5000000179857
+      ],
+      "volume_mm3": 119.47549668431373,
+      "solids": 1
+    },
+    "C10_B_U_GLAND_STUD_3": {
+      "operation": "add",
+      "bbox": [
+        -659.8,
+        223.1725517789064,
+        827.0000000179857,
+        -650.8,
+        227.1725517789064,
+        831.0000000179857
+      ],
+      "volume_mm3": 113.09733552923221,
+      "solids": 1
+    },
+    "C10_B_U_GLAND_NUT_3": {
+      "operation": "add",
+      "bbox": [
+        -658.3,
+        221.13109989457902,
+        825.5000000179857,
+        -654.2999999999998,
+        229.2140036632338,
+        832.5000000179857
+      ],
+      "volume_mm3": 119.47549668431373,
+      "solids": 1
+    },
+    "C10_B_U_GLAND_STUD_4": {
+      "operation": "add",
+      "bbox": [
+        -659.8,
+        223.1725517789064,
+        959.0000000179857,
+        -650.8,
+        227.1725517789064,
+        963.0000000179857
+      ],
+      "volume_mm3": 113.09733552923221,
+      "solids": 1
+    },
+    "C10_B_U_GLAND_NUT_4": {
+      "operation": "add",
+      "bbox": [
+        -658.3,
+        221.13109989457902,
+        957.5000000179857,
+        -654.2999999999998,
+        229.2140036632338,
+        964.5000000179857
+      ],
+      "volume_mm3": 119.47549668431373,
+      "solids": 1
+    },
+    "C10_B_U_GLAND_STUD_5": {
+      "operation": "add",
+      "bbox": [
+        -659.8,
+        346.0,
+        827.0000000179857,
+        -650.8,
+        350.0,
+        831.0000000179857
+      ],
+      "volume_mm3": 113.09733552923252,
+      "solids": 1
+    },
+    "C10_B_U_GLAND_NUT_5": {
+      "operation": "add",
+      "bbox": [
+        -658.3000000000002,
+        343.9585481156726,
+        825.5000000179857,
+        -654.3,
+        352.0414518843274,
+        832.5000000179857
+      ],
+      "volume_mm3": 119.47549668431279,
+      "solids": 1
+    },
+    "C10_B_U_GLAND_STUD_6": {
+      "operation": "add",
+      "bbox": [
+        -659.8,
+        346.0,
+        959.0000000179857,
+        -650.8,
+        350.0,
+        963.0000000179857
+      ],
+      "volume_mm3": 113.09733552923252,
+      "solids": 1
+    },
+    "C10_B_U_GLAND_NUT_6": {
+      "operation": "add",
+      "bbox": [
+        -658.3000000000002,
+        343.9585481156726,
+        957.5000000179857,
+        -654.3,
+        352.0414518843274,
+        964.5000000179857
+      ],
+      "volume_mm3": 119.47549668431279,
+      "solids": 1
+    },
+    "C10_B_U_GLAND_MEMBRANE": {
+      "operation": "add",
+      "bbox": [
+        -652.8000001,
+        96.34510345781283,
+        822.9999999179857,
+        -650.7999999,
+        354.0000001,
+        967.0000001179857
+      ],
+      "volume_mm3": 47572.55140301616,
+      "solids": 1
+    },
+    "C10_B_U_GLAND_RETAINER_LOW": {
+      "operation": "add",
+      "bbox": [
+        -654.3,
+        96.34510355781282,
+        823.0000000179857,
+        -652.8,
+        354.0,
+        894.8500000179857
+      ],
+      "volume_mm3": 12505.814838827073,
+      "solids": 1
+    },
+    "C10_B_U_GLAND_RETAINER_HIGH": {
+      "operation": "add",
+      "bbox": [
+        -654.3,
+        96.34510355781282,
+        895.1500000179857,
+        -652.8,
+        354.0,
+        967.0000000179857
+      ],
+      "volume_mm3": 12505.814838827071,
+      "solids": 1
+    }
+  },
+  "roof_centreline_XZ_mm": [
+    [
+      -251,
+      1330.6926268656716
+    ],
+    [
+      420,
+      1261.43971343284
+    ],
+    [
+      500.389,
+      1243.997
+    ],
+    [
+      640,
+      1242.88
+    ],
+    [
+      744,
+      1165.048
+    ],
+    [
+      748.9,
+      1165.0088
+    ]
+  ],
+  "glasholes": [
+    {
+      "panel": "A_L",
+      "y_mm": -762.654896442182,
+      "z_mm": 494.00000001798526,
+      "hole_diameter_mm": 4.5,
+      "stud": "M4 weld stud envelope; 9 mm projection"
+    },
+    {
+      "panel": "A_L",
+      "y_mm": -762.654896442182,
+      "z_mm": 626.0000000179853,
+      "hole_diameter_mm": 4.5,
+      "stud": "M4 weld stud envelope; 9 mm projection"
+    },
+    {
+      "panel": "A_L",
+      "y_mm": -639.827448221091,
+      "z_mm": 494.00000001798526,
+      "hole_diameter_mm": 4.5,
+      "stud": "M4 weld stud envelope; 9 mm projection"
+    },
+    {
+      "panel": "A_L",
+      "y_mm": -639.827448221091,
+      "z_mm": 626.0000000179853,
+      "hole_diameter_mm": 4.5,
+      "stud": "M4 weld stud envelope; 9 mm projection"
+    },
+    {
+      "panel": "A_L",
+      "y_mm": -517.0,
+      "z_mm": 494.00000001798526,
+      "hole_diameter_mm": 4.5,
+      "stud": "M4 weld stud envelope; 9 mm projection"
+    },
+    {
+      "panel": "A_L",
+      "y_mm": -517.0,
+      "z_mm": 626.0000000179853,
+      "hole_diameter_mm": 4.5,
+      "stud": "M4 weld stud envelope; 9 mm projection"
+    },
+    {
+      "panel": "A_U",
+      "y_mm": -762.654896442182,
+      "z_mm": 829.0000000179857,
+      "hole_diameter_mm": 4.5,
+      "stud": "M4 weld stud envelope; 9 mm projection"
+    },
+    {
+      "panel": "A_U",
+      "y_mm": -762.654896442182,
+      "z_mm": 961.0000000179857,
+      "hole_diameter_mm": 4.5,
+      "stud": "M4 weld stud envelope; 9 mm projection"
+    },
+    {
+      "panel": "A_U",
+      "y_mm": -639.827448221091,
+      "z_mm": 829.0000000179857,
+      "hole_diameter_mm": 4.5,
+      "stud": "M4 weld stud envelope; 9 mm projection"
+    },
+    {
+      "panel": "A_U",
+      "y_mm": -639.827448221091,
+      "z_mm": 961.0000000179857,
+      "hole_diameter_mm": 4.5,
+      "stud": "M4 weld stud envelope; 9 mm projection"
+    },
+    {
+      "panel": "A_U",
+      "y_mm": -517.0,
+      "z_mm": 829.0000000179857,
+      "hole_diameter_mm": 4.5,
+      "stud": "M4 weld stud envelope; 9 mm projection"
+    },
+    {
+      "panel": "A_U",
+      "y_mm": -517.0,
+      "z_mm": 961.0000000179857,
+      "hole_diameter_mm": 4.5,
+      "stud": "M4 weld stud envelope; 9 mm projection"
+    },
+    {
+      "panel": "B_L",
+      "y_mm": 102.34510355781285,
+      "z_mm": 494.0000000179856,
+      "hole_diameter_mm": 4.5,
+      "stud": "M4 weld stud envelope; 9 mm projection"
+    },
+    {
+      "panel": "B_L",
+      "y_mm": 102.34510355781285,
+      "z_mm": 626.0000000179856,
+      "hole_diameter_mm": 4.5,
+      "stud": "M4 weld stud envelope; 9 mm projection"
+    },
+    {
+      "panel": "B_L",
+      "y_mm": 225.17255177890644,
+      "z_mm": 494.0000000179856,
+      "hole_diameter_mm": 4.5,
+      "stud": "M4 weld stud envelope; 9 mm projection"
+    },
+    {
+      "panel": "B_L",
+      "y_mm": 225.17255177890644,
+      "z_mm": 626.0000000179856,
+      "hole_diameter_mm": 4.5,
+      "stud": "M4 weld stud envelope; 9 mm projection"
+    },
+    {
+      "panel": "B_L",
+      "y_mm": 348.0,
+      "z_mm": 494.0000000179856,
+      "hole_diameter_mm": 4.5,
+      "stud": "M4 weld stud envelope; 9 mm projection"
+    },
+    {
+      "panel": "B_L",
+      "y_mm": 348.0,
+      "z_mm": 626.0000000179856,
+      "hole_diameter_mm": 4.5,
+      "stud": "M4 weld stud envelope; 9 mm projection"
+    },
+    {
+      "panel": "B_U",
+      "y_mm": 102.34510355781282,
+      "z_mm": 829.0000000179857,
+      "hole_diameter_mm": 4.5,
+      "stud": "M4 weld stud envelope; 9 mm projection"
+    },
+    {
+      "panel": "B_U",
+      "y_mm": 102.34510355781282,
+      "z_mm": 961.0000000179857,
+      "hole_diameter_mm": 4.5,
+      "stud": "M4 weld stud envelope; 9 mm projection"
+    },
+    {
+      "panel": "B_U",
+      "y_mm": 225.1725517789064,
+      "z_mm": 829.0000000179857,
+      "hole_diameter_mm": 4.5,
+      "stud": "M4 weld stud envelope; 9 mm projection"
+    },
+    {
+      "panel": "B_U",
+      "y_mm": 225.1725517789064,
+      "z_mm": 961.0000000179857,
+      "hole_diameter_mm": 4.5,
+      "stud": "M4 weld stud envelope; 9 mm projection"
+    },
+    {
+      "panel": "B_U",
+      "y_mm": 348.0,
+      "z_mm": 829.0000000179857,
+      "hole_diameter_mm": 4.5,
+      "stud": "M4 weld stud envelope; 9 mm projection"
+    },
+    {
+      "panel": "B_U",
+      "y_mm": 348.0,
+      "z_mm": 961.0000000179857,
+      "hole_diameter_mm": 4.5,
+      "stud": "M4 weld stud envelope; 9 mm projection"
+    }
+  ],
+  "unchanged_A_post": true,
+  "inherited_pocket_closures": [
+    {
+      "part": "C10_A_W2_POCKET_FRONT_RETURN",
+      "closed_by_retained_part": "DAMPER_SEAT_A_UPPER_DEEP_O"
+    },
+    {
+      "part": "C10_B_W2_POCKET_FRONT_RETURN",
+      "closed_by_retained_part": "DAMPER_SEAT_B_UPPER_DEEP_O"
+    }
+  ]
+}

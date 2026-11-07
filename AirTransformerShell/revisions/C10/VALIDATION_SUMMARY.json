@@ -1,0 +1,63 @@
+{
+  "revision": "C10",
+  "parent_commit": "918a444",
+  "validation": "PASS for stated geometry scope; prototype detailing candidate",
+  "manufacturing_release": false,
+  "states": {
+    "S1": {
+      "sha256": "55f43f07d34ba2ec186b634673f06bc3efdf6dfdc911c11433e07fd720a67f09",
+      "counts": {
+        "SHELL": 560,
+        "DAMPERS": 244,
+        "HEAT_EXCHANGERS": 2204,
+        "WATER_RACK": 36,
+        "FIRST_SPOOLS": 72
+      },
+      "invalid_parts": 0,
+      "checks_with_hits": [],
+      "minimum_last_100mm_above_fin_top_mm": 99.18001610745046,
+      "maximum_inner_cheek_gap_mm": 0.043402268597674265,
+      "thermal_clearance_mm": [
+        3.650000000000091,
+        "C10_B_W2_POCKET_ROOF",
+        "W2_INSULATION_ADDITIONAL_CROWN/B_W2_25mm_CROWN_ONLY"
+      ],
+      "thermal_to_A_post_mm": [
+        2.0,
+        "F_POST_-600_-825_O",
+        "W2_INSULATION_ADDITIONAL_CROWN/A_W2_25mm_CROWN_ONLY"
+      ]
+    },
+    "S2": {
+      "sha256": "5e547cd158b5c6d3692a940d672a6aa8a1ae074655237abf4ff09e1fbfe0ecff",
+      "counts": {
+        "SHELL": 560,
+        "DAMPERS": 244,
+        "HEAT_EXCHANGERS": 2204,
+        "WATER_RACK": 36,
+        "FIRST_SPOOLS": 72
+      },
+      "invalid_parts": 0,
+      "checks_with_hits": [],
+      "minimum_last_100mm_above_fin_top_mm": 99.18001610745046,
+      "maximum_inner_cheek_gap_mm": 0.043402268597674265,
+      "thermal_clearance_mm": [
+        3.650000000000091,
+        "C10_B_W2_POCKET_ROOF",
+        "W2_INSULATION_ADDITIONAL_CROWN/B_W2_25mm_CROWN_ONLY"
+      ],
+      "thermal_to_A_post_mm": [
+        2.0,
+        "F_POST_-600_-825_O",
+        "W2_INSULATION_ADDITIONAL_CROWN/A_W2_25mm_CROWN_ONLY"
+      ]
+    }
+  },
+  "shell_sha256": "bc7b82ca5a851cf371baa1f6a4760e7a52b8f0d221b1d975f098e56fd74ff1b3",
+  "changed_existing_shell_occurrences": 9,
+  "added_occurrences": 66,
+  "roof_normal_gauge_mm": [
+    1.499999999204082,
+    1.5000000003458378
+  ]
+}

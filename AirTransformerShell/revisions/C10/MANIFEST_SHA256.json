@@ -1,0 +1,150 @@
+{
+  "AirTransformerShell/revisions/C10/.gitattributes": {
+    "sha256": "a1e72811db79560a8f7f365de8f954897d2cea868f51d704319d5d94818d4f1a",
+    "bytes": 130
+  },
+  "AirTransformerShell/revisions/C10/.gitignore": {
+    "sha256": "33b6f2761dad1b1a7471e2e24ad6f9b85a05c47f37df165c5234b898ae796c24",
+    "bytes": 89
+  },
+  "AirTransformerShell/revisions/C10/A_POST_WELD_REGISTER.csv": {
+    "sha256": "0c8255a323ebfa421b527d4575cea6b2a8d53088d422ce7fd4a5eb489b8c93f6",
+    "bytes": 1746
+  },
+  "AirTransformerShell/revisions/C10/C10_STRUCTURE_REVIEW.png": {
+    "sha256": "41a491dcd0e0fbf8f5be76c16304b6be0bdd63a9c39f5d3944ade629a6e2da9b",
+    "bytes": 277029
+  },
+  "AirTransformerShell/revisions/C10/cad/C10_CHANGED_SHEET_AND_GLANDS.step": {
+    "sha256": "060528b13e317a207244c01d0f6364ef9fc6aab655ef250dcd304d06bd570e3c",
+    "bytes": 4001938
+  },
+  "AirTransformerShell/revisions/C10/cad/C10_INSTALLED_S1.step": {
+    "sha256": "55f43f07d34ba2ec186b634673f06bc3efdf6dfdc911c11433e07fd720a67f09",
+    "bytes": 52525914
+  },
+  "AirTransformerShell/revisions/C10/cad/C10_INSTALLED_S2.step": {
+    "sha256": "5e547cd158b5c6d3692a940d672a6aa8a1ae074655237abf4ff09e1fbfe0ecff",
+    "bytes": 52525886
+  },
+  "AirTransformerShell/revisions/C10/cad/C10_SERVICE_AND_THERMAL_REFERENCE.step": {
+    "sha256": "97dd2ad94f20ae9d1464b4f8c0fd4c14c8693baa793a8903805f9da88d32d1c6",
+    "bytes": 21055513
+  },
+  "AirTransformerShell/revisions/C10/cad/C10_SHELL.step": {
+    "sha256": "bc7b82ca5a851cf371baa1f6a4760e7a52b8f0d221b1d975f098e56fd74ff1b3",
+    "bytes": 27105261
+  },
+  "AirTransformerShell/revisions/C10/CHANGED_PARTS.csv": {
+    "sha256": "4d383d7aacfb12f59730045bd0ae61c799daf91af182987a3243aad3e340bbc0",
+    "bytes": 9862
+  },
+  "AirTransformerShell/revisions/C10/evidence/build.json": {
+    "sha256": "e1b03757d3c8de3efa95cf8ad33e8109b34871ce710eae72fbd058aa71f8ee35",
+    "bytes": 394
+  },
+  "AirTransformerShell/revisions/C10/evidence/detail_measurements.json": {
+    "sha256": "cc28529998c751e837b4c4d18f6fefc2d6c761b3e9e738d572e90886352d2ede",
+    "bytes": 2735
+  },
+  "AirTransformerShell/revisions/C10/evidence/development_pass1/retainer_release_failed.json": {
+    "sha256": "c24933f8acc9622069290a649800aec91dcf404379ada84bba4ffb66fa4040d9",
+    "bytes": 3668
+  },
+  "AirTransformerShell/revisions/C10/evidence/development_pass1/shell_preflight.json": {
+    "sha256": "015dac26a8eef03a9bfeadaa75e01135d1b89336533b644a15e770b49da11e85",
+    "bytes": 368
+  },
+  "AirTransformerShell/revisions/C10/evidence/service_overlay_readback.json": {
+    "sha256": "cf97f99aab5074b93e1a770a9eb2611fad3b76918df00a381f9b2c2655d4b6db",
+    "bytes": 800
+  },
+  "AirTransformerShell/revisions/C10/evidence/shell_changes.json": {
+    "sha256": "94222543f163f344a00f4d7d50e2e406d2e1d24b45a2682e1ebf11092fd0a88e",
+    "bytes": 28971
+  },
+  "AirTransformerShell/revisions/C10/evidence/verify_S1.json": {
+    "sha256": "486f2433540027b43f4b85cdea8cbf7fae481db1d1fee3359a039b951e10175c",
+    "bytes": 13815
+  },
+  "AirTransformerShell/revisions/C10/evidence/verify_S2.json": {
+    "sha256": "b7a316b0d30c8904728a23f60675d2ecd458fbdb80d1c7566c8b9bff421e8d17",
+    "bytes": 13816
+  },
+  "AirTransformerShell/revisions/C10/GLAND_FIXINGS.csv": {
+    "sha256": "9547b1d1f1354835987f4f21ddb2dc4670d4b921a4b9e892e63dc9143cd22370",
+    "bytes": 1947
+  },
+  "AirTransformerShell/revisions/C10/inputs/D03_MOTION_AND_SERVICE.zip": {
+    "sha256": "561fea227c63f342b9c7a174fa62a6fa2da2d120eb619721e30f7953f4a376ad",
+    "bytes": 2560336
+  },
+  "AirTransformerShell/revisions/C10/inputs/D04_verified_delta.zip": {
+    "sha256": "9e60a47136e6dc6c28c205020c774ba836b33bf2778a6d10c51ddc18e37241a9",
+    "bytes": 191741
+  },
+  "AirTransformerShell/revisions/C10/INPUTS.json": {
+    "sha256": "13c7cfe353d606015f6d14f0c8ee8b276582476413a928a2fe4f9a04c23acc14",
+    "bytes": 673
+  },
+  "AirTransformerShell/revisions/C10/README_CN.md": {
+    "sha256": "ff302fbe1d0de14f9e7310ac7625e9ed9808916d4ae14d9386060d2b3a91904f",
+    "bytes": 7537
+  },
+  "AirTransformerShell/revisions/C10/RED_TEAM_HANDOFF_EN.md": {
+    "sha256": "c40f73ee23ecedbc2a0f279c8dd3bd1aa2e51b53dce6321cb14c873dab4dcc3f",
+    "bytes": 3814
+  },
+  "AirTransformerShell/revisions/C10/source/build.py": {
+    "sha256": "5c6319ad64b0450eea320ccf079166c092181208dd11ec2a6abe46320f05cf0e",
+    "bytes": 10792
+  },
+  "AirTransformerShell/revisions/C10/source/common.py": {
+    "sha256": "f443a8ee82f95eec3504b54d4e85cf779ac09b697327e3efa5f7bec37135d4ee",
+    "bytes": 4236
+  },
+  "AirTransformerShell/revisions/C10/source/draw.py": {
+    "sha256": "ab7ce903a6b77d1d7f443d6d0ecb2d764786e67b42157b493bf6d9b3b777fb99",
+    "bytes": 3797
+  },
+  "AirTransformerShell/revisions/C10/source/measure_detail.py": {
+    "sha256": "a86fd73a79633fbed864a865b1a07b9f45a8b31a7892b5b76870de35d5b99788",
+    "bytes": 3037
+  },
+  "AirTransformerShell/revisions/C10/source/package.py": {
+    "sha256": "4696efe3fdb93a37cffec876837bdd57ebdd035127525a32fcf1e67f144d43dd",
+    "bytes": 8022
+  },
+  "AirTransformerShell/revisions/C10/source/prepare.py": {
+    "sha256": "cf8f8740efe4e8b7d825f288685441745c6e280ab7e1ed519ed9bc9e2941c6a2",
+    "bytes": 928
+  },
+  "AirTransformerShell/revisions/C10/source/verify.py": {
+    "sha256": "aaae250c19475f5314c99c58c724988bca446db313296a63720b416587c92702",
+    "bytes": 9385
+  },
+  "AirTransformerShell/revisions/C10/source/verify_service.py": {
+    "sha256": "5725f7b27acfb7b2fd38f6b90f7ec33e1bec16030932cf672b3d149fbfb66201",
+    "bytes": 1156
+  },
+  "AirTransformerShell/revisions/C10/source/verify_shell.py": {
+    "sha256": "f0eed5766e17828bd6ec80d3dfac28bfeb34c3a662a09a46ed78d52d867e9acd",
+    "bytes": 1188
+  },
+  "AirTransformerShell/revisions/C10/VALIDATION_SUMMARY.json": {
+    "sha256": "bf280f2bb7821b59fcf4d17967810a97df3e32c680c2d5183d454235c3542a7d",
+    "bytes": 1915
+  },
+  "dampers/c09r1-d04/D04_PIN_W2_REVIEW.zip": {
+    "sha256": "2ee4a5f9503f1e83e0a1e983810de11d1fea27ee4b21b5ad78d000048e28d3e9",
+    "bytes": 15831720
+  },
+  "HX/M101_C08_HORIZONTAL_H01/HX_C08_H01_HYDRONIC_RETURN.zip": {
+    "sha256": "f8384a845b44b1723909b3cbe2a9612b177f9c21ae067ff18a29e9663ff3601b",
+    "bytes": 6196645
+  },
+  "hydronics/H01_HYD_S2/HYD_S2_WATER_DELTA.zip": {
+    "sha256": "ee36e6f10912e25cefab3fdb7aac5b2502eb2796ac54e847f465456c48e547ba",
+    "bytes": 1917960
+  }
+}

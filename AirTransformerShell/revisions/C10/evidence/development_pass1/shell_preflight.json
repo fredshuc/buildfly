@@ -1,0 +1,23 @@
+{
+  "thermal_material": {
+    "candidate_pairs": 4,
+    "hits": []
+  },
+  "thermal_space": {
+    "candidate_pairs": 4,
+    "hits": []
+  },
+  "D04_service": {
+    "candidate_pairs": 0,
+    "hits": []
+  },
+  "H01_service": {
+    "candidate_pairs": 32,
+    "hits": []
+  },
+  "D03_motion_service": {
+    "candidate_pairs": 18,
+    "hits": []
+  },
+  "increased_shell": []
+}

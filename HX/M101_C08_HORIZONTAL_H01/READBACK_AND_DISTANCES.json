@@ -1,0 +1,66 @@
+{
+  "status": "PASS conditional on listed host cuts, upper seat relief and P0 rack trimming",
+  "exported_end_faces_checked": 24,
+  "minimum_distances_mm": {
+    "A_L_W1_C08_original_post_physical": [
+      10.366,
+      "A_L_W1__W1_D35_END_PIPE",
+      "C08_SHEET_METAL_REFERENCE@2"
+    ],
+    "A_L_W1_C08_original_post_service": [
+      2.0,
+      "A_L_W1__WET_BAY_COMMON_BOOT",
+      "C08_SHEET_METAL_REFERENCE@2"
+    ],
+    "A_U_W1_C08_original_post_physical": [
+      10.366,
+      "A_U_W1__W1_D35_END_PIPE",
+      "C08_SHEET_METAL_REFERENCE@2"
+    ],
+    "A_U_W1_C08_original_post_service": [
+      2.0,
+      "A_U_W1__WET_BAY_COMMON_BOOT",
+      "C08_SHEET_METAL_REFERENCE@2"
+    ],
+    "A_U_W1_installed_spool_to_complete_lower": [
+      239.29957,
+      "A_U_W1__FIXED_HX_TAIL",
+      "W2_D35_END_PIPE"
+    ],
+    "A_U_W1_middle_withdrawal_to_complete_lower": [
+      256.96703,
+      "A_U_W1__RETRACT_SLIDE",
+      "W2_D35_END_PIPE"
+    ],
+    "A_U_W2_installed_spool_to_complete_lower": [
+      274.7079,
+      "A_U_W2__HX_RETAINER_0",
+      "W2_VIEGA138875_OEM_LAYOUT_ONLY"
+    ],
+    "A_U_W2_middle_withdrawal_to_complete_lower": [
+      279.59382,
+      "A_U_W2__RETRACT_SLIDE",
+      "W2_VIEGA138875_OEM_LAYOUT_ONLY"
+    ],
+    "B_U_W1_installed_spool_to_complete_lower": [
+      239.29957,
+      "B_U_W1__FIXED_HX_TAIL",
+      "W2_D35_END_PIPE"
+    ],
+    "B_U_W1_middle_withdrawal_to_complete_lower": [
+      256.96703,
+      "B_U_W1__RETRACT_SLIDE",
+      "W2_D35_END_PIPE"
+    ],
+    "B_U_W2_installed_spool_to_complete_lower": [
+      274.7079,
+      "B_U_W2__HX_RETAINER_0",
+      "W2_VIEGA138875_OEM_LAYOUT_ONLY"
+    ],
+    "B_U_W2_middle_withdrawal_to_complete_lower": [
+      279.59382,
+      "B_U_W2__RETRACT_SLIDE",
+      "W2_VIEGA138875_OEM_LAYOUT_ONLY"
+    ]
+  }
+}

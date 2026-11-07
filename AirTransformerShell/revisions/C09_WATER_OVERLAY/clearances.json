@@ -1,0 +1,75 @@
+{
+  "sha256": {
+    "C08_WATER_ISLAND_P0.step": "14f7500e03f76bf46a3a09da987c552e626aff58c5733fbe7041561e435c2d5b",
+    "C08_WATER_SERVICE_P0.step": "bb98b03a57e90718189b4ccc1d30e90a9bde22bd6e395e4fc348ffd15a431e70",
+    "C09_INSTALLED_S1.step": "0edefa1f0aef8d08c57cf9afe0242397d4281d118d162bec97bc7c46589267c9",
+    "C09_INSTALLED_S2.step": "1ca6f75d8edba4001e765a4b46cef5e7605b702896d0c16d86854d83f0e7ab56",
+    "D03_MOTION_AND_SERVICE.step": "499cd9868814c8cf9f5c026c38edbdba36f1c3eef23520187c1f2437b84e4c9d"
+  },
+  "checks": {
+    "S1": {
+      "water": {
+        "minimum_mm": 84.2,
+        "witness": [
+          "C08_WATER_ISLAND_P0/A_END_L/A_END_L",
+          "C09_INSTALLED_S1/SHELL/C09_SHELL/495/STRUCTURE/SKIN_REAR_O/SKIN_REAR_O"
+        ]
+      },
+      "tools": {
+        "minimum_mm": 84.2,
+        "witness": [
+          "C08_WATER_SERVICE_P0/A_L_W1_UNION_TOOL/A_L_W1_UNION_TOOL",
+          "C09_INSTALLED_S1/SHELL/C09_SHELL/495/STRUCTURE/SKIN_REAR_O/SKIN_REAR_O"
+        ]
+      }
+    },
+    "S2": {
+      "water": {
+        "minimum_mm": 84.2,
+        "witness": [
+          "C08_WATER_ISLAND_P0/A_END_L/A_END_L",
+          "C09_INSTALLED_S2/SHELL/C09_SHELL/495/STRUCTURE/SKIN_REAR_O/SKIN_REAR_O"
+        ]
+      },
+      "tools": {
+        "minimum_mm": 84.2,
+        "witness": [
+          "C08_WATER_SERVICE_P0/A_L_W1_UNION_TOOL/A_L_W1_UNION_TOOL",
+          "C09_INSTALLED_S2/SHELL/C09_SHELL/495/STRUCTURE/SKIN_REAR_O/SKIN_REAR_O"
+        ]
+      }
+    },
+    "MOTION": {
+      "water": {
+        "minimum_mm": 344.788,
+        "witness": [
+          "C08_WATER_ISLAND_P0/A_END_U/A_END_U",
+          "D03_MOTION_AND_SERVICE/1194/A_UPPER_MOTION/DAMPER_BLADE_A_UPPER_0_O/DAMPER_BLADE_A_UPPER_0_O"
+        ]
+      },
+      "tools": {
+        "minimum_mm": 326.7846,
+        "witness": [
+          "C08_WATER_SERVICE_P0/A_U_W2_UNION_TOOL/A_U_W2_UNION_TOOL",
+          "D03_MOTION_AND_SERVICE/1194/A_UPPER_MOTION/DAMPER_BLADE_A_UPPER_0_O/DAMPER_BLADE_A_UPPER_0_O"
+        ]
+      }
+    },
+    "SERVICE": {
+      "water": {
+        "minimum_mm": 395.6696,
+        "witness": [
+          "C08_WATER_ISLAND_P0/A_Q_UP_W1/A_Q_UP_W1",
+          "D03_MOTION_AND_SERVICE/1203/A_UPPER_SERVICE/HOOD_PULL_A_UPPER/HOOD_PULL_A_UPPER"
+        ]
+      },
+      "tools": {
+        "minimum_mm": 373.6588,
+        "witness": [
+          "C08_WATER_SERVICE_P0/A_U_W1_UNION_TOOL/A_U_W1_UNION_TOOL",
+          "D03_MOTION_AND_SERVICE/1203/A_UPPER_SERVICE/HOOD_PULL_A_UPPER/HOOD_PULL_A_UPPER"
+        ]
+      }
+    }
+  }
+}

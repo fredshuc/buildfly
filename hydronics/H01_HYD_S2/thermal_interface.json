@@ -1,0 +1,65 @@
+{
+  "A": {
+    "additional_material_bounds_mm": [
+      -576.3416893519341,
+      -829.5161057770889,
+      1141.4999999,
+      -506.9999999,
+      -750.892940366399,
+      1164.8500001
+    ],
+    "clearance_bounds_mm": [
+      -579.3514485061171,
+      -831.7437379442493,
+      1141.4999999,
+      -506.9999999,
+      -748.100205142691,
+      1166.8500001
+    ],
+    "intersected_host": [
+      [
+        "AIR_PROCESS_IN_FLOOR_A_O",
+        1174.261
+      ],
+      [
+        "AIR_PROCESS_IN_WRAP_A_O",
+        970.108
+      ]
+    ],
+    "corner_treatment": {
+      "original_uncropped_budget_intersection_post_mm3": 146.463,
+      "post_to_new_material_min_mm": 2.0,
+      "removed_material_mm3": 170.699,
+      "new_corner_face_to_W2_min_mm": 19.143
+    }
+  },
+  "B": {
+    "additional_material_bounds_mm": [
+      -576.3416893519341,
+      35.483894222906734,
+      1141.4999999,
+      -506.9999999,
+      114.10705963360095,
+      1164.8500001
+    ],
+    "clearance_bounds_mm": [
+      -579.3514485061171,
+      33.256262055746525,
+      1141.4999999,
+      -506.9999999,
+      116.89979485730902,
+      1166.8500001
+    ],
+    "intersected_host": [
+      [
+        "AIR_PROCESS_IN_FLOOR_B_O",
+        4236.044
+      ],
+      [
+        "AIR_PROCESS_IN_WRAP_B_O",
+        1489.572
+      ]
+    ],
+    "corner_treatment": null
+  }
+}

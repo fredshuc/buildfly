@@ -1,0 +1,18 @@
+{
+  "HX/M101_C08_HORIZONTAL_H01/HX_C08_H01_HYDRONIC_RETURN.zip": {
+    "sha256": "f8384a845b44b1723909b3cbe2a9612b177f9c21ae067ff18a29e9663ff3601b",
+    "bytes": 6196645
+  },
+  "hydronics/H01_HYD_S2/HYD_S2_WATER_DELTA.zip": {
+    "sha256": "ee36e6f10912e25cefab3fdb7aac5b2502eb2796ac54e847f465456c48e547ba",
+    "bytes": 1917960
+  },
+  "dampers/c09r1-d04/D04_PIN_W2_REVIEW.zip": {
+    "sha256": "2ee4a5f9503f1e83e0a1e983810de11d1fea27ee4b21b5ad78d000048e28d3e9",
+    "bytes": 15831720
+  },
+  "AirTransformerShell/revisions/C10/inputs/D03_MOTION_AND_SERVICE.zip": {
+    "sha256": "561fea227c63f342b9c7a174fa62a6fa2da2d120eb619721e30f7953f4a376ad",
+    "bytes": 2560336
+  }
+}

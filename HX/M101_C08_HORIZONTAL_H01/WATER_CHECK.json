@@ -1,0 +1,19 @@
+{
+  "H00_nominal_core_L": 10.995722199123207,
+  "H01_nominal_core_L": 11.159677953923858,
+  "H01_series_core_L": 22.319355907847715,
+  "connected_valid_water_solids": 1,
+  "scope": "Ideal ID28 continuation through OEM, ID4 bleed/drain bores, nominal ID27.3 external spools. Valve/FS/Q cavities, stepped spool cavities and local K excluded. This is an inventory and straight-pipe screen.",
+  "per_bed": {
+    "cold": {
+      "per_bed_active_L": 23.188190907847716,
+      "ideal_displacement_s_at_2m3h": 41.73874363412589,
+      "series_connection_pipe_straight_kPa": 0.67803
+    },
+    "hot": {
+      "per_bed_active_L": 23.256090907847714,
+      "ideal_displacement_s_at_2m3h": 41.86096363412589,
+      "series_connection_pipe_straight_kPa": 0.49737000000000003
+    }
+  }
+}

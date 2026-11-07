@@ -1,0 +1,242 @@
+[
+  {
+    "bed": "A",
+    "pair": 1,
+    "point": [
+      -865,
+      -570,
+      560
+    ],
+    "common_face_mm2": 306.619,
+    "bore_probe_diameter_mm": 24.98,
+    "obstructed_mm3": 0.0
+  },
+  {
+    "bed": "A",
+    "pair": 2,
+    "point": [
+      -930,
+      -509.35,
+      644.35
+    ],
+    "common_face_mm2": 306.619,
+    "bore_probe_diameter_mm": 24.98,
+    "obstructed_mm3": 0.0
+  },
+  {
+    "bed": "A",
+    "pair": 3,
+    "point": [
+      -930,
+      -459.35,
+      644.35
+    ],
+    "common_face_mm2": 1632.843,
+    "bore_probe_diameter_mm": 24.98,
+    "obstructed_mm3": 0.0
+  },
+  {
+    "bed": "A",
+    "pair": 4,
+    "point": [
+      -930,
+      -370.65,
+      644.35
+    ],
+    "common_face_mm2": 1632.843,
+    "bore_probe_diameter_mm": 24.98,
+    "obstructed_mm3": 0.0
+  },
+  {
+    "bed": "A",
+    "pair": 5,
+    "point": [
+      -930,
+      -320.65,
+      644.35
+    ],
+    "common_face_mm2": 306.619,
+    "bore_probe_diameter_mm": 24.98,
+    "obstructed_mm3": 0.0
+  },
+  {
+    "bed": "A",
+    "pair": 6,
+    "point": [
+      -824,
+      -615,
+      750.0
+    ],
+    "common_face_mm2": 306.619,
+    "bore_probe_diameter_mm": 24.98,
+    "obstructed_mm3": 0.0
+  },
+  {
+    "bed": "A",
+    "pair": 7,
+    "point": [
+      -824,
+      -665,
+      750.0
+    ],
+    "common_face_mm2": 1552.206,
+    "bore_probe_diameter_mm": 24.98,
+    "obstructed_mm3": 0.0
+  },
+  {
+    "bed": "A",
+    "pair": 8,
+    "point": [
+      -824,
+      -775,
+      750.0
+    ],
+    "common_face_mm2": 1552.206,
+    "bore_probe_diameter_mm": 24.98,
+    "obstructed_mm3": 0.0
+  },
+  {
+    "bed": "A",
+    "pair": 9,
+    "point": [
+      -824,
+      -825,
+      750.0
+    ],
+    "common_face_mm2": 306.619,
+    "bore_probe_diameter_mm": 24.98,
+    "obstructed_mm3": 0.0
+  },
+  {
+    "bed": "A",
+    "pair": 10,
+    "point": [
+      -865,
+      -720,
+      895
+    ],
+    "common_face_mm2": 306.619,
+    "bore_probe_diameter_mm": 24.98,
+    "obstructed_mm3": 0.0
+  },
+  {
+    "bed": "B",
+    "pair": 1,
+    "point": [
+      -865,
+      295,
+      560
+    ],
+    "common_face_mm2": 306.619,
+    "bore_probe_diameter_mm": 24.98,
+    "obstructed_mm3": 0.0
+  },
+  {
+    "bed": "B",
+    "pair": 2,
+    "point": [
+      -930,
+      355.65,
+      644.35
+    ],
+    "common_face_mm2": 306.619,
+    "bore_probe_diameter_mm": 24.98,
+    "obstructed_mm3": 0.0
+  },
+  {
+    "bed": "B",
+    "pair": 3,
+    "point": [
+      -930,
+      405.65,
+      644.35
+    ],
+    "common_face_mm2": 1632.843,
+    "bore_probe_diameter_mm": 24.98,
+    "obstructed_mm3": 0.0
+  },
+  {
+    "bed": "B",
+    "pair": 4,
+    "point": [
+      -930,
+      494.35,
+      644.35
+    ],
+    "common_face_mm2": 1632.843,
+    "bore_probe_diameter_mm": 24.98,
+    "obstructed_mm3": 0.0
+  },
+  {
+    "bed": "B",
+    "pair": 5,
+    "point": [
+      -930,
+      544.35,
+      644.35
+    ],
+    "common_face_mm2": 306.619,
+    "bore_probe_diameter_mm": 24.98,
+    "obstructed_mm3": 0.0
+  },
+  {
+    "bed": "B",
+    "pair": 6,
+    "point": [
+      -824,
+      250,
+      750.0
+    ],
+    "common_face_mm2": 306.619,
+    "bore_probe_diameter_mm": 24.98,
+    "obstructed_mm3": 0.0
+  },
+  {
+    "bed": "B",
+    "pair": 7,
+    "point": [
+      -824,
+      200,
+      750.0
+    ],
+    "common_face_mm2": 1552.206,
+    "bore_probe_diameter_mm": 24.98,
+    "obstructed_mm3": 0.0
+  },
+  {
+    "bed": "B",
+    "pair": 8,
+    "point": [
+      -824,
+      90,
+      750.0
+    ],
+    "common_face_mm2": 1552.206,
+    "bore_probe_diameter_mm": 24.98,
+    "obstructed_mm3": 0.0
+  },
+  {
+    "bed": "B",
+    "pair": 9,
+    "point": [
+      -824,
+      40,
+      750.0
+    ],
+    "common_face_mm2": 306.619,
+    "bore_probe_diameter_mm": 24.98,
+    "obstructed_mm3": 0.0
+  },
+  {
+    "bed": "B",
+    "pair": 10,
+    "point": [
+      -865,
+      145,
+      895
+    ],
+    "common_face_mm2": 306.619,
+    "bore_probe_diameter_mm": 24.98,
+    "obstructed_mm3": 0.0
+  }
+]
