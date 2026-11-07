@@ -1,0 +1,13 @@
+interface,quantity,bound_mm,basis
+FACE_GAP,HX land flatness,0.1,Final H02 proposed land PV; owner qualification remains open
+FACE_GAP,Shell carrier flatness,0.1,"Proposed manufacturing requirement, not measured"
+FACE_GAP,Assembly/hard-stop selection,0.1,Unadjusted allowance; must be measured and shimmed
+FACE_GAP,Carrier elastic screening,0.08435871506108758,"Maximum of Y-edge screen, right strongback plus carrier overhang, and new left-end bearing extension; HX frame deformation still additional/unqualified"
+FACE_GAP,Unadjusted one-sided sum,0.38435871506108754,Exceeds +/-0.25mm qualified installed gap; excludes unqualified HX edge/frame deformation; no automatic tolerance PASS
+FACE_GAP,Permitted qualified gap half-range,0.25,4.20..4.70mm around4.45; measured local gap and load proof required
+THERMAL_X,Relative growth over1040mm,1.4248,Illustrative Al core +70K / steel carrier +20K; thermal field not supplied
+THERMAL_X,Nominal stated travel,1.5,Candidate locator/slide requirement; clamped friction and actual travel not verified
+THERMAL_X,Datum allowance added to thermal example,0.4,"Sensitivity only, not certified tolerance allocation"
+THERMAL_X,Growth plus datum sensitivity,1.8248000000000002,Exceeds1.5mm; thermal slide design remains HOLD
+DAMPER_RELATIVE_FRAME,Operational FE change,0.1053066,Mesh48 linear model relative to gravity-loaded datum; excludes thermal/contact/anchor flexibility
+DAMPER_RELATIVE_FRAME,D05 Shell allocation,0.2,Pinned D05 allocation; separate terms must not be silently absorbed

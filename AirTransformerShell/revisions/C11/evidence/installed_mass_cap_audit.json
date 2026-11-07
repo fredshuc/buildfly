@@ -1,0 +1,31 @@
+{
+  "status": "CONDITIONAL_VOLUME_BASED_UPPER_BOUND",
+  "installed_sha256": "b941c52ab7d094e54d6b50dca9c51c876e00ce4744d8cfc6b05b8976e9ea0d18",
+  "density_all_solids_kg_m3": 9000,
+  "group_solid_mass_upper_kg": {
+    "SHELL": 894.6864046206734,
+    "DAMPERS": 100.15299783014002,
+    "HEAT_EXCHANGERS": 488.5182656964975,
+    "WATER_RACK": 276.314607137734,
+    "FIRST_SPOOLS": 8.422977856466677,
+    "HYD_SUPPORT": 243.802624659872,
+    "THERMAL": 1.0191776814687663
+  },
+  "core_wet_mass_upper_kg": {
+    "A_LOWER": 133.28924437805412,
+    "A_UPPER": 133.28924437805412,
+    "B_LOWER": 133.28924437805412,
+    "B_UPPER": 133.28924437805412
+  },
+  "core_cap_each_kg": 250,
+  "core_caps_within_bound": true,
+  "host_upper_kg_including_all_D05_spools_and_crowns": 911.2653811476972,
+  "host_cap_kg": 1000,
+  "host_cap_within_bound": true,
+  "scope": "All material including foam is conservatively assigned9000kg/m3; volumes of invalid solids remain provisional. Whole HX including service additions belongs to the core cap. Entire first spools are conservatively charged to host. Water rack/HYD support/floor-skid gravity is separate. Actuator10kg each is additional in the frame model, so including D05 actuator volume here is conservative double coverage.",
+  "limitations": [
+    "Actual mixed-material CG and equipment eccentricities are not established",
+    "Measured/BOM mass and floor-skid load reconciliation remain acceptance requirements"
+  ],
+  "invalid_occurrence_count": 0
+}

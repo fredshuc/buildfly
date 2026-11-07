@@ -1,0 +1,104 @@
+{
+  "S1": {
+    "output_sha256": "386aee34e76ff81006bf2f586189f2cba29debc2fa99015b68c8daaf026ed613",
+    "groups": {
+      "SHELL": {
+        "source_basename": "C11_SHELL_DESIGN.step",
+        "sha256": "b21676cd1001354d135bda4db4a6bc1b0059e52aa8ec80c07b1cabcb2f06b987"
+      },
+      "DAMPERS": {
+        "source_basename": "C11_DAMPERS_S1.step",
+        "sha256": "59eb28dddc24a44a420eb5fd39f3f3ed45992bf9e22d7eb87913fbf988f5fe5e"
+      },
+      "HEAT_EXCHANGERS": {
+        "source_basename": "C11_H02_EXPORT_NORMALIZED.step",
+        "sha256": "2a5c868f3d0eee0d78dc2970f61863a2cefd3e5d990211b084840add0a340d2e"
+      },
+      "WATER_RACK": {
+        "source_basename": "S2_RACK.step",
+        "sha256": "93ae532c7650220eb165099383ac5c19275f1f9d024618bd9bf6ef7d67f6eb9a"
+      },
+      "FIRST_SPOOLS": {
+        "source_basename": "H02_EIGHT_FIRST_SPOOLS.step",
+        "sha256": "a0958893565f99eb1fcdc71c3fc5a37acaf3b970ea813a6375ea5af4f2fbf570"
+      },
+      "HYD_SUPPORT": {
+        "source_basename": "C11_HYD_RACK_SUPPORT.step",
+        "sha256": "1224493c9cd4a8ba997c64ef8ef7c766819aa5e4ba99c413009c1efa8937a00b"
+      },
+      "THERMAL": {
+        "source_basename": "W2_ADDITIONAL_INSULATION.step",
+        "sha256": "c30b5aed8f1fe12ce57f81caf380bf1595795fad356a5f2e8eaaad552bb3b388"
+      }
+    },
+    "status": "INTEGRATED_REVIEW_CANDIDATE_NOT_GEOMETRY_ACCEPTED",
+    "excluded_reference_tools": [
+      "H02_HOST_OPENING_TOOLS_REFERENCE",
+      "C11_THERMAL_HOLE_REQUEST",
+      "service and motion envelopes"
+    ],
+    "composition_basis": "Shell replaced; all other source group STEP files preserved byte-identically; full current assembly readback follows",
+    "counts": {
+      "SHELL": 1535,
+      "DAMPERS": 270,
+      "HEAT_EXCHANGERS": 2520,
+      "WATER_RACK": 36,
+      "FIRST_SPOOLS": 160,
+      "HYD_SUPPORT": 611,
+      "THERMAL": 2
+    },
+    "total_occurrences": 5134,
+    "invalid_parts": []
+  },
+  "S2": {
+    "output_sha256": "96bc80174f228a44c6b26e08ba6ef509e496a789504d6449e540128b2296c57c",
+    "groups": {
+      "SHELL": {
+        "source_basename": "C11_SHELL_DESIGN.step",
+        "sha256": "b21676cd1001354d135bda4db4a6bc1b0059e52aa8ec80c07b1cabcb2f06b987"
+      },
+      "DAMPERS": {
+        "source_basename": "C11_DAMPERS_S2.step",
+        "sha256": "f4944670476c8a7ce7a3b57311a9eefdcdfa9f632a1810b072a01d4a1763bdcd"
+      },
+      "HEAT_EXCHANGERS": {
+        "source_basename": "C11_H02_EXPORT_NORMALIZED.step",
+        "sha256": "2a5c868f3d0eee0d78dc2970f61863a2cefd3e5d990211b084840add0a340d2e"
+      },
+      "WATER_RACK": {
+        "source_basename": "S2_RACK.step",
+        "sha256": "93ae532c7650220eb165099383ac5c19275f1f9d024618bd9bf6ef7d67f6eb9a"
+      },
+      "FIRST_SPOOLS": {
+        "source_basename": "H02_EIGHT_FIRST_SPOOLS.step",
+        "sha256": "a0958893565f99eb1fcdc71c3fc5a37acaf3b970ea813a6375ea5af4f2fbf570"
+      },
+      "HYD_SUPPORT": {
+        "source_basename": "C11_HYD_RACK_SUPPORT.step",
+        "sha256": "1224493c9cd4a8ba997c64ef8ef7c766819aa5e4ba99c413009c1efa8937a00b"
+      },
+      "THERMAL": {
+        "source_basename": "W2_ADDITIONAL_INSULATION.step",
+        "sha256": "c30b5aed8f1fe12ce57f81caf380bf1595795fad356a5f2e8eaaad552bb3b388"
+      }
+    },
+    "status": "INTEGRATED_REVIEW_CANDIDATE_NOT_GEOMETRY_ACCEPTED",
+    "excluded_reference_tools": [
+      "H02_HOST_OPENING_TOOLS_REFERENCE",
+      "C11_THERMAL_HOLE_REQUEST",
+      "service and motion envelopes"
+    ],
+    "composition_basis": "Shell replaced; all other source group STEP files preserved byte-identically; full current assembly readback follows",
+    "counts": {
+      "SHELL": 1535,
+      "DAMPERS": 270,
+      "HEAT_EXCHANGERS": 2520,
+      "WATER_RACK": 36,
+      "FIRST_SPOOLS": 160,
+      "HYD_SUPPORT": 611,
+      "THERMAL": 2
+    },
+    "total_occurrences": 5134,
+    "invalid_parts": []
+  }
+}

@@ -1,0 +1,3402 @@
+[
+  {
+    "part": "C11_A_POCKET_FRONT_CLOSURE",
+    "profile_min_global_mm": [
+      -779.5,
+      1143.5
+    ],
+    "normal_axis": 0,
+    "plane_mm": -512.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 2,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_POCKET_FRONT_CLOSURE.dxf",
+      "svg/C11_A_POCKET_FRONT_CLOSURE.svg",
+      "profiles/C11_A_POCKET_FRONT_CLOSURE.json"
+    ]
+  },
+  {
+    "part": "C11_B_POCKET_FRONT_CLOSURE",
+    "profile_min_global_mm": [
+      55.5,
+      1143.5
+    ],
+    "normal_axis": 0,
+    "plane_mm": -512.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 2,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_POCKET_FRONT_CLOSURE.dxf",
+      "svg/C11_B_POCKET_FRONT_CLOSURE.svg",
+      "profiles/C11_B_POCKET_FRONT_CLOSURE.json"
+    ]
+  },
+  {
+    "part": "C11_A_L_GLAND_GUARD_LOW",
+    "profile_min_global_mm": [
+      -768.654896442182,
+      488.00000001798526
+    ],
+    "normal_axis": 0,
+    "plane_mm": -658.8,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 6,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_L_GLAND_GUARD_LOW.dxf",
+      "svg/C11_A_L_GLAND_GUARD_LOW.svg",
+      "profiles/C11_A_L_GLAND_GUARD_LOW.json"
+    ]
+  },
+  {
+    "part": "C11_A_L_GLAND_GUARD_HIGH",
+    "profile_min_global_mm": [
+      -768.654896442182,
+      570.1000000179852
+    ],
+    "normal_axis": 0,
+    "plane_mm": -658.8,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 6,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_L_GLAND_GUARD_HIGH.dxf",
+      "svg/C11_A_L_GLAND_GUARD_HIGH.svg",
+      "profiles/C11_A_L_GLAND_GUARD_HIGH.json"
+    ]
+  },
+  {
+    "part": "C11_A_L_GLAND_BACKER",
+    "profile_min_global_mm": [
+      -768.654896442182,
+      488.00000001798526
+    ],
+    "normal_axis": 0,
+    "plane_mm": -649.3,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 5,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_L_GLAND_BACKER.dxf",
+      "svg/C11_A_L_GLAND_BACKER.svg",
+      "profiles/C11_A_L_GLAND_BACKER.json"
+    ]
+  },
+  {
+    "part": "C11_A_U_GLAND_GUARD_LOW",
+    "profile_min_global_mm": [
+      -768.654896442182,
+      823.0000000179857
+    ],
+    "normal_axis": 0,
+    "plane_mm": -658.8,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 6,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_U_GLAND_GUARD_LOW.dxf",
+      "svg/C11_A_U_GLAND_GUARD_LOW.svg",
+      "profiles/C11_A_U_GLAND_GUARD_LOW.json"
+    ]
+  },
+  {
+    "part": "C11_A_U_GLAND_GUARD_HIGH",
+    "profile_min_global_mm": [
+      -768.654896442182,
+      905.1000000179856
+    ],
+    "normal_axis": 0,
+    "plane_mm": -658.8,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 6,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_U_GLAND_GUARD_HIGH.dxf",
+      "svg/C11_A_U_GLAND_GUARD_HIGH.svg",
+      "profiles/C11_A_U_GLAND_GUARD_HIGH.json"
+    ]
+  },
+  {
+    "part": "C11_A_U_GLAND_BACKER",
+    "profile_min_global_mm": [
+      -768.654896442182,
+      823.0000000179857
+    ],
+    "normal_axis": 0,
+    "plane_mm": -649.3,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 5,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_U_GLAND_BACKER.dxf",
+      "svg/C11_A_U_GLAND_BACKER.svg",
+      "profiles/C11_A_U_GLAND_BACKER.json"
+    ]
+  },
+  {
+    "part": "C11_B_L_GLAND_GUARD_LOW",
+    "profile_min_global_mm": [
+      96.34510355781285,
+      488.0000000179856
+    ],
+    "normal_axis": 0,
+    "plane_mm": -658.8,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 6,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_L_GLAND_GUARD_LOW.dxf",
+      "svg/C11_B_L_GLAND_GUARD_LOW.svg",
+      "profiles/C11_B_L_GLAND_GUARD_LOW.json"
+    ]
+  },
+  {
+    "part": "C11_B_L_GLAND_GUARD_HIGH",
+    "profile_min_global_mm": [
+      96.34510355781285,
+      570.1000000179854
+    ],
+    "normal_axis": 0,
+    "plane_mm": -658.8,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 6,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_L_GLAND_GUARD_HIGH.dxf",
+      "svg/C11_B_L_GLAND_GUARD_HIGH.svg",
+      "profiles/C11_B_L_GLAND_GUARD_HIGH.json"
+    ]
+  },
+  {
+    "part": "C11_B_L_GLAND_BACKER",
+    "profile_min_global_mm": [
+      96.34510355781285,
+      488.0000000179856
+    ],
+    "normal_axis": 0,
+    "plane_mm": -649.3,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 5,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_L_GLAND_BACKER.dxf",
+      "svg/C11_B_L_GLAND_BACKER.svg",
+      "profiles/C11_B_L_GLAND_BACKER.json"
+    ]
+  },
+  {
+    "part": "C11_B_U_GLAND_GUARD_LOW",
+    "profile_min_global_mm": [
+      96.34510355781282,
+      823.0000000179857
+    ],
+    "normal_axis": 0,
+    "plane_mm": -658.8,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 6,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_U_GLAND_GUARD_LOW.dxf",
+      "svg/C11_B_U_GLAND_GUARD_LOW.svg",
+      "profiles/C11_B_U_GLAND_GUARD_LOW.json"
+    ]
+  },
+  {
+    "part": "C11_B_U_GLAND_GUARD_HIGH",
+    "profile_min_global_mm": [
+      96.34510355781282,
+      905.1000000179855
+    ],
+    "normal_axis": 0,
+    "plane_mm": -658.8,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 6,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_U_GLAND_GUARD_HIGH.dxf",
+      "svg/C11_B_U_GLAND_GUARD_HIGH.svg",
+      "profiles/C11_B_U_GLAND_GUARD_HIGH.json"
+    ]
+  },
+  {
+    "part": "C11_B_U_GLAND_BACKER",
+    "profile_min_global_mm": [
+      96.34510355781282,
+      823.0000000179857
+    ],
+    "normal_axis": 0,
+    "plane_mm": -649.3,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 5,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_U_GLAND_BACKER.dxf",
+      "svg/C11_B_U_GLAND_BACKER.svg",
+      "profiles/C11_B_U_GLAND_BACKER.json"
+    ]
+  },
+  {
+    "part": "C11_A_LOWER_FACE_CLAMP_01",
+    "profile_min_global_mm": [
+      -362.0,
+      -775.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_LOWER_FACE_CLAMP_01.dxf",
+      "svg/C11_A_LOWER_FACE_CLAMP_01.svg",
+      "profiles/C11_A_LOWER_FACE_CLAMP_01.json"
+    ]
+  },
+  {
+    "part": "C11_A_LOWER_FACE_CLAMP_02",
+    "profile_min_global_mm": [
+      -362.0,
+      -116.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_LOWER_FACE_CLAMP_02.dxf",
+      "svg/C11_A_LOWER_FACE_CLAMP_02.svg",
+      "profiles/C11_A_LOWER_FACE_CLAMP_02.json"
+    ]
+  },
+  {
+    "part": "C11_A_LOWER_FACE_CLAMP_03",
+    "profile_min_global_mm": [
+      -242.0,
+      -775.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_LOWER_FACE_CLAMP_03.dxf",
+      "svg/C11_A_LOWER_FACE_CLAMP_03.svg",
+      "profiles/C11_A_LOWER_FACE_CLAMP_03.json"
+    ]
+  },
+  {
+    "part": "C11_A_LOWER_FACE_CLAMP_04",
+    "profile_min_global_mm": [
+      -242.0,
+      -116.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_LOWER_FACE_CLAMP_04.dxf",
+      "svg/C11_A_LOWER_FACE_CLAMP_04.svg",
+      "profiles/C11_A_LOWER_FACE_CLAMP_04.json"
+    ]
+  },
+  {
+    "part": "C11_A_LOWER_FACE_CLAMP_05",
+    "profile_min_global_mm": [
+      -122.0,
+      -775.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_LOWER_FACE_CLAMP_05.dxf",
+      "svg/C11_A_LOWER_FACE_CLAMP_05.svg",
+      "profiles/C11_A_LOWER_FACE_CLAMP_05.json"
+    ]
+  },
+  {
+    "part": "C11_A_LOWER_FACE_CLAMP_06",
+    "profile_min_global_mm": [
+      -122.0,
+      -116.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_LOWER_FACE_CLAMP_06.dxf",
+      "svg/C11_A_LOWER_FACE_CLAMP_06.svg",
+      "profiles/C11_A_LOWER_FACE_CLAMP_06.json"
+    ]
+  },
+  {
+    "part": "C11_A_LOWER_FACE_CLAMP_07",
+    "profile_min_global_mm": [
+      -2.0,
+      -775.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_LOWER_FACE_CLAMP_07.dxf",
+      "svg/C11_A_LOWER_FACE_CLAMP_07.svg",
+      "profiles/C11_A_LOWER_FACE_CLAMP_07.json"
+    ]
+  },
+  {
+    "part": "C11_A_LOWER_FACE_CLAMP_08",
+    "profile_min_global_mm": [
+      -2.0,
+      -116.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_LOWER_FACE_CLAMP_08.dxf",
+      "svg/C11_A_LOWER_FACE_CLAMP_08.svg",
+      "profiles/C11_A_LOWER_FACE_CLAMP_08.json"
+    ]
+  },
+  {
+    "part": "C11_A_LOWER_FACE_CLAMP_09",
+    "profile_min_global_mm": [
+      118.0,
+      -775.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_LOWER_FACE_CLAMP_09.dxf",
+      "svg/C11_A_LOWER_FACE_CLAMP_09.svg",
+      "profiles/C11_A_LOWER_FACE_CLAMP_09.json"
+    ]
+  },
+  {
+    "part": "C11_A_LOWER_FACE_CLAMP_10",
+    "profile_min_global_mm": [
+      118.0,
+      -116.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_LOWER_FACE_CLAMP_10.dxf",
+      "svg/C11_A_LOWER_FACE_CLAMP_10.svg",
+      "profiles/C11_A_LOWER_FACE_CLAMP_10.json"
+    ]
+  },
+  {
+    "part": "C11_A_LOWER_FACE_CLAMP_11",
+    "profile_min_global_mm": [
+      238.0,
+      -775.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_LOWER_FACE_CLAMP_11.dxf",
+      "svg/C11_A_LOWER_FACE_CLAMP_11.svg",
+      "profiles/C11_A_LOWER_FACE_CLAMP_11.json"
+    ]
+  },
+  {
+    "part": "C11_A_LOWER_FACE_CLAMP_12",
+    "profile_min_global_mm": [
+      238.0,
+      -116.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_LOWER_FACE_CLAMP_12.dxf",
+      "svg/C11_A_LOWER_FACE_CLAMP_12.svg",
+      "profiles/C11_A_LOWER_FACE_CLAMP_12.json"
+    ]
+  },
+  {
+    "part": "C11_A_LOWER_FACE_CLAMP_13",
+    "profile_min_global_mm": [
+      358.0,
+      -775.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_LOWER_FACE_CLAMP_13.dxf",
+      "svg/C11_A_LOWER_FACE_CLAMP_13.svg",
+      "profiles/C11_A_LOWER_FACE_CLAMP_13.json"
+    ]
+  },
+  {
+    "part": "C11_A_LOWER_FACE_CLAMP_14",
+    "profile_min_global_mm": [
+      358.0,
+      -116.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_LOWER_FACE_CLAMP_14.dxf",
+      "svg/C11_A_LOWER_FACE_CLAMP_14.svg",
+      "profiles/C11_A_LOWER_FACE_CLAMP_14.json"
+    ]
+  },
+  {
+    "part": "C11_A_LOWER_FACE_CLAMP_15",
+    "profile_min_global_mm": [
+      538.0,
+      -775.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_LOWER_FACE_CLAMP_15.dxf",
+      "svg/C11_A_LOWER_FACE_CLAMP_15.svg",
+      "profiles/C11_A_LOWER_FACE_CLAMP_15.json"
+    ]
+  },
+  {
+    "part": "C11_A_LOWER_FACE_CLAMP_16",
+    "profile_min_global_mm": [
+      538.0,
+      -116.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_LOWER_FACE_CLAMP_16.dxf",
+      "svg/C11_A_LOWER_FACE_CLAMP_16.svg",
+      "profiles/C11_A_LOWER_FACE_CLAMP_16.json"
+    ]
+  },
+  {
+    "part": "C11_A_LOWER_FACE_CLAMP_17",
+    "profile_min_global_mm": [
+      -430.0,
+      -775.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 3.5,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_LOWER_FACE_CLAMP_17.dxf",
+      "svg/C11_A_LOWER_FACE_CLAMP_17.svg",
+      "profiles/C11_A_LOWER_FACE_CLAMP_17.json"
+    ]
+  },
+  {
+    "part": "C11_A_LOWER_FACE_LEFT_END_MOUNT_17",
+    "profile_min_global_mm": [
+      -778.5,
+      591.5
+    ],
+    "normal_axis": 0,
+    "plane_mm": -424.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 3,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_LOWER_FACE_LEFT_END_MOUNT_17.dxf",
+      "svg/C11_A_LOWER_FACE_LEFT_END_MOUNT_17.svg",
+      "profiles/C11_A_LOWER_FACE_LEFT_END_MOUNT_17.json"
+    ]
+  },
+  {
+    "part": "C11_A_LOWER_FACE_LEFT_END_BEARING_17",
+    "profile_min_global_mm": [
+      -421.0,
+      -778.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 605.55,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_LOWER_FACE_LEFT_END_BEARING_17.dxf",
+      "svg/C11_A_LOWER_FACE_LEFT_END_BEARING_17.svg",
+      "profiles/C11_A_LOWER_FACE_LEFT_END_BEARING_17.json"
+    ]
+  },
+  {
+    "part": "C11_A_LOWER_FACE_LEFT_END_GUSSET_17_1",
+    "profile_min_global_mm": [
+      -421.0,
+      593.55
+    ],
+    "normal_axis": 1,
+    "plane_mm": -778.5,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 3,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_LOWER_FACE_LEFT_END_GUSSET_17_1.dxf",
+      "svg/C11_A_LOWER_FACE_LEFT_END_GUSSET_17_1.svg",
+      "profiles/C11_A_LOWER_FACE_LEFT_END_GUSSET_17_1.json"
+    ]
+  },
+  {
+    "part": "C11_A_LOWER_FACE_LEFT_END_GUSSET_17_2",
+    "profile_min_global_mm": [
+      -421.0,
+      593.55
+    ],
+    "normal_axis": 1,
+    "plane_mm": -751.5,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 3,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_LOWER_FACE_LEFT_END_GUSSET_17_2.dxf",
+      "svg/C11_A_LOWER_FACE_LEFT_END_GUSSET_17_2.svg",
+      "profiles/C11_A_LOWER_FACE_LEFT_END_GUSSET_17_2.json"
+    ]
+  },
+  {
+    "part": "C11_A_LOWER_FACE_CLAMP_18",
+    "profile_min_global_mm": [
+      600.0,
+      -670.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_LOWER_FACE_CLAMP_18.dxf",
+      "svg/C11_A_LOWER_FACE_CLAMP_18.svg",
+      "profiles/C11_A_LOWER_FACE_CLAMP_18.json"
+    ]
+  },
+  {
+    "part": "C11_A_LOWER_FACE_CLAMP_19",
+    "profile_min_global_mm": [
+      -430.0,
+      -116.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_LOWER_FACE_CLAMP_19.dxf",
+      "svg/C11_A_LOWER_FACE_CLAMP_19.svg",
+      "profiles/C11_A_LOWER_FACE_CLAMP_19.json"
+    ]
+  },
+  {
+    "part": "C11_A_LOWER_FACE_LEFT_END_MOUNT_19",
+    "profile_min_global_mm": [
+      -116.5,
+      591.5
+    ],
+    "normal_axis": 0,
+    "plane_mm": -424.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 3,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_LOWER_FACE_LEFT_END_MOUNT_19.dxf",
+      "svg/C11_A_LOWER_FACE_LEFT_END_MOUNT_19.svg",
+      "profiles/C11_A_LOWER_FACE_LEFT_END_MOUNT_19.json"
+    ]
+  },
+  {
+    "part": "C11_A_LOWER_FACE_LEFT_END_BEARING_19",
+    "profile_min_global_mm": [
+      -421.0,
+      -116.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 605.55,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_LOWER_FACE_LEFT_END_BEARING_19.dxf",
+      "svg/C11_A_LOWER_FACE_LEFT_END_BEARING_19.svg",
+      "profiles/C11_A_LOWER_FACE_LEFT_END_BEARING_19.json"
+    ]
+  },
+  {
+    "part": "C11_A_LOWER_FACE_LEFT_END_GUSSET_19_1",
+    "profile_min_global_mm": [
+      -421.0,
+      593.55
+    ],
+    "normal_axis": 1,
+    "plane_mm": -116.5,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 3,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_LOWER_FACE_LEFT_END_GUSSET_19_1.dxf",
+      "svg/C11_A_LOWER_FACE_LEFT_END_GUSSET_19_1.svg",
+      "profiles/C11_A_LOWER_FACE_LEFT_END_GUSSET_19_1.json"
+    ]
+  },
+  {
+    "part": "C11_A_LOWER_FACE_LEFT_END_GUSSET_19_2",
+    "profile_min_global_mm": [
+      -421.0,
+      593.55
+    ],
+    "normal_axis": 1,
+    "plane_mm": -89.5,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 3,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_LOWER_FACE_LEFT_END_GUSSET_19_2.dxf",
+      "svg/C11_A_LOWER_FACE_LEFT_END_GUSSET_19_2.svg",
+      "profiles/C11_A_LOWER_FACE_LEFT_END_GUSSET_19_2.json"
+    ]
+  },
+  {
+    "part": "C11_A_LOWER_FACE_CLAMP_20",
+    "profile_min_global_mm": [
+      600.0,
+      -218.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_LOWER_FACE_CLAMP_20.dxf",
+      "svg/C11_A_LOWER_FACE_CLAMP_20.svg",
+      "profiles/C11_A_LOWER_FACE_CLAMP_20.json"
+    ]
+  },
+  {
+    "part": "C11_A_LOWER_FACE_CARRIER",
+    "profile_min_global_mm": [
+      -472.0,
+      -780.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 613.55,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 2,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_LOWER_FACE_CARRIER.dxf",
+      "svg/C11_A_LOWER_FACE_CARRIER.svg",
+      "profiles/C11_A_LOWER_FACE_CARRIER.json"
+    ]
+  },
+  {
+    "part": "C11_A_LOWER_FACE_MASK_ADAPTER",
+    "profile_min_global_mm": [
+      -472.0,
+      -780.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 615.55,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 2.45,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_LOWER_FACE_MASK_ADAPTER.dxf",
+      "svg/C11_A_LOWER_FACE_MASK_ADAPTER.svg",
+      "profiles/C11_A_LOWER_FACE_MASK_ADAPTER.json"
+    ]
+  },
+  {
+    "part": "C11_A_UPPER_FACE_CLAMP_01",
+    "profile_min_global_mm": [
+      -362.0,
+      -775.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_UPPER_FACE_CLAMP_01.dxf",
+      "svg/C11_A_UPPER_FACE_CLAMP_01.svg",
+      "profiles/C11_A_UPPER_FACE_CLAMP_01.json"
+    ]
+  },
+  {
+    "part": "C11_A_UPPER_FACE_CLAMP_02",
+    "profile_min_global_mm": [
+      -362.0,
+      -116.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_UPPER_FACE_CLAMP_02.dxf",
+      "svg/C11_A_UPPER_FACE_CLAMP_02.svg",
+      "profiles/C11_A_UPPER_FACE_CLAMP_02.json"
+    ]
+  },
+  {
+    "part": "C11_A_UPPER_FACE_CLAMP_03",
+    "profile_min_global_mm": [
+      -242.0,
+      -775.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_UPPER_FACE_CLAMP_03.dxf",
+      "svg/C11_A_UPPER_FACE_CLAMP_03.svg",
+      "profiles/C11_A_UPPER_FACE_CLAMP_03.json"
+    ]
+  },
+  {
+    "part": "C11_A_UPPER_FACE_CLAMP_04",
+    "profile_min_global_mm": [
+      -242.0,
+      -116.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_UPPER_FACE_CLAMP_04.dxf",
+      "svg/C11_A_UPPER_FACE_CLAMP_04.svg",
+      "profiles/C11_A_UPPER_FACE_CLAMP_04.json"
+    ]
+  },
+  {
+    "part": "C11_A_UPPER_FACE_CLAMP_05",
+    "profile_min_global_mm": [
+      -122.0,
+      -775.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_UPPER_FACE_CLAMP_05.dxf",
+      "svg/C11_A_UPPER_FACE_CLAMP_05.svg",
+      "profiles/C11_A_UPPER_FACE_CLAMP_05.json"
+    ]
+  },
+  {
+    "part": "C11_A_UPPER_FACE_CLAMP_06",
+    "profile_min_global_mm": [
+      -122.0,
+      -116.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_UPPER_FACE_CLAMP_06.dxf",
+      "svg/C11_A_UPPER_FACE_CLAMP_06.svg",
+      "profiles/C11_A_UPPER_FACE_CLAMP_06.json"
+    ]
+  },
+  {
+    "part": "C11_A_UPPER_FACE_CLAMP_07",
+    "profile_min_global_mm": [
+      -2.0,
+      -775.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_UPPER_FACE_CLAMP_07.dxf",
+      "svg/C11_A_UPPER_FACE_CLAMP_07.svg",
+      "profiles/C11_A_UPPER_FACE_CLAMP_07.json"
+    ]
+  },
+  {
+    "part": "C11_A_UPPER_FACE_CLAMP_08",
+    "profile_min_global_mm": [
+      -2.0,
+      -116.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_UPPER_FACE_CLAMP_08.dxf",
+      "svg/C11_A_UPPER_FACE_CLAMP_08.svg",
+      "profiles/C11_A_UPPER_FACE_CLAMP_08.json"
+    ]
+  },
+  {
+    "part": "C11_A_UPPER_FACE_CLAMP_09",
+    "profile_min_global_mm": [
+      118.0,
+      -775.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_UPPER_FACE_CLAMP_09.dxf",
+      "svg/C11_A_UPPER_FACE_CLAMP_09.svg",
+      "profiles/C11_A_UPPER_FACE_CLAMP_09.json"
+    ]
+  },
+  {
+    "part": "C11_A_UPPER_FACE_CLAMP_10",
+    "profile_min_global_mm": [
+      118.0,
+      -116.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_UPPER_FACE_CLAMP_10.dxf",
+      "svg/C11_A_UPPER_FACE_CLAMP_10.svg",
+      "profiles/C11_A_UPPER_FACE_CLAMP_10.json"
+    ]
+  },
+  {
+    "part": "C11_A_UPPER_FACE_CLAMP_11",
+    "profile_min_global_mm": [
+      238.0,
+      -775.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_UPPER_FACE_CLAMP_11.dxf",
+      "svg/C11_A_UPPER_FACE_CLAMP_11.svg",
+      "profiles/C11_A_UPPER_FACE_CLAMP_11.json"
+    ]
+  },
+  {
+    "part": "C11_A_UPPER_FACE_CLAMP_12",
+    "profile_min_global_mm": [
+      238.0,
+      -116.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_UPPER_FACE_CLAMP_12.dxf",
+      "svg/C11_A_UPPER_FACE_CLAMP_12.svg",
+      "profiles/C11_A_UPPER_FACE_CLAMP_12.json"
+    ]
+  },
+  {
+    "part": "C11_A_UPPER_FACE_CLAMP_13",
+    "profile_min_global_mm": [
+      358.0,
+      -775.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_UPPER_FACE_CLAMP_13.dxf",
+      "svg/C11_A_UPPER_FACE_CLAMP_13.svg",
+      "profiles/C11_A_UPPER_FACE_CLAMP_13.json"
+    ]
+  },
+  {
+    "part": "C11_A_UPPER_FACE_CLAMP_14",
+    "profile_min_global_mm": [
+      358.0,
+      -116.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_UPPER_FACE_CLAMP_14.dxf",
+      "svg/C11_A_UPPER_FACE_CLAMP_14.svg",
+      "profiles/C11_A_UPPER_FACE_CLAMP_14.json"
+    ]
+  },
+  {
+    "part": "C11_A_UPPER_FACE_CLAMP_15",
+    "profile_min_global_mm": [
+      538.0,
+      -775.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_UPPER_FACE_CLAMP_15.dxf",
+      "svg/C11_A_UPPER_FACE_CLAMP_15.svg",
+      "profiles/C11_A_UPPER_FACE_CLAMP_15.json"
+    ]
+  },
+  {
+    "part": "C11_A_UPPER_FACE_CLAMP_16",
+    "profile_min_global_mm": [
+      538.0,
+      -116.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_UPPER_FACE_CLAMP_16.dxf",
+      "svg/C11_A_UPPER_FACE_CLAMP_16.svg",
+      "profiles/C11_A_UPPER_FACE_CLAMP_16.json"
+    ]
+  },
+  {
+    "part": "C11_A_UPPER_FACE_CLAMP_17",
+    "profile_min_global_mm": [
+      -430.0,
+      -775.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 3.5,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_UPPER_FACE_CLAMP_17.dxf",
+      "svg/C11_A_UPPER_FACE_CLAMP_17.svg",
+      "profiles/C11_A_UPPER_FACE_CLAMP_17.json"
+    ]
+  },
+  {
+    "part": "C11_A_UPPER_FACE_LEFT_END_MOUNT_17",
+    "profile_min_global_mm": [
+      -778.5,
+      926.5
+    ],
+    "normal_axis": 0,
+    "plane_mm": -424.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 3,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_UPPER_FACE_LEFT_END_MOUNT_17.dxf",
+      "svg/C11_A_UPPER_FACE_LEFT_END_MOUNT_17.svg",
+      "profiles/C11_A_UPPER_FACE_LEFT_END_MOUNT_17.json"
+    ]
+  },
+  {
+    "part": "C11_A_UPPER_FACE_LEFT_END_BEARING_17",
+    "profile_min_global_mm": [
+      -421.0,
+      -778.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 940.55,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_UPPER_FACE_LEFT_END_BEARING_17.dxf",
+      "svg/C11_A_UPPER_FACE_LEFT_END_BEARING_17.svg",
+      "profiles/C11_A_UPPER_FACE_LEFT_END_BEARING_17.json"
+    ]
+  },
+  {
+    "part": "C11_A_UPPER_FACE_LEFT_END_GUSSET_17_1",
+    "profile_min_global_mm": [
+      -421.0,
+      928.55
+    ],
+    "normal_axis": 1,
+    "plane_mm": -778.5,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 3,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_UPPER_FACE_LEFT_END_GUSSET_17_1.dxf",
+      "svg/C11_A_UPPER_FACE_LEFT_END_GUSSET_17_1.svg",
+      "profiles/C11_A_UPPER_FACE_LEFT_END_GUSSET_17_1.json"
+    ]
+  },
+  {
+    "part": "C11_A_UPPER_FACE_LEFT_END_GUSSET_17_2",
+    "profile_min_global_mm": [
+      -421.0,
+      928.55
+    ],
+    "normal_axis": 1,
+    "plane_mm": -751.5,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 3,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_UPPER_FACE_LEFT_END_GUSSET_17_2.dxf",
+      "svg/C11_A_UPPER_FACE_LEFT_END_GUSSET_17_2.svg",
+      "profiles/C11_A_UPPER_FACE_LEFT_END_GUSSET_17_2.json"
+    ]
+  },
+  {
+    "part": "C11_A_UPPER_FACE_CLAMP_18",
+    "profile_min_global_mm": [
+      600.0,
+      -670.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_UPPER_FACE_CLAMP_18.dxf",
+      "svg/C11_A_UPPER_FACE_CLAMP_18.svg",
+      "profiles/C11_A_UPPER_FACE_CLAMP_18.json"
+    ]
+  },
+  {
+    "part": "C11_A_UPPER_FACE_CLAMP_19",
+    "profile_min_global_mm": [
+      -430.0,
+      -116.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_UPPER_FACE_CLAMP_19.dxf",
+      "svg/C11_A_UPPER_FACE_CLAMP_19.svg",
+      "profiles/C11_A_UPPER_FACE_CLAMP_19.json"
+    ]
+  },
+  {
+    "part": "C11_A_UPPER_FACE_LEFT_END_MOUNT_19",
+    "profile_min_global_mm": [
+      -116.5,
+      926.5
+    ],
+    "normal_axis": 0,
+    "plane_mm": -424.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 3,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_UPPER_FACE_LEFT_END_MOUNT_19.dxf",
+      "svg/C11_A_UPPER_FACE_LEFT_END_MOUNT_19.svg",
+      "profiles/C11_A_UPPER_FACE_LEFT_END_MOUNT_19.json"
+    ]
+  },
+  {
+    "part": "C11_A_UPPER_FACE_LEFT_END_BEARING_19",
+    "profile_min_global_mm": [
+      -421.0,
+      -116.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 940.55,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_UPPER_FACE_LEFT_END_BEARING_19.dxf",
+      "svg/C11_A_UPPER_FACE_LEFT_END_BEARING_19.svg",
+      "profiles/C11_A_UPPER_FACE_LEFT_END_BEARING_19.json"
+    ]
+  },
+  {
+    "part": "C11_A_UPPER_FACE_LEFT_END_GUSSET_19_1",
+    "profile_min_global_mm": [
+      -421.0,
+      928.55
+    ],
+    "normal_axis": 1,
+    "plane_mm": -116.5,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 3,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_UPPER_FACE_LEFT_END_GUSSET_19_1.dxf",
+      "svg/C11_A_UPPER_FACE_LEFT_END_GUSSET_19_1.svg",
+      "profiles/C11_A_UPPER_FACE_LEFT_END_GUSSET_19_1.json"
+    ]
+  },
+  {
+    "part": "C11_A_UPPER_FACE_LEFT_END_GUSSET_19_2",
+    "profile_min_global_mm": [
+      -421.0,
+      928.55
+    ],
+    "normal_axis": 1,
+    "plane_mm": -89.5,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 3,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_UPPER_FACE_LEFT_END_GUSSET_19_2.dxf",
+      "svg/C11_A_UPPER_FACE_LEFT_END_GUSSET_19_2.svg",
+      "profiles/C11_A_UPPER_FACE_LEFT_END_GUSSET_19_2.json"
+    ]
+  },
+  {
+    "part": "C11_A_UPPER_FACE_CLAMP_20",
+    "profile_min_global_mm": [
+      600.0,
+      -218.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_UPPER_FACE_CLAMP_20.dxf",
+      "svg/C11_A_UPPER_FACE_CLAMP_20.svg",
+      "profiles/C11_A_UPPER_FACE_CLAMP_20.json"
+    ]
+  },
+  {
+    "part": "C11_A_UPPER_FACE_CARRIER",
+    "profile_min_global_mm": [
+      -472.0,
+      -780.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 948.55,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 2,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_UPPER_FACE_CARRIER.dxf",
+      "svg/C11_A_UPPER_FACE_CARRIER.svg",
+      "profiles/C11_A_UPPER_FACE_CARRIER.json"
+    ]
+  },
+  {
+    "part": "C11_A_UPPER_FACE_MASK_ADAPTER",
+    "profile_min_global_mm": [
+      -472.0,
+      -780.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 950.55,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 2.45,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_UPPER_FACE_MASK_ADAPTER.dxf",
+      "svg/C11_A_UPPER_FACE_MASK_ADAPTER.svg",
+      "profiles/C11_A_UPPER_FACE_MASK_ADAPTER.json"
+    ]
+  },
+  {
+    "part": "C11_B_LOWER_FACE_CLAMP_01",
+    "profile_min_global_mm": [
+      -362.0,
+      89.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_LOWER_FACE_CLAMP_01.dxf",
+      "svg/C11_B_LOWER_FACE_CLAMP_01.svg",
+      "profiles/C11_B_LOWER_FACE_CLAMP_01.json"
+    ]
+  },
+  {
+    "part": "C11_B_LOWER_FACE_CLAMP_02",
+    "profile_min_global_mm": [
+      -362.0,
+      748.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_LOWER_FACE_CLAMP_02.dxf",
+      "svg/C11_B_LOWER_FACE_CLAMP_02.svg",
+      "profiles/C11_B_LOWER_FACE_CLAMP_02.json"
+    ]
+  },
+  {
+    "part": "C11_B_LOWER_FACE_CLAMP_03",
+    "profile_min_global_mm": [
+      -242.0,
+      89.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_LOWER_FACE_CLAMP_03.dxf",
+      "svg/C11_B_LOWER_FACE_CLAMP_03.svg",
+      "profiles/C11_B_LOWER_FACE_CLAMP_03.json"
+    ]
+  },
+  {
+    "part": "C11_B_LOWER_FACE_CLAMP_04",
+    "profile_min_global_mm": [
+      -242.0,
+      748.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_LOWER_FACE_CLAMP_04.dxf",
+      "svg/C11_B_LOWER_FACE_CLAMP_04.svg",
+      "profiles/C11_B_LOWER_FACE_CLAMP_04.json"
+    ]
+  },
+  {
+    "part": "C11_B_LOWER_FACE_CLAMP_05",
+    "profile_min_global_mm": [
+      -122.0,
+      89.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_LOWER_FACE_CLAMP_05.dxf",
+      "svg/C11_B_LOWER_FACE_CLAMP_05.svg",
+      "profiles/C11_B_LOWER_FACE_CLAMP_05.json"
+    ]
+  },
+  {
+    "part": "C11_B_LOWER_FACE_CLAMP_06",
+    "profile_min_global_mm": [
+      -122.0,
+      748.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_LOWER_FACE_CLAMP_06.dxf",
+      "svg/C11_B_LOWER_FACE_CLAMP_06.svg",
+      "profiles/C11_B_LOWER_FACE_CLAMP_06.json"
+    ]
+  },
+  {
+    "part": "C11_B_LOWER_FACE_CLAMP_07",
+    "profile_min_global_mm": [
+      -2.0,
+      89.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_LOWER_FACE_CLAMP_07.dxf",
+      "svg/C11_B_LOWER_FACE_CLAMP_07.svg",
+      "profiles/C11_B_LOWER_FACE_CLAMP_07.json"
+    ]
+  },
+  {
+    "part": "C11_B_LOWER_FACE_CLAMP_08",
+    "profile_min_global_mm": [
+      -2.0,
+      748.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_LOWER_FACE_CLAMP_08.dxf",
+      "svg/C11_B_LOWER_FACE_CLAMP_08.svg",
+      "profiles/C11_B_LOWER_FACE_CLAMP_08.json"
+    ]
+  },
+  {
+    "part": "C11_B_LOWER_FACE_CLAMP_09",
+    "profile_min_global_mm": [
+      118.0,
+      89.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_LOWER_FACE_CLAMP_09.dxf",
+      "svg/C11_B_LOWER_FACE_CLAMP_09.svg",
+      "profiles/C11_B_LOWER_FACE_CLAMP_09.json"
+    ]
+  },
+  {
+    "part": "C11_B_LOWER_FACE_CLAMP_10",
+    "profile_min_global_mm": [
+      118.0,
+      748.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_LOWER_FACE_CLAMP_10.dxf",
+      "svg/C11_B_LOWER_FACE_CLAMP_10.svg",
+      "profiles/C11_B_LOWER_FACE_CLAMP_10.json"
+    ]
+  },
+  {
+    "part": "C11_B_LOWER_FACE_CLAMP_11",
+    "profile_min_global_mm": [
+      238.0,
+      89.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_LOWER_FACE_CLAMP_11.dxf",
+      "svg/C11_B_LOWER_FACE_CLAMP_11.svg",
+      "profiles/C11_B_LOWER_FACE_CLAMP_11.json"
+    ]
+  },
+  {
+    "part": "C11_B_LOWER_FACE_CLAMP_12",
+    "profile_min_global_mm": [
+      238.0,
+      748.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_LOWER_FACE_CLAMP_12.dxf",
+      "svg/C11_B_LOWER_FACE_CLAMP_12.svg",
+      "profiles/C11_B_LOWER_FACE_CLAMP_12.json"
+    ]
+  },
+  {
+    "part": "C11_B_LOWER_FACE_CLAMP_13",
+    "profile_min_global_mm": [
+      358.0,
+      89.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_LOWER_FACE_CLAMP_13.dxf",
+      "svg/C11_B_LOWER_FACE_CLAMP_13.svg",
+      "profiles/C11_B_LOWER_FACE_CLAMP_13.json"
+    ]
+  },
+  {
+    "part": "C11_B_LOWER_FACE_CLAMP_14",
+    "profile_min_global_mm": [
+      358.0,
+      748.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_LOWER_FACE_CLAMP_14.dxf",
+      "svg/C11_B_LOWER_FACE_CLAMP_14.svg",
+      "profiles/C11_B_LOWER_FACE_CLAMP_14.json"
+    ]
+  },
+  {
+    "part": "C11_B_LOWER_FACE_CLAMP_15",
+    "profile_min_global_mm": [
+      538.0,
+      89.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_LOWER_FACE_CLAMP_15.dxf",
+      "svg/C11_B_LOWER_FACE_CLAMP_15.svg",
+      "profiles/C11_B_LOWER_FACE_CLAMP_15.json"
+    ]
+  },
+  {
+    "part": "C11_B_LOWER_FACE_CLAMP_16",
+    "profile_min_global_mm": [
+      538.0,
+      748.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_LOWER_FACE_CLAMP_16.dxf",
+      "svg/C11_B_LOWER_FACE_CLAMP_16.svg",
+      "profiles/C11_B_LOWER_FACE_CLAMP_16.json"
+    ]
+  },
+  {
+    "part": "C11_B_LOWER_FACE_CLAMP_17",
+    "profile_min_global_mm": [
+      -430.0,
+      89.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 3.5,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_LOWER_FACE_CLAMP_17.dxf",
+      "svg/C11_B_LOWER_FACE_CLAMP_17.svg",
+      "profiles/C11_B_LOWER_FACE_CLAMP_17.json"
+    ]
+  },
+  {
+    "part": "C11_B_LOWER_FACE_LEFT_END_MOUNT_17",
+    "profile_min_global_mm": [
+      86.5,
+      591.5
+    ],
+    "normal_axis": 0,
+    "plane_mm": -424.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 3,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_LOWER_FACE_LEFT_END_MOUNT_17.dxf",
+      "svg/C11_B_LOWER_FACE_LEFT_END_MOUNT_17.svg",
+      "profiles/C11_B_LOWER_FACE_LEFT_END_MOUNT_17.json"
+    ]
+  },
+  {
+    "part": "C11_B_LOWER_FACE_LEFT_END_BEARING_17",
+    "profile_min_global_mm": [
+      -421.0,
+      86.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 605.55,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_LOWER_FACE_LEFT_END_BEARING_17.dxf",
+      "svg/C11_B_LOWER_FACE_LEFT_END_BEARING_17.svg",
+      "profiles/C11_B_LOWER_FACE_LEFT_END_BEARING_17.json"
+    ]
+  },
+  {
+    "part": "C11_B_LOWER_FACE_LEFT_END_GUSSET_17_1",
+    "profile_min_global_mm": [
+      -421.0,
+      593.55
+    ],
+    "normal_axis": 1,
+    "plane_mm": 86.5,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 3,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_LOWER_FACE_LEFT_END_GUSSET_17_1.dxf",
+      "svg/C11_B_LOWER_FACE_LEFT_END_GUSSET_17_1.svg",
+      "profiles/C11_B_LOWER_FACE_LEFT_END_GUSSET_17_1.json"
+    ]
+  },
+  {
+    "part": "C11_B_LOWER_FACE_LEFT_END_GUSSET_17_2",
+    "profile_min_global_mm": [
+      -421.0,
+      593.55
+    ],
+    "normal_axis": 1,
+    "plane_mm": 113.5,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 3,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_LOWER_FACE_LEFT_END_GUSSET_17_2.dxf",
+      "svg/C11_B_LOWER_FACE_LEFT_END_GUSSET_17_2.svg",
+      "profiles/C11_B_LOWER_FACE_LEFT_END_GUSSET_17_2.json"
+    ]
+  },
+  {
+    "part": "C11_B_LOWER_FACE_CLAMP_18",
+    "profile_min_global_mm": [
+      600.0,
+      194.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_LOWER_FACE_CLAMP_18.dxf",
+      "svg/C11_B_LOWER_FACE_CLAMP_18.svg",
+      "profiles/C11_B_LOWER_FACE_CLAMP_18.json"
+    ]
+  },
+  {
+    "part": "C11_B_LOWER_FACE_CLAMP_19",
+    "profile_min_global_mm": [
+      -430.0,
+      748.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_LOWER_FACE_CLAMP_19.dxf",
+      "svg/C11_B_LOWER_FACE_CLAMP_19.svg",
+      "profiles/C11_B_LOWER_FACE_CLAMP_19.json"
+    ]
+  },
+  {
+    "part": "C11_B_LOWER_FACE_LEFT_END_MOUNT_19",
+    "profile_min_global_mm": [
+      748.5,
+      591.5
+    ],
+    "normal_axis": 0,
+    "plane_mm": -424.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 3,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_LOWER_FACE_LEFT_END_MOUNT_19.dxf",
+      "svg/C11_B_LOWER_FACE_LEFT_END_MOUNT_19.svg",
+      "profiles/C11_B_LOWER_FACE_LEFT_END_MOUNT_19.json"
+    ]
+  },
+  {
+    "part": "C11_B_LOWER_FACE_LEFT_END_BEARING_19",
+    "profile_min_global_mm": [
+      -421.0,
+      748.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 605.55,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_LOWER_FACE_LEFT_END_BEARING_19.dxf",
+      "svg/C11_B_LOWER_FACE_LEFT_END_BEARING_19.svg",
+      "profiles/C11_B_LOWER_FACE_LEFT_END_BEARING_19.json"
+    ]
+  },
+  {
+    "part": "C11_B_LOWER_FACE_LEFT_END_GUSSET_19_1",
+    "profile_min_global_mm": [
+      -421.0,
+      593.55
+    ],
+    "normal_axis": 1,
+    "plane_mm": 748.5,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 3,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_LOWER_FACE_LEFT_END_GUSSET_19_1.dxf",
+      "svg/C11_B_LOWER_FACE_LEFT_END_GUSSET_19_1.svg",
+      "profiles/C11_B_LOWER_FACE_LEFT_END_GUSSET_19_1.json"
+    ]
+  },
+  {
+    "part": "C11_B_LOWER_FACE_LEFT_END_GUSSET_19_2",
+    "profile_min_global_mm": [
+      -421.0,
+      593.55
+    ],
+    "normal_axis": 1,
+    "plane_mm": 775.5,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 3,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_LOWER_FACE_LEFT_END_GUSSET_19_2.dxf",
+      "svg/C11_B_LOWER_FACE_LEFT_END_GUSSET_19_2.svg",
+      "profiles/C11_B_LOWER_FACE_LEFT_END_GUSSET_19_2.json"
+    ]
+  },
+  {
+    "part": "C11_B_LOWER_FACE_CLAMP_20",
+    "profile_min_global_mm": [
+      600.0,
+      646.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 628.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_LOWER_FACE_CLAMP_20.dxf",
+      "svg/C11_B_LOWER_FACE_CLAMP_20.svg",
+      "profiles/C11_B_LOWER_FACE_CLAMP_20.json"
+    ]
+  },
+  {
+    "part": "C11_B_LOWER_FACE_CARRIER",
+    "profile_min_global_mm": [
+      -472.0,
+      84.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 613.55,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 2,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_LOWER_FACE_CARRIER.dxf",
+      "svg/C11_B_LOWER_FACE_CARRIER.svg",
+      "profiles/C11_B_LOWER_FACE_CARRIER.json"
+    ]
+  },
+  {
+    "part": "C11_B_LOWER_FACE_MASK_ADAPTER",
+    "profile_min_global_mm": [
+      -472.0,
+      84.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 615.55,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 2.45,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_LOWER_FACE_MASK_ADAPTER.dxf",
+      "svg/C11_B_LOWER_FACE_MASK_ADAPTER.svg",
+      "profiles/C11_B_LOWER_FACE_MASK_ADAPTER.json"
+    ]
+  },
+  {
+    "part": "C11_B_UPPER_FACE_CLAMP_01",
+    "profile_min_global_mm": [
+      -362.0,
+      89.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_UPPER_FACE_CLAMP_01.dxf",
+      "svg/C11_B_UPPER_FACE_CLAMP_01.svg",
+      "profiles/C11_B_UPPER_FACE_CLAMP_01.json"
+    ]
+  },
+  {
+    "part": "C11_B_UPPER_FACE_CLAMP_02",
+    "profile_min_global_mm": [
+      -362.0,
+      748.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_UPPER_FACE_CLAMP_02.dxf",
+      "svg/C11_B_UPPER_FACE_CLAMP_02.svg",
+      "profiles/C11_B_UPPER_FACE_CLAMP_02.json"
+    ]
+  },
+  {
+    "part": "C11_B_UPPER_FACE_CLAMP_03",
+    "profile_min_global_mm": [
+      -242.0,
+      89.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_UPPER_FACE_CLAMP_03.dxf",
+      "svg/C11_B_UPPER_FACE_CLAMP_03.svg",
+      "profiles/C11_B_UPPER_FACE_CLAMP_03.json"
+    ]
+  },
+  {
+    "part": "C11_B_UPPER_FACE_CLAMP_04",
+    "profile_min_global_mm": [
+      -242.0,
+      748.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_UPPER_FACE_CLAMP_04.dxf",
+      "svg/C11_B_UPPER_FACE_CLAMP_04.svg",
+      "profiles/C11_B_UPPER_FACE_CLAMP_04.json"
+    ]
+  },
+  {
+    "part": "C11_B_UPPER_FACE_CLAMP_05",
+    "profile_min_global_mm": [
+      -122.0,
+      89.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_UPPER_FACE_CLAMP_05.dxf",
+      "svg/C11_B_UPPER_FACE_CLAMP_05.svg",
+      "profiles/C11_B_UPPER_FACE_CLAMP_05.json"
+    ]
+  },
+  {
+    "part": "C11_B_UPPER_FACE_CLAMP_06",
+    "profile_min_global_mm": [
+      -122.0,
+      748.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_UPPER_FACE_CLAMP_06.dxf",
+      "svg/C11_B_UPPER_FACE_CLAMP_06.svg",
+      "profiles/C11_B_UPPER_FACE_CLAMP_06.json"
+    ]
+  },
+  {
+    "part": "C11_B_UPPER_FACE_CLAMP_07",
+    "profile_min_global_mm": [
+      -2.0,
+      89.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_UPPER_FACE_CLAMP_07.dxf",
+      "svg/C11_B_UPPER_FACE_CLAMP_07.svg",
+      "profiles/C11_B_UPPER_FACE_CLAMP_07.json"
+    ]
+  },
+  {
+    "part": "C11_B_UPPER_FACE_CLAMP_08",
+    "profile_min_global_mm": [
+      -2.0,
+      748.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_UPPER_FACE_CLAMP_08.dxf",
+      "svg/C11_B_UPPER_FACE_CLAMP_08.svg",
+      "profiles/C11_B_UPPER_FACE_CLAMP_08.json"
+    ]
+  },
+  {
+    "part": "C11_B_UPPER_FACE_CLAMP_09",
+    "profile_min_global_mm": [
+      118.0,
+      89.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_UPPER_FACE_CLAMP_09.dxf",
+      "svg/C11_B_UPPER_FACE_CLAMP_09.svg",
+      "profiles/C11_B_UPPER_FACE_CLAMP_09.json"
+    ]
+  },
+  {
+    "part": "C11_B_UPPER_FACE_CLAMP_10",
+    "profile_min_global_mm": [
+      118.0,
+      748.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_UPPER_FACE_CLAMP_10.dxf",
+      "svg/C11_B_UPPER_FACE_CLAMP_10.svg",
+      "profiles/C11_B_UPPER_FACE_CLAMP_10.json"
+    ]
+  },
+  {
+    "part": "C11_B_UPPER_FACE_CLAMP_11",
+    "profile_min_global_mm": [
+      238.0,
+      89.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_UPPER_FACE_CLAMP_11.dxf",
+      "svg/C11_B_UPPER_FACE_CLAMP_11.svg",
+      "profiles/C11_B_UPPER_FACE_CLAMP_11.json"
+    ]
+  },
+  {
+    "part": "C11_B_UPPER_FACE_CLAMP_12",
+    "profile_min_global_mm": [
+      238.0,
+      748.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_UPPER_FACE_CLAMP_12.dxf",
+      "svg/C11_B_UPPER_FACE_CLAMP_12.svg",
+      "profiles/C11_B_UPPER_FACE_CLAMP_12.json"
+    ]
+  },
+  {
+    "part": "C11_B_UPPER_FACE_CLAMP_13",
+    "profile_min_global_mm": [
+      358.0,
+      89.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_UPPER_FACE_CLAMP_13.dxf",
+      "svg/C11_B_UPPER_FACE_CLAMP_13.svg",
+      "profiles/C11_B_UPPER_FACE_CLAMP_13.json"
+    ]
+  },
+  {
+    "part": "C11_B_UPPER_FACE_CLAMP_14",
+    "profile_min_global_mm": [
+      358.0,
+      748.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_UPPER_FACE_CLAMP_14.dxf",
+      "svg/C11_B_UPPER_FACE_CLAMP_14.svg",
+      "profiles/C11_B_UPPER_FACE_CLAMP_14.json"
+    ]
+  },
+  {
+    "part": "C11_B_UPPER_FACE_CLAMP_15",
+    "profile_min_global_mm": [
+      538.0,
+      89.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_UPPER_FACE_CLAMP_15.dxf",
+      "svg/C11_B_UPPER_FACE_CLAMP_15.svg",
+      "profiles/C11_B_UPPER_FACE_CLAMP_15.json"
+    ]
+  },
+  {
+    "part": "C11_B_UPPER_FACE_CLAMP_16",
+    "profile_min_global_mm": [
+      538.0,
+      748.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_UPPER_FACE_CLAMP_16.dxf",
+      "svg/C11_B_UPPER_FACE_CLAMP_16.svg",
+      "profiles/C11_B_UPPER_FACE_CLAMP_16.json"
+    ]
+  },
+  {
+    "part": "C11_B_UPPER_FACE_CLAMP_17",
+    "profile_min_global_mm": [
+      -430.0,
+      89.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 3.5,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_UPPER_FACE_CLAMP_17.dxf",
+      "svg/C11_B_UPPER_FACE_CLAMP_17.svg",
+      "profiles/C11_B_UPPER_FACE_CLAMP_17.json"
+    ]
+  },
+  {
+    "part": "C11_B_UPPER_FACE_LEFT_END_MOUNT_17",
+    "profile_min_global_mm": [
+      86.5,
+      926.5
+    ],
+    "normal_axis": 0,
+    "plane_mm": -424.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 3,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_UPPER_FACE_LEFT_END_MOUNT_17.dxf",
+      "svg/C11_B_UPPER_FACE_LEFT_END_MOUNT_17.svg",
+      "profiles/C11_B_UPPER_FACE_LEFT_END_MOUNT_17.json"
+    ]
+  },
+  {
+    "part": "C11_B_UPPER_FACE_LEFT_END_BEARING_17",
+    "profile_min_global_mm": [
+      -421.0,
+      86.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 940.55,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_UPPER_FACE_LEFT_END_BEARING_17.dxf",
+      "svg/C11_B_UPPER_FACE_LEFT_END_BEARING_17.svg",
+      "profiles/C11_B_UPPER_FACE_LEFT_END_BEARING_17.json"
+    ]
+  },
+  {
+    "part": "C11_B_UPPER_FACE_LEFT_END_GUSSET_17_1",
+    "profile_min_global_mm": [
+      -421.0,
+      928.55
+    ],
+    "normal_axis": 1,
+    "plane_mm": 86.5,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 3,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_UPPER_FACE_LEFT_END_GUSSET_17_1.dxf",
+      "svg/C11_B_UPPER_FACE_LEFT_END_GUSSET_17_1.svg",
+      "profiles/C11_B_UPPER_FACE_LEFT_END_GUSSET_17_1.json"
+    ]
+  },
+  {
+    "part": "C11_B_UPPER_FACE_LEFT_END_GUSSET_17_2",
+    "profile_min_global_mm": [
+      -421.0,
+      928.55
+    ],
+    "normal_axis": 1,
+    "plane_mm": 113.5,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 3,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_UPPER_FACE_LEFT_END_GUSSET_17_2.dxf",
+      "svg/C11_B_UPPER_FACE_LEFT_END_GUSSET_17_2.svg",
+      "profiles/C11_B_UPPER_FACE_LEFT_END_GUSSET_17_2.json"
+    ]
+  },
+  {
+    "part": "C11_B_UPPER_FACE_CLAMP_18",
+    "profile_min_global_mm": [
+      600.0,
+      194.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_UPPER_FACE_CLAMP_18.dxf",
+      "svg/C11_B_UPPER_FACE_CLAMP_18.svg",
+      "profiles/C11_B_UPPER_FACE_CLAMP_18.json"
+    ]
+  },
+  {
+    "part": "C11_B_UPPER_FACE_CLAMP_19",
+    "profile_min_global_mm": [
+      -430.0,
+      748.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_UPPER_FACE_CLAMP_19.dxf",
+      "svg/C11_B_UPPER_FACE_CLAMP_19.svg",
+      "profiles/C11_B_UPPER_FACE_CLAMP_19.json"
+    ]
+  },
+  {
+    "part": "C11_B_UPPER_FACE_LEFT_END_MOUNT_19",
+    "profile_min_global_mm": [
+      748.5,
+      926.5
+    ],
+    "normal_axis": 0,
+    "plane_mm": -424.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 3,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_UPPER_FACE_LEFT_END_MOUNT_19.dxf",
+      "svg/C11_B_UPPER_FACE_LEFT_END_MOUNT_19.svg",
+      "profiles/C11_B_UPPER_FACE_LEFT_END_MOUNT_19.json"
+    ]
+  },
+  {
+    "part": "C11_B_UPPER_FACE_LEFT_END_BEARING_19",
+    "profile_min_global_mm": [
+      -421.0,
+      748.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 940.55,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_UPPER_FACE_LEFT_END_BEARING_19.dxf",
+      "svg/C11_B_UPPER_FACE_LEFT_END_BEARING_19.svg",
+      "profiles/C11_B_UPPER_FACE_LEFT_END_BEARING_19.json"
+    ]
+  },
+  {
+    "part": "C11_B_UPPER_FACE_LEFT_END_GUSSET_19_1",
+    "profile_min_global_mm": [
+      -421.0,
+      928.55
+    ],
+    "normal_axis": 1,
+    "plane_mm": 748.5,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 3,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_UPPER_FACE_LEFT_END_GUSSET_19_1.dxf",
+      "svg/C11_B_UPPER_FACE_LEFT_END_GUSSET_19_1.svg",
+      "profiles/C11_B_UPPER_FACE_LEFT_END_GUSSET_19_1.json"
+    ]
+  },
+  {
+    "part": "C11_B_UPPER_FACE_LEFT_END_GUSSET_19_2",
+    "profile_min_global_mm": [
+      -421.0,
+      928.55
+    ],
+    "normal_axis": 1,
+    "plane_mm": 775.5,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 3,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_UPPER_FACE_LEFT_END_GUSSET_19_2.dxf",
+      "svg/C11_B_UPPER_FACE_LEFT_END_GUSSET_19_2.svg",
+      "profiles/C11_B_UPPER_FACE_LEFT_END_GUSSET_19_2.json"
+    ]
+  },
+  {
+    "part": "C11_B_UPPER_FACE_CLAMP_20",
+    "profile_min_global_mm": [
+      600.0,
+      646.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 963.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_UPPER_FACE_CLAMP_20.dxf",
+      "svg/C11_B_UPPER_FACE_CLAMP_20.svg",
+      "profiles/C11_B_UPPER_FACE_CLAMP_20.json"
+    ]
+  },
+  {
+    "part": "C11_B_UPPER_FACE_CARRIER",
+    "profile_min_global_mm": [
+      -472.0,
+      84.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 948.55,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 2,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_UPPER_FACE_CARRIER.dxf",
+      "svg/C11_B_UPPER_FACE_CARRIER.svg",
+      "profiles/C11_B_UPPER_FACE_CARRIER.json"
+    ]
+  },
+  {
+    "part": "C11_B_UPPER_FACE_MASK_ADAPTER",
+    "profile_min_global_mm": [
+      -472.0,
+      84.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 950.55,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 2.45,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_UPPER_FACE_MASK_ADAPTER.dxf",
+      "svg/C11_B_UPPER_FACE_MASK_ADAPTER.svg",
+      "profiles/C11_B_UPPER_FACE_MASK_ADAPTER.json"
+    ]
+  },
+  {
+    "part": "C11_A_DISTRIBUTION_OPEN_CASSETTE",
+    "profile_min_global_mm": [
+      -430.0,
+      -748.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 579.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 3,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_DISTRIBUTION_OPEN_CASSETTE.dxf",
+      "svg/C11_A_DISTRIBUTION_OPEN_CASSETTE.svg",
+      "profiles/C11_A_DISTRIBUTION_OPEN_CASSETTE.json"
+    ]
+  },
+  {
+    "part": "C11_A_DISTRIBUTION_SUPPORT_OUT_1",
+    "profile_min_global_mm": [
+      -440.0,
+      -818.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 559.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 6,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_DISTRIBUTION_SUPPORT_OUT_1.dxf",
+      "svg/C11_A_DISTRIBUTION_SUPPORT_OUT_1.svg",
+      "profiles/C11_A_DISTRIBUTION_SUPPORT_OUT_1.json"
+    ]
+  },
+  {
+    "part": "C11_A_DISTRIBUTION_SUPPORT_OUT_2",
+    "profile_min_global_mm": [
+      -135.0,
+      -818.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 559.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 6,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_DISTRIBUTION_SUPPORT_OUT_2.dxf",
+      "svg/C11_A_DISTRIBUTION_SUPPORT_OUT_2.svg",
+      "profiles/C11_A_DISTRIBUTION_SUPPORT_OUT_2.json"
+    ]
+  },
+  {
+    "part": "C11_A_DISTRIBUTION_SUPPORT_OUT_3",
+    "profile_min_global_mm": [
+      170.0,
+      -818.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 559.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 6,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_DISTRIBUTION_SUPPORT_OUT_3.dxf",
+      "svg/C11_A_DISTRIBUTION_SUPPORT_OUT_3.svg",
+      "profiles/C11_A_DISTRIBUTION_SUPPORT_OUT_3.json"
+    ]
+  },
+  {
+    "part": "C11_A_DISTRIBUTION_SUPPORT_OUT_4",
+    "profile_min_global_mm": [
+      495.0,
+      -818.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 559.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 6,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_DISTRIBUTION_SUPPORT_OUT_4.dxf",
+      "svg/C11_A_DISTRIBUTION_SUPPORT_OUT_4.svg",
+      "profiles/C11_A_DISTRIBUTION_SUPPORT_OUT_4.json"
+    ]
+  },
+  {
+    "part": "C11_A_DISTRIBUTION_SUPPORT_IN_1",
+    "profile_min_global_mm": [
+      -440.0,
+      -116.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 559.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 6,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_DISTRIBUTION_SUPPORT_IN_1.dxf",
+      "svg/C11_A_DISTRIBUTION_SUPPORT_IN_1.svg",
+      "profiles/C11_A_DISTRIBUTION_SUPPORT_IN_1.json"
+    ]
+  },
+  {
+    "part": "C11_A_DISTRIBUTION_SUPPORT_IN_2",
+    "profile_min_global_mm": [
+      -135.0,
+      -116.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 559.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 6,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_DISTRIBUTION_SUPPORT_IN_2.dxf",
+      "svg/C11_A_DISTRIBUTION_SUPPORT_IN_2.svg",
+      "profiles/C11_A_DISTRIBUTION_SUPPORT_IN_2.json"
+    ]
+  },
+  {
+    "part": "C11_A_DISTRIBUTION_SUPPORT_IN_3",
+    "profile_min_global_mm": [
+      170.0,
+      -116.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 559.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 6,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_DISTRIBUTION_SUPPORT_IN_3.dxf",
+      "svg/C11_A_DISTRIBUTION_SUPPORT_IN_3.svg",
+      "profiles/C11_A_DISTRIBUTION_SUPPORT_IN_3.json"
+    ]
+  },
+  {
+    "part": "C11_A_DISTRIBUTION_SUPPORT_IN_4",
+    "profile_min_global_mm": [
+      495.0,
+      -116.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 559.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 6,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_DISTRIBUTION_SUPPORT_IN_4.dxf",
+      "svg/C11_A_DISTRIBUTION_SUPPORT_IN_4.svg",
+      "profiles/C11_A_DISTRIBUTION_SUPPORT_IN_4.json"
+    ]
+  },
+  {
+    "part": "C11_B_DISTRIBUTION_OPEN_CASSETTE",
+    "profile_min_global_mm": [
+      -430.0,
+      116.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 579.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 3,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_DISTRIBUTION_OPEN_CASSETTE.dxf",
+      "svg/C11_B_DISTRIBUTION_OPEN_CASSETTE.svg",
+      "profiles/C11_B_DISTRIBUTION_OPEN_CASSETTE.json"
+    ]
+  },
+  {
+    "part": "C11_B_DISTRIBUTION_SUPPORT_OUT_1",
+    "profile_min_global_mm": [
+      -440.0,
+      20.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 559.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 6,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_DISTRIBUTION_SUPPORT_OUT_1.dxf",
+      "svg/C11_B_DISTRIBUTION_SUPPORT_OUT_1.svg",
+      "profiles/C11_B_DISTRIBUTION_SUPPORT_OUT_1.json"
+    ]
+  },
+  {
+    "part": "C11_B_DISTRIBUTION_SUPPORT_OUT_2",
+    "profile_min_global_mm": [
+      -135.0,
+      20.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 559.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 6,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_DISTRIBUTION_SUPPORT_OUT_2.dxf",
+      "svg/C11_B_DISTRIBUTION_SUPPORT_OUT_2.svg",
+      "profiles/C11_B_DISTRIBUTION_SUPPORT_OUT_2.json"
+    ]
+  },
+  {
+    "part": "C11_B_DISTRIBUTION_SUPPORT_OUT_3",
+    "profile_min_global_mm": [
+      170.0,
+      20.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 559.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 6,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_DISTRIBUTION_SUPPORT_OUT_3.dxf",
+      "svg/C11_B_DISTRIBUTION_SUPPORT_OUT_3.svg",
+      "profiles/C11_B_DISTRIBUTION_SUPPORT_OUT_3.json"
+    ]
+  },
+  {
+    "part": "C11_B_DISTRIBUTION_SUPPORT_OUT_4",
+    "profile_min_global_mm": [
+      495.0,
+      20.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 559.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 6,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_DISTRIBUTION_SUPPORT_OUT_4.dxf",
+      "svg/C11_B_DISTRIBUTION_SUPPORT_OUT_4.svg",
+      "profiles/C11_B_DISTRIBUTION_SUPPORT_OUT_4.json"
+    ]
+  },
+  {
+    "part": "C11_B_DISTRIBUTION_SUPPORT_IN_1",
+    "profile_min_global_mm": [
+      -440.0,
+      748.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 559.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 6,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_DISTRIBUTION_SUPPORT_IN_1.dxf",
+      "svg/C11_B_DISTRIBUTION_SUPPORT_IN_1.svg",
+      "profiles/C11_B_DISTRIBUTION_SUPPORT_IN_1.json"
+    ]
+  },
+  {
+    "part": "C11_B_DISTRIBUTION_SUPPORT_IN_2",
+    "profile_min_global_mm": [
+      -135.0,
+      748.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 559.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 6,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_DISTRIBUTION_SUPPORT_IN_2.dxf",
+      "svg/C11_B_DISTRIBUTION_SUPPORT_IN_2.svg",
+      "profiles/C11_B_DISTRIBUTION_SUPPORT_IN_2.json"
+    ]
+  },
+  {
+    "part": "C11_B_DISTRIBUTION_SUPPORT_IN_3",
+    "profile_min_global_mm": [
+      170.0,
+      748.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 559.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 6,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_DISTRIBUTION_SUPPORT_IN_3.dxf",
+      "svg/C11_B_DISTRIBUTION_SUPPORT_IN_3.svg",
+      "profiles/C11_B_DISTRIBUTION_SUPPORT_IN_3.json"
+    ]
+  },
+  {
+    "part": "C11_B_DISTRIBUTION_SUPPORT_IN_4",
+    "profile_min_global_mm": [
+      495.0,
+      748.5
+    ],
+    "normal_axis": 2,
+    "plane_mm": 559.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 6,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_DISTRIBUTION_SUPPORT_IN_4.dxf",
+      "svg/C11_B_DISTRIBUTION_SUPPORT_IN_4.svg",
+      "profiles/C11_B_DISTRIBUTION_SUPPORT_IN_4.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F1_-45_-30_TOP_WASHER",
+    "profile_min_global_mm": [
+      -1717.0,
+      -1228.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 132.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 18,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F1_-45_-30_TOP_WASHER.dxf",
+      "svg/C11_HYD_F1_-45_-30_TOP_WASHER.svg",
+      "profiles/C11_HYD_F1_-45_-30_TOP_WASHER.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F1_-45_30_TOP_WASHER",
+    "profile_min_global_mm": [
+      -1717.0,
+      -1168.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 132.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 18,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F1_-45_30_TOP_WASHER.dxf",
+      "svg/C11_HYD_F1_-45_30_TOP_WASHER.svg",
+      "profiles/C11_HYD_F1_-45_30_TOP_WASHER.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F1_45_-30_TOP_WASHER",
+    "profile_min_global_mm": [
+      -1627.0,
+      -1228.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 132.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 18,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F1_45_-30_TOP_WASHER.dxf",
+      "svg/C11_HYD_F1_45_-30_TOP_WASHER.svg",
+      "profiles/C11_HYD_F1_45_-30_TOP_WASHER.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F1_45_30_TOP_WASHER",
+    "profile_min_global_mm": [
+      -1627.0,
+      -1168.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 132.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 18,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F1_45_30_TOP_WASHER.dxf",
+      "svg/C11_HYD_F1_45_30_TOP_WASHER.svg",
+      "profiles/C11_HYD_F1_45_30_TOP_WASHER.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F1_TOP_PLATE",
+    "profile_min_global_mm": [
+      -1740.0,
+      -1250.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 114.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F1_TOP_PLATE.dxf",
+      "svg/C11_HYD_F1_TOP_PLATE.svg",
+      "profiles/C11_HYD_F1_TOP_PLATE.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F1_FLOOR_PAD",
+    "profile_min_global_mm": [
+      -1740.0,
+      -1250.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 26.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F1_FLOOR_PAD.dxf",
+      "svg/C11_HYD_F1_FLOOR_PAD.svg",
+      "profiles/C11_HYD_F1_FLOOR_PAD.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F2_-45_-30_TOP_WASHER",
+    "profile_min_global_mm": [
+      -1717.0,
+      -148.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 132.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 18,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F2_-45_-30_TOP_WASHER.dxf",
+      "svg/C11_HYD_F2_-45_-30_TOP_WASHER.svg",
+      "profiles/C11_HYD_F2_-45_-30_TOP_WASHER.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F2_-45_30_TOP_WASHER",
+    "profile_min_global_mm": [
+      -1717.0,
+      -88.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 132.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 18,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F2_-45_30_TOP_WASHER.dxf",
+      "svg/C11_HYD_F2_-45_30_TOP_WASHER.svg",
+      "profiles/C11_HYD_F2_-45_30_TOP_WASHER.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F2_45_-30_TOP_WASHER",
+    "profile_min_global_mm": [
+      -1627.0,
+      -148.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 132.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 18,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F2_45_-30_TOP_WASHER.dxf",
+      "svg/C11_HYD_F2_45_-30_TOP_WASHER.svg",
+      "profiles/C11_HYD_F2_45_-30_TOP_WASHER.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F2_45_30_TOP_WASHER",
+    "profile_min_global_mm": [
+      -1627.0,
+      -88.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 132.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 18,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F2_45_30_TOP_WASHER.dxf",
+      "svg/C11_HYD_F2_45_30_TOP_WASHER.svg",
+      "profiles/C11_HYD_F2_45_30_TOP_WASHER.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F2_TOP_PLATE",
+    "profile_min_global_mm": [
+      -1740.0,
+      -170.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 114.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F2_TOP_PLATE.dxf",
+      "svg/C11_HYD_F2_TOP_PLATE.svg",
+      "profiles/C11_HYD_F2_TOP_PLATE.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F2_FLOOR_PAD",
+    "profile_min_global_mm": [
+      -1740.0,
+      -170.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 26.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F2_FLOOR_PAD.dxf",
+      "svg/C11_HYD_F2_FLOOR_PAD.svg",
+      "profiles/C11_HYD_F2_FLOOR_PAD.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F3_-45_-30_TOP_WASHER",
+    "profile_min_global_mm": [
+      -1717.0,
+      632.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 132.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 18,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F3_-45_-30_TOP_WASHER.dxf",
+      "svg/C11_HYD_F3_-45_-30_TOP_WASHER.svg",
+      "profiles/C11_HYD_F3_-45_-30_TOP_WASHER.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F3_-45_30_TOP_WASHER",
+    "profile_min_global_mm": [
+      -1717.0,
+      692.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 132.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 18,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F3_-45_30_TOP_WASHER.dxf",
+      "svg/C11_HYD_F3_-45_30_TOP_WASHER.svg",
+      "profiles/C11_HYD_F3_-45_30_TOP_WASHER.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F3_45_-30_TOP_WASHER",
+    "profile_min_global_mm": [
+      -1627.0,
+      632.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 132.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 18,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F3_45_-30_TOP_WASHER.dxf",
+      "svg/C11_HYD_F3_45_-30_TOP_WASHER.svg",
+      "profiles/C11_HYD_F3_45_-30_TOP_WASHER.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F3_45_30_TOP_WASHER",
+    "profile_min_global_mm": [
+      -1627.0,
+      692.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 132.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 18,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F3_45_30_TOP_WASHER.dxf",
+      "svg/C11_HYD_F3_45_30_TOP_WASHER.svg",
+      "profiles/C11_HYD_F3_45_30_TOP_WASHER.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F3_TOP_PLATE",
+    "profile_min_global_mm": [
+      -1740.0,
+      610.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 114.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F3_TOP_PLATE.dxf",
+      "svg/C11_HYD_F3_TOP_PLATE.svg",
+      "profiles/C11_HYD_F3_TOP_PLATE.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F3_FLOOR_PAD",
+    "profile_min_global_mm": [
+      -1740.0,
+      610.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 26.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F3_FLOOR_PAD.dxf",
+      "svg/C11_HYD_F3_FLOOR_PAD.svg",
+      "profiles/C11_HYD_F3_FLOOR_PAD.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F4_-45_-30_TOP_WASHER",
+    "profile_min_global_mm": [
+      -837.0,
+      -1228.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 132.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 18,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F4_-45_-30_TOP_WASHER.dxf",
+      "svg/C11_HYD_F4_-45_-30_TOP_WASHER.svg",
+      "profiles/C11_HYD_F4_-45_-30_TOP_WASHER.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F4_-45_30_TOP_WASHER",
+    "profile_min_global_mm": [
+      -837.0,
+      -1168.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 132.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 18,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F4_-45_30_TOP_WASHER.dxf",
+      "svg/C11_HYD_F4_-45_30_TOP_WASHER.svg",
+      "profiles/C11_HYD_F4_-45_30_TOP_WASHER.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F4_45_-30_TOP_WASHER",
+    "profile_min_global_mm": [
+      -747.0,
+      -1228.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 132.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 18,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F4_45_-30_TOP_WASHER.dxf",
+      "svg/C11_HYD_F4_45_-30_TOP_WASHER.svg",
+      "profiles/C11_HYD_F4_45_-30_TOP_WASHER.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F4_45_30_TOP_WASHER",
+    "profile_min_global_mm": [
+      -747.0,
+      -1168.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 132.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 18,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F4_45_30_TOP_WASHER.dxf",
+      "svg/C11_HYD_F4_45_30_TOP_WASHER.svg",
+      "profiles/C11_HYD_F4_45_30_TOP_WASHER.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F4_TOP_PLATE",
+    "profile_min_global_mm": [
+      -860.0,
+      -1250.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 114.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F4_TOP_PLATE.dxf",
+      "svg/C11_HYD_F4_TOP_PLATE.svg",
+      "profiles/C11_HYD_F4_TOP_PLATE.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F4_FLOOR_PAD",
+    "profile_min_global_mm": [
+      -860.0,
+      -1250.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 26.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F4_FLOOR_PAD.dxf",
+      "svg/C11_HYD_F4_FLOOR_PAD.svg",
+      "profiles/C11_HYD_F4_FLOOR_PAD.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F5_-45_-30_TOP_WASHER",
+    "profile_min_global_mm": [
+      -837.0,
+      -148.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 132.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 18,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F5_-45_-30_TOP_WASHER.dxf",
+      "svg/C11_HYD_F5_-45_-30_TOP_WASHER.svg",
+      "profiles/C11_HYD_F5_-45_-30_TOP_WASHER.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F5_-45_30_TOP_WASHER",
+    "profile_min_global_mm": [
+      -837.0,
+      -88.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 132.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 18,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F5_-45_30_TOP_WASHER.dxf",
+      "svg/C11_HYD_F5_-45_30_TOP_WASHER.svg",
+      "profiles/C11_HYD_F5_-45_30_TOP_WASHER.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F5_45_-30_TOP_WASHER",
+    "profile_min_global_mm": [
+      -747.0,
+      -148.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 132.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 18,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F5_45_-30_TOP_WASHER.dxf",
+      "svg/C11_HYD_F5_45_-30_TOP_WASHER.svg",
+      "profiles/C11_HYD_F5_45_-30_TOP_WASHER.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F5_45_30_TOP_WASHER",
+    "profile_min_global_mm": [
+      -747.0,
+      -88.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 132.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 18,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F5_45_30_TOP_WASHER.dxf",
+      "svg/C11_HYD_F5_45_30_TOP_WASHER.svg",
+      "profiles/C11_HYD_F5_45_30_TOP_WASHER.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F5_TOP_PLATE",
+    "profile_min_global_mm": [
+      -860.0,
+      -170.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 114.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F5_TOP_PLATE.dxf",
+      "svg/C11_HYD_F5_TOP_PLATE.svg",
+      "profiles/C11_HYD_F5_TOP_PLATE.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F5_FLOOR_PAD",
+    "profile_min_global_mm": [
+      -860.0,
+      -170.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 26.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F5_FLOOR_PAD.dxf",
+      "svg/C11_HYD_F5_FLOOR_PAD.svg",
+      "profiles/C11_HYD_F5_FLOOR_PAD.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F6_-45_-30_TOP_WASHER",
+    "profile_min_global_mm": [
+      -837.0,
+      632.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 132.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 18,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F6_-45_-30_TOP_WASHER.dxf",
+      "svg/C11_HYD_F6_-45_-30_TOP_WASHER.svg",
+      "profiles/C11_HYD_F6_-45_-30_TOP_WASHER.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F6_-45_30_TOP_WASHER",
+    "profile_min_global_mm": [
+      -837.0,
+      692.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 132.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 18,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F6_-45_30_TOP_WASHER.dxf",
+      "svg/C11_HYD_F6_-45_30_TOP_WASHER.svg",
+      "profiles/C11_HYD_F6_-45_30_TOP_WASHER.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F6_45_-30_TOP_WASHER",
+    "profile_min_global_mm": [
+      -747.0,
+      632.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 132.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 18,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F6_45_-30_TOP_WASHER.dxf",
+      "svg/C11_HYD_F6_45_-30_TOP_WASHER.svg",
+      "profiles/C11_HYD_F6_45_-30_TOP_WASHER.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F6_45_30_TOP_WASHER",
+    "profile_min_global_mm": [
+      -747.0,
+      692.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 132.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 18,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F6_45_30_TOP_WASHER.dxf",
+      "svg/C11_HYD_F6_45_30_TOP_WASHER.svg",
+      "profiles/C11_HYD_F6_45_30_TOP_WASHER.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F6_TOP_PLATE",
+    "profile_min_global_mm": [
+      -860.0,
+      610.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 114.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F6_TOP_PLATE.dxf",
+      "svg/C11_HYD_F6_TOP_PLATE.svg",
+      "profiles/C11_HYD_F6_TOP_PLATE.json"
+    ]
+  },
+  {
+    "part": "C11_HYD_F6_FLOOR_PAD",
+    "profile_min_global_mm": [
+      -860.0,
+      610.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 26.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_HYD_F6_FLOOR_PAD.dxf",
+      "svg/C11_HYD_F6_FLOOR_PAD.svg",
+      "profiles/C11_HYD_F6_FLOOR_PAD.json"
+    ]
+  },
+  {
+    "part": "P_FOOT_-600_-825_O",
+    "profile_min_global_mm": [
+      -740.0,
+      -850.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 30.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 12,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/P_FOOT_-600_-825_O.dxf",
+      "svg/P_FOOT_-600_-825_O.svg",
+      "profiles/P_FOOT_-600_-825_O.json"
+    ]
+  },
+  {
+    "part": "C11_BRIDGE_P_FOOT_-600_-825_O",
+    "profile_min_global_mm": [
+      -760.0,
+      -837.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 42.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_BRIDGE_P_FOOT_-600_-825_O.dxf",
+      "svg/C11_BRIDGE_P_FOOT_-600_-825_O.svg",
+      "profiles/C11_BRIDGE_P_FOOT_-600_-825_O.json"
+    ]
+  },
+  {
+    "part": "P_FOOT_-600_0_O",
+    "profile_min_global_mm": [
+      -740.0,
+      -63.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 30.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 12,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/P_FOOT_-600_0_O.dxf",
+      "svg/P_FOOT_-600_0_O.svg",
+      "profiles/P_FOOT_-600_0_O.json"
+    ]
+  },
+  {
+    "part": "C11_BRIDGE_P_FOOT_-600_0_O",
+    "profile_min_global_mm": [
+      -760.0,
+      -50.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 42.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_BRIDGE_P_FOOT_-600_0_O.dxf",
+      "svg/C11_BRIDGE_P_FOOT_-600_0_O.svg",
+      "profiles/C11_BRIDGE_P_FOOT_-600_0_O.json"
+    ]
+  },
+  {
+    "part": "P_FOOT_-600_825_O",
+    "profile_min_global_mm": [
+      -740.0,
+      724.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 30.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 12,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/P_FOOT_-600_825_O.dxf",
+      "svg/P_FOOT_-600_825_O.svg",
+      "profiles/P_FOOT_-600_825_O.json"
+    ]
+  },
+  {
+    "part": "C11_BRIDGE_P_FOOT_-600_825_O",
+    "profile_min_global_mm": [
+      -760.0,
+      737.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 42.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_BRIDGE_P_FOOT_-600_825_O.dxf",
+      "svg/C11_BRIDGE_P_FOOT_-600_825_O.svg",
+      "profiles/C11_BRIDGE_P_FOOT_-600_825_O.json"
+    ]
+  },
+  {
+    "part": "C11_A_DRAIN_FLOOR_PAD",
+    "profile_min_global_mm": [
+      -740.0,
+      -1310.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 26.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_DRAIN_FLOOR_PAD.dxf",
+      "svg/C11_A_DRAIN_FLOOR_PAD.svg",
+      "profiles/C11_A_DRAIN_FLOOR_PAD.json"
+    ]
+  },
+  {
+    "part": "C11_A_LOWER_COND_SUPPORT_SHELF",
+    "profile_min_global_mm": [
+      -760.0,
+      -1270.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 295.67999999999995,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_LOWER_COND_SUPPORT_SHELF.dxf",
+      "svg/C11_A_LOWER_COND_SUPPORT_SHELF.svg",
+      "profiles/C11_A_LOWER_COND_SUPPORT_SHELF.json"
+    ]
+  },
+  {
+    "part": "C11_A_UPPER_COND_SUPPORT_SHELF",
+    "profile_min_global_mm": [
+      -760.0,
+      -1270.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 630.68,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_A_UPPER_COND_SUPPORT_SHELF.dxf",
+      "svg/C11_A_UPPER_COND_SUPPORT_SHELF.svg",
+      "profiles/C11_A_UPPER_COND_SUPPORT_SHELF.json"
+    ]
+  },
+  {
+    "part": "C11_B_DRAIN_FLOOR_PAD",
+    "profile_min_global_mm": [
+      -740.0,
+      540.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 26.0,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_DRAIN_FLOOR_PAD.dxf",
+      "svg/C11_B_DRAIN_FLOOR_PAD.svg",
+      "profiles/C11_B_DRAIN_FLOOR_PAD.json"
+    ]
+  },
+  {
+    "part": "C11_B_LOWER_COND_SUPPORT_SHELF",
+    "profile_min_global_mm": [
+      -760.0,
+      580.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 295.67999999999995,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_LOWER_COND_SUPPORT_SHELF.dxf",
+      "svg/C11_B_LOWER_COND_SUPPORT_SHELF.svg",
+      "profiles/C11_B_LOWER_COND_SUPPORT_SHELF.json"
+    ]
+  },
+  {
+    "part": "C11_B_UPPER_COND_SUPPORT_SHELF",
+    "profile_min_global_mm": [
+      -760.0,
+      580.0
+    ],
+    "normal_axis": 2,
+    "plane_mm": 630.68,
+    "DXF_origin": "profile bounding-box minimum; global transform in this row",
+    "thickness_mm": 8,
+    "bend": "NONE - flat plate; R/K not applicable",
+    "files": [
+      "dxf/C11_B_UPPER_COND_SUPPORT_SHELF.dxf",
+      "svg/C11_B_UPPER_COND_SUPPORT_SHELF.svg",
+      "profiles/C11_B_UPPER_COND_SUPPORT_SHELF.json"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "HX_source_sha256": "be65b2083e4b638d0b4f4a341ec1c924c1a77da719b8657ef88b2ea94ea53d34",
+  "HX_source_basename": "H02_SINGLE_CORE.step",
+  "HX_leaf_count": 630,
+  "all_solid_density_upper_kg_m3": 9000,
+  "single_core_dry_upper_kg": 122.12956706825204,
+  "single_core_water_budget_kg": 11.159677953925,
+  "single_core_wet_upper_kg": 133.28924502217706,
+  "core_cap_kg": 250,
+  "uniform_upper_density_CG_A_LOWER_mm": [
+    56.88913237894292,
+    -460.50315769027713,
+    721.0992851840833
+  ],
+  "CG_status": "Not a mixed-material or measured CG. Structural bearing reaction sensitivity must cover actual CG before release.",
+  "Shell_upper_kg_excluding_named_floor_skid": 771.7318919575155,
+  "C10_damper_upper_kg_including_envelopes": 106.81918390495493,
+  "other_host_cap_kg": 1000,
+  "D05_delta_and_H02_additional_component_scope": "D05 final mass delta and separate H02 service/spool additions must be reconciled at full C11 integration;4x10kg actuator allowance is additional in the frame model.",
+  "core_cap_check": "WITHIN_UPPER_BOUND",
+  "host_cap_check": "WITHIN_PRELIMINARY_UPPER_BOUND",
+  "status": "CAD_MATERIAL_UPPER_BOUND_NOT_WEIGHING"
+}

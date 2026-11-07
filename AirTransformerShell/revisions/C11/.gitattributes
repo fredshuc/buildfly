@@ -1,0 +1,10 @@
+# Preserve exact bytes: SHA256 manifests cover source, inputs and evidence.
+# Text files remain diffable; disabling EOL conversion keeps Windows/Linux
+# checkouts identical to the reviewed, independently rebuilt source package.
+* -text
+*.step binary
+*.brep binary
+*.zip binary
+*.gz binary
+*.png binary
+*.pdf binary

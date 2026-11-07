@@ -1,0 +1,6 @@
+case,core_mass_cap_each_kg,other_host_mass_cap_kg,actuator_mass_each_kg,mesh,max_displacement_mm,max_member_stress_MPa,max_web_stress_MPa,status
+WET_GRAVITY,250,1000,10,48,0.3521981234710668,30.93547721509597,24.80821778642623,Conditional linear elastic screening; not measured performance
+S1_PRESSURE_TORQUE,250,1000,10,48,0.3888133229976332,36.81021894408955,20.463033925027364,Conditional linear elastic screening; not measured performance
+S2_PRESSURE_TORQUE,250,1000,10,48,0.4209291067398975,37.1958530317687,28.87008507167121,Conditional linear elastic screening; not measured performance
+SERVICE_500N,250,1000,10,48,0.41242844530270223,37.40723073095722,24.39433402560499,Conditional linear elastic screening; not measured performance
+DRAINED_2G_SCREEN,250,1000,10,48,0.6985546604617969,62.02787012145815,49.43864740389466,Conditional linear elastic screening; not measured performance

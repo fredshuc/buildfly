@@ -1,0 +1,59 @@
+{
+  "axis": 2,
+  "plane_mm": 26.0,
+  "axes": "X,Y",
+  "bbox": [
+    -860.0,
+    -170.0,
+    -745.0,
+    -30.0
+  ],
+  "loops": [
+    [
+      [
+        -860.0,
+        -170.0
+      ],
+      [
+        -860.0,
+        -30.0
+      ],
+      [
+        -745.0,
+        -30.0
+      ],
+      [
+        -745.0,
+        -170.0
+      ]
+    ]
+  ],
+  "circles": [
+    {
+      "center": [
+        -840.0,
+        -150.0
+      ],
+      "radius": 7.0
+    },
+    {
+      "center": [
+        -840.0,
+        -50.0
+      ],
+      "radius": 7.0
+    }
+  ],
+  "chord_tolerance_mm": 0.01,
+  "spec": {
+    "part": "C11_HYD_F5_FLOOR_PAD",
+    "kind": "flat_Z",
+    "thickness_mm": 8,
+    "R_inside_mm": 0,
+    "K": null,
+    "datum": "nominal common floorZ26",
+    "tolerance": "holes +/-0.2; full bearing after levelling; no unsupported corners"
+  },
+  "material": "S235JR plate8.0",
+  "reason": "Far pads160x140 fourD14 on120x100; near pads115x140 twoD14 atXcentre-60,Y+/-50, right edgeX-745 clears main feet by5mm; full-area bearingZ26; anchor/substrate selection OPEN"
+}

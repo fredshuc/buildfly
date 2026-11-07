@@ -1,0 +1,57 @@
+{
+  "baseline": "C10 S1 + issued HYD-S2 crown",
+  "pairs": 412,
+  "hits": [
+    [
+      "C11_A_POCKET_FRONT_CLOSURE",
+      "THERMAL/A_W2_25mm_CROWN_ONLY",
+      427.69257856857496
+    ],
+    [
+      "C11_A_POCKET_GASKET_INSTALLED",
+      "THERMAL/A_W2_25mm_CROWN_ONLY",
+      265.68192696394016
+    ],
+    [
+      "C11_A_POCKET_STOP_1",
+      "THERMAL/A_W2_25mm_CROWN_ONLY",
+      143.13881527918466
+    ],
+    [
+      "C11_A_POCKET_WASHER_1",
+      "THERMAL/A_W2_25mm_CROWN_ONLY",
+      47.712938426394885
+    ],
+    [
+      "C11_A_POCKET_NUT_1",
+      "THERMAL/A_W2_25mm_CROWN_ONLY",
+      95.58039734744999
+    ],
+    [
+      "C11_B_POCKET_FRONT_CLOSURE",
+      "THERMAL/B_W2_25mm_CROWN_ONLY",
+      1605.9930725787344
+    ],
+    [
+      "C11_B_POCKET_GASKET_INSTALLED",
+      "THERMAL/B_W2_25mm_CROWN_ONLY",
+      1605.5335792459975
+    ],
+    [
+      "C11_B_POCKET_STOP_1",
+      "THERMAL/B_W2_25mm_CROWN_ONLY",
+      143.13881527918474
+    ],
+    [
+      "C11_B_POCKET_WASHER_1",
+      "THERMAL/B_W2_25mm_CROWN_ONLY",
+      47.71293842639491
+    ],
+    [
+      "C11_B_POCKET_NUT_1",
+      "THERMAL/B_W2_25mm_CROWN_ONLY",
+      95.58039734745046
+    ]
+  ],
+  "status": "FAIL"
+}

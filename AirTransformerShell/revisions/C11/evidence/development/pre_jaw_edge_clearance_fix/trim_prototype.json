@@ -1,0 +1,62 @@
+{
+  "source_assembly_sha256": "386aee34e76ff81006bf2f586189f2cba29debc2fa99015b68c8daaf026ed613",
+  "status": "PASS_PROTOTYPE_ONLY_NOT_FINAL_EXPORT",
+  "jaws": [
+    {
+      "jaw": "C11_A_LOWER_FACE_CLAMP_17",
+      "width_mm": 39,
+      "checked": [
+        {
+          "part": "A_LOWER__H02_COND_HEADER_LINK",
+          "distance_mm": 6.248964271003207
+        },
+        {
+          "part": "A_LOWER__H02_COND_RAIL_-390_1",
+          "distance_mm": 0.9999999999998295
+        }
+      ]
+    },
+    {
+      "jaw": "C11_A_UPPER_FACE_CLAMP_17",
+      "width_mm": 39,
+      "checked": [
+        {
+          "part": "A_UPPER__H02_COND_HEADER_LINK",
+          "distance_mm": 6.248964271003207
+        },
+        {
+          "part": "A_UPPER__H02_COND_RAIL_-390_1",
+          "distance_mm": 0.9999999999998295
+        }
+      ]
+    },
+    {
+      "jaw": "C11_B_LOWER_FACE_CLAMP_17",
+      "width_mm": 39,
+      "checked": [
+        {
+          "part": "B_LOWER__H02_COND_HEADER_LINK",
+          "distance_mm": 6.248964271003187
+        },
+        {
+          "part": "B_LOWER__H02_COND_RAIL_-390_1",
+          "distance_mm": 0.9999999999998295
+        }
+      ]
+    },
+    {
+      "jaw": "C11_B_UPPER_FACE_CLAMP_17",
+      "width_mm": 39,
+      "checked": [
+        {
+          "part": "B_UPPER__H02_COND_HEADER_LINK",
+          "distance_mm": 6.248964271003187
+        },
+        {
+          "part": "B_UPPER__H02_COND_RAIL_-390_1",
+          "distance_mm": 0.9999999999998295
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "win32",
+  "packages": {
+    "cadquery": "2.8.0",
+    "cadquery-ocp": "7.9.3.1.1",
+    "numpy": "2.3.5",
+    "reportlab": "4.4.9",
+    "pillow": "12.3.0",
+    "pypdf": "6.20.0"
+  },
+  "cadquery_module": "__init__.py",
+  "cadquery_version": "2.8.0",
+  "CADQUERY_LIBDIRS_role": "Optional existing library paths, not an input model. No external CAD cache is required for clean rebuild.",
+  "units": "mm,N,MPa unless otherwise stated"
+}

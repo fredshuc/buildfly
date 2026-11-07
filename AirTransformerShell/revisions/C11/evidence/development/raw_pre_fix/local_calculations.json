@@ -1,0 +1,283 @@
+{
+  "status": "LOCAL_DESIGN_CALCULATIONS_NOT_MANUFACTURING_OR_TEST_RELEASE",
+  "units": "N mm MPa; room-temperature S235 screening E200GPa fy235 fu360; material certificate and service derating required",
+  "sources": [
+    {
+      "title": "Saint-Gobain Norseal R10480S TDS",
+      "url": "https://www.tapesolutions.saint-gobain.com/en-us/files/2751/download",
+      "scope": "typical25% CFD35kPa; closed-cell silicone; not a batch guarantee"
+    },
+    {
+      "title": "Stockwell closed-cell silicone sponge compression curves",
+      "url": "https://www.stockwell.com/data-sheets/cfd-curves-silicone-sponges.pdf",
+      "scope": "R10480S legacy illustrative curve; approximate digitisation; psi converted using6.894757kPa/psi"
+    },
+    {
+      "title": "DOWSIL7091 product",
+      "url": "https://www.dow.com/en-us/pdp.dowsil-7091-adhesive-sealant.02436621h.html",
+      "scope": "material identity and general service properties; does not certify actual jacket adhesion"
+    },
+    {
+      "title": "SCI P362",
+      "url": "https://steelconstruction.info/images/6/6a/SCI_P362.pdf",
+      "scope": "CJP parent-metal resistance conditional on suitable matching qualified weld; no sub3mm EC3 fillet claim"
+    },
+    {
+      "title": "JRC steel design worked examples",
+      "url": "https://publications.jrc.ec.europa.eu/repository/bitstream/JRC96658/jrc_steel_report_2015_07_22.pdf",
+      "scope": "weld/steel calculation method; no project certification"
+    }
+  ],
+  "curve_strain_percent_pressure_psi": [
+    [
+      10,
+      2.8
+    ],
+    [
+      15,
+      3.5
+    ],
+    [
+      20,
+      4.3
+    ],
+    [
+      25,
+      5.5
+    ],
+    [
+      30,
+      6.7
+    ],
+    [
+      35,
+      7.7
+    ],
+    [
+      40,
+      9.6
+    ]
+  ],
+  "gasket_procurement": "Selected thickness +/-0.10mm is a required batch selection, not standard supplier stock tolerance. Require pressure <=0.080MPa throughout20..35% compression after thermal/wet conditioning. Obtain supplier approval for knife-cut12/10mm strips on carrier liner and bonded scarf; no unsupported narrow die-cut claim.",
+  "pressure_design_envelope_Pa": [
+    -1000,
+    1000
+  ],
+  "pressure_status": "provisional design upper bound; actual fan shutoff and fault differential must be supplied; no operation above envelope",
+  "seals": [
+    {
+      "seal": "FACE",
+      "free_mm": 6.35,
+      "selected_thickness_tolerance_mm": 0.1,
+      "nominal_gap_mm": 4.45,
+      "gap_min_mm": 4.2,
+      "gap_max_mm": 4.7,
+      "compression_min_percent": 24.8,
+      "compression_max_percent": 34.883720930232556,
+      "area_mm2": 39648,
+      "typical_force_min_N": 1490.376850822272,
+      "typical_force_max_N": 2098.5403199868283,
+      "required_batch_pressure_max_MPa": 0.08,
+      "design_reaction_max_N": 3171.84,
+      "acceptance": "HX allowable force OPEN;1000N fixture limit is not service capacity"
+    },
+    {
+      "seal": "POCKET_A",
+      "free_mm": 4.76,
+      "selected_thickness_tolerance_mm": 0.1,
+      "nominal_gap_mm": 3.5,
+      "gap_min_mm": 3.35,
+      "gap_max_mm": 3.65,
+      "compression_min_percent": 21.673819742489275,
+      "compression_max_percent": 31.06995884773661,
+      "area_mm2": 580.0,
+      "typical_force_min_N": 18.801972747768247,
+      "typical_force_max_N": 27.648770027596697,
+      "required_batch_pressure_max_MPa": 0.08,
+      "design_reaction_max_N": 46.4,
+      "acceptance": "force curve/batch and leakage test OPEN; Pocket also has unresolved crown interference"
+    },
+    {
+      "seal": "POCKET_B",
+      "free_mm": 4.76,
+      "selected_thickness_tolerance_mm": 0.1,
+      "nominal_gap_mm": 3.5,
+      "gap_min_mm": 3.35,
+      "gap_max_mm": 3.65,
+      "compression_min_percent": 21.673819742489275,
+      "compression_max_percent": 31.06995884773661,
+      "area_mm2": 1160.0,
+      "typical_force_min_N": 37.60394549553649,
+      "typical_force_max_N": 55.297540055193394,
+      "required_batch_pressure_max_MPa": 0.08,
+      "design_reaction_max_N": 92.8,
+      "acceptance": "force curve/batch and leakage test OPEN; Pocket also has unresolved crown interference"
+    }
+  ],
+  "face_gap_budget": {
+    "nominal_mm": 4.45,
+    "total_half_range_mm": 0.25,
+    "components_full_range_mm": {
+      "HX_land_peak_to_valley": 0.1,
+      "Shell_bed_peak_to_valley": 0.1,
+      "stop_height": 0.1,
+      "assembly_and_thermal_parallelism": 0.1,
+      "elastic_change": 0.1
+    },
+    "acceptance": "Measure actual opposed gap at20 stations with core on fixed support datums. Reject outside4.20..4.70 at qualified cold/hot state. Tolerances are worst-case additive, not RSS."
+  },
+  "face_clamps": {
+    "count_per_core": 20,
+    "torque_Nm": 0.5,
+    "K_range": [
+      0.2,
+      0.3
+    ],
+    "preload_min_N": 333.3333333333333,
+    "preload_max_N": 500,
+    "M5_tensile_area_mm2": 14.2,
+    "max_tensile_stress_MPa": 35.21126760563381,
+    "jaw": {
+      "force_N": 500,
+      "span_mm": 38,
+      "width_mm": 16,
+      "thickness_mm": 8,
+      "stress_MPa": 111.328125,
+      "tip_deflection_mm": 0.066982421875
+    },
+    "carrier": {
+      "line_load_N_mm": 0.96,
+      "span_mm": 180,
+      "I_mm4": 3520.0,
+      "centroid_from_skirt_bottom_mm": 16.0,
+      "deflection_mm": 0.018639204545454546,
+      "stress_MPa": 17.672727272727272,
+      "rail_notch_local_deflection_mm": 0.006307502232142857,
+      "scope": "Simply-supported span under maximum accepted batch pressure; continuous skirt seam and rail backing at notches required. Does not prove the complete HX frame."
+    },
+    "total_max_preload_N": 10000,
+    "total_min_preload_N": 6666.666666666667,
+    "gasket_design_max_N": 3171.84,
+    "remaining_stop_reaction_max_N": 6828.16,
+    "frame_local_bearing_MPa": 3.125,
+    "thermal_X_requirement_mm": 0.9593999999999999,
+    "available_X_slide_each_direction_mm": 1.5,
+    "status": "LOCAL_JAW_CARRIER_SCREEN_ONLY; HX frame force/thermal sliding and loaded datum acceptance OPEN. M5 standoff1.5kN proof and representative clamp-loop test required."
+  },
+  "glands": {
+    "material": "DOWSIL7091 cured silicone,2mm lip/membrane;12mm jacket axial lap;0.4mm slit with renewed20x1.5mm splice",
+    "guard": {
+      "force_N": 100,
+      "span_mm": 66,
+      "width_mm": 9,
+      "thickness_mm": 6,
+      "stress_MPa": 122.22222222222223,
+      "tip_deflection_mm": 0.29577777777777775
+    },
+    "guard_displacement_limit_mm": 0.5,
+    "pressure_force_upper_bound_N": 37.102305024,
+    "minimum_skin_bond_area_mm2": 8385.133490824604,
+    "average_pressure_bond_stress_MPa": 0.004424772135661172,
+    "design_bond_allowable_MPa": 0.05,
+    "coupon_requirement_MPa": 0.25,
+    "stud_max_preload_N": 375,
+    "stud_proof_N": 1000,
+    "M4_tensile_stress_at_proof_MPa": 113.89521640091117,
+    "backer_local_stop_bearing_MPa": 3.858301650712614,
+    "backer_12mm_strip_cantilever_proof": {
+      "force_N": 1000,
+      "span_mm": 6,
+      "width_mm": 12,
+      "thickness_mm": 5,
+      "stress_MPa": 120.0,
+      "tip_deflection_mm": 0.00288
+    },
+    "skin_punching_shear_at_proof_MPa": 17.683882565766147,
+    "load_path": "guard -> washer/stud ->5mm backer;2mm metal stop excludes seal preload. Backer bears directly against skin and is continuously edge-fused. Pressure reaction is bonded, not applied as50kPa compression on the guard.",
+    "qualification": "Average adhesion/shear screening does not prove edge peel or cyclic movement. Actual jacket/paint coupons, +/-4mm axial and +/-1mm radial movement,1000N stud proof, wet ageing and leak/spray test remain OPEN."
+  },
+  "A_post_welds": {
+    "number": 8,
+    "joint": "CJP single-bevel T-butt,3mm web,0.5mm root face and gap,45deg bevel; matching consumable",
+    "effective_throat_mm": 3,
+    "gross_length_mm": 269,
+    "end_exclusion_each_mm": 6,
+    "effective_length_mm": 257,
+    "area_each_mm2": 771,
+    "parent_shear_yield_capacity_each_N": 104607.20852312235,
+    "parent_axial_yield_capacity_each_N": 181185.0,
+    "web_shear_spring_each_patch_N_mm": 2483076.923076923,
+    "web_extension_spring_each_patch_N_mm": 6456000.0,
+    "web_stress_method": "Use actual transfer force from frame model divided by3*257; combine normal and shear by von Mises. Spring includes conservative6mm equivalent weld length in addition to19mm clear web.",
+    "capacity_status": "CONDITIONAL on demonstrated full root fusion and matching parent-strength weld. Unqualified joint has no released capacity; eight locations alone are insufficient.",
+    "fabrication": "Weld webs before pipe/insulation installation. Removable copper root backing from open channel ends; alternate short backsteps on opposing sides. Grind outer X faces flush+0/-0.1. Qualify actual3mm T coupon with macro/root-fusion and bend examination;100%VT and applicable surface examination. Do not call this a sub3mm structural fillet."
+  },
+  "water_skid": {
+    "input": "inputs/C11_HYD_T01_R1_CANDIDATE.zip/load_cases.csv",
+    "vertical_foot_design_N": 1000,
+    "owner_max_foot_N": 993.5920990154216,
+    "owner_service_horizontal_per_foot_N": 50,
+    "top_plate_screen": {
+      "force_N": 1000,
+      "span_mm": 40,
+      "width_mm": 40,
+      "thickness_mm": 8,
+      "stress_MPa": 93.75,
+      "tip_deflection_mm": 0.0625
+    },
+    "metal_only_kz_lower_screen_N_mm": 15748.031496062993,
+    "local_settlement_at1000N_mm": 0.0635,
+    "model": "Conservative40mm effective plate strip cantilever40mm; two5mm RHS walls of40mm bearing length compress over80mm. Floor/grout/anchor compliance excluded. Full floor-pad bearing required.",
+    "M12_preload_range_N": [
+      20000,
+      25000
+    ],
+    "M12_fasteners_per_foot": 4,
+    "M12_proof_stress_screen_MPa": 296.5599051008304,
+    "minimum_friction_design_requirement": 0.15,
+    "foot_slip_resistance_at_min_preload_N": 12000.0,
+    "M10_bridge_preload_range_N": [
+      4800,
+      6000
+    ],
+    "bridge_slip_resistance_at_min_preload_N": 1440.0,
+    "bridge_horizontal_design_N": 300,
+    "bridge_plate_horizontal_stress_MPa": 0.375,
+    "bridge_root_a3_effective88mm_shear_capacity_N": 54871.369583782034,
+    "bridge_vertical_500N_accidental_case": {
+      "force_N": 500,
+      "span_mm": 45,
+      "width_mm": 100,
+      "thickness_mm": 8,
+      "stress_MPa": 21.09375,
+      "tip_deflection_mm": 0.0177978515625
+    },
+    "weld_top_plate_capacity_two128mm_a3_N": 159625.80242554774,
+    "floor_pressure_1000N_MPa": 0.044642857142857144,
+    "ground_anchor_status": "Demand only; no selected anchor or concrete/substrate data. No lifting/forklift or unrestrained transport release. All6 owner2g vertical reactions remain compressive; lateral transport not specified.",
+    "shim_settlement_requirement_mm": 0.1,
+    "qualification": "Friction coefficient>=0.15 after actual coating/conditioning required; otherwise design positive shear keys. Owner must recalculate six-foot reactions using measured ground stiffness/settlement. Bolt length changes with0..5mm owner shim."
+  },
+  "distribution": {
+    "open_area_m2": 0.612,
+    "design_dp_Pa": 1000,
+    "plate_pressure_force_N": 612,
+    "retention_factor": 2,
+    "reaction_per_lock_N": 612,
+    "M5_lock_stress_MPa": 43.098591549295776,
+    "cassette_3mm_punch_shear_MPa": 11.8064030511806,
+    "runner_I_mm4": 725.3333333333334,
+    "runner_midspan_612N_plate_case_deflection_mm": 0.2285380895321186,
+    "status": "OPEN_FRAME installed; optional plate stiffness/rail deflection must be accepted before fitting a plate.1000Pa is an upper envelope, not a measured plate loss. Service bridge/trolley must be locked and loaded before cassette release."
+  },
+  "condensate": {
+    "rho_kg_m3": 1000,
+    "g_m_s2": 9.81,
+    "dp_bound_Pa": 1000,
+    "minimum_static_head_mm": 101.9367991845056,
+    "startup_evaporation_allowance_mm": 50,
+    "selected_effective_head_mm": 164,
+    "pressure_capacity_screen_Pa": 1118.3400000000001,
+    "scope": "Four independent traps upstream of any common tundish; pressure-water relief kept separate. Priming, visible air gap, cleanout and negative-pressure inlet fall are required. This sizing alone is not a completed drain assembly."
+  }
+}

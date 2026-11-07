@@ -1,0 +1,133 @@
+{
+  "axis": 2,
+  "plane_mm": 579.0,
+  "axes": "X,Y",
+  "bbox": [
+    -430.0,
+    116.5,
+    610.0,
+    748.5
+  ],
+  "loops": [
+    [
+      [
+        -430.0,
+        116.5
+      ],
+      [
+        -430.0,
+        748.5
+      ],
+      [
+        610.0,
+        748.5
+      ],
+      [
+        610.0,
+        116.5
+      ]
+    ],
+    [
+      [
+        590.0,
+        126.5
+      ],
+      [
+        -410.0,
+        126.5
+      ],
+      [
+        -410.0,
+        738.5
+      ],
+      [
+        590.0,
+        738.5
+      ]
+    ]
+  ],
+  "circles": [
+    {
+      "center": [
+        -400.0,
+        121.5
+      ],
+      "radius": 2.25
+    },
+    {
+      "center": [
+        -80.0,
+        121.5
+      ],
+      "radius": 2.25
+    },
+    {
+      "center": [
+        240.0,
+        121.5
+      ],
+      "radius": 2.25
+    },
+    {
+      "center": [
+        560.0,
+        121.5
+      ],
+      "radius": 2.25
+    },
+    {
+      "center": [
+        595.0,
+        121.5
+      ],
+      "radius": 2.75
+    },
+    {
+      "center": [
+        -400.0,
+        743.5
+      ],
+      "radius": 2.25
+    },
+    {
+      "center": [
+        -80.0,
+        743.5
+      ],
+      "radius": 2.25
+    },
+    {
+      "center": [
+        240.0,
+        743.5
+      ],
+      "radius": 2.25
+    },
+    {
+      "center": [
+        560.0,
+        743.5
+      ],
+      "radius": 2.25
+    },
+    {
+      "center": [
+        595.0,
+        743.5
+      ],
+      "radius": 2.75
+    }
+  ],
+  "chord_tolerance_mm": 0.01,
+  "spec": {
+    "part": "C11_B_DISTRIBUTION_OPEN_CASSETTE",
+    "kind": "flat_Z",
+    "thickness_mm": 3,
+    "R_inside_mm": 0,
+    "K": null,
+    "datum": "Z579 lower face; X-430..610; original coreZ620 unchanged",
+    "tolerance": "profile +/-0.2; holes +/-0.1; flatness0.3"
+  },
+  "material": "S235JR plate3.0",
+  "reason": "Open1000x612 air window; empty carrier for baseline airflow test; optional plate must be separately qualified"
+}

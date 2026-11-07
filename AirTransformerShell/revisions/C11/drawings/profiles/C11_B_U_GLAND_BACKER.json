@@ -1,0 +1,105 @@
+{
+  "axis": 0,
+  "plane_mm": -649.3,
+  "axes": "Y,Z",
+  "bbox": [
+    96.34510355781282,
+    823.0000000179857,
+    354.0,
+    967.0000000179857
+  ],
+  "loops": [
+    [
+      [
+        96.34510355781282,
+        823.0000000179857
+      ],
+      [
+        96.34510355781282,
+        967.0000000179857
+      ],
+      [
+        353.99999999999983,
+        967.0000000179857
+      ],
+      [
+        354.0,
+        823.0000000179857
+      ]
+    ],
+    [
+      [
+        341.99999999999983,
+        835.0000000179857
+      ],
+      [
+        108.34510355781282,
+        835.0000000179857
+      ],
+      [
+        108.34510355781282,
+        955.0000000179857
+      ],
+      [
+        341.99999999999983,
+        955.0000000179857
+      ]
+    ]
+  ],
+  "circles": [
+    {
+      "center": [
+        348.0,
+        829.0000000179857
+      ],
+      "radius": 1.65
+    },
+    {
+      "center": [
+        225.1725517789064,
+        829.0000000179857
+      ],
+      "radius": 1.65
+    },
+    {
+      "center": [
+        348.0,
+        961.0000000179857
+      ],
+      "radius": 1.65
+    },
+    {
+      "center": [
+        225.1725517789064,
+        961.0000000179857
+      ],
+      "radius": 1.65
+    },
+    {
+      "center": [
+        102.34510355781282,
+        829.0000000179857
+      ],
+      "radius": 1.65
+    },
+    {
+      "center": [
+        102.34510355781282,
+        961.0000000179857
+      ],
+      "radius": 1.65
+    }
+  ],
+  "chord_tolerance_mm": 0.01,
+  "spec": {
+    "part": "C11_B_U_GLAND_BACKER",
+    "kind": "flat_X",
+    "thickness_mm": 5,
+    "R_inside_mm": 0,
+    "K": null,
+    "datum": "skin inside X=-649.3;6 blind M4 taps depth4.0, closed wall>=0.9",
+    "tolerance": "profile +/-0.2; ring flatness0.2; blind tap depth+0.1/-0.0; no breakthrough"
+  },
+  "material": "S235JR plate 5.0",
+  "reason": "12 mm perimeter ring; thickness sized for1kN blind-thread proof; continuous sealed interface to skin; edge welds inspected before assembly"
+}

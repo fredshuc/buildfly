@@ -1,15 +1,7 @@
-# C11｜L1任务签发阶段
+# C11 壳体集成评审候选
 
-2026-11-07。C10已接收为几何集成基线；本目录目前仅发布C11局部详化任务，尚未生成C11 CAD。
+已生成实际 C11 S1/S2 总成、改件、计算及评审详图。**当前不是制造、试水或运行发布。**
 
-- [L1裁定、固定输入与执行顺序](L1_TASKS/00_L1_DISPOSITION_AND_SEQUENCE_CN.md)
-- [L2 Hydronics任务书](L1_TASKS/01_L2_HYDRONICS_C11_T01_R1_CN.md)
-- [L2 HX任务书](L1_TASKS/02_L2_HX_C11_T01_R1_CN.md)
-- [L2 Dampers任务书](L1_TASKS/03_L2_DAMPERS_C11_T01_R1_CN.md)
-- [L2 Shell任务书](L1_TASKS/04_L2_SHELL_C11_T01_R1_CN.md)
-- [问题关闭矩阵](L1_TASKS/05_C11_CLOSURE_MATRIX.csv) · [接口登记](L1_TASKS/06_C11_INTERFACE_REGISTER.csv)
-- [L1核读依据与数值校正](L1_TASKS/07_L1_EVIDENCE_NOTES_CN.md)
+请先阅读 [英文红队评审 README](README_EN.md)、[逐项关闭矩阵](C11_CLOSURE_MATRIX.csv)、[接口接受表](C11_INTERFACE_ACCEPTANCE.csv) 和 [真实干涉登记](C11_OPEN_INTERFERENCES.csv)。前闭合保留为实体，没有通过删除前壁换取 PASS。
 
-输入证据树：`16b44e96c4640a4bccb565ae371fee445999634f`。C10原模型、发布包和RT5审核保持原记录。
-
-整机制造、首次充水/试压及带水运行仍按L1裁定中的现存条件控制。本次提交不作制造或通水发布。
+口袋/Pin/保温冠部/上层排气管接口、HX 压紧许可、完整检修前置拆件、穿壳密封及部分排水附件仍有未完成项。壳体详图和计算的实际完成范围、独立重建及各项试验状态均在英文首页逐项列出。原 L1 任务和 C10 记录保持不变。

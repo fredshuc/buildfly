@@ -1,0 +1,99 @@
+{
+  "shell_index_sha256": "bc8801a446faf04d5cab38aa0b20e899316616ec93cdafa22dd4b338cd279f07",
+  "status": "PASS",
+  "scope": "Actual segmented solid validity, tangent-interface gaps and internal overlap only; weld root, bore finish, flow/leakage and service require physical qualification",
+  "spools": [
+    {
+      "part": "C11_A_LOWER_COND_TRAP_PIPE",
+      "segments": 15,
+      "all_solids_valid": true,
+      "adjacent_join_gaps_mm": [
+        0.0,
+        3.410605131648481e-13,
+        0.0,
+        2.5421149729252077e-13,
+        0.0,
+        3.595093471822542e-13,
+        0.0,
+        1.1368683772161603e-13,
+        5.684341886080802e-14,
+        0.0,
+        0.0,
+        5.684341886080802e-14,
+        5.684341886080802e-14,
+        5.684341886080802e-14
+      ],
+      "unexpected_internal_intersections": [],
+      "status": "PASS_NOMINAL_SEGMENT_TOPOLOGY"
+    },
+    {
+      "part": "C11_A_UPPER_COND_TRAP_PIPE",
+      "segments": 15,
+      "all_solids_valid": true,
+      "adjacent_join_gaps_mm": [
+        0.0,
+        2.2737367544323206e-13,
+        0.0,
+        2.5421149729252077e-13,
+        0.0,
+        3.595093471822542e-13,
+        0.0,
+        1.1368683772161603e-13,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "unexpected_internal_intersections": [],
+      "status": "PASS_NOMINAL_SEGMENT_TOPOLOGY"
+    },
+    {
+      "part": "C11_B_LOWER_COND_TRAP_PIPE",
+      "segments": 15,
+      "all_solids_valid": true,
+      "adjacent_join_gaps_mm": [
+        0.0,
+        3.595093471822542e-13,
+        0.0,
+        2.5421149729252077e-13,
+        0.0,
+        3.595093471822542e-13,
+        0.0,
+        0.0,
+        5.684341886080802e-14,
+        5.684341886080802e-14,
+        0.0,
+        5.684341886080802e-14,
+        5.684341886080802e-14,
+        0.0
+      ],
+      "unexpected_internal_intersections": [],
+      "status": "PASS_NOMINAL_SEGMENT_TOPOLOGY"
+    },
+    {
+      "part": "C11_B_UPPER_COND_TRAP_PIPE",
+      "segments": 15,
+      "all_solids_valid": true,
+      "adjacent_join_gaps_mm": [
+        0.0,
+        4.0990372275064023e-13,
+        0.0,
+        2.5421149729252077e-13,
+        0.0,
+        3.410605131648481e-13,
+        0.0,
+        1.1368683772161603e-13,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "unexpected_internal_intersections": [],
+      "status": "PASS_NOMINAL_SEGMENT_TOPOLOGY"
+    }
+  ]
+}

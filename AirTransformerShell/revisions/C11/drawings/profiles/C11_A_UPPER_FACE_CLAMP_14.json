@@ -1,0 +1,52 @@
+{
+  "axis": 2,
+  "plane_mm": 963.0,
+  "axes": "X,Y",
+  "bbox": [
+    358.0,
+    -116.5,
+    382.0,
+    -89.5
+  ],
+  "loops": [
+    [
+      [
+        358.0,
+        -116.5
+      ],
+      [
+        358.0,
+        -89.5
+      ],
+      [
+        382.0,
+        -89.5
+      ],
+      [
+        382.0,
+        -116.5
+      ]
+    ]
+  ],
+  "circles": [
+    {
+      "center": [
+        370.0,
+        -96.5
+      ],
+      "radius": 2.75
+    }
+  ],
+  "chord_tolerance_mm": 0.01,
+  "spec": {
+    "part": "C11_A_UPPER_FACE_CLAMP_14",
+    "kind": "flat_Z",
+    "thickness_mm": 8,
+    "R_inside_mm": 0,
+    "K": null,
+    "datum": "HX steel contact top Z=963;top90deg countersinkD10 flushM5 head",
+    "tolerance": "profile +/-0.2; hole +/-0.1; underside flatness0.05"
+  },
+  "material": "S235JR plate 8",
+  "reason": "Opposed bottom frame-land clamp; M5 clearance5.5; max500N,0.50Nm; thin left YMIN jaw39mm wide, X-430..-391, with15mm maximum toe arm; qualify local plate/contact behaviour"
+}

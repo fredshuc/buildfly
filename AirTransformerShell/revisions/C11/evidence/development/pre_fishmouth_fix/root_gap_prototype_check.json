@@ -1,0 +1,34 @@
+[
+  {
+    "name": "C11_A_LOWER_COND",
+    "stub_removed_volume": 349.4016454899461,
+    "additional_bore_removed": 9.601893894418026,
+    "before_step_common": 0.0,
+    "after_step_common": 0.0,
+    "all_valid": true
+  },
+  {
+    "name": "C11_A_UPPER_COND",
+    "stub_removed_volume": 349.4016296898767,
+    "additional_bore_removed": 9.743701591694844,
+    "before_step_common": 0.0,
+    "after_step_common": 0.0,
+    "all_valid": true
+  },
+  {
+    "name": "C11_B_LOWER_COND",
+    "stub_removed_volume": 349.4016440573755,
+    "additional_bore_removed": 9.174244378154981,
+    "before_step_common": 0.0,
+    "after_step_common": 0.0,
+    "all_valid": true
+  },
+  {
+    "name": "C11_B_UPPER_COND",
+    "stub_removed_volume": 349.4016276924335,
+    "additional_bore_removed": 9.18504587066127,
+    "before_step_common": 0.0,
+    "after_step_common": 0.0,
+    "all_valid": true
+  }
+]

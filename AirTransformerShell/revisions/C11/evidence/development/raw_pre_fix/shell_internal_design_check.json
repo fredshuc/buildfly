@@ -1,0 +1,691 @@
+{
+  "pairs": 1840,
+  "hits": [
+    [
+      "C11_A_DISTRIBUTION_RUNNER_OUT",
+      "C11_A_DISTRIBUTION_SHOE_M3_OUT_1",
+      3.5185837720205333
+    ],
+    [
+      "C11_A_DISTRIBUTION_RUNNER_OUT",
+      "C11_A_DISTRIBUTION_SHOE_M3_OUT_2",
+      3.5185837720204867
+    ],
+    [
+      "C11_A_DISTRIBUTION_RUNNER_OUT",
+      "C11_A_DISTRIBUTION_SHOE_M3_OUT_3",
+      3.5185837720205395
+    ],
+    [
+      "C11_A_DISTRIBUTION_RUNNER_OUT",
+      "C11_A_DISTRIBUTION_SHOE_M3_OUT_4",
+      3.518583772020601
+    ],
+    [
+      "C11_A_DISTRIBUTION_RUNNER_OUT",
+      "C11_A_DISTRIBUTION_SHOE_M3_OUT_5",
+      3.518583772020646
+    ],
+    [
+      "C11_A_DISTRIBUTION_RUNNER_OUT",
+      "C11_A_DISTRIBUTION_SHOE_M3_OUT_6",
+      3.5185837720207145
+    ],
+    [
+      "C11_A_DISTRIBUTION_RUNNER_IN",
+      "C11_A_DISTRIBUTION_SHOE_M3_IN_1",
+      3.5185837720205964
+    ],
+    [
+      "C11_A_DISTRIBUTION_RUNNER_IN",
+      "C11_A_DISTRIBUTION_SHOE_M3_IN_2",
+      3.518583772020548
+    ],
+    [
+      "C11_A_DISTRIBUTION_RUNNER_IN",
+      "C11_A_DISTRIBUTION_SHOE_M3_IN_3",
+      3.5185837720206017
+    ],
+    [
+      "C11_A_DISTRIBUTION_RUNNER_IN",
+      "C11_A_DISTRIBUTION_SHOE_M3_IN_4",
+      3.518583772020662
+    ],
+    [
+      "C11_A_DISTRIBUTION_RUNNER_IN",
+      "C11_A_DISTRIBUTION_SHOE_M3_IN_5",
+      3.518583772020709
+    ],
+    [
+      "C11_A_DISTRIBUTION_RUNNER_IN",
+      "C11_A_DISTRIBUTION_SHOE_M3_IN_6",
+      3.5185837720207713
+    ],
+    [
+      "C11_A_DISTRIBUTION_LOCK_SCREW_1",
+      "C11_A_DISTRIBUTION_LOCK_WELDNUT_1",
+      28.902652413025493
+    ],
+    [
+      "C11_A_DISTRIBUTION_LOCK_SCREW_2",
+      "C11_A_DISTRIBUTION_LOCK_WELDNUT_2",
+      28.902652413025947
+    ],
+    [
+      "C11_B_DISTRIBUTION_RUNNER_OUT",
+      "C11_B_DISTRIBUTION_SHOE_M3_OUT_1",
+      3.5185837720205964
+    ],
+    [
+      "C11_B_DISTRIBUTION_RUNNER_OUT",
+      "C11_B_DISTRIBUTION_SHOE_M3_OUT_2",
+      3.518583772020548
+    ],
+    [
+      "C11_B_DISTRIBUTION_RUNNER_OUT",
+      "C11_B_DISTRIBUTION_SHOE_M3_OUT_3",
+      3.5185837720206017
+    ],
+    [
+      "C11_B_DISTRIBUTION_RUNNER_OUT",
+      "C11_B_DISTRIBUTION_SHOE_M3_OUT_4",
+      3.518583772020662
+    ],
+    [
+      "C11_B_DISTRIBUTION_RUNNER_OUT",
+      "C11_B_DISTRIBUTION_SHOE_M3_OUT_5",
+      3.518583772020709
+    ],
+    [
+      "C11_B_DISTRIBUTION_RUNNER_OUT",
+      "C11_B_DISTRIBUTION_SHOE_M3_OUT_6",
+      3.5185837720207713
+    ],
+    [
+      "C11_B_DISTRIBUTION_RUNNER_IN",
+      "C11_B_DISTRIBUTION_SHOE_M3_IN_1",
+      3.5185837720205333
+    ],
+    [
+      "C11_B_DISTRIBUTION_RUNNER_IN",
+      "C11_B_DISTRIBUTION_SHOE_M3_IN_2",
+      3.5185837720204867
+    ],
+    [
+      "C11_B_DISTRIBUTION_RUNNER_IN",
+      "C11_B_DISTRIBUTION_SHOE_M3_IN_3",
+      3.5185837720205395
+    ],
+    [
+      "C11_B_DISTRIBUTION_RUNNER_IN",
+      "C11_B_DISTRIBUTION_SHOE_M3_IN_4",
+      3.518583772020601
+    ],
+    [
+      "C11_B_DISTRIBUTION_RUNNER_IN",
+      "C11_B_DISTRIBUTION_SHOE_M3_IN_5",
+      3.518583772020646
+    ],
+    [
+      "C11_B_DISTRIBUTION_RUNNER_IN",
+      "C11_B_DISTRIBUTION_SHOE_M3_IN_6",
+      3.5185837720207145
+    ],
+    [
+      "C11_B_DISTRIBUTION_LOCK_SCREW_1",
+      "C11_B_DISTRIBUTION_LOCK_WELDNUT_1",
+      28.902652413025947
+    ],
+    [
+      "C11_B_DISTRIBUTION_LOCK_SCREW_2",
+      "C11_B_DISTRIBUTION_LOCK_WELDNUT_2",
+      28.902652413025493
+    ],
+    [
+      "C11_SKID_P_FOOT_-600_-825_O_M10_1_BOLT",
+      "P_FOOT_-600_-825_O",
+      261.5375884113541
+    ],
+    [
+      "C11_SKID_P_FOOT_-600_-825_O_M10_2_BOLT",
+      "P_FOOT_-600_-825_O",
+      261.5375884113541
+    ],
+    [
+      "C11_SKID_P_FOOT_-600_0_O_M10_1_BOLT",
+      "P_FOOT_-600_0_O",
+      261.5375884113525
+    ],
+    [
+      "C11_SKID_P_FOOT_-600_0_O_M10_2_BOLT",
+      "P_FOOT_-600_0_O",
+      261.5375884113525
+    ],
+    [
+      "C11_SKID_P_FOOT_-600_825_O_M10_1_BOLT",
+      "P_FOOT_-600_825_O",
+      261.5375884113541
+    ],
+    [
+      "C11_SKID_P_FOOT_-600_825_O_M10_2_BOLT",
+      "P_FOOT_-600_825_O",
+      261.5375884113541
+    ],
+    [
+      "C11_ROOF_M5_01_INSERT",
+      "C11_ROOF_M5_01_SCREW",
+      46.24424386084068
+    ],
+    [
+      "C11_ROOF_M5_02_INSERT",
+      "C11_ROOF_M5_02_SCREW",
+      46.244243860841834
+    ],
+    [
+      "C11_ROOF_M5_03_INSERT",
+      "C11_ROOF_M5_03_SCREW",
+      46.24424386084125
+    ],
+    [
+      "C11_ROOF_M5_04_INSERT",
+      "C11_ROOF_M5_04_SCREW",
+      46.244243860841394
+    ],
+    [
+      "C11_ROOF_M5_05_INSERT",
+      "C11_ROOF_M5_05_SCREW",
+      46.24424386084125
+    ],
+    [
+      "C11_ROOF_M5_06_INSERT",
+      "C11_ROOF_M5_06_SCREW",
+      46.244243860841834
+    ],
+    [
+      "C11_ROOF_M5_07_INSERT",
+      "C11_ROOF_M5_07_SCREW",
+      46.24424386084068
+    ],
+    [
+      "C11_ROOF_M5_08_INSERT",
+      "C11_ROOF_M5_08_SCREW",
+      46.24424386084068
+    ],
+    [
+      "C11_ROOF_M5_09_INSERT",
+      "C11_ROOF_M5_09_SCREW",
+      46.24424386084182
+    ],
+    [
+      "C11_ROOF_M5_10_INSERT",
+      "C11_ROOF_M5_10_SCREW",
+      46.24424386084125
+    ],
+    [
+      "C11_ROOF_M5_11_INSERT",
+      "C11_ROOF_M5_11_SCREW",
+      46.244243860841394
+    ],
+    [
+      "C11_ROOF_M5_12_INSERT",
+      "C11_ROOF_M5_12_SCREW",
+      46.24424386084125
+    ],
+    [
+      "C11_ROOF_M5_13_INSERT",
+      "C11_ROOF_M5_13_SCREW",
+      46.24424386084182
+    ],
+    [
+      "C11_ROOF_M5_14_INSERT",
+      "C11_ROOF_M5_14_SCREW",
+      46.24424386084068
+    ],
+    [
+      "C11_ROOF_M5_15_INSERT",
+      "C11_ROOF_M5_15_SCREW",
+      46.244243860841394
+    ],
+    [
+      "C11_ROOF_M5_16_INSERT",
+      "C11_ROOF_M5_16_SCREW",
+      46.24424386084104
+    ],
+    [
+      "C11_ROOF_M5_17_INSERT",
+      "C11_ROOF_M5_17_SCREW",
+      46.24424386084091
+    ],
+    [
+      "C11_ROOF_M5_18_INSERT",
+      "C11_ROOF_M5_18_SCREW",
+      46.24424386084104
+    ],
+    [
+      "C11_ROOF_M5_19_INSERT",
+      "C11_ROOF_M5_19_SCREW",
+      46.244243860841394
+    ],
+    [
+      "C11_ROOF_M5_20_INSERT",
+      "C11_ROOF_M5_20_SCREW",
+      46.244243860841394
+    ],
+    [
+      "C11_ROOF_M5_21_INSERT",
+      "C11_ROOF_M5_21_SCREW",
+      46.24424386084104
+    ],
+    [
+      "C11_ROOF_M5_22_INSERT",
+      "C11_ROOF_M5_22_SCREW",
+      46.24424386084091
+    ],
+    [
+      "C11_ROOF_M5_23_INSERT",
+      "C11_ROOF_M5_23_SCREW",
+      46.24424386084104
+    ],
+    [
+      "C11_ROOF_M5_24_INSERT",
+      "C11_ROOF_M5_24_SCREW",
+      46.244243860841394
+    ],
+    [
+      "C11_A_LOWER_COND_CLEANOUT_PLUG",
+      "C11_A_LOWER_COND_TRAP_PIPE",
+      106.02875205865627
+    ],
+    [
+      "C11_A_UPPER_COND_CLEANOUT_PLUG",
+      "C11_A_UPPER_COND_TRAP_PIPE",
+      106.028752058657
+    ],
+    [
+      "C11_B_LOWER_COND_CLEANOUT_PLUG",
+      "C11_B_LOWER_COND_TRAP_PIPE",
+      106.02875205865627
+    ],
+    [
+      "C11_B_UPPER_COND_CLEANOUT_PLUG",
+      "C11_B_UPPER_COND_TRAP_PIPE",
+      106.02875205865658
+    ]
+  ],
+  "intended_exact_pair_thread_contacts": [
+    {
+      "a": "C11_A_DISTRIBUTION_RUNNER_OUT",
+      "b": "C11_A_DISTRIBUTION_SHOE_M3_OUT_1",
+      "volume_mm3": 3.5185837720205333,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_A_DISTRIBUTION_RUNNER_OUT",
+      "b": "C11_A_DISTRIBUTION_SHOE_M3_OUT_2",
+      "volume_mm3": 3.5185837720204867,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_A_DISTRIBUTION_RUNNER_OUT",
+      "b": "C11_A_DISTRIBUTION_SHOE_M3_OUT_3",
+      "volume_mm3": 3.5185837720205395,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_A_DISTRIBUTION_RUNNER_OUT",
+      "b": "C11_A_DISTRIBUTION_SHOE_M3_OUT_4",
+      "volume_mm3": 3.518583772020601,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_A_DISTRIBUTION_RUNNER_OUT",
+      "b": "C11_A_DISTRIBUTION_SHOE_M3_OUT_5",
+      "volume_mm3": 3.518583772020646,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_A_DISTRIBUTION_RUNNER_OUT",
+      "b": "C11_A_DISTRIBUTION_SHOE_M3_OUT_6",
+      "volume_mm3": 3.5185837720207145,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_A_DISTRIBUTION_RUNNER_IN",
+      "b": "C11_A_DISTRIBUTION_SHOE_M3_IN_1",
+      "volume_mm3": 3.5185837720205964,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_A_DISTRIBUTION_RUNNER_IN",
+      "b": "C11_A_DISTRIBUTION_SHOE_M3_IN_2",
+      "volume_mm3": 3.518583772020548,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_A_DISTRIBUTION_RUNNER_IN",
+      "b": "C11_A_DISTRIBUTION_SHOE_M3_IN_3",
+      "volume_mm3": 3.5185837720206017,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_A_DISTRIBUTION_RUNNER_IN",
+      "b": "C11_A_DISTRIBUTION_SHOE_M3_IN_4",
+      "volume_mm3": 3.518583772020662,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_A_DISTRIBUTION_RUNNER_IN",
+      "b": "C11_A_DISTRIBUTION_SHOE_M3_IN_5",
+      "volume_mm3": 3.518583772020709,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_A_DISTRIBUTION_RUNNER_IN",
+      "b": "C11_A_DISTRIBUTION_SHOE_M3_IN_6",
+      "volume_mm3": 3.5185837720207713,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_A_DISTRIBUTION_LOCK_SCREW_1",
+      "b": "C11_A_DISTRIBUTION_LOCK_WELDNUT_1",
+      "volume_mm3": 28.902652413025493,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_A_DISTRIBUTION_LOCK_SCREW_2",
+      "b": "C11_A_DISTRIBUTION_LOCK_WELDNUT_2",
+      "volume_mm3": 28.902652413025947,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_B_DISTRIBUTION_RUNNER_OUT",
+      "b": "C11_B_DISTRIBUTION_SHOE_M3_OUT_1",
+      "volume_mm3": 3.5185837720205964,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_B_DISTRIBUTION_RUNNER_OUT",
+      "b": "C11_B_DISTRIBUTION_SHOE_M3_OUT_2",
+      "volume_mm3": 3.518583772020548,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_B_DISTRIBUTION_RUNNER_OUT",
+      "b": "C11_B_DISTRIBUTION_SHOE_M3_OUT_3",
+      "volume_mm3": 3.5185837720206017,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_B_DISTRIBUTION_RUNNER_OUT",
+      "b": "C11_B_DISTRIBUTION_SHOE_M3_OUT_4",
+      "volume_mm3": 3.518583772020662,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_B_DISTRIBUTION_RUNNER_OUT",
+      "b": "C11_B_DISTRIBUTION_SHOE_M3_OUT_5",
+      "volume_mm3": 3.518583772020709,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_B_DISTRIBUTION_RUNNER_OUT",
+      "b": "C11_B_DISTRIBUTION_SHOE_M3_OUT_6",
+      "volume_mm3": 3.5185837720207713,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_B_DISTRIBUTION_RUNNER_IN",
+      "b": "C11_B_DISTRIBUTION_SHOE_M3_IN_1",
+      "volume_mm3": 3.5185837720205333,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_B_DISTRIBUTION_RUNNER_IN",
+      "b": "C11_B_DISTRIBUTION_SHOE_M3_IN_2",
+      "volume_mm3": 3.5185837720204867,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_B_DISTRIBUTION_RUNNER_IN",
+      "b": "C11_B_DISTRIBUTION_SHOE_M3_IN_3",
+      "volume_mm3": 3.5185837720205395,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_B_DISTRIBUTION_RUNNER_IN",
+      "b": "C11_B_DISTRIBUTION_SHOE_M3_IN_4",
+      "volume_mm3": 3.518583772020601,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_B_DISTRIBUTION_RUNNER_IN",
+      "b": "C11_B_DISTRIBUTION_SHOE_M3_IN_5",
+      "volume_mm3": 3.518583772020646,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_B_DISTRIBUTION_RUNNER_IN",
+      "b": "C11_B_DISTRIBUTION_SHOE_M3_IN_6",
+      "volume_mm3": 3.5185837720207145,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_B_DISTRIBUTION_LOCK_SCREW_1",
+      "b": "C11_B_DISTRIBUTION_LOCK_WELDNUT_1",
+      "volume_mm3": 28.902652413025947,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_B_DISTRIBUTION_LOCK_SCREW_2",
+      "b": "C11_B_DISTRIBUTION_LOCK_WELDNUT_2",
+      "volume_mm3": 28.902652413025493,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_SKID_P_FOOT_-600_-825_O_M10_1_BOLT",
+      "b": "P_FOOT_-600_-825_O",
+      "volume_mm3": 261.5375884113541,
+      "purpose": "M10 tapped engagement; exact pair only"
+    },
+    {
+      "a": "C11_SKID_P_FOOT_-600_-825_O_M10_2_BOLT",
+      "b": "P_FOOT_-600_-825_O",
+      "volume_mm3": 261.5375884113541,
+      "purpose": "M10 tapped engagement; exact pair only"
+    },
+    {
+      "a": "C11_SKID_P_FOOT_-600_0_O_M10_1_BOLT",
+      "b": "P_FOOT_-600_0_O",
+      "volume_mm3": 261.5375884113525,
+      "purpose": "M10 tapped engagement; exact pair only"
+    },
+    {
+      "a": "C11_SKID_P_FOOT_-600_0_O_M10_2_BOLT",
+      "b": "P_FOOT_-600_0_O",
+      "volume_mm3": 261.5375884113525,
+      "purpose": "M10 tapped engagement; exact pair only"
+    },
+    {
+      "a": "C11_SKID_P_FOOT_-600_825_O_M10_1_BOLT",
+      "b": "P_FOOT_-600_825_O",
+      "volume_mm3": 261.5375884113541,
+      "purpose": "M10 tapped engagement; exact pair only"
+    },
+    {
+      "a": "C11_SKID_P_FOOT_-600_825_O_M10_2_BOLT",
+      "b": "P_FOOT_-600_825_O",
+      "volume_mm3": 261.5375884113541,
+      "purpose": "M10 tapped engagement; exact pair only"
+    },
+    {
+      "a": "C11_ROOF_M5_01_INSERT",
+      "b": "C11_ROOF_M5_01_SCREW",
+      "volume_mm3": 46.24424386084068,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_02_INSERT",
+      "b": "C11_ROOF_M5_02_SCREW",
+      "volume_mm3": 46.244243860841834,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_03_INSERT",
+      "b": "C11_ROOF_M5_03_SCREW",
+      "volume_mm3": 46.24424386084125,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_04_INSERT",
+      "b": "C11_ROOF_M5_04_SCREW",
+      "volume_mm3": 46.244243860841394,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_05_INSERT",
+      "b": "C11_ROOF_M5_05_SCREW",
+      "volume_mm3": 46.24424386084125,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_06_INSERT",
+      "b": "C11_ROOF_M5_06_SCREW",
+      "volume_mm3": 46.244243860841834,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_07_INSERT",
+      "b": "C11_ROOF_M5_07_SCREW",
+      "volume_mm3": 46.24424386084068,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_08_INSERT",
+      "b": "C11_ROOF_M5_08_SCREW",
+      "volume_mm3": 46.24424386084068,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_09_INSERT",
+      "b": "C11_ROOF_M5_09_SCREW",
+      "volume_mm3": 46.24424386084182,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_10_INSERT",
+      "b": "C11_ROOF_M5_10_SCREW",
+      "volume_mm3": 46.24424386084125,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_11_INSERT",
+      "b": "C11_ROOF_M5_11_SCREW",
+      "volume_mm3": 46.244243860841394,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_12_INSERT",
+      "b": "C11_ROOF_M5_12_SCREW",
+      "volume_mm3": 46.24424386084125,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_13_INSERT",
+      "b": "C11_ROOF_M5_13_SCREW",
+      "volume_mm3": 46.24424386084182,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_14_INSERT",
+      "b": "C11_ROOF_M5_14_SCREW",
+      "volume_mm3": 46.24424386084068,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_15_INSERT",
+      "b": "C11_ROOF_M5_15_SCREW",
+      "volume_mm3": 46.244243860841394,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_16_INSERT",
+      "b": "C11_ROOF_M5_16_SCREW",
+      "volume_mm3": 46.24424386084104,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_17_INSERT",
+      "b": "C11_ROOF_M5_17_SCREW",
+      "volume_mm3": 46.24424386084091,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_18_INSERT",
+      "b": "C11_ROOF_M5_18_SCREW",
+      "volume_mm3": 46.24424386084104,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_19_INSERT",
+      "b": "C11_ROOF_M5_19_SCREW",
+      "volume_mm3": 46.244243860841394,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_20_INSERT",
+      "b": "C11_ROOF_M5_20_SCREW",
+      "volume_mm3": 46.244243860841394,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_21_INSERT",
+      "b": "C11_ROOF_M5_21_SCREW",
+      "volume_mm3": 46.24424386084104,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_22_INSERT",
+      "b": "C11_ROOF_M5_22_SCREW",
+      "volume_mm3": 46.24424386084091,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_23_INSERT",
+      "b": "C11_ROOF_M5_23_SCREW",
+      "volume_mm3": 46.24424386084104,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_24_INSERT",
+      "b": "C11_ROOF_M5_24_SCREW",
+      "volume_mm3": 46.244243860841394,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_A_LOWER_COND_CLEANOUT_PLUG",
+      "b": "C11_A_LOWER_COND_TRAP_PIPE",
+      "volume_mm3": 106.02875205865627,
+      "purpose": "M8 nominal thread engagement in cleanout boss only"
+    },
+    {
+      "a": "C11_A_UPPER_COND_CLEANOUT_PLUG",
+      "b": "C11_A_UPPER_COND_TRAP_PIPE",
+      "volume_mm3": 106.028752058657,
+      "purpose": "M8 nominal thread engagement in cleanout boss only"
+    },
+    {
+      "a": "C11_B_LOWER_COND_CLEANOUT_PLUG",
+      "b": "C11_B_LOWER_COND_TRAP_PIPE",
+      "volume_mm3": 106.02875205865627,
+      "purpose": "M8 nominal thread engagement in cleanout boss only"
+    },
+    {
+      "a": "C11_B_UPPER_COND_CLEANOUT_PLUG",
+      "b": "C11_B_UPPER_COND_TRAP_PIPE",
+      "volume_mm3": 106.02875205865658,
+      "purpose": "M8 nominal thread engagement in cleanout boss only"
+    }
+  ],
+  "unexpected": [],
+  "status": "PASS_WITHIN_STATED_SCOPE"
+}

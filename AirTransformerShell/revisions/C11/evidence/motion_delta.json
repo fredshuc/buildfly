@@ -1,0 +1,2542 @@
+{
+  "status": "CERTIFIED_GEOMETRY_CLEAR_WITHIN_SCOPE",
+  "installed_S1_sha256": "b941c52ab7d094e54d6b50dca9c51c876e00ce4744d8cfc6b05b8976e9ea0d18",
+  "interval_deg": [
+    0,
+    77.701928604
+  ],
+  "method": "Midpoint exact shape distance with R*dtheta displacement bound; nonclear terminal intervals are unresolved, not passes",
+  "scope": "Every moving D05 component against all six non-DAMPERS installed groups. D05 internal pairs and asynchronous rotor-to-rotor checks remain pinned owner evidence. No tolerance, thermal or loaded-shape release follows from nominal geometry.",
+  "pairs": [
+    {
+      "moving": "DAMPER_BLADE_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_BOTTOM_SPLITTER_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 15,
+      "minimum_sampled_distance_mm": 20.005928925227533,
+      "certified_distance_lower_bound_mm": 1.3404887463326638,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_DRY_WET_BULKHEAD_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 3,
+      "minimum_sampled_distance_mm": 144.31604239707383,
+      "certified_distance_lower_bound_mm": 69.65428168149435,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PORT_DIVIDER_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 15,
+      "minimum_sampled_distance_mm": 27.99740771615962,
+      "certified_distance_lower_bound_mm": 9.331967537264745,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PORT_LAND_A_PROCESS_OUT_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 3,
+      "minimum_sampled_distance_mm": 141.51604239707387,
+      "certified_distance_lower_bound_mm": 66.8542816814944,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PORT_LAND_A_REGEN_IN_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 151.10875078068662,
+      "certified_distance_lower_bound_mm": 1.7852293495276683,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_OUT_CHANNEL_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 15,
+      "minimum_sampled_distance_mm": 19.5474849233143,
+      "certified_distance_lower_bound_mm": 0.8820447444194244,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_OUT_FLOOR_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 15,
+      "minimum_sampled_distance_mm": 25.536827163304295,
+      "certified_distance_lower_bound_mm": 6.871386984409419,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_REGEN_FLOOR_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 3,
+      "minimum_sampled_distance_mm": 84.75167457015098,
+      "certified_distance_lower_bound_mm": 10.089913854571506,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "M202_REGEN_PORT_OFFSET_SEAM_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 151.0347103942753,
+      "certified_distance_lower_bound_mm": 1.7111889631163422,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "M302_PROCESS_OUT_TOP_SPACER_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 3,
+      "minimum_sampled_distance_mm": 143.01604239707387,
+      "certified_distance_lower_bound_mm": 68.3542816814944,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_A_DISTRIBUTION_SUPPORT_OUT_4",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 9,
+      "minimum_sampled_distance_mm": 13.111742817378794,
+      "certified_distance_lower_bound_mm": 3.7790227279313555,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_A_DISTRIBUTION_SUPPORT_IN_4",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 9,
+      "minimum_sampled_distance_mm": 13.111742817378794,
+      "certified_distance_lower_bound_mm": 3.7790227279313555,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_LOWER_1_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_BOTTOM_SPLITTER_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 71.6209063288922,
+      "certified_distance_lower_bound_mm": 7.059030052617871,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_LOWER_1_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PORT_DIVIDER_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 90.75085565430562,
+      "certified_distance_lower_bound_mm": 26.18897937803129,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_LOWER_1_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_OUT_CHANNEL_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 79.34690998986865,
+      "certified_distance_lower_bound_mm": 14.785033713594316,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_LOWER_1_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_OUT_FLOOR_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 88.1097624245873,
+      "certified_distance_lower_bound_mm": 23.54788614831297,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_LOWER_1_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_REGEN_FLOOR_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 156.40025633796128,
+      "certified_distance_lower_bound_mm": 91.83838006168695,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_LOWER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_BOTTOM_SPLITTER_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 3,
+      "minimum_sampled_distance_mm": 70.97135927921322,
+      "certified_distance_lower_bound_mm": 15.69206325952971,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_LOWER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_DRY_WET_BULKHEAD_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 235.99891809838527,
+      "certified_distance_lower_bound_mm": 125.44032605901826,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_LOWER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PORT_DIVIDER_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 158.0242737382697,
+      "certified_distance_lower_bound_mm": 47.465681698902685,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_LOWER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PORT_LAND_A_PROCESS_OUT_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 233.27693075723408,
+      "certified_distance_lower_bound_mm": 122.71833871786707,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_LOWER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PORT_LAND_A_REGEN_IN_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 261.2024926080251,
+      "certified_distance_lower_bound_mm": 150.64390056865813,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_LOWER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_OUT_CHANNEL_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 112.76076821203922,
+      "certified_distance_lower_bound_mm": 2.2021761726722104,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_LOWER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_OUT_FLOOR_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 155.15062605876858,
+      "certified_distance_lower_bound_mm": 44.59203401940157,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_LOWER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_REGEN_FLOOR_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 146.11769074497352,
+      "certified_distance_lower_bound_mm": 35.5590987056065,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_LOWER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "M202_REGEN_PORT_OFFSET_SEAM_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 261.00948955799294,
+      "certified_distance_lower_bound_mm": 150.45089751862594,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_LOWER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "M302_PROCESS_OUT_TOP_SPACER_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 234.73491003225516,
+      "certified_distance_lower_bound_mm": 124.17631799288814,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_LOWER_4_O",
+      "fixed_group": "SHELL",
+      "fixed": "F_DAMPER_RAIL_-825_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 38.57690707593275,
+      "certified_distance_lower_bound_mm": 8.003399933797883,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_IN_WRAP_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 17,
+      "minimum_sampled_distance_mm": 16.476753959957378,
+      "certified_distance_lower_bound_mm": 0.122734863695527,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_REAR_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 21,
+      "minimum_sampled_distance_mm": 15.00452637469197,
+      "certified_distance_lower_bound_mm": 0.28667904261506294,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_RETURN_REAR_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 13,
+      "minimum_sampled_distance_mm": 29.54140412250357,
+      "certified_distance_lower_bound_mm": 0.24146520366413426,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_TOP_SPLITTER_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 15,
+      "minimum_sampled_distance_mm": 20.005928925221745,
+      "certified_distance_lower_bound_mm": 1.714067278612493,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "F_Y_TIE_-620_1484_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 157.07348265653596,
+      "certified_distance_lower_bound_mm": 10.73858948366194,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "M302_ROOF_RECEIVER_REAR_0_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 150.0362264908133,
+      "certified_distance_lower_bound_mm": 3.7013333179392873,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "M401_REAR_BOSS_-250_1504_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 193.42241327651345,
+      "certified_distance_lower_bound_mm": 47.087520103639434,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "M401_REAR_BOSS_-600_1504_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 193.42241327651345,
+      "certified_distance_lower_bound_mm": 47.087520103639434,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "ROOF_FLANGE_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 239.17479920489797,
+      "certified_distance_lower_bound_mm": 92.83990603202395,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "SKIN_DRY_ROOF_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 153.0362264908133,
+      "certified_distance_lower_bound_mm": 6.701333317939287,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "SKIN_REAR_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 159.93463408370158,
+      "certified_distance_lower_bound_mm": 13.599740910827563,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C10_A_W2_POCKET_ROOF",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 3,
+      "minimum_sampled_distance_mm": 82.32172594103764,
+      "certified_distance_lower_bound_mm": 9.154279354600632,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_A_POCKET_FRONT_CLOSURE",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 3,
+      "minimum_sampled_distance_mm": 80.43557626732665,
+      "certified_distance_lower_bound_mm": 7.268129680889643,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_A_POCKET_GASKET_INSTALLED",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 3,
+      "minimum_sampled_distance_mm": 77.13481433833249,
+      "certified_distance_lower_bound_mm": 3.9673677518954804,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_DRY_ROOF_RENEWABLE_SEAM",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 151.5362264908133,
+      "certified_distance_lower_bound_mm": 5.201333317939287,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_01_INSERT",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 198.85029244805116,
+      "certified_distance_lower_bound_mm": 52.515399275177145,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_01_STOP",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 204.05669105805228,
+      "certified_distance_lower_bound_mm": 57.72179788517826,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_01_WASHER",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 206.96385268604743,
+      "certified_distance_lower_bound_mm": 60.62895951317341,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_01_SCREW",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 197.72502536136827,
+      "certified_distance_lower_bound_mm": 51.39013218849425,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_01_RENEWABLE_SEAL_CAP",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 205.64579327506493,
+      "certified_distance_lower_bound_mm": 59.310900102190914,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_02_INSERT",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 198.85029244805116,
+      "certified_distance_lower_bound_mm": 52.515399275177145,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_02_STOP",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 204.05669105805228,
+      "certified_distance_lower_bound_mm": 57.72179788517826,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_02_WASHER",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 206.96385268604743,
+      "certified_distance_lower_bound_mm": 60.62895951317341,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_02_SCREW",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 197.72502536136827,
+      "certified_distance_lower_bound_mm": 51.39013218849425,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_02_RENEWABLE_SEAL_CAP",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 205.64579327506493,
+      "certified_distance_lower_bound_mm": 59.310900102190914,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_03_INSERT",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 198.85029244805116,
+      "certified_distance_lower_bound_mm": 52.515399275177145,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_03_STOP",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 204.05669105805228,
+      "certified_distance_lower_bound_mm": 57.72179788517826,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_03_WASHER",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 206.96385268604743,
+      "certified_distance_lower_bound_mm": 60.62895951317341,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_03_SCREW",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 197.72502536136827,
+      "certified_distance_lower_bound_mm": 51.39013218849425,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_03_RENEWABLE_SEAL_CAP",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 205.64579327506493,
+      "certified_distance_lower_bound_mm": 59.310900102190914,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "HEAT_EXCHANGERS",
+      "fixed": "A_UPPER__POST_0_41.775",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 15,
+      "minimum_sampled_distance_mm": 4.803877238949813,
+      "certified_distance_lower_bound_mm": 0.23091182729750415,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "HEAT_EXCHANGERS",
+      "fixed": "A_UPPER__POST_0_673.775",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 15,
+      "minimum_sampled_distance_mm": 4.803877238949813,
+      "certified_distance_lower_bound_mm": 0.23091182729750415,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "HEAT_EXCHANGERS",
+      "fixed": "A_UPPER__AIR_EDGE_0_1054",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 15,
+      "minimum_sampled_distance_mm": 5.769227187681825,
+      "certified_distance_lower_bound_mm": 0.5614905482106067,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "HEAT_EXCHANGERS",
+      "fixed": "A_UPPER__W2_VENT_CALEFFI538201_1",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 284.78180548071873,
+      "certified_distance_lower_bound_mm": 138.4469123078447,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "HEAT_EXCHANGERS",
+      "fixed": "A_UPPER__W2_VENT_CALEFFI538201_0",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 280.53460463200696,
+      "certified_distance_lower_bound_mm": 134.19971145913294,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_0_O",
+      "fixed_group": "THERMAL",
+      "fixed": "A_W2_25mm_CROWN_ONLY",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 147.12995996881372,
+      "certified_distance_lower_bound_mm": 0.7950667959397038,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_1_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_IN_WRAP_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 77.18116431429843,
+      "certified_distance_lower_bound_mm": 12.619288037978706,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_1_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_REAR_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 72.76858512785076,
+      "certified_distance_lower_bound_mm": 8.206708851531033,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_1_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_RETURN_REAR_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 91.36262413218662,
+      "certified_distance_lower_bound_mm": 26.800747855866902,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_1_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_TOP_SPLITTER_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 71.62090632887256,
+      "certified_distance_lower_bound_mm": 7.059030052552842,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_IN_WRAP_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 111.24743074682038,
+      "certified_distance_lower_bound_mm": 0.6888387073285998,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_REAR_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 3,
+      "minimum_sampled_distance_mm": 73.05766833719603,
+      "certified_distance_lower_bound_mm": 17.778372317450142,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_RETURN_REAR_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 159.17213053963818,
+      "certified_distance_lower_bound_mm": 48.61353850014639,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_TOP_SPLITTER_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 3,
+      "minimum_sampled_distance_mm": 70.9713592794789,
+      "certified_distance_lower_bound_mm": 15.692063259733011,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "F_Y_TIE_-620_1484_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 283.4682312197846,
+      "certified_distance_lower_bound_mm": 172.90963918029286,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "M302_ROOF_RECEIVER_REAR_0_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 257.05196018790457,
+      "certified_distance_lower_bound_mm": 146.4933681484128,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "M401_REAR_BOSS_-250_1504_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 318.54982727906605,
+      "certified_distance_lower_bound_mm": 207.99123523957428,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "M401_REAR_BOSS_-600_1504_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 318.54982727906605,
+      "certified_distance_lower_bound_mm": 207.99123523957428,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "SKIN_DRY_ROOF_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 246.03996062741862,
+      "certified_distance_lower_bound_mm": 135.48136858792685,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "SKIN_REAR_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 246.07468332299106,
+      "certified_distance_lower_bound_mm": 135.5160912834993,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_DRY_ROOF_RENEWABLE_SEAM",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 258.6330212142945,
+      "certified_distance_lower_bound_mm": 148.07442917480273,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_02_INSERT",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 325.3151498080385,
+      "certified_distance_lower_bound_mm": 214.7565577685467,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_02_STOP",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 330.6592139320552,
+      "certified_distance_lower_bound_mm": 220.10062189256342,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_02_WASHER",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 333.5851174602453,
+      "certified_distance_lower_bound_mm": 223.02652542075356,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_02_SCREW",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 324.0381370280945,
+      "certified_distance_lower_bound_mm": 213.47954498860275,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_02_RENEWABLE_SEAL_CAP",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 332.2863652110706,
+      "certified_distance_lower_bound_mm": 221.7277731715788,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_03_INSERT",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 325.3151498080385,
+      "certified_distance_lower_bound_mm": 214.7565577685467,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_03_STOP",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 330.6592139320552,
+      "certified_distance_lower_bound_mm": 220.10062189256342,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_03_WASHER",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 333.5851174602453,
+      "certified_distance_lower_bound_mm": 223.02652542075356,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_03_SCREW",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 324.0381370280945,
+      "certified_distance_lower_bound_mm": 213.47954498860275,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_A_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_03_RENEWABLE_SEAL_CAP",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 332.2863652110706,
+      "certified_distance_lower_bound_mm": 221.7277731715788,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_BOTTOM_SPLITTER_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 15,
+      "minimum_sampled_distance_mm": 20.005928925227295,
+      "certified_distance_lower_bound_mm": 1.340488746332607,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_DRY_WET_BULKHEAD_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 3,
+      "minimum_sampled_distance_mm": 144.31604239708236,
+      "certified_distance_lower_bound_mm": 69.6542816815036,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PORT_DIVIDER_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 15,
+      "minimum_sampled_distance_mm": 27.997407716164982,
+      "certified_distance_lower_bound_mm": 9.331967537270284,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PORT_LAND_B_PROCESS_OUT_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 3,
+      "minimum_sampled_distance_mm": 141.5160423970824,
+      "certified_distance_lower_bound_mm": 66.85428168150365,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PORT_LAND_B_REGEN_IN_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 151.10875078069134,
+      "certified_distance_lower_bound_mm": 1.7852293495338358,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_OUT_CHANNEL_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 15,
+      "minimum_sampled_distance_mm": 19.547484923318127,
+      "certified_distance_lower_bound_mm": 0.8820447444234283,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_OUT_FLOOR_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 15,
+      "minimum_sampled_distance_mm": 25.53682716331061,
+      "certified_distance_lower_bound_mm": 6.87138698441591,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_REGEN_FLOOR_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 3,
+      "minimum_sampled_distance_mm": 84.75167457014128,
+      "certified_distance_lower_bound_mm": 10.089913854562525,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "M202_REGEN_PORT_OFFSET_SEAM_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 151.03471039428,
+      "certified_distance_lower_bound_mm": 1.7111889631225097,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "M302_PROCESS_OUT_TOP_SPACER_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 3,
+      "minimum_sampled_distance_mm": 143.0160423970824,
+      "certified_distance_lower_bound_mm": 68.35428168150365,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_B_DISTRIBUTION_SUPPORT_OUT_4",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 9,
+      "minimum_sampled_distance_mm": 13.111742817381865,
+      "certified_distance_lower_bound_mm": 3.7790227279345157,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_LOWER_1_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_BOTTOM_SPLITTER_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 71.62090632888733,
+      "certified_distance_lower_bound_mm": 7.059030052608037,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_LOWER_1_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PORT_DIVIDER_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 90.75085565430516,
+      "certified_distance_lower_bound_mm": 26.188979378025863,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_LOWER_1_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_OUT_CHANNEL_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 79.34690998987293,
+      "certified_distance_lower_bound_mm": 14.785033713593634,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_LOWER_1_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_OUT_FLOOR_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 88.10976242458717,
+      "certified_distance_lower_bound_mm": 23.54788614830788,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_LOWER_1_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_REGEN_FLOOR_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 156.40025633795236,
+      "certified_distance_lower_bound_mm": 91.83838006167306,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_LOWER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_BOTTOM_SPLITTER_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 3,
+      "minimum_sampled_distance_mm": 70.97135927920795,
+      "certified_distance_lower_bound_mm": 15.692063259525142,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_LOWER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_DRY_WET_BULKHEAD_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 235.99891809839147,
+      "certified_distance_lower_bound_mm": 125.44032605902586,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_LOWER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PORT_DIVIDER_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 158.0242737382686,
+      "certified_distance_lower_bound_mm": 47.46568169890298,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_LOWER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PORT_LAND_B_PROCESS_OUT_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 233.27693075724028,
+      "certified_distance_lower_bound_mm": 122.71833871787467,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_LOWER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PORT_LAND_B_REGEN_IN_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 261.20249260802694,
+      "certified_distance_lower_bound_mm": 150.64390056866134,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_LOWER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_OUT_CHANNEL_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 112.7607682120447,
+      "certified_distance_lower_bound_mm": 2.2021761726790885,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_LOWER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_OUT_FLOOR_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 155.15062605876767,
+      "certified_distance_lower_bound_mm": 44.592034019402064,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_LOWER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_REGEN_FLOOR_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 146.11769074496425,
+      "certified_distance_lower_bound_mm": 35.55909870559864,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_LOWER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "M202_REGEN_PORT_OFFSET_SEAM_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 261.00948955799475,
+      "certified_distance_lower_bound_mm": 150.45089751862915,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_LOWER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "M302_PROCESS_OUT_TOP_SPACER_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 234.73491003226135,
+      "certified_distance_lower_bound_mm": 124.17631799289575,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_LOWER_4_O",
+      "fixed_group": "SHELL",
+      "fixed": "F_DAMPER_RAIL_825_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 38.57690707593122,
+      "certified_distance_lower_bound_mm": 8.003399933798804,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_IN_WRAP_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 17,
+      "minimum_sampled_distance_mm": 16.47675395997504,
+      "certified_distance_lower_bound_mm": 0.12273486373169007,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_REAR_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 21,
+      "minimum_sampled_distance_mm": 15.00452637469302,
+      "certified_distance_lower_bound_mm": 0.28667904265158484,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_RETURN_REAR_RIGHT_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 13,
+      "minimum_sampled_distance_mm": 29.54140412250357,
+      "certified_distance_lower_bound_mm": 0.24146520368688584,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_TOP_SPLITTER_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 15,
+      "minimum_sampled_distance_mm": 20.005928925221745,
+      "certified_distance_lower_bound_mm": 1.7140672786238653,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "F_Y_TIE_-620_1484_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 157.07348265643662,
+      "certified_distance_lower_bound_mm": 10.738589483653584,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "M302_ROOF_RECEIVER_REAR_1_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 150.0362264908133,
+      "certified_distance_lower_bound_mm": 3.701333318030265,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "M401_REAR_BOSS_250_1504_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 193.42241327641344,
+      "certified_distance_lower_bound_mm": 47.087520103630396,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "M401_REAR_BOSS_600_1504_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 193.42241327641344,
+      "certified_distance_lower_bound_mm": 47.087520103630396,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "ROOF_FLANGE_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 239.17479920489797,
+      "certified_distance_lower_bound_mm": 92.83990603211492,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "SKIN_DRY_ROOF_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 153.0362264908133,
+      "certified_distance_lower_bound_mm": 6.701333318030265,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "SKIN_REAR_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 159.9346340836183,
+      "certified_distance_lower_bound_mm": 13.599740910835266,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C10_B_W2_POCKET_ROOF",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 3,
+      "minimum_sampled_distance_mm": 82.32172594108023,
+      "certified_distance_lower_bound_mm": 9.154279354688711,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_B_POCKET_FRONT_CLOSURE",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 3,
+      "minimum_sampled_distance_mm": 80.43557626736931,
+      "certified_distance_lower_bound_mm": 7.268129680977793,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_B_POCKET_GASKET_INSTALLED",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 3,
+      "minimum_sampled_distance_mm": 77.13481433837508,
+      "certified_distance_lower_bound_mm": 3.9673677519835593,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_DRY_ROOF_RENEWABLE_SEAM",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 151.5362264908133,
+      "certified_distance_lower_bound_mm": 5.201333318030265,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_05_INSERT",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 198.85029244795203,
+      "certified_distance_lower_bound_mm": 52.51539927516899,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_05_STOP",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 204.0566910579536,
+      "certified_distance_lower_bound_mm": 57.72179788517056,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_05_WASHER",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 206.96385268594884,
+      "certified_distance_lower_bound_mm": 60.628959513165796,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_05_SCREW",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 197.72502536126885,
+      "certified_distance_lower_bound_mm": 51.39013218848581,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_05_RENEWABLE_SEAL_CAP",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 205.64579327496648,
+      "certified_distance_lower_bound_mm": 59.31090010218344,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_06_INSERT",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 198.85029244795203,
+      "certified_distance_lower_bound_mm": 52.51539927516899,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_06_STOP",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 204.0566910579536,
+      "certified_distance_lower_bound_mm": 57.72179788517056,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_06_WASHER",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 206.96385268594884,
+      "certified_distance_lower_bound_mm": 60.628959513165796,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_06_SCREW",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 197.72502536126885,
+      "certified_distance_lower_bound_mm": 51.39013218848581,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_06_RENEWABLE_SEAL_CAP",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 205.64579327496648,
+      "certified_distance_lower_bound_mm": 59.31090010218344,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_0_O",
+      "fixed_group": "HEAT_EXCHANGERS",
+      "fixed": "B_UPPER__POST_0_673.775",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 15,
+      "minimum_sampled_distance_mm": 4.803877238949813,
+      "certified_distance_lower_bound_mm": 0.2309118273003472,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_0_O",
+      "fixed_group": "HEAT_EXCHANGERS",
+      "fixed": "B_UPPER__AIR_EDGE_0_1054",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 15,
+      "minimum_sampled_distance_mm": 5.769227187832853,
+      "certified_distance_lower_bound_mm": 0.5614905482162929,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_0_O",
+      "fixed_group": "HEAT_EXCHANGERS",
+      "fixed": "B_UPPER__W2_VENT_CALEFFI538201_1",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 284.7818054807612,
+      "certified_distance_lower_bound_mm": 138.44691230797815,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_0_O",
+      "fixed_group": "HEAT_EXCHANGERS",
+      "fixed": "B_UPPER__W2_VENT_CALEFFI538201_0",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 280.53460463204965,
+      "certified_distance_lower_bound_mm": 134.1997114592666,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_0_O",
+      "fixed_group": "THERMAL",
+      "fixed": "B_W2_25mm_CROWN_ONLY",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 3,
+      "minimum_sampled_distance_mm": 79.64359688728997,
+      "certified_distance_lower_bound_mm": 6.476150300898453,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_1_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_IN_WRAP_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 77.18116431429843,
+      "certified_distance_lower_bound_mm": 12.619288037918864,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_1_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_REAR_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 72.76858512785076,
+      "certified_distance_lower_bound_mm": 8.206708851471191,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_1_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_RETURN_REAR_RIGHT_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 91.3626241323802,
+      "certified_distance_lower_bound_mm": 26.80074785600064,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_1_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_TOP_SPLITTER_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 71.62090632892125,
+      "certified_distance_lower_bound_mm": 7.0590300525416865,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_IN_WRAP_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 111.24743074695577,
+      "certified_distance_lower_bound_mm": 0.6888387073283297,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_REAR_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 3,
+      "minimum_sampled_distance_mm": 73.05766833726526,
+      "certified_distance_lower_bound_mm": 17.778372317451534,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_RETURN_REAR_RIGHT_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 159.17213053973552,
+      "certified_distance_lower_bound_mm": 48.61353850010808,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_TOP_SPLITTER_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 3,
+      "minimum_sampled_distance_mm": 70.9713592794855,
+      "certified_distance_lower_bound_mm": 15.692063259671777,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "F_Y_TIE_-620_1484_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 283.4682312199823,
+      "certified_distance_lower_bound_mm": 172.90963918035482,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "M302_ROOF_RECEIVER_REAR_1_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 257.0519601879893,
+      "certified_distance_lower_bound_mm": 146.49336814836187,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "M401_REAR_BOSS_250_1504_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 318.54982727926534,
+      "certified_distance_lower_bound_mm": 207.9912352396379,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "M401_REAR_BOSS_600_1504_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 318.54982727926534,
+      "certified_distance_lower_bound_mm": 207.9912352396379,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "SKIN_DRY_ROOF_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 246.03996062748138,
+      "certified_distance_lower_bound_mm": 135.48136858785392,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "SKIN_REAR_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 246.07468332314264,
+      "certified_distance_lower_bound_mm": 135.5160912835152,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_DRY_ROOF_RENEWABLE_SEAM",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 258.63302121437926,
+      "certified_distance_lower_bound_mm": 148.0744291747518,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_05_INSERT",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 325.31514980823596,
+      "certified_distance_lower_bound_mm": 214.7565577686085,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_05_STOP",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 330.659213932252,
+      "certified_distance_lower_bound_mm": 220.10062189262453,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_05_WASHER",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 333.585117460442,
+      "certified_distance_lower_bound_mm": 223.02652542081455,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_05_SCREW",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 324.0381370282924,
+      "certified_distance_lower_bound_mm": 213.47954498866494,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_05_RENEWABLE_SEAL_CAP",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 332.2863652112671,
+      "certified_distance_lower_bound_mm": 221.72777317163963,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_06_INSERT",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 325.31514980823596,
+      "certified_distance_lower_bound_mm": 214.7565577686085,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_06_STOP",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 330.659213932252,
+      "certified_distance_lower_bound_mm": 220.10062189262453,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_06_WASHER",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 333.585117460442,
+      "certified_distance_lower_bound_mm": 223.02652542081455,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_06_SCREW",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 324.0381370282924,
+      "certified_distance_lower_bound_mm": 213.47954498866494,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_BLADE_B_UPPER_2_O",
+      "fixed_group": "SHELL",
+      "fixed": "C11_ROOF_M5_06_RENEWABLE_SEAL_CAP",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 332.2863652112671,
+      "certified_distance_lower_bound_mm": 221.72777317163963,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_ROOT_PIN_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_OUT_CHANNEL_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 228.99219500037026,
+      "certified_distance_lower_bound_mm": 217.21788888712,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_ROOT_PIN_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_REGEN_FLOOR_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 102.2481739942964,
+      "certified_distance_lower_bound_mm": 90.47386788104616,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_ROOT_PIN_A_LOWER_1_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_OUT_CHANNEL_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 228.99219500037026,
+      "certified_distance_lower_bound_mm": 217.21788888712,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_ROOT_PIN_A_LOWER_1_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_REGEN_FLOOR_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 102.2481739942964,
+      "certified_distance_lower_bound_mm": 90.47386788104616,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_ROOT_PIN_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_IN_WRAP_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 5,
+      "minimum_sampled_distance_mm": 4.319456127812167,
+      "certified_distance_lower_bound_mm": 1.3758795994871265,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_ROOT_PIN_A_UPPER_1_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_IN_WRAP_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 5,
+      "minimum_sampled_distance_mm": 4.319456127812167,
+      "certified_distance_lower_bound_mm": 1.3758795994871265,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_ROOT_PIN_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_OUT_CHANNEL_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 228.99219500037793,
+      "certified_distance_lower_bound_mm": 217.21788888712138,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_ROOT_PIN_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_REGEN_FLOOR_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 102.24817399428744,
+      "certified_distance_lower_bound_mm": 90.47386788103088,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_ROOT_PIN_B_LOWER_1_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_OUT_CHANNEL_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 228.99219500037793,
+      "certified_distance_lower_bound_mm": 217.21788888712138,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_ROOT_PIN_B_LOWER_1_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_REGEN_FLOOR_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 102.24817399428744,
+      "certified_distance_lower_bound_mm": 90.47386788103088,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_ROOT_PIN_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_IN_WRAP_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 5,
+      "minimum_sampled_distance_mm": 4.319456127773087,
+      "certified_distance_lower_bound_mm": 1.3758795994433521,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_ROOT_PIN_B_UPPER_1_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_IN_WRAP_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 5,
+      "minimum_sampled_distance_mm": 4.319456127773087,
+      "certified_distance_lower_bound_mm": 1.3758795994433521,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_ROOT_SLEEVE_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_BOTTOM_SPLITTER_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 20.396078054372307,
+      "certified_distance_lower_bound_mm": 4.5734683692117795,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_ROOT_SLEEVE_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PORT_DIVIDER_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 3.9999999999913256,
+      "certified_distance_lower_bound_mm": 0.0443475787011951,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_ROOT_SLEEVE_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_OUT_CHANNEL_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 18.439088914584236,
+      "certified_distance_lower_bound_mm": 2.6164792294237085,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_ROOT_SLEEVE_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_OUT_FLOOR_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 3.999999987921756,
+      "certified_distance_lower_bound_mm": 0.04434756663162531,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_ROOT_SLEEVE_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_REGEN_FLOOR_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 100.0089067222011,
+      "certified_distance_lower_bound_mm": 84.18629703704057,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_ROOT_SLEEVE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_IN_WRAP_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 3.999999997022669,
+      "certified_distance_lower_bound_mm": 0.044347575732525346,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_ROOT_SLEEVE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_REAR_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 3,
+      "minimum_sampled_distance_mm": 15.524174696192983,
+      "certified_distance_lower_bound_mm": 7.612869853612693,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_ROOT_SLEEVE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_RETURN_REAR_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 3.99999999973981,
+      "certified_distance_lower_bound_mm": 0.044347578449664304,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_ROOT_SLEEVE_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_TOP_SPLITTER_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 20.396078054383345,
+      "certified_distance_lower_bound_mm": 4.573468369222766,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_ROOT_SLEEVE_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_BOTTOM_SPLITTER_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 20.396078054372307,
+      "certified_distance_lower_bound_mm": 4.5734683692117795,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_ROOT_SLEEVE_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PORT_DIVIDER_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 3.9999999999913256,
+      "certified_distance_lower_bound_mm": 0.0443475787011951,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_ROOT_SLEEVE_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_OUT_CHANNEL_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 18.439088914584236,
+      "certified_distance_lower_bound_mm": 2.6164792294237085,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_ROOT_SLEEVE_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_OUT_FLOOR_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 3.9999999879314077,
+      "certified_distance_lower_bound_mm": 0.04434756664127715,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_ROOT_SLEEVE_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_REGEN_FLOOR_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 100.00890672220108,
+      "certified_distance_lower_bound_mm": 84.18629703704055,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_ROOT_SLEEVE_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_IN_WRAP_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 3.9999999970631417,
+      "certified_distance_lower_bound_mm": 0.04434757577299786,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_ROOT_SLEEVE_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_REAR_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 3,
+      "minimum_sampled_distance_mm": 15.524174696192983,
+      "certified_distance_lower_bound_mm": 7.612869853612693,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_ROOT_SLEEVE_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_RETURN_REAR_RIGHT_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 3.99999999973981,
+      "certified_distance_lower_bound_mm": 0.044347578449664304,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_ROOT_SLEEVE_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_TOP_SPLITTER_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 20.396078054383345,
+      "certified_distance_lower_bound_mm": 4.573468369222766,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_BOTTOM_SPLITTER_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 5.500000000006064,
+      "certified_distance_lower_bound_mm": 0.7052698214406297,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PORT_DIVIDER_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 5.499999999991394,
+      "certified_distance_lower_bound_mm": 0.7052698214259605,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_OUT_CHANNEL_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 5.4999999999928795,
+      "certified_distance_lower_bound_mm": 0.7052698214274455,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_OUT_FLOOR_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 5.499999977483409,
+      "certified_distance_lower_bound_mm": 0.7052697989179775,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_REGEN_CHEEK_A_HIGH_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 5.499999999990815,
+      "certified_distance_lower_bound_mm": 0.7052698214253814,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_REGEN_CHEEK_A_LOW_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 5.499999999990815,
+      "certified_distance_lower_bound_mm": 0.7052698214253814,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_REGEN_FLOOR_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 101.5089067222011,
+      "certified_distance_lower_bound_mm": 82.32998600793937,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_SIDE_IN_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 5.499999999999987,
+      "certified_distance_lower_bound_mm": 0.7052698214345661,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_SIDE_OUT_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 3,
+      "minimum_sampled_distance_mm": 17.999999999999943,
+      "certified_distance_lower_bound_mm": 8.410539642869077,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "M401_DAMPER_BACKER_A_L_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 48.83646178829912,
+      "certified_distance_lower_bound_mm": 29.657541074037386,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "M401_DAMPER_BLANK_A_L_HIGH_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 3,
+      "minimum_sampled_distance_mm": 16.77050983124463,
+      "certified_distance_lower_bound_mm": 7.181049474113765,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "M401_DAMPER_BLANK_A_L_LOW_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 3,
+      "minimum_sampled_distance_mm": 16.770509831242503,
+      "certified_distance_lower_bound_mm": 7.181049474111637,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "M611_ROOT_RCV_A_HIGH_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 5.499999999990815,
+      "certified_distance_lower_bound_mm": 0.7052698214253814,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "M611_ROOT_RCV_A_LOW_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 5.499999999990815,
+      "certified_distance_lower_bound_mm": 0.7052698214253814,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_A_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "SKIN_DRY_SIDE_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 60.466933112239126,
+      "certified_distance_lower_bound_mm": 41.2880123979774,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_CENTRAL_REAR_CLOSURE_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 5.499999989198364,
+      "certified_distance_lower_bound_mm": 1.9039523313007782,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_IN_WRAP_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 5.499999996813019,
+      "certified_distance_lower_bound_mm": 1.9039523389152824,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_REAR_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 5.499999999739814,
+      "certified_distance_lower_bound_mm": 1.9039523418420767,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_RETURN_REAR_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 5.499999999739814,
+      "certified_distance_lower_bound_mm": 1.9039523418420763,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_SIDE_IN_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 5.5,
+      "certified_distance_lower_bound_mm": 1.903952342102262,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_SIDE_OUT_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 18.0,
+      "certified_distance_lower_bound_mm": 3.6158093684090495,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_TOP_SPLITTER_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 5.500000000062212,
+      "certified_distance_lower_bound_mm": 1.9039523421644735,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "M401_DAMPER_BACKER_A_U_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 51.00000000000006,
+      "certified_distance_lower_bound_mm": 36.6158093684091,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "M401_DAMPER_BLANK_A_U_HIGH_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 19.999999999905636,
+      "certified_distance_lower_bound_mm": 5.615809368314686,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "M401_DAMPER_BLANK_A_U_LOW_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 19.999999999905636,
+      "certified_distance_lower_bound_mm": 5.615809368314686,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_A_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "SKIN_DRY_SIDE_A_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 64.99999999999989,
+      "certified_distance_lower_bound_mm": 50.61580936840893,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_BOTTOM_SPLITTER_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 5.500000000006064,
+      "certified_distance_lower_bound_mm": 0.7052698214406297,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PORT_DIVIDER_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 5.499999999991386,
+      "certified_distance_lower_bound_mm": 0.7052698214259543,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_OUT_CHANNEL_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 5.4999999999928795,
+      "certified_distance_lower_bound_mm": 0.7052698214274455,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_OUT_FLOOR_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 5.499999977493084,
+      "certified_distance_lower_bound_mm": 0.7052697989276524,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_REGEN_CHEEK_B_HIGH_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 5.499999999990814,
+      "certified_distance_lower_bound_mm": 0.7052698214253814,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_REGEN_CHEEK_B_LOW_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 5.499999999990814,
+      "certified_distance_lower_bound_mm": 0.7052698214253814,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_REGEN_FLOOR_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 101.50890672220108,
+      "certified_distance_lower_bound_mm": 82.32998600793934,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_SIDE_IN_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 5.5,
+      "certified_distance_lower_bound_mm": 0.7052698214345661,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_SIDE_OUT_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 3,
+      "minimum_sampled_distance_mm": 17.999999999994717,
+      "certified_distance_lower_bound_mm": 8.410539642863851,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "M401_DAMPER_BACKER_B_L_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 48.83646178829912,
+      "certified_distance_lower_bound_mm": 29.657541074037386,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "M401_DAMPER_BLANK_B_L_HIGH_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 3,
+      "minimum_sampled_distance_mm": 16.77050983124463,
+      "certified_distance_lower_bound_mm": 7.181049474113765,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "M401_DAMPER_BLANK_B_L_LOW_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 3,
+      "minimum_sampled_distance_mm": 16.770509831242503,
+      "certified_distance_lower_bound_mm": 7.181049474111637,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "M611_ROOT_RCV_B_HIGH_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 5.499999999990814,
+      "certified_distance_lower_bound_mm": 0.7052698214253814,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "M611_ROOT_RCV_B_LOW_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 5.499999999990814,
+      "certified_distance_lower_bound_mm": 0.7052698214253814,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_B_LOWER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "SKIN_DRY_SIDE_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 60.466933112239126,
+      "certified_distance_lower_bound_mm": 41.2880123979774,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_CENTRAL_REAR_CLOSURE_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 5.499999995497441,
+      "certified_distance_lower_bound_mm": 1.9039523375997027,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_PROCESS_IN_WRAP_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 5.499999996699787,
+      "certified_distance_lower_bound_mm": 1.9039523388020503,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_REAR_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 5.499999999739814,
+      "certified_distance_lower_bound_mm": 1.9039523418420763,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_RETURN_REAR_RIGHT_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 5.499999999739814,
+      "certified_distance_lower_bound_mm": 1.9039523418420763,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_SIDE_IN_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 5.5,
+      "certified_distance_lower_bound_mm": 1.903952342102262,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_SIDE_OUT_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 18.0,
+      "certified_distance_lower_bound_mm": 3.6158093684090495,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "AIR_TOP_SPLITTER_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 7,
+      "minimum_sampled_distance_mm": 5.500000000062212,
+      "certified_distance_lower_bound_mm": 1.9039523421644735,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "M401_DAMPER_BACKER_B_U_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 51.00000000000006,
+      "certified_distance_lower_bound_mm": 36.6158093684091,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "M401_DAMPER_BLANK_B_U_HIGH_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 19.999999999905636,
+      "certified_distance_lower_bound_mm": 5.615809368314686,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "M401_DAMPER_BLANK_B_U_LOW_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 19.999999999905636,
+      "certified_distance_lower_bound_mm": 5.615809368314686,
+      "failure": null
+    },
+    {
+      "moving": "DAMPER_SHAFT_B_UPPER_0_O",
+      "fixed_group": "SHELL",
+      "fixed": "SKIN_DRY_SIDE_B_O",
+      "status": "CERTIFIED_CLEAR",
+      "pose_queries": 1,
+      "minimum_sampled_distance_mm": 64.99999999999989,
+      "certified_distance_lower_bound_mm": 50.61580936840893,
+      "failure": null
+    }
+  ]
+}

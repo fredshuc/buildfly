@@ -1,0 +1,59 @@
+{
+  "axis": 2,
+  "plane_mm": 26.0,
+  "axes": "X,Y",
+  "bbox": [
+    -740.0,
+    540.0,
+    -620.0,
+    660.0
+  ],
+  "loops": [
+    [
+      [
+        -740.0,
+        540.0
+      ],
+      [
+        -740.0,
+        660.0
+      ],
+      [
+        -620.0,
+        660.0
+      ],
+      [
+        -620.0,
+        540.0
+      ]
+    ]
+  ],
+  "circles": [
+    {
+      "center": [
+        -635.0,
+        555.0
+      ],
+      "radius": 6.0
+    },
+    {
+      "center": [
+        -635.0,
+        645.0
+      ],
+      "radius": 6.0
+    }
+  ],
+  "chord_tolerance_mm": 0.01,
+  "spec": {
+    "part": "C11_B_DRAIN_FLOOR_PAD",
+    "kind": "flat_Z",
+    "thickness_mm": 8,
+    "R_inside_mm": 0,
+    "K": null,
+    "datum": "Xanchor-635,Y600+/-45;floorZ26",
+    "tolerance": "holes+/-0.2; full bearing after levelling"
+  },
+  "material": "S235JR plate8",
+  "reason": "Full bearing at floorZ26;twoD12 for selectedM10 anchors on90mm Y pitch;330Nm provisional lateral moment demands3.67kN couple; substrate acceptance OPEN"
+}

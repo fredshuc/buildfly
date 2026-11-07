@@ -1,0 +1,7 @@
+.work/
+__pycache__/
+*.pyc
+# Large STEP outputs (byte-identical .step.gz copies are tracked)
+/cad/C11_INSTALLED_S1.step
+/cad/C11_INSTALLED_S2.step
+/delivery/
