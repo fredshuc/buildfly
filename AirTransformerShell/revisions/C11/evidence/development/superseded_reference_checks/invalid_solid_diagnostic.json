@@ -1,0 +1,42 @@
+{
+  "source_assembly_sha256": "c18b87bc2515114b6683401002db301f9c29fc4dc463b48e09b5eb08f8a9ed9e",
+  "scope": "A lower canonical invalid valve occurrences available at probe time. Any repair requires complete exported-assembly revalidation; this probe does not alter pinned owners or installed STEP.",
+  "parts": [
+    {
+      "part": "A_LOWER__W1_VENT_CALEFFI538201_0",
+      "installed_valid": false,
+      "probe_valid": false,
+      "volume_delta_mm3": 0.0,
+      "bbox_max_delta_mm": 0.0,
+      "status": "DIAGNOSTIC_ONLY_NOT_APPLIED_TO_INSTALLED_CAD",
+      "probe_STEP_roundtrip_valid": true
+    },
+    {
+      "part": "A_LOWER__W1_DRAIN_CALEFFI538201_0",
+      "installed_valid": false,
+      "probe_valid": false,
+      "volume_delta_mm3": 0.0,
+      "bbox_max_delta_mm": 0.0,
+      "status": "DIAGNOSTIC_ONLY_NOT_APPLIED_TO_INSTALLED_CAD",
+      "probe_STEP_roundtrip_valid": true
+    },
+    {
+      "part": "A_LOWER__W2_VENT_CALEFFI538201_0",
+      "installed_valid": false,
+      "probe_valid": false,
+      "volume_delta_mm3": 0.0,
+      "bbox_max_delta_mm": 0.0,
+      "status": "DIAGNOSTIC_ONLY_NOT_APPLIED_TO_INSTALLED_CAD",
+      "probe_STEP_roundtrip_valid": true
+    },
+    {
+      "part": "A_LOWER__W2_DRAIN_CALEFFI538201_0",
+      "installed_valid": false,
+      "probe_valid": false,
+      "volume_delta_mm3": 0.0,
+      "bbox_max_delta_mm": 0.0,
+      "status": "DIAGNOSTIC_ONLY_NOT_APPLIED_TO_INSTALLED_CAD",
+      "probe_STEP_roundtrip_valid": true
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "status": "PASS_SHELL_REBUILD_SIGNATURE",
+  "scope": "Clean source + pinned STEP/ZIP inputs; rebuilt every Shell stage without baseline/stage caches. Seven-group assembly readback is separately checked; this does not claim independent full-system service or motion validation.",
+  "input_files": [
+    {
+      "path": "AirTransformerShell/revisions/C11/source/accessories.py",
+      "sha256": "15ee0945a75ae1ca3ffa759006ef8146ace27179c6211fbe47620b2b1c1198ec"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/base.py",
+      "sha256": "ac999707785f1000d296a946ffdda9b5e7f6526118c85cc902c6fac28516ddbc"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/build_shell.py",
+      "sha256": "23f23c91f31ea21047791bba008d7d9c0f9918ffe1cee83cefd257aaaa09a091"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/cad_sections.py",
+      "sha256": "69628afc96ba6a45b5e3a5aa0821eb5a7fbb43c811a3ea5a7ef00032bf1a34b4"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/cad_views.py",
+      "sha256": "209c473494040e17ffa27c5fb35247323970b22064b9c2439960cb8c0afa31cd"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/calculations.py",
+      "sha256": "9e0e919a5ddda3a28977083f1812b6874066b21c410b5375b4ab300508cf9a90"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/check_shell_design.py",
+      "sha256": "9956639a4f17cfbfa038ed1dbae671d58aa480603b6f3e66b296166c8a7cb21f"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/check_source_consistency.py",
+      "sha256": "842c3dce56570fcf613ff885221e3d2b5fc6942fd1c71ebbad15601437d0c5ac"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/common.py",
+      "sha256": "a23d3cbbafaa8f45bf210c336e9a909d244a7de056a5cd0e0f9904e5b947e3c9"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/datum_check.py",
+      "sha256": "f8affb1f8b43495601ad57b6b9e36a2154dc6ec2bea0414bc44d634f3dce65f4"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/diagnose_invalid.py",
+      "sha256": "9663c981fd68f3478339d9a4b1270aff9be457d394a9413b51975387754439e6"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/distribution.py",
+      "sha256": "d4d8d5172cbb716a8d108e2eb068dc9f715cedc636a1f2ddea3ea4ab66660f99"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/drawings.py",
+      "sha256": "4b0ff70215e1442942a0d2fac5f54134210a83dbd46846a3f9a5e3fe9042110b"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/face_seals.py",
+      "sha256": "1e241a3563a768b2aacb24c887acb2dc92085e770cf9bfe90e448453059a7587"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/geometry_io.py",
+      "sha256": "a477fc3335d49644557ee5f5fb1bca59a94a5a9f8308138b62f675a11636d9e7"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/glands.py",
+      "sha256": "4b2a56817d0012eb7d137fcc028295ae49b954010b2344a19b71175578fe2841"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/independent_rebuild.py",
+      "sha256": "1893fcf31de8e30b1b1fb732e9099b8b5358760e877c5044e3ec51d7dacc5a56"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/installed_mass_audit.py",
+      "sha256": "d388eacc5ecfc7c13c40b384cfd53baa25b281fd97601d0bcbb8f80218986477"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/integrate.py",
+      "sha256": "962b73a92db3079ed82d45488717cc3bbfc39064274f663144027635a52a5bfe"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/intersection_tools.py",
+      "sha256": "192bc5cf5c6bf3a3dbb16eb7deca52ee6cba1f208821d5ce06bfad1119a96130"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/manufacturing_registers.py",
+      "sha256": "a216d93ec4171ce751a956d83cb38fff676536f0fcc5e46b46ad7fb7c74eb748"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/mass_audit.py",
+      "sha256": "28d1a0f34ce9f901fa89e5e4363dd6fe3a659e6da83c1f94dcc0a7d89b0b5661"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/package_review.py",
+      "sha256": "686219083e9879a6d590d5feb2ebd7e5addd8d34f7e300191fee5fa9272021f5"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/pockets.py",
+      "sha256": "aa0ce1725f58026904aaabdd88a53ff55568efa34fbfc7aee9b6a5378142f580"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/prepare.py",
+      "sha256": "f9175f93c72285dc2a7234006fa452d5a90ef88d743645d3dbcbfe1f1b5856d4"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/probe_baseline.py",
+      "sha256": "b7bcdc29159e73b3d50a854301e800a51f1efd5b6cff6e23038170da7b01ca79"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/probe_feet.py",
+      "sha256": "70933b80acf482933d8801070cc025bb86eb3c522b64aad802f1bcc23478803d"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/probe_lip.py",
+      "sha256": "51606224975e1dc541df1a320669a2db7d3917c02e71da7d82a9e35a560b9388"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/probe_pocket.py",
+      "sha256": "dc546d223e58977b873726c45d78fcd1c6c8bca1dc510ea63913f5508016377b"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/probe_updated_shell.py",
+      "sha256": "df820fdeefc67f6248709c95d5db72f6de43e7aa56b4824413a312226da766e6"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/repair_hx_export.py",
+      "sha256": "114cee2fb09e91ae34d3feb98aa09d420ba8eb997ce767f6112e0293e43a5e53"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/report_engineering.py",
+      "sha256": "d9f12751648b10a896f195c0230e96ac3c634fbbed89fd060f43e2fcbac7cde1"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/restore_cad.py",
+      "sha256": "acdb81bb5bc96c111cade24e2ec83fe27664b1b7aa9bbdc15a6dd1659fc86b7d"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/review_release.py",
+      "sha256": "23811ff42ff1734aaec51c939e8554f217ae011f54aab306f5ee09b8a77fafcf"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/roof_access.py",
+      "sha256": "a0dae657a14cf07fa1bce42203c9ce302d580f80f9c85aa0afed138b858ba7ae"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/runtime_manifest.py",
+      "sha256": "d60752994772745a18d263b0747bfec71ee39c010b6cf486b83f9a193d25e64b"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/run_candidate_composition.py",
+      "sha256": "b63984e2a76ae00cd3a8f632fbfa70af0550b03bf14f9af8250d3e5169d87f0e"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/run_final_checks.py",
+      "sha256": "5a546b87a0cc7ce44aa399e7316f0de2e39861724118d971efd347c3962d2c4b"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/run_final_visuals.py",
+      "sha256": "11e30267b1ea756ac659e370d94ac54965568884b46089b431af63e2bec87d5b"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/section_properties.py",
+      "sha256": "184be5a2cc21e7efbdb221c27fdf764ac399f7b2c7f189a0cbb74b4592769585"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/structural_model.py",
+      "sha256": "945c5422c90578ecbcd87a2c5f21c968294797e6bae768e482f100d5b008bbcf"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/tolerance_budget.py",
+      "sha256": "0f80d691f4ccaaa674c03a79aadf81e6121dec38da1124e1dd39fc55ecc834b0"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/verify_integration.py",
+      "sha256": "5964a9406f3fc5866f73a718ac505ac37705a71cf95963efef1f45e7ac2a3221"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/verify_motion_delta.py",
+      "sha256": "6aec1a32f0c88d6390f65540013e73ffde44f6e0be44cda96e7c05ffd219fb98"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/verify_service_subset.py",
+      "sha256": "fff5e23c2fee78b04967b264fecc63d1f88e8d5f7b531920f8b28ba315a09345"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/verify_trap_spools.py",
+      "sha256": "5c24b76a0cd023dea3c4955559de4e0a386603df0e951482d5e0b473d3a3230d"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/source/welds.py",
+      "sha256": "7664f8604b4840387519f1310f18fdc91a8c9d46c22e95ac357ffe43624f4306"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/inputs/C11_D05_DAMPERS_REVIEW.zip",
+      "sha256": "b91a15555c282efc3cec27fd62bebdd62de2500bc53f32a909605ecaeeddf837"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/inputs/C11_HYD_T01_R1_CANDIDATE.zip",
+      "sha256": "d1a7429701c5786df42d720a8baea2a3bb63ee17c70fefd97fd9166c08ed4f9c"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/inputs/HX_M101_C10_H02_RETURN_20261107.zip",
+      "sha256": "b0fbc5cf3bbcbaeeb0dd0e43a6bdb596389bf00abdbcad51519a115a577bda5b"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C11/INPUTS.json",
+      "sha256": "92526b850f32a1df12a0bf069902765496b501115a775204c409c48f4e0667af"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C10/INPUTS.json",
+      "sha256": "13c7cfe353d606015f6d14f0c8ee8b276582476413a928a2fe4f9a04c23acc14"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C10/cad/C10_INSTALLED_S1.step",
+      "sha256": "55f43f07d34ba2ec186b634673f06bc3efdf6dfdc911c11433e07fd720a67f09"
+    },
+    {
+      "path": "AirTransformerShell/revisions/C10/cad/C10_INSTALLED_S2.step",
+      "sha256": "5e547cd158b5c6d3692a940d672a6aa8a1ae074655237abf4ff09e1fbfe0ecff"
+    },
+    {
+      "path": "HX/M101_C08_HORIZONTAL_H01/HX_C08_H01_HYDRONIC_RETURN.zip",
+      "sha256": "f8384a845b44b1723909b3cbe2a9612b177f9c21ae067ff18a29e9663ff3601b"
+    },
+    {
+      "path": "hydronics/H01_HYD_S2/HYD_S2_WATER_DELTA.zip",
+      "sha256": "ee36e6f10912e25cefab3fdb7aac5b2502eb2796ac54e847f465456c48e547ba"
+    }
+  ],
+  "shell_count": 1503,
+  "differences": [],
+  "volume_tolerance": "max(0.001mm3,1e-9 relative)",
+  "bbox_tolerance_mm": 1e-05,
+  "timestamps": "Log/STEP metadata timestamps are not geometric signature fields",
+  "stages": [
+    {
+      "script": "prepare.py",
+      "exit_code": 0,
+      "start": "2026-11-07T14:29:00.530225",
+      "end": "2026-11-07T14:29:11.083005"
+    },
+    {
+      "script": "build_shell.py",
+      "exit_code": 0,
+      "start": "2026-11-07T14:29:11.084007",
+      "end": "2026-11-07T14:37:54.274779"
+    }
+  ],
+  "work_directory": "..\\..\\..\\..\\_C11_REBUILD_20261107_142855_515592"
+}

@@ -1,0 +1,89 @@
+{
+  "axis": 2,
+  "plane_mm": 30.0,
+  "axes": "X,Y",
+  "bbox": [
+    -740.0,
+    -63.0,
+    -540.0,
+    63.0
+  ],
+  "loops": [
+    [
+      [
+        -740.0,
+        -63.0
+      ],
+      [
+        -740.0,
+        63.0
+      ],
+      [
+        -655.0,
+        63.0
+      ],
+      [
+        -655.0,
+        50.0
+      ],
+      [
+        -540.0,
+        50.0
+      ],
+      [
+        -540.0,
+        -50.0
+      ],
+      [
+        -655.0,
+        -50.0
+      ],
+      [
+        -655.0,
+        -63.0
+      ]
+    ]
+  ],
+  "circles": [
+    {
+      "center": [
+        -715.0,
+        -30.0
+      ],
+      "radius": 4.25
+    },
+    {
+      "center": [
+        -675.0,
+        -38.0
+      ],
+      "radius": 6.0
+    },
+    {
+      "center": [
+        -715.0,
+        30.0
+      ],
+      "radius": 4.25
+    },
+    {
+      "center": [
+        -675.0,
+        38.0
+      ],
+      "radius": 6.0
+    }
+  ],
+  "chord_tolerance_mm": 0.01,
+  "spec": {
+    "part": "P_FOOT_-600_0_O",
+    "kind": "flat_Z",
+    "thickness_mm": 12,
+    "R_inside_mm": 0,
+    "K": null,
+    "datum": "original topZ42 and D12 anchor centres unchanged",
+    "tolerance": "M10 position +/-0.10; flatness0.10; minimum12mm full thread"
+  },
+  "material": "S235JR plate12.0",
+  "reason": "Extend outer edge toX-740, preserve topZ42 and originalD12 anchors; add2M10 tapped holes atX-715,Ycentre+/-30; no change to post or base beam"
+}

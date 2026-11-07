@@ -1,0 +1,105 @@
+{
+  "axis": 0,
+  "plane_mm": -649.3,
+  "axes": "Y,Z",
+  "bbox": [
+    96.34510355781285,
+    488.0000000179856,
+    354.0,
+    632.0000000179856
+  ],
+  "loops": [
+    [
+      [
+        96.34510355781285,
+        488.0000000179856
+      ],
+      [
+        96.34510355781285,
+        632.0000000179856
+      ],
+      [
+        353.9999999999999,
+        632.0000000179856
+      ],
+      [
+        354.0,
+        488.0000000179856
+      ]
+    ],
+    [
+      [
+        341.9999999999999,
+        500.0000000179856
+      ],
+      [
+        108.34510355781285,
+        500.0000000179856
+      ],
+      [
+        108.34510355781285,
+        620.0000000179856
+      ],
+      [
+        341.9999999999999,
+        620.0000000179856
+      ]
+    ]
+  ],
+  "circles": [
+    {
+      "center": [
+        348.0,
+        494.0000000179856
+      ],
+      "radius": 1.65
+    },
+    {
+      "center": [
+        225.17255177890644,
+        494.0000000179856
+      ],
+      "radius": 1.65
+    },
+    {
+      "center": [
+        348.0,
+        626.0000000179856
+      ],
+      "radius": 1.65
+    },
+    {
+      "center": [
+        225.17255177890644,
+        626.0000000179856
+      ],
+      "radius": 1.65
+    },
+    {
+      "center": [
+        102.34510355781285,
+        494.0000000179856
+      ],
+      "radius": 1.65
+    },
+    {
+      "center": [
+        102.34510355781285,
+        626.0000000179856
+      ],
+      "radius": 1.65
+    }
+  ],
+  "chord_tolerance_mm": 0.01,
+  "spec": {
+    "part": "C11_B_L_GLAND_BACKER",
+    "kind": "flat_X",
+    "thickness_mm": 5,
+    "R_inside_mm": 0,
+    "K": null,
+    "datum": "skin inside X=-649.3;6 blind M4 taps depth4.0, closed wall>=0.9",
+    "tolerance": "profile +/-0.2; ring flatness0.2; blind tap depth+0.1/-0.0; no breakthrough"
+  },
+  "material": "S235JR plate 5.0",
+  "reason": "12 mm perimeter ring; thickness sized for1kN blind-thread proof; continuous sealed interface to skin; edge welds inspected before assembly"
+}

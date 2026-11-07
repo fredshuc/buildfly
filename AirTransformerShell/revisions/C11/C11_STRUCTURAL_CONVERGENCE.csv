@@ -1,0 +1,6 @@
+case,mesh24_displacement_mm,mesh48_displacement_mm,displacement_change_percent,mesh24_web_peak_MPa,mesh48_web_peak_MPa,web_peak_change_percent,interpretation
+WET_GRAVITY,0.3521917186363742,0.3521981234710668,0.0018185648195778725,23.426461646218026,24.80821778642623,5.898270772066327,Global displacement stable; local end stress not demonstrated converged; no fabrication release
+S1_PRESSURE_TORQUE,0.3888111098790639,0.3888133229976332,0.0005692014741986995,19.341535201228155,20.463033925027364,5.798395588205407,Global displacement stable; local end stress not demonstrated converged; no fabrication release
+S2_PRESSURE_TORQUE,0.42092265734051504,0.4209291067398975,0.0015322053279698267,27.24473783635481,28.87008507167121,5.965729033911171,Global displacement stable; local end stress not demonstrated converged; no fabrication release
+SERVICE_500N,0.4123990804545015,0.41242844530270223,0.007120493132117822,23.0294504714798,24.39433402560499,5.9266874640169664,Global displacement stable; local end stress not demonstrated converged; no fabrication release
+DRAINED_2G_SCREEN,0.6985423876833027,0.6985546604617969,0.001756912495309848,46.68566107989344,49.43864740389466,5.896856251622995,Global displacement stable; local end stress not demonstrated converged; no fabrication release

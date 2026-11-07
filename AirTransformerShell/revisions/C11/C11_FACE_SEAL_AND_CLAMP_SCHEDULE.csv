@@ -1,0 +1,81 @@
+core,clamp,X_mm,Y_mm,datum_Z_mm,frame_contact_Z_mm,reaction,jaw_thickness_mm,thread_engagement_mm,seal_free_mm,installed_mm,gap_min_mm,gap_max_mm,force_design_max_N,torque_Nm,HX_allowable_status
+A_LOWER,1,-350,-768.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_LOWER,2,-350,-96.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_LOWER,3,-230,-768.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_LOWER,4,-230,-96.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_LOWER,5,-110,-768.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_LOWER,6,-110,-96.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_LOWER,7,10,-768.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_LOWER,8,10,-96.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_LOWER,9,130,-768.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_LOWER,10,130,-96.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_LOWER,11,250,-768.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_LOWER,12,250,-96.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_LOWER,13,370,-768.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_LOWER,14,370,-96.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_LOWER,15,550,-768.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_LOWER,16,550,-96.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_LOWER,17,-410,-768.5,620,628,bottom Y-end frame on gusseted bearing extension,3.5,6.05,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_LOWER,18,645,-658.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_LOWER,19,-418,-96.5,620,628,bottom Y-end frame on gusseted bearing extension,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_LOWER,20,645,-206.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_UPPER,1,-350,-768.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_UPPER,2,-350,-96.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_UPPER,3,-230,-768.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_UPPER,4,-230,-96.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_UPPER,5,-110,-768.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_UPPER,6,-110,-96.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_UPPER,7,10,-768.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_UPPER,8,10,-96.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_UPPER,9,130,-768.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_UPPER,10,130,-96.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_UPPER,11,250,-768.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_UPPER,12,250,-96.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_UPPER,13,370,-768.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_UPPER,14,370,-96.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_UPPER,15,550,-768.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_UPPER,16,550,-96.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_UPPER,17,-410,-768.5,955,963,bottom Y-end frame on gusseted bearing extension,3.5,6.05,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_UPPER,18,645,-658.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_UPPER,19,-418,-96.5,955,963,bottom Y-end frame on gusseted bearing extension,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+A_UPPER,20,645,-206.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_LOWER,1,-350,96.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_LOWER,2,-350,768.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_LOWER,3,-230,96.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_LOWER,4,-230,768.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_LOWER,5,-110,96.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_LOWER,6,-110,768.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_LOWER,7,10,96.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_LOWER,8,10,768.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_LOWER,9,130,96.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_LOWER,10,130,768.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_LOWER,11,250,96.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_LOWER,12,250,768.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_LOWER,13,370,96.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_LOWER,14,370,768.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_LOWER,15,550,96.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_LOWER,16,550,768.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_LOWER,17,-410,96.5,620,628,bottom Y-end frame on gusseted bearing extension,3.5,6.05,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_LOWER,18,645,206.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_LOWER,19,-418,768.5,620,628,bottom Y-end frame on gusseted bearing extension,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_LOWER,20,645,658.5,620,628,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_UPPER,1,-350,96.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_UPPER,2,-350,768.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_UPPER,3,-230,96.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_UPPER,4,-230,768.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_UPPER,5,-110,96.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_UPPER,6,-110,768.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_UPPER,7,10,96.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_UPPER,8,10,768.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_UPPER,9,130,96.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_UPPER,10,130,768.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_UPPER,11,250,96.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_UPPER,12,250,768.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_UPPER,13,370,96.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_UPPER,14,370,768.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_UPPER,15,550,96.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_UPPER,16,550,768.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_UPPER,17,-410,96.5,955,963,bottom Y-end frame on gusseted bearing extension,3.5,6.05,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_UPPER,18,645,206.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_UPPER,19,-418,768.5,955,963,bottom Y-end frame on gusseted bearing extension,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN
+B_UPPER,20,645,658.5,955,963,bottom frame land,8,7.55,6.35,4.45,4.2,4.7,500,0.5,NOT RELEASED; HX fixture1000N is not service allowance; long edge uplift/frame proof OPEN

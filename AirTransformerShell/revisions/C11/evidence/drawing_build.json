@@ -1,0 +1,9 @@
+{
+  "pdf_pages": 29,
+  "base_pdf_pages": 22,
+  "flat_profiles": 200,
+  "hole_rows": 254,
+  "source_shell_index_sha256": "bc8801a446faf04d5cab38aa0b20e899316616ec93cdafa22dd4b338cd279f07",
+  "status": "CANDIDATE_REVIEW_NOT_RELEASE",
+  "exact_CAD_section_pages": 7
+}

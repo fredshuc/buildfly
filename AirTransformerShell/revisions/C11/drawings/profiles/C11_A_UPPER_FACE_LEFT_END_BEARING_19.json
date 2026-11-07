@@ -1,0 +1,44 @@
+{
+  "axis": 2,
+  "plane_mm": 940.55,
+  "axes": "X,Y",
+  "bbox": [
+    -421.0,
+    -116.5,
+    -395.0,
+    -86.5
+  ],
+  "loops": [
+    [
+      [
+        -421.0,
+        -116.5
+      ],
+      [
+        -421.0,
+        -86.5
+      ],
+      [
+        -395.0,
+        -86.5
+      ],
+      [
+        -395.0,
+        -116.5
+      ]
+    ]
+  ],
+  "circles": [],
+  "chord_tolerance_mm": 0.01,
+  "spec": {
+    "part": "C11_A_UPPER_FACE_LEFT_END_BEARING_19",
+    "kind": "flat_Z",
+    "thickness_mm": 8,
+    "R_inside_mm": 0,
+    "K": null,
+    "datum": "top Z=948.55; root X=-421",
+    "tolerance": "bearing flatness0.05; selected height+/-0.05"
+  },
+  "material": "S235JR plate8",
+  "reason": "26x30 bearing extension supports carrier and left end clamp; weld to mount and two gussets; top flush to carrier underside; no load through skin or copper"
+}

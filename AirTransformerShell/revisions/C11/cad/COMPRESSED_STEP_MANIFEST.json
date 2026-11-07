@@ -1,0 +1,18 @@
+[
+  {
+    "step": "C11_INSTALLED_S1.step",
+    "step_sha256": "b941c52ab7d094e54d6b50dca9c51c876e00ce4744d8cfc6b05b8976e9ea0d18",
+    "step_bytes": 146253581,
+    "compressed": "C11_INSTALLED_S1.step.gz",
+    "gzip_sha256": "1909e961b45b8a203274dc1ee74b24fe53f8e6201009d1a3bfc73b11a121f76b",
+    "gzip_bytes": 26363483
+  },
+  {
+    "step": "C11_INSTALLED_S2.step",
+    "step_sha256": "a826c214bbc4d3b0be61dcc654f1e07b71881494ace19044dd4ae08bd3a991d7",
+    "step_bytes": 146256234,
+    "compressed": "C11_INSTALLED_S2.step.gz",
+    "gzip_sha256": "434d06183ae82d9810664ee00bbe8d3fad5f8e3a8d68dab6e64fc23c94249920",
+    "gzip_bytes": 26365158
+  }
+]

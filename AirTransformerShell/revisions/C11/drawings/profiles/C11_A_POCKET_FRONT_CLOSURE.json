@@ -1,0 +1,91 @@
+{
+  "axis": 0,
+  "plane_mm": -512.0,
+  "axes": "Y,Z",
+  "bbox": [
+    -779.5,
+    1143.5,
+    -731.0,
+    1170.0
+  ],
+  "loops": [
+    [
+      [
+        -766.5,
+        1143.5
+      ],
+      [
+        -766.5,
+        1149.0
+      ],
+      [
+        -779.5,
+        1149.0
+      ],
+      [
+        -779.5,
+        1161.0
+      ],
+      [
+        -766.5,
+        1161.0
+      ],
+      [
+        -766.5,
+        1170.0
+      ],
+      [
+        -744.0,
+        1170.0
+      ],
+      [
+        -744.0,
+        1161.0
+      ],
+      [
+        -731.0,
+        1161.0
+      ],
+      [
+        -731.0,
+        1149.0
+      ],
+      [
+        -744.0,
+        1149.0
+      ],
+      [
+        -744.0,
+        1143.5
+      ]
+    ]
+  ],
+  "circles": [
+    {
+      "center": [
+        -774.5,
+        1155.0
+      ],
+      "radius": 2.25
+    },
+    {
+      "center": [
+        -736.0,
+        1155.0
+      ],
+      "radius": 2.25
+    }
+  ],
+  "chord_tolerance_mm": 0.01,
+  "spec": {
+    "part": "C11_A_POCKET_FRONT_CLOSURE",
+    "kind": "flat_X",
+    "thickness_mm": 2,
+    "R_inside_mm": 0,
+    "K": null,
+    "datum": "Pin mating plane X=-506.50; closure face X=-510.00",
+    "tolerance": "profile +/-0.10; holes +/-0.10; local flatness 0.10"
+  },
+  "material": "S235JR sheet 2.0",
+  "reason": "Continuous shell-owned closure, pierced only for two M4 ear clearances"
+}

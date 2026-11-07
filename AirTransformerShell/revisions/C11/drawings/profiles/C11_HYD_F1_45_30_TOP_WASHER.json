@@ -1,0 +1,52 @@
+{
+  "axis": 2,
+  "plane_mm": 132.0,
+  "axes": "X,Y",
+  "bbox": [
+    -1627.0,
+    -1168.0,
+    -1603.0,
+    -1132.0
+  ],
+  "loops": [
+    [
+      [
+        -1627.0,
+        -1168.0
+      ],
+      [
+        -1627.0,
+        -1132.0
+      ],
+      [
+        -1603.0,
+        -1132.0
+      ],
+      [
+        -1603.0,
+        -1168.0
+      ]
+    ]
+  ],
+  "circles": [
+    {
+      "center": [
+        -1615.0,
+        -1150.0
+      ],
+      "radius": 6.5
+    }
+  ],
+  "chord_tolerance_mm": 0.01,
+  "spec": {
+    "part": "C11_HYD_F1_45_30_TOP_WASHER",
+    "kind": "flat_Z",
+    "thickness_mm": 18,
+    "R_inside_mm": 0,
+    "K": null,
+    "datum": "bolt centresXfoot+/-45,Yfoot+/-30",
+    "tolerance": "D13+0.2; flatness0.05; thickness+/-0.10"
+  },
+  "material": "S235JR machined plate washer24Xx36Yx18",
+  "reason": "D13 bore; bridges14mm owner slot;3mm clearance to60mm riser;25kN preload screen147.3MPa; bearing faces machined parallel"
+}

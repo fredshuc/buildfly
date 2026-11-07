@@ -1,0 +1,81 @@
+{
+  "axis": 2,
+  "plane_mm": 295.67999999999995,
+  "axes": "X,Y",
+  "bbox": [
+    -760.0,
+    -1270.0,
+    -655.0,
+    -915.0
+  ],
+  "loops": [
+    [
+      [
+        -760.0,
+        -1270.0
+      ],
+      [
+        -700.0,
+        -1270.0
+      ],
+      [
+        -700.0,
+        -1230.0
+      ],
+      [
+        -655.0,
+        -1230.0
+      ],
+      [
+        -655.0,
+        -915.0
+      ],
+      [
+        -760.0,
+        -915.0
+      ]
+    ]
+  ],
+  "circles": [
+    {
+      "center": [
+        -720.0,
+        -930.0
+      ],
+      "radius": 10.0
+    },
+    {
+      "center": [
+        -720.0,
+        -1090.0
+      ],
+      "radius": 13.5
+    },
+    {
+      "center": [
+        -720.0,
+        -1030.0
+      ],
+      "radius": 10.0
+    },
+    {
+      "center": [
+        -680.0,
+        -1040.0
+      ],
+      "radius": 13.5
+    }
+  ],
+  "chord_tolerance_mm": 0.01,
+  "spec": {
+    "part": "C11_A_LOWER_COND_SUPPORT_SHELF",
+    "kind": "flat_Z",
+    "thickness_mm": 8,
+    "R_inside_mm": 0,
+    "K": null,
+    "datum": "trap lower centreZ=254.68; shelf topZ=303.68",
+    "tolerance": "profile +/-0.2; bores +/-0.1"
+  },
+  "material": "S235JR plate8.0",
+  "reason": "60mm root bridge to post left face; a3 seam gross40 effective34; two trap clips;300N vertical proof per trap"
+}

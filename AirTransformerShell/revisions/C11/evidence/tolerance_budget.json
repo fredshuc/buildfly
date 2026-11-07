@@ -1,0 +1,86 @@
+{
+  "status": "HOLD_UNCLOSED_GAP_AND_THERMAL_STACK",
+  "face_gap_unadjusted_mm": [
+    4.065641284938913,
+    4.834358715061088
+  ],
+  "face_qualified_gap_mm": [
+    4.2,
+    4.7
+  ],
+  "required_action": "Define selected/shimmed stop settings and measure every local working gap under approved clamp load; qualify actual HX frame deformation; obtain actual temperature/CTE/CG data and verify friction/sliding. Wider seal thickness alone does not close this budget.",
+  "rows": [
+    {
+      "interface": "FACE_GAP",
+      "quantity": "HX land flatness",
+      "bound_mm": 0.1,
+      "basis": "Final H02 proposed land PV; owner qualification remains open"
+    },
+    {
+      "interface": "FACE_GAP",
+      "quantity": "Shell carrier flatness",
+      "bound_mm": 0.1,
+      "basis": "Proposed manufacturing requirement, not measured"
+    },
+    {
+      "interface": "FACE_GAP",
+      "quantity": "Assembly/hard-stop selection",
+      "bound_mm": 0.1,
+      "basis": "Unadjusted allowance; must be measured and shimmed"
+    },
+    {
+      "interface": "FACE_GAP",
+      "quantity": "Carrier elastic screening",
+      "bound_mm": 0.08435871506108758,
+      "basis": "Maximum of Y-edge screen, right strongback plus carrier overhang, and new left-end bearing extension; HX frame deformation still additional/unqualified"
+    },
+    {
+      "interface": "FACE_GAP",
+      "quantity": "Unadjusted one-sided sum",
+      "bound_mm": 0.38435871506108754,
+      "basis": "Exceeds +/-0.25mm qualified installed gap; excludes unqualified HX edge/frame deformation; no automatic tolerance PASS"
+    },
+    {
+      "interface": "FACE_GAP",
+      "quantity": "Permitted qualified gap half-range",
+      "bound_mm": 0.25,
+      "basis": "4.20..4.70mm around4.45; measured local gap and load proof required"
+    },
+    {
+      "interface": "THERMAL_X",
+      "quantity": "Relative growth over1040mm",
+      "bound_mm": 1.4248,
+      "basis": "Illustrative Al core +70K / steel carrier +20K; thermal field not supplied"
+    },
+    {
+      "interface": "THERMAL_X",
+      "quantity": "Nominal stated travel",
+      "bound_mm": 1.5,
+      "basis": "Candidate locator/slide requirement; clamped friction and actual travel not verified"
+    },
+    {
+      "interface": "THERMAL_X",
+      "quantity": "Datum allowance added to thermal example",
+      "bound_mm": 0.4,
+      "basis": "Sensitivity only, not certified tolerance allocation"
+    },
+    {
+      "interface": "THERMAL_X",
+      "quantity": "Growth plus datum sensitivity",
+      "bound_mm": 1.8248000000000002,
+      "basis": "Exceeds1.5mm; thermal slide design remains HOLD"
+    },
+    {
+      "interface": "DAMPER_RELATIVE_FRAME",
+      "quantity": "Operational FE change",
+      "bound_mm": 0.1053066,
+      "basis": "Mesh48 linear model relative to gravity-loaded datum; excludes thermal/contact/anchor flexibility"
+    },
+    {
+      "interface": "DAMPER_RELATIVE_FRAME",
+      "quantity": "D05 Shell allocation",
+      "bound_mm": 0.2,
+      "basis": "Pinned D05 allocation; separate terms must not be silently absorbed"
+    }
+  ]
+}

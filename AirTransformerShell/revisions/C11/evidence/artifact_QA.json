@@ -1,0 +1,108 @@
+{
+  "status": "PASS_ARTIFACT_COMPLETENESS_AND_VISUAL_LAYOUT_REVIEW",
+  "pdf_sha256": "a953af96a8698346d3974868ee60b8b9e63cd8826d4686f1f4f6ed1494518c92",
+  "pdf_pages": 29,
+  "CAD_flat_profiles": 200,
+  "profile_files": 600,
+  "CAD_view_sha256": {
+    "01_S1_open.png": "26871ec62eaf0b18238d39233a15fc1861f12b90c5fb7e91e637caf65e7ffff1",
+    "02_S1_outside.png": "b3dd826d231581a6d2bb5c6230e162afdc61bd9ecba62c1a41451bffa0d2f54e",
+    "03_S1_open.png": "58e723df8bfb64d01110798a76bdeee52874ce6f42f997cc6edda1d7b1bf9544",
+    "04_S1_bed.png": "4a7aa8b5e918948716910893906943a4df767b86d262f84317da187f78f367d4",
+    "05_S2_bed.png": "d368f4f0a43f172e3343735b16101366dd3cb4805d7cd09d066b6a9436fc46c2",
+    "06_S1_pocket.png": "b356a3c8b16b871617fdb25d3cff43d4294868c87ab63d362fb270cea41c5bcb",
+    "07_S1_gland.png": "ea7844acf27589cba4b77486bb8453caaf72930e5be46587c5d79a31fe784c97",
+    "08_S1_base.png": "96b60831359ea63d71cc37a95e8345a3f2b963872ea20a8e1e1bff9bc1e1793e",
+    "09_S1_drain.png": "25771858ac5af9df01776b90011d2622cc97e0b07f8953973506fcb07506526f",
+    "10_S2_motion.png": "8db647b3ee77f30553422285d542ed97f1f5b56af85b662d9fb5afc561842c72",
+    "11_S1_face.png": "c96cd5b02648adc4f04c69a3c737259312c57989bfba0cf7f90dfc7f77d7c75a"
+  },
+  "checked_local_markdown_links": [
+    {
+      "document": "README_CN.md",
+      "target": "README_EN.md"
+    },
+    {
+      "document": "README_CN.md",
+      "target": "C11_CLOSURE_MATRIX.csv"
+    },
+    {
+      "document": "README_CN.md",
+      "target": "C11_INTERFACE_ACCEPTANCE.csv"
+    },
+    {
+      "document": "README_CN.md",
+      "target": "C11_OPEN_INTERFERENCES.csv"
+    },
+    {
+      "document": "README_EN.md",
+      "target": "C11_JOINT_RETURN_REQUESTS_EN.md"
+    },
+    {
+      "document": "README_EN.md",
+      "target": "C11_OPEN_INTERFERENCES.csv"
+    },
+    {
+      "document": "README_EN.md",
+      "target": "C11_CLOSURE_MATRIX.csv"
+    },
+    {
+      "document": "README_EN.md",
+      "target": "C11_INTERFACE_ACCEPTANCE.csv"
+    },
+    {
+      "document": "README_EN.md",
+      "target": "cad/C11_INSTALLED_S1.step.gz"
+    },
+    {
+      "document": "README_EN.md",
+      "target": "cad/C11_INSTALLED_S2.step.gz"
+    },
+    {
+      "document": "README_EN.md",
+      "target": "ENGINEERING_REVIEW_EN.md"
+    },
+    {
+      "document": "README_EN.md",
+      "target": "drawings/C11_MANUFACTURING_REVIEW.pdf"
+    },
+    {
+      "document": "README_EN.md",
+      "target": "C11_PART_SCHEDULE.csv"
+    },
+    {
+      "document": "README_EN.md",
+      "target": "TEST_AND_SERVICE_PLAN_EN.md"
+    },
+    {
+      "document": "README_EN.md",
+      "target": "drawings/PROFILE_MANIFEST.json"
+    },
+    {
+      "document": "README_EN.md",
+      "target": "views/VIEW_MANIFEST.json"
+    },
+    {
+      "document": "README_EN.md",
+      "target": "drawings/SECTION_MANIFEST.json"
+    },
+    {
+      "document": "README_EN.md",
+      "target": "views/01_S1_open.png"
+    },
+    {
+      "document": "README_EN.md",
+      "target": "views/VIEW_MANIFEST.json"
+    },
+    {
+      "document": "README_EN.md",
+      "target": "INPUTS.json"
+    },
+    {
+      "document": "sources/SOURCES.md",
+      "target": "../INPUTS.json"
+    }
+  ],
+  "visual_review": "All final PDF pages and all 11 actual-CAD views inspected through rendered images, with enlarged inspection of changed jaw details and CAD sections. No clipped or overlapping page content found. Engineering HOLD labels retained.",
+  "scope": "Digital artifact completeness and presentation only. No physical fabrication, proof-load, leakage, airflow or wet test is claimed."
+}

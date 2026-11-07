@@ -1,0 +1,23 @@
+part,quantity,material,normal_axis,thickness_mm,profile_axes,rectangular_profile_mm,tolerance,status
+C11_A_LOWER_FACE_RIGHT_STRONGBACK_CAP_MIN,1,S235JR plate3,Y,3.0,XZ,"[24.0, 44.0]",Profile+/-0.2mm; deburrR0.5; confirm stock inner corner radius and seal-weld fit,REVIEW_CANDIDATE
+C11_A_LOWER_FACE_RIGHT_STRONGBACK_CAP_MAX,1,S235JR plate3,Y,3.0,XZ,"[24.0, 44.0]",Profile+/-0.2mm; deburrR0.5; confirm stock inner corner radius and seal-weld fit,REVIEW_CANDIDATE
+C11_A_UPPER_FACE_RIGHT_STRONGBACK_CAP_MIN,1,S235JR plate3,Y,3.0,XZ,"[24.0, 44.0]",Profile+/-0.2mm; deburrR0.5; confirm stock inner corner radius and seal-weld fit,REVIEW_CANDIDATE
+C11_A_UPPER_FACE_RIGHT_STRONGBACK_CAP_MAX,1,S235JR plate3,Y,3.0,XZ,"[24.0, 44.0]",Profile+/-0.2mm; deburrR0.5; confirm stock inner corner radius and seal-weld fit,REVIEW_CANDIDATE
+C11_B_LOWER_FACE_RIGHT_STRONGBACK_CAP_MIN,1,S235JR plate3,Y,3.0,XZ,"[24.0, 44.0]",Profile+/-0.2mm; deburrR0.5; confirm stock inner corner radius and seal-weld fit,REVIEW_CANDIDATE
+C11_B_LOWER_FACE_RIGHT_STRONGBACK_CAP_MAX,1,S235JR plate3,Y,3.0,XZ,"[24.0, 44.0]",Profile+/-0.2mm; deburrR0.5; confirm stock inner corner radius and seal-weld fit,REVIEW_CANDIDATE
+C11_B_UPPER_FACE_RIGHT_STRONGBACK_CAP_MIN,1,S235JR plate3,Y,3.0,XZ,"[24.0, 44.0]",Profile+/-0.2mm; deburrR0.5; confirm stock inner corner radius and seal-weld fit,REVIEW_CANDIDATE
+C11_B_UPPER_FACE_RIGHT_STRONGBACK_CAP_MAX,1,S235JR plate3,Y,3.0,XZ,"[24.0, 44.0]",Profile+/-0.2mm; deburrR0.5; confirm stock inner corner radius and seal-weld fit,REVIEW_CANDIDATE
+C11_A_DISTRIBUTION_ENDCAP_OUT_1,1,S235JR plate2.0,X,2.0,YZ,"[6.0, 6.0]",Profile+/-0.2mm; deburrR0.5; confirm stock inner corner radius and seal-weld fit,REVIEW_CANDIDATE
+C11_A_DISTRIBUTION_ENDCAP_OUT_2,1,S235JR plate2.0,X,2.0,YZ,"[6.0, 6.0]",Profile+/-0.2mm; deburrR0.5; confirm stock inner corner radius and seal-weld fit,REVIEW_CANDIDATE
+C11_A_DISTRIBUTION_ENDCAP_IN_1,1,S235JR plate2.0,X,2.0,YZ,"[6.0, 6.0]",Profile+/-0.2mm; deburrR0.5; confirm stock inner corner radius and seal-weld fit,REVIEW_CANDIDATE
+C11_A_DISTRIBUTION_ENDCAP_IN_2,1,S235JR plate2.0,X,2.0,YZ,"[6.0, 6.0]",Profile+/-0.2mm; deburrR0.5; confirm stock inner corner radius and seal-weld fit,REVIEW_CANDIDATE
+C11_B_DISTRIBUTION_ENDCAP_OUT_1,1,S235JR plate2.0,X,2.0,YZ,"[6.0, 6.0]",Profile+/-0.2mm; deburrR0.5; confirm stock inner corner radius and seal-weld fit,REVIEW_CANDIDATE
+C11_B_DISTRIBUTION_ENDCAP_OUT_2,1,S235JR plate2.0,X,2.0,YZ,"[6.0, 6.0]",Profile+/-0.2mm; deburrR0.5; confirm stock inner corner radius and seal-weld fit,REVIEW_CANDIDATE
+C11_B_DISTRIBUTION_ENDCAP_IN_1,1,S235JR plate2.0,X,2.0,YZ,"[6.0, 6.0]",Profile+/-0.2mm; deburrR0.5; confirm stock inner corner radius and seal-weld fit,REVIEW_CANDIDATE
+C11_B_DISTRIBUTION_ENDCAP_IN_2,1,S235JR plate2.0,X,2.0,YZ,"[6.0, 6.0]",Profile+/-0.2mm; deburrR0.5; confirm stock inner corner radius and seal-weld fit,REVIEW_CANDIDATE
+C11_SKID_ENDCAP_-1660_-1250,1,S235JR plate5,Y,5.0,XZ,"[30.0, 70.0]",Profile+/-0.2mm; deburrR0.5; confirm stock inner corner radius and seal-weld fit,REVIEW_CANDIDATE
+C11_SKID_ENDCAP_-1660_745,1,S235JR plate5,Y,5.0,XZ,"[30.0, 70.0]",Profile+/-0.2mm; deburrR0.5; confirm stock inner corner radius and seal-weld fit,REVIEW_CANDIDATE
+C11_SKID_ENDCAP_-780_-1275,1,S235JR plate5,Y,5.0,XZ,"[30.0, 70.0]",Profile+/-0.2mm; deburrR0.5; confirm stock inner corner radius and seal-weld fit,REVIEW_CANDIDATE
+C11_SKID_ENDCAP_-780_850,1,S235JR plate5,Y,5.0,XZ,"[30.0, 70.0]",Profile+/-0.2mm; deburrR0.5; confirm stock inner corner radius and seal-weld fit,REVIEW_CANDIDATE
+C11_A_DRAIN_SUPPORT_CAP,1,S235JR plate5,Z,5.0,XY,"[30.0, 30.0]",Profile+/-0.2mm; deburrR0.5; confirm stock inner corner radius and seal-weld fit,REVIEW_CANDIDATE
+C11_B_DRAIN_SUPPORT_CAP,1,S235JR plate5,Z,5.0,XY,"[30.0, 30.0]",Profile+/-0.2mm; deburrR0.5; confirm stock inner corner radius and seal-weld fit,REVIEW_CANDIDATE

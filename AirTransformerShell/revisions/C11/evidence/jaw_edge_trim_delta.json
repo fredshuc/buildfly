@@ -1,0 +1,89 @@
+{
+  "status": "PASS_ONLY_FOUR_1MM_JAW_EDGE_TRIMS",
+  "old_shell_index_sha256": "6103621a6b7adce83887f620b6dba485d47552588c1642b8a8cbc5e66160b5eb",
+  "shell_index_sha256": "bc8801a446faf04d5cab38aa0b20e899316616ec93cdafa22dd4b338cd279f07",
+  "changed_parts": [
+    {
+      "part": "C11_A_LOWER_FACE_CLAMP_17",
+      "removed_volume_mm3": 77.00000000000045,
+      "old_bbox": [
+        -430.0000001,
+        -775.5000001,
+        627.9999999,
+        -389.9999999,
+        -753.4999999,
+        631.5000001
+      ],
+      "new_bbox": [
+        -430.0000001,
+        -775.5000001,
+        627.9999999,
+        -390.9999999,
+        -753.4999999,
+        631.5000001
+      ]
+    },
+    {
+      "part": "C11_A_UPPER_FACE_CLAMP_17",
+      "removed_volume_mm3": 77.00000000000045,
+      "old_bbox": [
+        -430.0000001,
+        -775.5000001,
+        962.9999999,
+        -389.9999999,
+        -753.4999999,
+        966.5000001
+      ],
+      "new_bbox": [
+        -430.0000001,
+        -775.5000001,
+        962.9999999,
+        -390.9999999,
+        -753.4999999,
+        966.5000001
+      ]
+    },
+    {
+      "part": "C11_B_LOWER_FACE_CLAMP_17",
+      "removed_volume_mm3": 77.0,
+      "old_bbox": [
+        -430.0000001,
+        89.4999999,
+        627.9999999,
+        -389.9999999,
+        111.5000001,
+        631.5000001
+      ],
+      "new_bbox": [
+        -430.0000001,
+        89.4999999,
+        627.9999999,
+        -390.9999999,
+        111.5000001,
+        631.5000001
+      ]
+    },
+    {
+      "part": "C11_B_UPPER_FACE_CLAMP_17",
+      "removed_volume_mm3": 77.0,
+      "old_bbox": [
+        -430.0000001,
+        89.4999999,
+        962.9999999,
+        -389.9999999,
+        111.5000001,
+        966.5000001
+      ],
+      "new_bbox": [
+        -430.0000001,
+        89.4999999,
+        962.9999999,
+        -390.9999999,
+        111.5000001,
+        966.5000001
+      ]
+    }
+  ],
+  "unchanged_part_signatures": 1531,
+  "scope": "Name/volume/bounds delta against the preserved iteration; final installed clearance, full integration, motion and independent rebuild remain separate required evidence."
+}

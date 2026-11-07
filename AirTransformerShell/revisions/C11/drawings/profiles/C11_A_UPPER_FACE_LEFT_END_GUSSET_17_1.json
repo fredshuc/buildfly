@@ -1,0 +1,40 @@
+{
+  "axis": 1,
+  "plane_mm": -778.5,
+  "axes": "X,Z",
+  "bbox": [
+    -421.0,
+    928.55,
+    -395.0,
+    940.55
+  ],
+  "loops": [
+    [
+      [
+        -421.0,
+        940.55
+      ],
+      [
+        -395.0,
+        940.55
+      ],
+      [
+        -421.0,
+        928.55
+      ]
+    ]
+  ],
+  "circles": [],
+  "chord_tolerance_mm": 0.01,
+  "spec": {
+    "part": "C11_A_UPPER_FACE_LEFT_END_GUSSET_17_1",
+    "kind": "flat_Y",
+    "thickness_mm": 3,
+    "R_inside_mm": 0,
+    "K": null,
+    "datum": "Y=-778.5; root X=-421",
+    "tolerance": "profile+/-0.2; root fit per qualified WPS"
+  },
+  "material": "S235JR plate3",
+  "reason": "Right triangle26x12; double-sided a3 root welds to mount and shelf; effective root6mm each side; qualify thin-wall welds and proof complete bracket1.5kN"
+}

@@ -1,0 +1,59 @@
+{
+  "axis": 2,
+  "plane_mm": 42.0,
+  "axes": "X,Y",
+  "bbox": [
+    -760.0,
+    -837.0,
+    -690.0,
+    -737.0
+  ],
+  "loops": [
+    [
+      [
+        -760.0,
+        -837.0
+      ],
+      [
+        -760.0,
+        -737.0
+      ],
+      [
+        -690.0,
+        -737.0
+      ],
+      [
+        -690.0,
+        -837.0
+      ]
+    ]
+  ],
+  "circles": [
+    {
+      "center": [
+        -715.0,
+        -817.0
+      ],
+      "radius": 5.5
+    },
+    {
+      "center": [
+        -715.0,
+        -757.0
+      ],
+      "radius": 5.5
+    }
+  ],
+  "chord_tolerance_mm": 0.01,
+  "spec": {
+    "part": "C11_BRIDGE_P_FOOT_-600_-825_O",
+    "kind": "flat_Z",
+    "thickness_mm": 8,
+    "R_inside_mm": 0,
+    "K": null,
+    "datum": "bottomZ42; holeX-715, Ycentre+/-30",
+    "tolerance": "D11 holes +/-0.10; flatness0.10"
+  },
+  "material": "S235JR plate8.0",
+  "reason": "70x100 bridge; a3 continuous100mm seam to skid rail faceX-760; bolted to thicker main foot; never to skin"
+}

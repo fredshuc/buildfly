@@ -1,0 +1,191 @@
+[
+  {
+    "title": "Pocket A / Pin / insulation crown",
+    "plane_axis": 1,
+    "plane_mm": -760,
+    "window_mm": [
+      -540,
+      1135,
+      -480,
+      1185
+    ],
+    "parts": [
+      "SHELL/AIR_PROCESS_IN_FLOOR_A_O",
+      "SHELL/AIR_PROCESS_IN_WRAP_A_O",
+      "SHELL/AIR_REAR_A_O",
+      "SHELL/AIR_TOP_SPLITTER_A_O",
+      "SHELL/C10_A_W2_POCKET_ROOF",
+      "SHELL/C11_A_POCKET_FRONT_CLOSURE",
+      "SHELL/C11_A_POCKET_GASKET_INSTALLED",
+      "DAMPERS/DAMPER_SEAT_A_UPPER_DEEP_O",
+      "DAMPERS/DAMPER_STATIC_GASKET_A_UPPER_O",
+      "HEAT_EXCHANGERS/A_UPPER__W2_D35_END_PIPE",
+      "HEAT_EXCHANGERS/A_UPPER__W2_VENT_HEADER_LINE",
+      "THERMAL/A_W2_25mm_CROWN_ONLY"
+    ],
+    "svg": "SECTION_1.svg",
+    "source_sha256": "b941c52ab7d094e54d6b50dca9c51c876e00ce4744d8cfc6b05b8976e9ea0d18"
+  },
+  {
+    "title": "Gland A lower / W1 centre",
+    "plane_axis": 1,
+    "plane_mm": -696.654896442182,
+    "window_mm": [
+      -680,
+      480,
+      -635,
+      640
+    ],
+    "parts": [
+      "SHELL/SKIN_REAR_O",
+      "SHELL/C11_A_L_GLAND_GUARD_LOW",
+      "SHELL/C11_A_L_GLAND_LIP_HIGH",
+      "SHELL/C11_A_L_GLAND_GUARD_HIGH",
+      "SHELL/C11_A_L_GLAND_BACKER",
+      "SHELL/C11_A_UPPER_COND_TRAP_PIPE",
+      "HEAT_EXCHANGERS/A_LOWER__W1_D35_END_PIPE",
+      "HEAT_EXCHANGERS/A_LOWER__W2_D35_END_PIPE",
+      "HEAT_EXCHANGERS/A_LOWER__W1_DRAIN_LINE"
+    ],
+    "svg": "SECTION_2.svg",
+    "source_sha256": "b941c52ab7d094e54d6b50dca9c51c876e00ce4744d8cfc6b05b8976e9ea0d18"
+  },
+  {
+    "title": "Core A lower / clamp and face seal",
+    "plane_axis": 0,
+    "plane_mm": 550,
+    "window_mm": [
+      -790,
+      610,
+      -730,
+      650
+    ],
+    "parts": [
+      "SHELL/HX_MASK_A_L_MIN_O",
+      "SHELL/C11_A_LOWER_FACE_GASKET_INSTALLED",
+      "SHELL/C11_A_LOWER_FACE_STIFFENER_3",
+      "SHELL/C11_A_LOWER_FACE_STOP_15",
+      "SHELL/C11_A_LOWER_FACE_STANDOFF_15",
+      "SHELL/C11_A_LOWER_FACE_CLAMP_15",
+      "SHELL/C11_A_LOWER_FACE_SCREW_15",
+      "SHELL/C11_A_LOWER_FACE_CARRIER",
+      "SHELL/C11_A_LOWER_FACE_MASK_ADAPTER",
+      "HEAT_EXCHANGERS/A_LOWER__POST_212_673.775",
+      "HEAT_EXCHANGERS/A_LOWER__PLATE_TAB_1_1",
+      "HEAT_EXCHANGERS/A_LOWER__H02_SEAL_LAND_PATCH_1",
+      "HEAT_EXCHANGERS/A_LOWER__H02_COND_BLADE_00",
+      "HEAT_EXCHANGERS/A_LOWER__H02_COND_HEADER_GUTTER"
+    ],
+    "svg": "SECTION_3.svg",
+    "source_sha256": "b941c52ab7d094e54d6b50dca9c51c876e00ce4744d8cfc6b05b8976e9ea0d18"
+  },
+  {
+    "title": "A post / sister / prepared web and groove fills",
+    "plane_axis": 2,
+    "plane_mm": 560,
+    "window_mm": [
+      -646,
+      -850,
+      -612,
+      -740
+    ],
+    "parts": [
+      "SHELL/C09_A_POST_LOWER_FRONT_WEB",
+      "SHELL/C09_A_POST_LOWER_REAR_WEB",
+      "SHELL/C09_A_POST_SISTER_RHS_22x60x3",
+      "SHELL/F_POST_-600_-825_O",
+      "SHELL/SKIN_DRY_SIDE_A_O",
+      "SHELL/C11_A_L_GLAND_BACKER",
+      "SHELL/C11_A_POST_LOWER_REAR_POST_GROOVE_WELD",
+      "SHELL/C11_A_POST_LOWER_REAR_SISTER_GROOVE_WELD",
+      "SHELL/C11_A_POST_LOWER_FRONT_POST_GROOVE_WELD",
+      "SHELL/C11_A_POST_LOWER_FRONT_SISTER_GROOVE_WELD",
+      "HEAT_EXCHANGERS/A_LOWER__W1_D35_END_PIPE",
+      "HEAT_EXCHANGERS/A_LOWER__W2_D35_END_PIPE"
+    ],
+    "svg": "SECTION_4.svg",
+    "source_sha256": "b941c52ab7d094e54d6b50dca9c51c876e00ce4744d8cfc6b05b8976e9ea0d18"
+  },
+  {
+    "title": "A lower / bottom end clamp and bearing extension",
+    "plane_axis": 1,
+    "plane_mm": -768.5,
+    "window_mm": [
+      -470,
+      580,
+      -380,
+      650
+    ],
+    "parts": [
+      "SHELL/F_HX_RAIL_A_612_-444_O",
+      "SHELL/HX_MASK_A_L_MIN_O",
+      "SHELL/C11_A_LOWER_FACE_DATUM_SUPPORT_1",
+      "SHELL/C11_A_LOWER_FACE_LOCATOR_X",
+      "SHELL/C11_A_LOWER_FACE_STANDOFF_17",
+      "SHELL/C11_A_LOWER_FACE_CLAMP_17",
+      "SHELL/C11_A_LOWER_FACE_SCREW_17",
+      "SHELL/C11_A_LOWER_FACE_LEFT_END_MOUNT_17",
+      "SHELL/C11_A_LOWER_FACE_LEFT_END_BEARING_17",
+      "SHELL/C11_A_LOWER_FACE_CARRIER",
+      "SHELL/C11_A_LOWER_FACE_MASK_ADAPTER",
+      "HEAT_EXCHANGERS/A_LOWER__W1_D35_END_PIPE",
+      "HEAT_EXCHANGERS/A_LOWER__W2_D35_END_PIPE",
+      "HEAT_EXCHANGERS/A_LOWER__H02_COND_HEADER_LINK",
+      "HEAT_EXCHANGERS/A_LOWER__H02_COND_RAIL_-390_1"
+    ],
+    "svg": "SECTION_5.svg",
+    "source_sha256": "b941c52ab7d094e54d6b50dca9c51c876e00ce4744d8cfc6b05b8976e9ea0d18"
+  },
+  {
+    "title": "A lower / independent trap and support",
+    "plane_axis": 0,
+    "plane_mm": -720,
+    "window_mm": [
+      -1315,
+      200,
+      -820,
+      700
+    ],
+    "parts": [
+      "SHELL/C11_A_LOWER_COND_SIPHON_BREAK_STUB",
+      "SHELL/C11_A_LOWER_COND_CLEANOUT_BOSS",
+      "SHELL/C11_A_LOWER_COND_TRAP_PIPE",
+      "SHELL/C11_A_LOWER_COND_CLEANOUT_PLUG",
+      "SHELL/C11_A_LOWER_COND_CLEANOUT_SEAL",
+      "SHELL/C11_A_LOWER_COND_SUPPORT_SHELF",
+      "SHELL/C11_A_LOWER_COND_PIPE_CLIP_LINER_1_FIXED",
+      "SHELL/C11_A_LOWER_COND_PIPE_CLIP_BAND_1_FIXED",
+      "SHELL/C11_A_LOWER_COND_PIPE_CLIP_LINER_1_REMOVE",
+      "SHELL/C11_A_LOWER_COND_PIPE_CLIP_BAND_1_REMOVE",
+      "SHELL/C11_A_LOWER_COND_PIPE_CLIP_LINER_2_FIXED",
+      "SHELL/C11_A_LOWER_COND_PIPE_CLIP_BAND_2_FIXED",
+      "SHELL/C11_A_LOWER_COND_PIPE_CLIP_LINER_2_REMOVE",
+      "SHELL/C11_A_LOWER_COND_PIPE_CLIP_BAND_2_REMOVE",
+      "SHELL/C11_A_LOWER_COND_AIR_GAP_RECEPTOR",
+      "SHELL/C11_A_LOWER_COND_RECEPTOR_COLLAR",
+      "SHELL/C11_A_UPPER_COND_TRAP_PIPE",
+      "SHELL/C11_A_UPPER_COND_SUPPORT_SHELF"
+    ],
+    "svg": "SECTION_6.svg",
+    "source_sha256": "b941c52ab7d094e54d6b50dca9c51c876e00ce4744d8cfc6b05b8976e9ea0d18"
+  },
+  {
+    "title": "B lower inlet / upper shelf crossing",
+    "plane_axis": 0,
+    "plane_mm": -750,
+    "window_mm": [
+      570,
+      570,
+      985,
+      660
+    ],
+    "parts": [
+      "SHELL/C11_B_LOWER_COND_TRAP_PIPE",
+      "SHELL/C11_B_UPPER_COND_TRAP_PIPE",
+      "SHELL/C11_B_UPPER_COND_SUPPORT_SHELF",
+      "SHELL/C11_B_UPPER_COND_SHELF_RHS"
+    ],
+    "svg": "SECTION_7.svg",
+    "source_sha256": "b941c52ab7d094e54d6b50dca9c51c876e00ce4744d8cfc6b05b8976e9ea0d18"
+  }
+]

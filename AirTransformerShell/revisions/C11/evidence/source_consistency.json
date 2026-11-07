@@ -1,0 +1,47 @@
+{
+  "status": "PASS_IDENTICAL_GEOMETRY_SOURCE_AND_REBUILD_SIGNATURE",
+  "main_build_source_hashes": {
+    "build_shell": "23f23c91f31ea21047791bba008d7d9c0f9918ffe1cee83cefd257aaaa09a091",
+    "common": "a23d3cbbafaa8f45bf210c336e9a909d244a7de056a5cd0e0f9904e5b947e3c9",
+    "geometry_io": "a477fc3335d49644557ee5f5fb1bca59a94a5a9f8308138b62f675a11636d9e7",
+    "pockets": "aa0ce1725f58026904aaabdd88a53ff55568efa34fbfc7aee9b6a5378142f580",
+    "glands": "4b2a56817d0012eb7d137fcc028295ae49b954010b2344a19b71175578fe2841",
+    "welds": "7664f8604b4840387519f1310f18fdc91a8c9d46c22e95ac357ffe43624f4306",
+    "face_seals": "8bc4fa855049a50a49c838cfdbb0be4c35f526e8da6d9745effd971d23a0badd",
+    "distribution": "d4d8d5172cbb716a8d108e2eb068dc9f715cedc636a1f2ddea3ea4ab66660f99",
+    "base": "ac999707785f1000d296a946ffdda9b5e7f6526118c85cc902c6fac28516ddbc",
+    "roof_access": "a0dae657a14cf07fa1bce42203c9ce302d580f80f9c85aa0afed138b858ba7ae",
+    "accessories": "15ee0945a75ae1ca3ffa759006ef8146ace27179c6211fbe47620b2b1c1198ec"
+  },
+  "delivered_source_hashes": {
+    "build_shell": "23f23c91f31ea21047791bba008d7d9c0f9918ffe1cee83cefd257aaaa09a091",
+    "common": "a23d3cbbafaa8f45bf210c336e9a909d244a7de056a5cd0e0f9904e5b947e3c9",
+    "geometry_io": "a477fc3335d49644557ee5f5fb1bca59a94a5a9f8308138b62f675a11636d9e7",
+    "pockets": "aa0ce1725f58026904aaabdd88a53ff55568efa34fbfc7aee9b6a5378142f580",
+    "glands": "4b2a56817d0012eb7d137fcc028295ae49b954010b2344a19b71175578fe2841",
+    "welds": "7664f8604b4840387519f1310f18fdc91a8c9d46c22e95ac357ffe43624f4306",
+    "face_seals": "8bc4fa855049a50a49c838cfdbb0be4c35f526e8da6d9745effd971d23a0badd",
+    "distribution": "d4d8d5172cbb716a8d108e2eb068dc9f715cedc636a1f2ddea3ea4ab66660f99",
+    "base": "ac999707785f1000d296a946ffdda9b5e7f6526118c85cc902c6fac28516ddbc",
+    "roof_access": "a0dae657a14cf07fa1bce42203c9ce302d580f80f9c85aa0afed138b858ba7ae",
+    "accessories": "15ee0945a75ae1ca3ffa759006ef8146ace27179c6211fbe47620b2b1c1198ec"
+  },
+  "independent_build_source_hashes": {
+    "build_shell": "23f23c91f31ea21047791bba008d7d9c0f9918ffe1cee83cefd257aaaa09a091",
+    "common": "a23d3cbbafaa8f45bf210c336e9a909d244a7de056a5cd0e0f9904e5b947e3c9",
+    "geometry_io": "a477fc3335d49644557ee5f5fb1bca59a94a5a9f8308138b62f675a11636d9e7",
+    "pockets": "aa0ce1725f58026904aaabdd88a53ff55568efa34fbfc7aee9b6a5378142f580",
+    "glands": "4b2a56817d0012eb7d137fcc028295ae49b954010b2344a19b71175578fe2841",
+    "welds": "7664f8604b4840387519f1310f18fdc91a8c9d46c22e95ac357ffe43624f4306",
+    "face_seals": "8bc4fa855049a50a49c838cfdbb0be4c35f526e8da6d9745effd971d23a0badd",
+    "distribution": "d4d8d5172cbb716a8d108e2eb068dc9f715cedc636a1f2ddea3ea4ab66660f99",
+    "base": "ac999707785f1000d296a946ffdda9b5e7f6526118c85cc902c6fac28516ddbc",
+    "roof_access": "a0dae657a14cf07fa1bce42203c9ce302d580f80f9c85aa0afed138b858ba7ae",
+    "accessories": "15ee0945a75ae1ca3ffa759006ef8146ace27179c6211fbe47620b2b1c1198ec"
+  },
+  "difference": [],
+  "shell_count": 1535,
+  "shell_index_sha256": "bc8801a446faf04d5cab38aa0b20e899316616ec93cdafa22dd4b338cd279f07",
+  "independent_rebuild_evidence_sha256": "40c3e994ce6cb0c9a3fb7491f4a4a464b992f5def319dabdf530f08e503be2cc",
+  "scope": "Every geometry-generating module is identical in main build, delivered source and fresh independent rebuild. Later report/check/render script changes do not change this geometry signature."
+}

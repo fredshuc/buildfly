@@ -1,0 +1,73 @@
+{
+  "axis": 2,
+  "plane_mm": 114.0,
+  "axes": "X,Y",
+  "bbox": [
+    -1740.0,
+    610.0,
+    -1580.0,
+    750.0
+  ],
+  "loops": [
+    [
+      [
+        -1740.0,
+        610.0
+      ],
+      [
+        -1740.0,
+        750.0
+      ],
+      [
+        -1580.0,
+        750.0
+      ],
+      [
+        -1580.0,
+        610.0
+      ]
+    ]
+  ],
+  "circles": [
+    {
+      "center": [
+        -1705.0,
+        650.0
+      ],
+      "radius": 7.0
+    },
+    {
+      "center": [
+        -1615.0,
+        650.0
+      ],
+      "radius": 7.0
+    },
+    {
+      "center": [
+        -1705.0,
+        710.0
+      ],
+      "radius": 7.0
+    },
+    {
+      "center": [
+        -1615.0,
+        710.0
+      ],
+      "radius": 7.0
+    }
+  ],
+  "chord_tolerance_mm": 0.01,
+  "spec": {
+    "part": "C11_HYD_F3_TOP_PLATE",
+    "kind": "flat_Z",
+    "thickness_mm": 8,
+    "R_inside_mm": 0,
+    "K": null,
+    "datum": "topZ122; foot centres from pinned IF01 table",
+    "tolerance": "hole position +/-0.10; bearing flatness0.10; foot plane +/-0.10 before owner shims"
+  },
+  "material": "S235JR plate8.0",
+  "reason": "160x140; fourD14 holes on90x60; offset5mm along each owner X slot; Z122 mating face; a3 seams along rail sides; effective128mm each"
+}

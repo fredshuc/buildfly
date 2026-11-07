@@ -1,0 +1,1193 @@
+{
+  "status": "PARTIAL_SERVICE_SCOPE_ONLY",
+  "maintenance_pose": "All D05 shafts P=0; fans/water isolated",
+  "installed_source_sha256": "b941c52ab7d094e54d6b50dca9c51c876e00ce4744d8cfc6b05b8976e9ea0d18",
+  "development_shell_source_hashes": null,
+  "actions": [
+    {
+      "action": "C11_ROOF_M5_01_SCREW_TOOL",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "6mm-radius driver,90mm axial access; cap cut before access; insert/target screw excluded only as tool engagement",
+      "removed_or_tool_target": [
+        "SHELL/C11_ROOF_M5_01_INSERT",
+        "SHELL/C11_ROOF_M5_01_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_01_SCREW",
+        "SHELL/C11_ROOF_M5_01_WASHER"
+      ],
+      "hits": [],
+      "status": "NOMINAL_ENVELOPE_CLEAR"
+    },
+    {
+      "action": "C11_ROOF_M5_02_SCREW_TOOL",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "6mm-radius driver,90mm axial access; cap cut before access; insert/target screw excluded only as tool engagement",
+      "removed_or_tool_target": [
+        "SHELL/C11_ROOF_M5_02_INSERT",
+        "SHELL/C11_ROOF_M5_02_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_02_SCREW",
+        "SHELL/C11_ROOF_M5_02_WASHER"
+      ],
+      "hits": [],
+      "status": "NOMINAL_ENVELOPE_CLEAR"
+    },
+    {
+      "action": "C11_ROOF_M5_03_SCREW_TOOL",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "6mm-radius driver,90mm axial access; cap cut before access; insert/target screw excluded only as tool engagement",
+      "removed_or_tool_target": [
+        "SHELL/C11_ROOF_M5_03_INSERT",
+        "SHELL/C11_ROOF_M5_03_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_03_SCREW",
+        "SHELL/C11_ROOF_M5_03_WASHER"
+      ],
+      "hits": [],
+      "status": "NOMINAL_ENVELOPE_CLEAR"
+    },
+    {
+      "action": "C11_ROOF_M5_04_SCREW_TOOL",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "6mm-radius driver,90mm axial access; cap cut before access; insert/target screw excluded only as tool engagement",
+      "removed_or_tool_target": [
+        "SHELL/C11_ROOF_M5_04_INSERT",
+        "SHELL/C11_ROOF_M5_04_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_04_SCREW",
+        "SHELL/C11_ROOF_M5_04_WASHER"
+      ],
+      "hits": [],
+      "status": "NOMINAL_ENVELOPE_CLEAR"
+    },
+    {
+      "action": "C11_ROOF_M5_05_SCREW_TOOL",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "6mm-radius driver,90mm axial access; cap cut before access; insert/target screw excluded only as tool engagement",
+      "removed_or_tool_target": [
+        "SHELL/C11_ROOF_M5_05_INSERT",
+        "SHELL/C11_ROOF_M5_05_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_05_SCREW",
+        "SHELL/C11_ROOF_M5_05_WASHER"
+      ],
+      "hits": [],
+      "status": "NOMINAL_ENVELOPE_CLEAR"
+    },
+    {
+      "action": "C11_ROOF_M5_06_SCREW_TOOL",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "6mm-radius driver,90mm axial access; cap cut before access; insert/target screw excluded only as tool engagement",
+      "removed_or_tool_target": [
+        "SHELL/C11_ROOF_M5_06_INSERT",
+        "SHELL/C11_ROOF_M5_06_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_06_SCREW",
+        "SHELL/C11_ROOF_M5_06_WASHER"
+      ],
+      "hits": [],
+      "status": "NOMINAL_ENVELOPE_CLEAR"
+    },
+    {
+      "action": "C11_ROOF_M5_07_SCREW_TOOL",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "6mm-radius driver,90mm axial access; cap cut before access; insert/target screw excluded only as tool engagement",
+      "removed_or_tool_target": [
+        "SHELL/C11_ROOF_M5_07_INSERT",
+        "SHELL/C11_ROOF_M5_07_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_07_SCREW",
+        "SHELL/C11_ROOF_M5_07_WASHER"
+      ],
+      "hits": [],
+      "status": "NOMINAL_ENVELOPE_CLEAR"
+    },
+    {
+      "action": "C11_ROOF_M5_08_SCREW_TOOL",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "6mm-radius driver,90mm axial access; cap cut before access; insert/target screw excluded only as tool engagement",
+      "removed_or_tool_target": [
+        "SHELL/C11_ROOF_M5_08_INSERT",
+        "SHELL/C11_ROOF_M5_08_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_08_SCREW",
+        "SHELL/C11_ROOF_M5_08_WASHER"
+      ],
+      "hits": [],
+      "status": "NOMINAL_ENVELOPE_CLEAR"
+    },
+    {
+      "action": "C11_ROOF_M5_09_SCREW_TOOL",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "6mm-radius driver,90mm axial access; cap cut before access; insert/target screw excluded only as tool engagement",
+      "removed_or_tool_target": [
+        "SHELL/C11_ROOF_M5_09_INSERT",
+        "SHELL/C11_ROOF_M5_09_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_09_SCREW",
+        "SHELL/C11_ROOF_M5_09_WASHER"
+      ],
+      "hits": [],
+      "status": "NOMINAL_ENVELOPE_CLEAR"
+    },
+    {
+      "action": "C11_ROOF_M5_10_SCREW_TOOL",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "6mm-radius driver,90mm axial access; cap cut before access; insert/target screw excluded only as tool engagement",
+      "removed_or_tool_target": [
+        "SHELL/C11_ROOF_M5_10_INSERT",
+        "SHELL/C11_ROOF_M5_10_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_10_SCREW",
+        "SHELL/C11_ROOF_M5_10_WASHER"
+      ],
+      "hits": [],
+      "status": "NOMINAL_ENVELOPE_CLEAR"
+    },
+    {
+      "action": "C11_ROOF_M5_11_SCREW_TOOL",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "6mm-radius driver,90mm axial access; cap cut before access; insert/target screw excluded only as tool engagement",
+      "removed_or_tool_target": [
+        "SHELL/C11_ROOF_M5_11_INSERT",
+        "SHELL/C11_ROOF_M5_11_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_11_SCREW",
+        "SHELL/C11_ROOF_M5_11_WASHER"
+      ],
+      "hits": [],
+      "status": "NOMINAL_ENVELOPE_CLEAR"
+    },
+    {
+      "action": "C11_ROOF_M5_12_SCREW_TOOL",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "6mm-radius driver,90mm axial access; cap cut before access; insert/target screw excluded only as tool engagement",
+      "removed_or_tool_target": [
+        "SHELL/C11_ROOF_M5_12_INSERT",
+        "SHELL/C11_ROOF_M5_12_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_12_SCREW",
+        "SHELL/C11_ROOF_M5_12_WASHER"
+      ],
+      "hits": [],
+      "status": "NOMINAL_ENVELOPE_CLEAR"
+    },
+    {
+      "action": "C11_ROOF_M5_13_SCREW_TOOL",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "6mm-radius driver,90mm axial access; cap cut before access; insert/target screw excluded only as tool engagement",
+      "removed_or_tool_target": [
+        "SHELL/C11_ROOF_M5_13_INSERT",
+        "SHELL/C11_ROOF_M5_13_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_13_SCREW",
+        "SHELL/C11_ROOF_M5_13_WASHER"
+      ],
+      "hits": [],
+      "status": "NOMINAL_ENVELOPE_CLEAR"
+    },
+    {
+      "action": "C11_ROOF_M5_14_SCREW_TOOL",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "6mm-radius driver,90mm axial access; cap cut before access; insert/target screw excluded only as tool engagement",
+      "removed_or_tool_target": [
+        "SHELL/C11_ROOF_M5_14_INSERT",
+        "SHELL/C11_ROOF_M5_14_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_14_SCREW",
+        "SHELL/C11_ROOF_M5_14_WASHER"
+      ],
+      "hits": [],
+      "status": "NOMINAL_ENVELOPE_CLEAR"
+    },
+    {
+      "action": "C11_ROOF_M5_15_SCREW_TOOL",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "6mm-radius driver,90mm axial access; cap cut before access; insert/target screw excluded only as tool engagement",
+      "removed_or_tool_target": [
+        "SHELL/C11_ROOF_M5_15_INSERT",
+        "SHELL/C11_ROOF_M5_15_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_15_SCREW",
+        "SHELL/C11_ROOF_M5_15_WASHER"
+      ],
+      "hits": [],
+      "status": "NOMINAL_ENVELOPE_CLEAR"
+    },
+    {
+      "action": "C11_ROOF_M5_16_SCREW_TOOL",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "6mm-radius driver,90mm axial access; cap cut before access; insert/target screw excluded only as tool engagement",
+      "removed_or_tool_target": [
+        "SHELL/C11_ROOF_M5_16_INSERT",
+        "SHELL/C11_ROOF_M5_16_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_16_SCREW",
+        "SHELL/C11_ROOF_M5_16_WASHER"
+      ],
+      "hits": [],
+      "status": "NOMINAL_ENVELOPE_CLEAR"
+    },
+    {
+      "action": "C11_ROOF_M5_17_SCREW_TOOL",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "6mm-radius driver,90mm axial access; cap cut before access; insert/target screw excluded only as tool engagement",
+      "removed_or_tool_target": [
+        "SHELL/C11_ROOF_M5_17_INSERT",
+        "SHELL/C11_ROOF_M5_17_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_17_SCREW",
+        "SHELL/C11_ROOF_M5_17_WASHER"
+      ],
+      "hits": [],
+      "status": "NOMINAL_ENVELOPE_CLEAR"
+    },
+    {
+      "action": "C11_ROOF_M5_18_SCREW_TOOL",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "6mm-radius driver,90mm axial access; cap cut before access; insert/target screw excluded only as tool engagement",
+      "removed_or_tool_target": [
+        "SHELL/C11_ROOF_M5_18_INSERT",
+        "SHELL/C11_ROOF_M5_18_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_18_SCREW",
+        "SHELL/C11_ROOF_M5_18_WASHER"
+      ],
+      "hits": [],
+      "status": "NOMINAL_ENVELOPE_CLEAR"
+    },
+    {
+      "action": "C11_ROOF_M5_19_SCREW_TOOL",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "6mm-radius driver,90mm axial access; cap cut before access; insert/target screw excluded only as tool engagement",
+      "removed_or_tool_target": [
+        "SHELL/C11_ROOF_M5_19_INSERT",
+        "SHELL/C11_ROOF_M5_19_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_19_SCREW",
+        "SHELL/C11_ROOF_M5_19_WASHER"
+      ],
+      "hits": [],
+      "status": "NOMINAL_ENVELOPE_CLEAR"
+    },
+    {
+      "action": "C11_ROOF_M5_20_SCREW_TOOL",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "6mm-radius driver,90mm axial access; cap cut before access; insert/target screw excluded only as tool engagement",
+      "removed_or_tool_target": [
+        "SHELL/C11_ROOF_M5_20_INSERT",
+        "SHELL/C11_ROOF_M5_20_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_20_SCREW",
+        "SHELL/C11_ROOF_M5_20_WASHER"
+      ],
+      "hits": [],
+      "status": "NOMINAL_ENVELOPE_CLEAR"
+    },
+    {
+      "action": "C11_ROOF_M5_21_SCREW_TOOL",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "6mm-radius driver,90mm axial access; cap cut before access; insert/target screw excluded only as tool engagement",
+      "removed_or_tool_target": [
+        "SHELL/C11_ROOF_M5_21_INSERT",
+        "SHELL/C11_ROOF_M5_21_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_21_SCREW",
+        "SHELL/C11_ROOF_M5_21_WASHER"
+      ],
+      "hits": [],
+      "status": "NOMINAL_ENVELOPE_CLEAR"
+    },
+    {
+      "action": "C11_ROOF_M5_22_SCREW_TOOL",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "6mm-radius driver,90mm axial access; cap cut before access; insert/target screw excluded only as tool engagement",
+      "removed_or_tool_target": [
+        "SHELL/C11_ROOF_M5_22_INSERT",
+        "SHELL/C11_ROOF_M5_22_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_22_SCREW",
+        "SHELL/C11_ROOF_M5_22_WASHER"
+      ],
+      "hits": [],
+      "status": "NOMINAL_ENVELOPE_CLEAR"
+    },
+    {
+      "action": "C11_ROOF_M5_23_SCREW_TOOL",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "6mm-radius driver,90mm axial access; cap cut before access; insert/target screw excluded only as tool engagement",
+      "removed_or_tool_target": [
+        "SHELL/C11_ROOF_M5_23_INSERT",
+        "SHELL/C11_ROOF_M5_23_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_23_SCREW",
+        "SHELL/C11_ROOF_M5_23_WASHER"
+      ],
+      "hits": [],
+      "status": "NOMINAL_ENVELOPE_CLEAR"
+    },
+    {
+      "action": "C11_ROOF_M5_24_SCREW_TOOL",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "6mm-radius driver,90mm axial access; cap cut before access; insert/target screw excluded only as tool engagement",
+      "removed_or_tool_target": [
+        "SHELL/C11_ROOF_M5_24_INSERT",
+        "SHELL/C11_ROOF_M5_24_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_24_SCREW",
+        "SHELL/C11_ROOF_M5_24_WASHER"
+      ],
+      "hits": [],
+      "status": "NOMINAL_ENVELOPE_CLEAR"
+    },
+    {
+      "action": "ROOF_ASSEMBLY_LIFT_Z500",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "Roof plus four attached neck walls and flange move as one assembly; external duct disconnected first;24 screws/washers/caps removed and seam cut; rated lifting fixture and external duct removal not represented",
+      "removed_or_tool_target": [
+        "SHELL/C11_DRY_ROOF_RENEWABLE_SEAM",
+        "SHELL/C11_ROOF_M5_01_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_01_SCREW",
+        "SHELL/C11_ROOF_M5_01_WASHER",
+        "SHELL/C11_ROOF_M5_02_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_02_SCREW",
+        "SHELL/C11_ROOF_M5_02_WASHER",
+        "SHELL/C11_ROOF_M5_03_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_03_SCREW",
+        "SHELL/C11_ROOF_M5_03_WASHER",
+        "SHELL/C11_ROOF_M5_04_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_04_SCREW",
+        "SHELL/C11_ROOF_M5_04_WASHER",
+        "SHELL/C11_ROOF_M5_05_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_05_SCREW",
+        "SHELL/C11_ROOF_M5_05_WASHER",
+        "SHELL/C11_ROOF_M5_06_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_06_SCREW",
+        "SHELL/C11_ROOF_M5_06_WASHER",
+        "SHELL/C11_ROOF_M5_07_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_07_SCREW",
+        "SHELL/C11_ROOF_M5_07_WASHER",
+        "SHELL/C11_ROOF_M5_08_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_08_SCREW",
+        "SHELL/C11_ROOF_M5_08_WASHER",
+        "SHELL/C11_ROOF_M5_09_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_09_SCREW",
+        "SHELL/C11_ROOF_M5_09_WASHER",
+        "SHELL/C11_ROOF_M5_10_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_10_SCREW",
+        "SHELL/C11_ROOF_M5_10_WASHER",
+        "SHELL/C11_ROOF_M5_11_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_11_SCREW",
+        "SHELL/C11_ROOF_M5_11_WASHER",
+        "SHELL/C11_ROOF_M5_12_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_12_SCREW",
+        "SHELL/C11_ROOF_M5_12_WASHER",
+        "SHELL/C11_ROOF_M5_13_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_13_SCREW",
+        "SHELL/C11_ROOF_M5_13_WASHER",
+        "SHELL/C11_ROOF_M5_14_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_14_SCREW",
+        "SHELL/C11_ROOF_M5_14_WASHER",
+        "SHELL/C11_ROOF_M5_15_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_15_SCREW",
+        "SHELL/C11_ROOF_M5_15_WASHER",
+        "SHELL/C11_ROOF_M5_16_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_16_SCREW",
+        "SHELL/C11_ROOF_M5_16_WASHER",
+        "SHELL/C11_ROOF_M5_17_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_17_SCREW",
+        "SHELL/C11_ROOF_M5_17_WASHER",
+        "SHELL/C11_ROOF_M5_18_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_18_SCREW",
+        "SHELL/C11_ROOF_M5_18_WASHER",
+        "SHELL/C11_ROOF_M5_19_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_19_SCREW",
+        "SHELL/C11_ROOF_M5_19_WASHER",
+        "SHELL/C11_ROOF_M5_20_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_20_SCREW",
+        "SHELL/C11_ROOF_M5_20_WASHER",
+        "SHELL/C11_ROOF_M5_21_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_21_SCREW",
+        "SHELL/C11_ROOF_M5_21_WASHER",
+        "SHELL/C11_ROOF_M5_22_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_22_SCREW",
+        "SHELL/C11_ROOF_M5_22_WASHER",
+        "SHELL/C11_ROOF_M5_23_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_23_SCREW",
+        "SHELL/C11_ROOF_M5_23_WASHER",
+        "SHELL/C11_ROOF_M5_24_RENEWABLE_SEAL_CAP",
+        "SHELL/C11_ROOF_M5_24_SCREW",
+        "SHELL/C11_ROOF_M5_24_WASHER",
+        "SHELL/M401_ROOF_NECK_Xm_O",
+        "SHELL/M401_ROOF_NECK_Xp_O",
+        "SHELL/M401_ROOF_NECK_Ym_O",
+        "SHELL/M401_ROOF_NECK_Yp_O",
+        "SHELL/ROOF_FLANGE_O",
+        "SHELL/SKIN_DRY_ROOF_O"
+      ],
+      "hits": [],
+      "status": "NOMINAL_ENVELOPE_CLEAR"
+    },
+    {
+      "action": "A_L_LOW_GUARD_Z-90",
+      "method": "Exact distance with translation displacement bound",
+      "removed_or_tool_target": [
+        "SHELL/C11_A_L_GLAND_BOLT_1",
+        "SHELL/C11_A_L_GLAND_BOLT_2",
+        "SHELL/C11_A_L_GLAND_BOLT_3",
+        "SHELL/C11_A_L_GLAND_BOLT_4",
+        "SHELL/C11_A_L_GLAND_BOLT_5",
+        "SHELL/C11_A_L_GLAND_BOLT_6",
+        "SHELL/C11_A_L_GLAND_GUARD_LOW",
+        "SHELL/C11_A_L_GLAND_SLIT_FILL",
+        "SHELL/C11_A_L_GLAND_SLIT_REINFORCEMENT",
+        "SHELL/C11_A_L_GLAND_WASHER_1",
+        "SHELL/C11_A_L_GLAND_WASHER_2",
+        "SHELL/C11_A_L_GLAND_WASHER_3",
+        "SHELL/C11_A_L_GLAND_WASHER_4",
+        "SHELL/C11_A_L_GLAND_WASHER_5",
+        "SHELL/C11_A_L_GLAND_WASHER_6"
+      ],
+      "pairs": [
+        {
+          "fixed": "HEAT_EXCHANGERS/A_LOWER__W1_D35_END_PIPE",
+          "status": "CERTIFIED_CLEAR",
+          "evidence": null
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/A_LOWER__W2_D35_END_PIPE",
+          "status": "CERTIFIED_CLEAR",
+          "evidence": null
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/A_LOWER__W1_DRAIN_ADAPTER_G14",
+          "status": "COLLISION",
+          "evidence": {
+            "fraction": 0.5,
+            "volume_mm3": 2619.5440953944762
+          }
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/A_LOWER__W1_DRAIN_M5_MOUNT_BOLT_0",
+          "status": "COLLISION",
+          "evidence": {
+            "fraction": 0.5,
+            "volume_mm3": 206.5999817770931
+          }
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/A_LOWER__W1_DRAIN_M5_MOUNT_BOLT_1",
+          "status": "COLLISION",
+          "evidence": {
+            "fraction": 0.5,
+            "volume_mm3": 246.61502330680298
+          }
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/A_LOWER__W2_DRAIN_ADAPTER_G14",
+          "status": "COLLISION",
+          "evidence": {
+            "fraction": 0.5,
+            "volume_mm3": 569.8402775784419
+          }
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/A_LOWER__W2_DRAIN_M5_MOUNT_BOLT_0",
+          "status": "COLLISION",
+          "evidence": {
+            "fraction": 0.5,
+            "volume_mm3": 156.96178241772407
+          }
+        }
+      ],
+      "status": "NONCLEAR_PAIRS"
+    },
+    {
+      "action": "A_L_LOW_GUARD_NEG_X20_AFTER_RADIAL",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "Six M4 bolts fully extracted from blind backer and washers removed; slit/splice cut; radial Z90 motion FIRST then X-20; opposite level and all pressure pipework retained",
+      "removed_or_tool_target": [
+        "SHELL/C11_A_L_GLAND_BOLT_1",
+        "SHELL/C11_A_L_GLAND_BOLT_2",
+        "SHELL/C11_A_L_GLAND_BOLT_3",
+        "SHELL/C11_A_L_GLAND_BOLT_4",
+        "SHELL/C11_A_L_GLAND_BOLT_5",
+        "SHELL/C11_A_L_GLAND_BOLT_6",
+        "SHELL/C11_A_L_GLAND_GUARD_LOW",
+        "SHELL/C11_A_L_GLAND_SLIT_FILL",
+        "SHELL/C11_A_L_GLAND_SLIT_REINFORCEMENT",
+        "SHELL/C11_A_L_GLAND_WASHER_1",
+        "SHELL/C11_A_L_GLAND_WASHER_2",
+        "SHELL/C11_A_L_GLAND_WASHER_3",
+        "SHELL/C11_A_L_GLAND_WASHER_4",
+        "SHELL/C11_A_L_GLAND_WASHER_5",
+        "SHELL/C11_A_L_GLAND_WASHER_6"
+      ],
+      "hits": [
+        [
+          "HEAT_EXCHANGERS/A_LOWER__W1_DRAIN_ADAPTER_G14",
+          416.5705912542603
+        ],
+        [
+          "HEAT_EXCHANGERS/A_LOWER__W1_DRAIN_M5_MOUNT_BOLT_1",
+          173.49583753204
+        ],
+        [
+          "HEAT_EXCHANGERS/A_LOWER__W2_DRAIN_ADAPTER_G14",
+          161.84459071088617
+        ],
+        [
+          "HEAT_EXCHANGERS/A_LOWER__W2_DRAIN_M5_MOUNT_BOLT_0",
+          161.854396019639
+        ]
+      ],
+      "status": "COLLISION"
+    },
+    {
+      "action": "A_L_HIGH_GUARD_Z90",
+      "method": "Exact distance with translation displacement bound",
+      "removed_or_tool_target": [
+        "SHELL/C11_A_L_GLAND_BOLT_1",
+        "SHELL/C11_A_L_GLAND_BOLT_2",
+        "SHELL/C11_A_L_GLAND_BOLT_3",
+        "SHELL/C11_A_L_GLAND_BOLT_4",
+        "SHELL/C11_A_L_GLAND_BOLT_5",
+        "SHELL/C11_A_L_GLAND_BOLT_6",
+        "SHELL/C11_A_L_GLAND_GUARD_HIGH",
+        "SHELL/C11_A_L_GLAND_SLIT_FILL",
+        "SHELL/C11_A_L_GLAND_SLIT_REINFORCEMENT",
+        "SHELL/C11_A_L_GLAND_WASHER_1",
+        "SHELL/C11_A_L_GLAND_WASHER_2",
+        "SHELL/C11_A_L_GLAND_WASHER_3",
+        "SHELL/C11_A_L_GLAND_WASHER_4",
+        "SHELL/C11_A_L_GLAND_WASHER_5",
+        "SHELL/C11_A_L_GLAND_WASHER_6"
+      ],
+      "pairs": [
+        {
+          "fixed": "SHELL/C11_A_L_GLAND_LIP_HIGH",
+          "status": "UNRESOLVED",
+          "evidence": {
+            "interval_fraction": [
+              0.6875,
+              0.68798828125
+            ],
+            "distance_mm": 0.0
+          }
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/A_LOWER__W1_D35_END_PIPE",
+          "status": "CERTIFIED_CLEAR",
+          "evidence": null
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/A_LOWER__W2_D35_END_PIPE",
+          "status": "CERTIFIED_CLEAR",
+          "evidence": null
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/A_LOWER__W1_VENT_HEADER_LINE",
+          "status": "CERTIFIED_CLEAR",
+          "evidence": null
+        }
+      ],
+      "status": "NONCLEAR_PAIRS"
+    },
+    {
+      "action": "A_L_HIGH_GUARD_NEG_X20_AFTER_RADIAL",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "Six M4 bolts fully extracted from blind backer and washers removed; slit/splice cut; radial Z90 motion FIRST then X-20; opposite level and all pressure pipework retained",
+      "removed_or_tool_target": [
+        "SHELL/C11_A_L_GLAND_BOLT_1",
+        "SHELL/C11_A_L_GLAND_BOLT_2",
+        "SHELL/C11_A_L_GLAND_BOLT_3",
+        "SHELL/C11_A_L_GLAND_BOLT_4",
+        "SHELL/C11_A_L_GLAND_BOLT_5",
+        "SHELL/C11_A_L_GLAND_BOLT_6",
+        "SHELL/C11_A_L_GLAND_GUARD_HIGH",
+        "SHELL/C11_A_L_GLAND_SLIT_FILL",
+        "SHELL/C11_A_L_GLAND_SLIT_REINFORCEMENT",
+        "SHELL/C11_A_L_GLAND_WASHER_1",
+        "SHELL/C11_A_L_GLAND_WASHER_2",
+        "SHELL/C11_A_L_GLAND_WASHER_3",
+        "SHELL/C11_A_L_GLAND_WASHER_4",
+        "SHELL/C11_A_L_GLAND_WASHER_5",
+        "SHELL/C11_A_L_GLAND_WASHER_6"
+      ],
+      "hits": [],
+      "status": "NOMINAL_ENVELOPE_CLEAR"
+    },
+    {
+      "action": "A_U_LOW_GUARD_Z-90",
+      "method": "Exact distance with translation displacement bound",
+      "removed_or_tool_target": [
+        "SHELL/C11_A_U_GLAND_BOLT_1",
+        "SHELL/C11_A_U_GLAND_BOLT_2",
+        "SHELL/C11_A_U_GLAND_BOLT_3",
+        "SHELL/C11_A_U_GLAND_BOLT_4",
+        "SHELL/C11_A_U_GLAND_BOLT_5",
+        "SHELL/C11_A_U_GLAND_BOLT_6",
+        "SHELL/C11_A_U_GLAND_GUARD_LOW",
+        "SHELL/C11_A_U_GLAND_SLIT_FILL",
+        "SHELL/C11_A_U_GLAND_SLIT_REINFORCEMENT",
+        "SHELL/C11_A_U_GLAND_WASHER_1",
+        "SHELL/C11_A_U_GLAND_WASHER_2",
+        "SHELL/C11_A_U_GLAND_WASHER_3",
+        "SHELL/C11_A_U_GLAND_WASHER_4",
+        "SHELL/C11_A_U_GLAND_WASHER_5",
+        "SHELL/C11_A_U_GLAND_WASHER_6"
+      ],
+      "pairs": [
+        {
+          "fixed": "HEAT_EXCHANGERS/A_LOWER__W2_D35_END_PIPE",
+          "status": "CERTIFIED_CLEAR",
+          "evidence": null
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/A_LOWER__W2_VENT_HEADER_LINE",
+          "status": "CERTIFIED_CLEAR",
+          "evidence": null
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/A_UPPER__W1_D35_END_PIPE",
+          "status": "CERTIFIED_CLEAR",
+          "evidence": null
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/A_UPPER__W2_D35_END_PIPE",
+          "status": "CERTIFIED_CLEAR",
+          "evidence": null
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/A_UPPER__W1_DRAIN_ADAPTER_G14",
+          "status": "COLLISION",
+          "evidence": {
+            "fraction": 0.5,
+            "volume_mm3": 2619.5440953948355
+          }
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/A_UPPER__W1_DRAIN_M5_MOUNT_BOLT_0",
+          "status": "COLLISION",
+          "evidence": {
+            "fraction": 0.5,
+            "volume_mm3": 206.5999817768847
+          }
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/A_UPPER__W1_DRAIN_M5_MOUNT_BOLT_1",
+          "status": "COLLISION",
+          "evidence": {
+            "fraction": 0.5,
+            "volume_mm3": 246.61502330680304
+          }
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/A_UPPER__W2_DRAIN_ADAPTER_G14",
+          "status": "COLLISION",
+          "evidence": {
+            "fraction": 0.5,
+            "volume_mm3": 569.8402775784425
+          }
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/A_UPPER__W2_DRAIN_M5_MOUNT_BOLT_0",
+          "status": "COLLISION",
+          "evidence": {
+            "fraction": 0.5,
+            "volume_mm3": 156.9617824177111
+          }
+        }
+      ],
+      "status": "NONCLEAR_PAIRS"
+    },
+    {
+      "action": "A_U_LOW_GUARD_NEG_X20_AFTER_RADIAL",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "Six M4 bolts fully extracted from blind backer and washers removed; slit/splice cut; radial Z90 motion FIRST then X-20; opposite level and all pressure pipework retained",
+      "removed_or_tool_target": [
+        "SHELL/C11_A_U_GLAND_BOLT_1",
+        "SHELL/C11_A_U_GLAND_BOLT_2",
+        "SHELL/C11_A_U_GLAND_BOLT_3",
+        "SHELL/C11_A_U_GLAND_BOLT_4",
+        "SHELL/C11_A_U_GLAND_BOLT_5",
+        "SHELL/C11_A_U_GLAND_BOLT_6",
+        "SHELL/C11_A_U_GLAND_GUARD_LOW",
+        "SHELL/C11_A_U_GLAND_SLIT_FILL",
+        "SHELL/C11_A_U_GLAND_SLIT_REINFORCEMENT",
+        "SHELL/C11_A_U_GLAND_WASHER_1",
+        "SHELL/C11_A_U_GLAND_WASHER_2",
+        "SHELL/C11_A_U_GLAND_WASHER_3",
+        "SHELL/C11_A_U_GLAND_WASHER_4",
+        "SHELL/C11_A_U_GLAND_WASHER_5",
+        "SHELL/C11_A_U_GLAND_WASHER_6"
+      ],
+      "hits": [
+        [
+          "HEAT_EXCHANGERS/A_UPPER__W1_DRAIN_ADAPTER_G14",
+          416.5705912542609
+        ],
+        [
+          "HEAT_EXCHANGERS/A_UPPER__W1_DRAIN_M5_MOUNT_BOLT_1",
+          173.49583753206073
+        ],
+        [
+          "HEAT_EXCHANGERS/A_UPPER__W2_DRAIN_ADAPTER_G14",
+          161.84459071088747
+        ],
+        [
+          "HEAT_EXCHANGERS/A_UPPER__W2_DRAIN_M5_MOUNT_BOLT_0",
+          161.85439601963623
+        ]
+      ],
+      "status": "COLLISION"
+    },
+    {
+      "action": "A_U_HIGH_GUARD_Z90",
+      "method": "Exact distance with translation displacement bound",
+      "removed_or_tool_target": [
+        "SHELL/C11_A_U_GLAND_BOLT_1",
+        "SHELL/C11_A_U_GLAND_BOLT_2",
+        "SHELL/C11_A_U_GLAND_BOLT_3",
+        "SHELL/C11_A_U_GLAND_BOLT_4",
+        "SHELL/C11_A_U_GLAND_BOLT_5",
+        "SHELL/C11_A_U_GLAND_BOLT_6",
+        "SHELL/C11_A_U_GLAND_GUARD_HIGH",
+        "SHELL/C11_A_U_GLAND_SLIT_FILL",
+        "SHELL/C11_A_U_GLAND_SLIT_REINFORCEMENT",
+        "SHELL/C11_A_U_GLAND_WASHER_1",
+        "SHELL/C11_A_U_GLAND_WASHER_2",
+        "SHELL/C11_A_U_GLAND_WASHER_3",
+        "SHELL/C11_A_U_GLAND_WASHER_4",
+        "SHELL/C11_A_U_GLAND_WASHER_5",
+        "SHELL/C11_A_U_GLAND_WASHER_6"
+      ],
+      "pairs": [
+        {
+          "fixed": "SHELL/C11_A_U_GLAND_LIP_HIGH",
+          "status": "UNRESOLVED",
+          "evidence": {
+            "interval_fraction": [
+              0.6875,
+              0.68798828125
+            ],
+            "distance_mm": 0.0
+          }
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/A_UPPER__W1_D35_END_PIPE",
+          "status": "CERTIFIED_CLEAR",
+          "evidence": null
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/A_UPPER__W2_D35_END_PIPE",
+          "status": "CERTIFIED_CLEAR",
+          "evidence": null
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/A_UPPER__W1_VENT_HEADER_LINE",
+          "status": "CERTIFIED_CLEAR",
+          "evidence": null
+        }
+      ],
+      "status": "NONCLEAR_PAIRS"
+    },
+    {
+      "action": "A_U_HIGH_GUARD_NEG_X20_AFTER_RADIAL",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "Six M4 bolts fully extracted from blind backer and washers removed; slit/splice cut; radial Z90 motion FIRST then X-20; opposite level and all pressure pipework retained",
+      "removed_or_tool_target": [
+        "SHELL/C11_A_U_GLAND_BOLT_1",
+        "SHELL/C11_A_U_GLAND_BOLT_2",
+        "SHELL/C11_A_U_GLAND_BOLT_3",
+        "SHELL/C11_A_U_GLAND_BOLT_4",
+        "SHELL/C11_A_U_GLAND_BOLT_5",
+        "SHELL/C11_A_U_GLAND_BOLT_6",
+        "SHELL/C11_A_U_GLAND_GUARD_HIGH",
+        "SHELL/C11_A_U_GLAND_SLIT_FILL",
+        "SHELL/C11_A_U_GLAND_SLIT_REINFORCEMENT",
+        "SHELL/C11_A_U_GLAND_WASHER_1",
+        "SHELL/C11_A_U_GLAND_WASHER_2",
+        "SHELL/C11_A_U_GLAND_WASHER_3",
+        "SHELL/C11_A_U_GLAND_WASHER_4",
+        "SHELL/C11_A_U_GLAND_WASHER_5",
+        "SHELL/C11_A_U_GLAND_WASHER_6"
+      ],
+      "hits": [],
+      "status": "NOMINAL_ENVELOPE_CLEAR"
+    },
+    {
+      "action": "B_L_LOW_GUARD_Z-90",
+      "method": "Exact distance with translation displacement bound",
+      "removed_or_tool_target": [
+        "SHELL/C11_B_L_GLAND_BOLT_1",
+        "SHELL/C11_B_L_GLAND_BOLT_2",
+        "SHELL/C11_B_L_GLAND_BOLT_3",
+        "SHELL/C11_B_L_GLAND_BOLT_4",
+        "SHELL/C11_B_L_GLAND_BOLT_5",
+        "SHELL/C11_B_L_GLAND_BOLT_6",
+        "SHELL/C11_B_L_GLAND_GUARD_LOW",
+        "SHELL/C11_B_L_GLAND_SLIT_FILL",
+        "SHELL/C11_B_L_GLAND_SLIT_REINFORCEMENT",
+        "SHELL/C11_B_L_GLAND_WASHER_1",
+        "SHELL/C11_B_L_GLAND_WASHER_2",
+        "SHELL/C11_B_L_GLAND_WASHER_3",
+        "SHELL/C11_B_L_GLAND_WASHER_4",
+        "SHELL/C11_B_L_GLAND_WASHER_5",
+        "SHELL/C11_B_L_GLAND_WASHER_6"
+      ],
+      "pairs": [
+        {
+          "fixed": "HEAT_EXCHANGERS/B_LOWER__W1_D35_END_PIPE",
+          "status": "CERTIFIED_CLEAR",
+          "evidence": null
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/B_LOWER__W2_D35_END_PIPE",
+          "status": "CERTIFIED_CLEAR",
+          "evidence": null
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/B_LOWER__W1_DRAIN_ADAPTER_G14",
+          "status": "COLLISION",
+          "evidence": {
+            "fraction": 0.5,
+            "volume_mm3": 2619.5440953946845
+          }
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/B_LOWER__W1_DRAIN_M5_MOUNT_BOLT_0",
+          "status": "COLLISION",
+          "evidence": {
+            "fraction": 0.5,
+            "volume_mm3": 206.59998177578902
+          }
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/B_LOWER__W1_DRAIN_M5_MOUNT_BOLT_1",
+          "status": "COLLISION",
+          "evidence": {
+            "fraction": 0.5,
+            "volume_mm3": 246.61502330680298
+          }
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/B_LOWER__W2_DRAIN_ADAPTER_G14",
+          "status": "COLLISION",
+          "evidence": {
+            "fraction": 0.5,
+            "volume_mm3": 569.8402775784389
+          }
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/B_LOWER__W2_DRAIN_M5_MOUNT_BOLT_0",
+          "status": "COLLISION",
+          "evidence": {
+            "fraction": 0.5,
+            "volume_mm3": 156.961782417724
+          }
+        }
+      ],
+      "status": "NONCLEAR_PAIRS"
+    },
+    {
+      "action": "B_L_LOW_GUARD_NEG_X20_AFTER_RADIAL",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "Six M4 bolts fully extracted from blind backer and washers removed; slit/splice cut; radial Z90 motion FIRST then X-20; opposite level and all pressure pipework retained",
+      "removed_or_tool_target": [
+        "SHELL/C11_B_L_GLAND_BOLT_1",
+        "SHELL/C11_B_L_GLAND_BOLT_2",
+        "SHELL/C11_B_L_GLAND_BOLT_3",
+        "SHELL/C11_B_L_GLAND_BOLT_4",
+        "SHELL/C11_B_L_GLAND_BOLT_5",
+        "SHELL/C11_B_L_GLAND_BOLT_6",
+        "SHELL/C11_B_L_GLAND_GUARD_LOW",
+        "SHELL/C11_B_L_GLAND_SLIT_FILL",
+        "SHELL/C11_B_L_GLAND_SLIT_REINFORCEMENT",
+        "SHELL/C11_B_L_GLAND_WASHER_1",
+        "SHELL/C11_B_L_GLAND_WASHER_2",
+        "SHELL/C11_B_L_GLAND_WASHER_3",
+        "SHELL/C11_B_L_GLAND_WASHER_4",
+        "SHELL/C11_B_L_GLAND_WASHER_5",
+        "SHELL/C11_B_L_GLAND_WASHER_6"
+      ],
+      "hits": [
+        [
+          "HEAT_EXCHANGERS/B_LOWER__W1_DRAIN_ADAPTER_G14",
+          416.57059125527496
+        ],
+        [
+          "HEAT_EXCHANGERS/B_LOWER__W1_DRAIN_M5_MOUNT_BOLT_1",
+          173.4958375320511
+        ],
+        [
+          "HEAT_EXCHANGERS/B_LOWER__W2_DRAIN_ADAPTER_G14",
+          161.8445907108832
+        ],
+        [
+          "HEAT_EXCHANGERS/B_LOWER__W2_DRAIN_M5_MOUNT_BOLT_0",
+          161.8543960196376
+        ]
+      ],
+      "status": "COLLISION"
+    },
+    {
+      "action": "B_L_HIGH_GUARD_Z90",
+      "method": "Exact distance with translation displacement bound",
+      "removed_or_tool_target": [
+        "SHELL/C11_B_L_GLAND_BOLT_1",
+        "SHELL/C11_B_L_GLAND_BOLT_2",
+        "SHELL/C11_B_L_GLAND_BOLT_3",
+        "SHELL/C11_B_L_GLAND_BOLT_4",
+        "SHELL/C11_B_L_GLAND_BOLT_5",
+        "SHELL/C11_B_L_GLAND_BOLT_6",
+        "SHELL/C11_B_L_GLAND_GUARD_HIGH",
+        "SHELL/C11_B_L_GLAND_SLIT_FILL",
+        "SHELL/C11_B_L_GLAND_SLIT_REINFORCEMENT",
+        "SHELL/C11_B_L_GLAND_WASHER_1",
+        "SHELL/C11_B_L_GLAND_WASHER_2",
+        "SHELL/C11_B_L_GLAND_WASHER_3",
+        "SHELL/C11_B_L_GLAND_WASHER_4",
+        "SHELL/C11_B_L_GLAND_WASHER_5",
+        "SHELL/C11_B_L_GLAND_WASHER_6"
+      ],
+      "pairs": [
+        {
+          "fixed": "SHELL/C11_B_L_GLAND_LIP_HIGH",
+          "status": "UNRESOLVED",
+          "evidence": {
+            "interval_fraction": [
+              0.6875,
+              0.68798828125
+            ],
+            "distance_mm": 0.0
+          }
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/B_LOWER__W1_D35_END_PIPE",
+          "status": "CERTIFIED_CLEAR",
+          "evidence": null
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/B_LOWER__W2_D35_END_PIPE",
+          "status": "CERTIFIED_CLEAR",
+          "evidence": null
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/B_LOWER__W1_VENT_HEADER_LINE",
+          "status": "CERTIFIED_CLEAR",
+          "evidence": null
+        }
+      ],
+      "status": "NONCLEAR_PAIRS"
+    },
+    {
+      "action": "B_L_HIGH_GUARD_NEG_X20_AFTER_RADIAL",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "Six M4 bolts fully extracted from blind backer and washers removed; slit/splice cut; radial Z90 motion FIRST then X-20; opposite level and all pressure pipework retained",
+      "removed_or_tool_target": [
+        "SHELL/C11_B_L_GLAND_BOLT_1",
+        "SHELL/C11_B_L_GLAND_BOLT_2",
+        "SHELL/C11_B_L_GLAND_BOLT_3",
+        "SHELL/C11_B_L_GLAND_BOLT_4",
+        "SHELL/C11_B_L_GLAND_BOLT_5",
+        "SHELL/C11_B_L_GLAND_BOLT_6",
+        "SHELL/C11_B_L_GLAND_GUARD_HIGH",
+        "SHELL/C11_B_L_GLAND_SLIT_FILL",
+        "SHELL/C11_B_L_GLAND_SLIT_REINFORCEMENT",
+        "SHELL/C11_B_L_GLAND_WASHER_1",
+        "SHELL/C11_B_L_GLAND_WASHER_2",
+        "SHELL/C11_B_L_GLAND_WASHER_3",
+        "SHELL/C11_B_L_GLAND_WASHER_4",
+        "SHELL/C11_B_L_GLAND_WASHER_5",
+        "SHELL/C11_B_L_GLAND_WASHER_6"
+      ],
+      "hits": [],
+      "status": "NOMINAL_ENVELOPE_CLEAR"
+    },
+    {
+      "action": "B_U_LOW_GUARD_Z-90",
+      "method": "Exact distance with translation displacement bound",
+      "removed_or_tool_target": [
+        "SHELL/C11_B_U_GLAND_BOLT_1",
+        "SHELL/C11_B_U_GLAND_BOLT_2",
+        "SHELL/C11_B_U_GLAND_BOLT_3",
+        "SHELL/C11_B_U_GLAND_BOLT_4",
+        "SHELL/C11_B_U_GLAND_BOLT_5",
+        "SHELL/C11_B_U_GLAND_BOLT_6",
+        "SHELL/C11_B_U_GLAND_GUARD_LOW",
+        "SHELL/C11_B_U_GLAND_SLIT_FILL",
+        "SHELL/C11_B_U_GLAND_SLIT_REINFORCEMENT",
+        "SHELL/C11_B_U_GLAND_WASHER_1",
+        "SHELL/C11_B_U_GLAND_WASHER_2",
+        "SHELL/C11_B_U_GLAND_WASHER_3",
+        "SHELL/C11_B_U_GLAND_WASHER_4",
+        "SHELL/C11_B_U_GLAND_WASHER_5",
+        "SHELL/C11_B_U_GLAND_WASHER_6"
+      ],
+      "pairs": [
+        {
+          "fixed": "HEAT_EXCHANGERS/B_LOWER__W2_D35_END_PIPE",
+          "status": "CERTIFIED_CLEAR",
+          "evidence": null
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/B_LOWER__W2_VENT_HEADER_LINE",
+          "status": "CERTIFIED_CLEAR",
+          "evidence": null
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/B_UPPER__W1_D35_END_PIPE",
+          "status": "CERTIFIED_CLEAR",
+          "evidence": null
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/B_UPPER__W2_D35_END_PIPE",
+          "status": "CERTIFIED_CLEAR",
+          "evidence": null
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/B_UPPER__W1_DRAIN_ADAPTER_G14",
+          "status": "COLLISION",
+          "evidence": {
+            "fraction": 0.5,
+            "volume_mm3": 2619.5440953948655
+          }
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/B_UPPER__W1_DRAIN_M5_MOUNT_BOLT_0",
+          "status": "COLLISION",
+          "evidence": {
+            "fraction": 0.5,
+            "volume_mm3": 206.59998177571265
+          }
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/B_UPPER__W1_DRAIN_M5_MOUNT_BOLT_1",
+          "status": "COLLISION",
+          "evidence": {
+            "fraction": 0.5,
+            "volume_mm3": 246.61502330680304
+          }
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/B_UPPER__W2_DRAIN_ADAPTER_G14",
+          "status": "COLLISION",
+          "evidence": {
+            "fraction": 0.5,
+            "volume_mm3": 569.840277578438
+          }
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/B_UPPER__W2_DRAIN_M5_MOUNT_BOLT_0",
+          "status": "COLLISION",
+          "evidence": {
+            "fraction": 0.5,
+            "volume_mm3": 156.96178241772446
+          }
+        }
+      ],
+      "status": "NONCLEAR_PAIRS"
+    },
+    {
+      "action": "B_U_LOW_GUARD_NEG_X20_AFTER_RADIAL",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "Six M4 bolts fully extracted from blind backer and washers removed; slit/splice cut; radial Z90 motion FIRST then X-20; opposite level and all pressure pipework retained",
+      "removed_or_tool_target": [
+        "SHELL/C11_B_U_GLAND_BOLT_1",
+        "SHELL/C11_B_U_GLAND_BOLT_2",
+        "SHELL/C11_B_U_GLAND_BOLT_3",
+        "SHELL/C11_B_U_GLAND_BOLT_4",
+        "SHELL/C11_B_U_GLAND_BOLT_5",
+        "SHELL/C11_B_U_GLAND_BOLT_6",
+        "SHELL/C11_B_U_GLAND_GUARD_LOW",
+        "SHELL/C11_B_U_GLAND_SLIT_FILL",
+        "SHELL/C11_B_U_GLAND_SLIT_REINFORCEMENT",
+        "SHELL/C11_B_U_GLAND_WASHER_1",
+        "SHELL/C11_B_U_GLAND_WASHER_2",
+        "SHELL/C11_B_U_GLAND_WASHER_3",
+        "SHELL/C11_B_U_GLAND_WASHER_4",
+        "SHELL/C11_B_U_GLAND_WASHER_5",
+        "SHELL/C11_B_U_GLAND_WASHER_6"
+      ],
+      "hits": [
+        [
+          "HEAT_EXCHANGERS/B_UPPER__W1_DRAIN_ADAPTER_G14",
+          416.5705912552559
+        ],
+        [
+          "HEAT_EXCHANGERS/B_UPPER__W1_DRAIN_M5_MOUNT_BOLT_1",
+          173.49583753204018
+        ],
+        [
+          "HEAT_EXCHANGERS/B_UPPER__W2_DRAIN_ADAPTER_G14",
+          161.84459071088332
+        ],
+        [
+          "HEAT_EXCHANGERS/B_UPPER__W2_DRAIN_M5_MOUNT_BOLT_0",
+          161.854396019639
+        ]
+      ],
+      "status": "COLLISION"
+    },
+    {
+      "action": "B_U_HIGH_GUARD_Z90",
+      "method": "Exact distance with translation displacement bound",
+      "removed_or_tool_target": [
+        "SHELL/C11_B_U_GLAND_BOLT_1",
+        "SHELL/C11_B_U_GLAND_BOLT_2",
+        "SHELL/C11_B_U_GLAND_BOLT_3",
+        "SHELL/C11_B_U_GLAND_BOLT_4",
+        "SHELL/C11_B_U_GLAND_BOLT_5",
+        "SHELL/C11_B_U_GLAND_BOLT_6",
+        "SHELL/C11_B_U_GLAND_GUARD_HIGH",
+        "SHELL/C11_B_U_GLAND_SLIT_FILL",
+        "SHELL/C11_B_U_GLAND_SLIT_REINFORCEMENT",
+        "SHELL/C11_B_U_GLAND_WASHER_1",
+        "SHELL/C11_B_U_GLAND_WASHER_2",
+        "SHELL/C11_B_U_GLAND_WASHER_3",
+        "SHELL/C11_B_U_GLAND_WASHER_4",
+        "SHELL/C11_B_U_GLAND_WASHER_5",
+        "SHELL/C11_B_U_GLAND_WASHER_6"
+      ],
+      "pairs": [
+        {
+          "fixed": "SHELL/C11_B_U_GLAND_LIP_HIGH",
+          "status": "UNRESOLVED",
+          "evidence": {
+            "interval_fraction": [
+              0.6875,
+              0.68798828125
+            ],
+            "distance_mm": 0.0
+          }
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/B_UPPER__W1_D35_END_PIPE",
+          "status": "CERTIFIED_CLEAR",
+          "evidence": null
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/B_UPPER__W2_D35_END_PIPE",
+          "status": "CERTIFIED_CLEAR",
+          "evidence": null
+        },
+        {
+          "fixed": "HEAT_EXCHANGERS/B_UPPER__W1_VENT_HEADER_LINE",
+          "status": "CERTIFIED_CLEAR",
+          "evidence": null
+        }
+      ],
+      "status": "NONCLEAR_PAIRS"
+    },
+    {
+      "action": "B_U_HIGH_GUARD_NEG_X20_AFTER_RADIAL",
+      "method": "Exact axial-prism sweep or explicitly dimensioned tool body",
+      "scope": "Six M4 bolts fully extracted from blind backer and washers removed; slit/splice cut; radial Z90 motion FIRST then X-20; opposite level and all pressure pipework retained",
+      "removed_or_tool_target": [
+        "SHELL/C11_B_U_GLAND_BOLT_1",
+        "SHELL/C11_B_U_GLAND_BOLT_2",
+        "SHELL/C11_B_U_GLAND_BOLT_3",
+        "SHELL/C11_B_U_GLAND_BOLT_4",
+        "SHELL/C11_B_U_GLAND_BOLT_5",
+        "SHELL/C11_B_U_GLAND_BOLT_6",
+        "SHELL/C11_B_U_GLAND_GUARD_HIGH",
+        "SHELL/C11_B_U_GLAND_SLIT_FILL",
+        "SHELL/C11_B_U_GLAND_SLIT_REINFORCEMENT",
+        "SHELL/C11_B_U_GLAND_WASHER_1",
+        "SHELL/C11_B_U_GLAND_WASHER_2",
+        "SHELL/C11_B_U_GLAND_WASHER_3",
+        "SHELL/C11_B_U_GLAND_WASHER_4",
+        "SHELL/C11_B_U_GLAND_WASHER_5",
+        "SHELL/C11_B_U_GLAND_WASHER_6"
+      ],
+      "hits": [],
+      "status": "NOMINAL_ENVELOPE_CLEAR"
+    }
+  ],
+  "unverified": [
+    "Roof screw unscrewing and handling fixture",
+    "Complete inlet floor/wrap/pocket demountable joints and predecessor removals",
+    "Whole-core extraction and temporary support stability",
+    "Gland adhesive cleaning/cure access and realistic hand envelope",
+    "Drain coupler/clip tools, collection vessel and receptor bracing",
+    "Cassette lower-seat predecessor, bridge attachment and temporary stability"
+  ],
+  "acceptance": "No complete Pin, core, gland replacement or cassette service PASS is claimed by this subset."
+}

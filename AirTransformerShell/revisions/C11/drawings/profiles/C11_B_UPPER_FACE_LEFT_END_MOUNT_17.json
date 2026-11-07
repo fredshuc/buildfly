@@ -1,0 +1,44 @@
+{
+  "axis": 0,
+  "plane_mm": -424.0,
+  "axes": "Y,Z",
+  "bbox": [
+    86.5,
+    926.5,
+    116.5,
+    942.5
+  ],
+  "loops": [
+    [
+      [
+        86.5,
+        926.5
+      ],
+      [
+        86.5,
+        942.5
+      ],
+      [
+        116.5,
+        942.5
+      ],
+      [
+        116.5,
+        926.5
+      ]
+    ]
+  ],
+  "circles": [],
+  "chord_tolerance_mm": 0.01,
+  "spec": {
+    "part": "C11_B_UPPER_FACE_LEFT_END_MOUNT_17",
+    "kind": "flat_X",
+    "thickness_mm": 3,
+    "R_inside_mm": 0,
+    "K": null,
+    "datum": "back face X=-424; centred within25mm RHS side height",
+    "tolerance": "profile+/-0.2; root fit per qualified WPS"
+  },
+  "material": "S235JR plate3",
+  "reason": "30x16 mounting plate on unchanged left RHS sideX-424; perimeter a3 weld, effective horizontal24/vertical10mm; local RHS wall and complete bracket1.5kN proof required. Verify real stock corner/weld access; no frame cut."
+}

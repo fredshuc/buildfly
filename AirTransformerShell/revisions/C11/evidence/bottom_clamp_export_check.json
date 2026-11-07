@@ -1,0 +1,499 @@
+{
+  "status": "PASS_NOMINAL_CONNECTIONS_AND_CONSERVATIVE_MOTION_BOUND",
+  "installed_S1_sha256": "b941c52ab7d094e54d6b50dca9c51c876e00ce4744d8cfc6b05b8976e9ea0d18",
+  "shell_index_sha256": "bc8801a446faf04d5cab38aa0b20e899316616ec93cdafa22dd4b338cd279f07",
+  "selected_parts": [
+    "C11_A_LOWER_FACE_MASK_ADAPTER",
+    "C11_A_LOWER_FACE_STOP_17",
+    "C11_A_LOWER_FACE_STANDOFF_17",
+    "C11_A_LOWER_FACE_CLAMP_17",
+    "C11_A_LOWER_FACE_SCREW_17",
+    "C11_A_LOWER_FACE_LEFT_END_MOUNT_17",
+    "C11_A_LOWER_FACE_LEFT_END_BEARING_17",
+    "C11_A_LOWER_FACE_LEFT_END_GUSSET_17_1",
+    "C11_A_LOWER_FACE_LEFT_END_GUSSET_17_2",
+    "C11_A_LOWER_FACE_STOP_19",
+    "C11_A_LOWER_FACE_STANDOFF_19",
+    "C11_A_LOWER_FACE_CLAMP_19",
+    "C11_A_LOWER_FACE_SCREW_19",
+    "C11_A_LOWER_FACE_LEFT_END_MOUNT_19",
+    "C11_A_LOWER_FACE_LEFT_END_BEARING_19",
+    "C11_A_LOWER_FACE_LEFT_END_GUSSET_19_1",
+    "C11_A_LOWER_FACE_LEFT_END_GUSSET_19_2",
+    "C11_A_UPPER_FACE_MASK_ADAPTER",
+    "C11_A_UPPER_FACE_STOP_17",
+    "C11_A_UPPER_FACE_STANDOFF_17",
+    "C11_A_UPPER_FACE_CLAMP_17",
+    "C11_A_UPPER_FACE_SCREW_17",
+    "C11_A_UPPER_FACE_LEFT_END_MOUNT_17",
+    "C11_A_UPPER_FACE_LEFT_END_BEARING_17",
+    "C11_A_UPPER_FACE_LEFT_END_GUSSET_17_1",
+    "C11_A_UPPER_FACE_LEFT_END_GUSSET_17_2",
+    "C11_A_UPPER_FACE_STOP_19",
+    "C11_A_UPPER_FACE_STANDOFF_19",
+    "C11_A_UPPER_FACE_CLAMP_19",
+    "C11_A_UPPER_FACE_SCREW_19",
+    "C11_A_UPPER_FACE_LEFT_END_MOUNT_19",
+    "C11_A_UPPER_FACE_LEFT_END_BEARING_19",
+    "C11_A_UPPER_FACE_LEFT_END_GUSSET_19_1",
+    "C11_A_UPPER_FACE_LEFT_END_GUSSET_19_2",
+    "C11_B_LOWER_FACE_MASK_ADAPTER",
+    "C11_B_LOWER_FACE_STOP_17",
+    "C11_B_LOWER_FACE_STANDOFF_17",
+    "C11_B_LOWER_FACE_CLAMP_17",
+    "C11_B_LOWER_FACE_SCREW_17",
+    "C11_B_LOWER_FACE_LEFT_END_MOUNT_17",
+    "C11_B_LOWER_FACE_LEFT_END_BEARING_17",
+    "C11_B_LOWER_FACE_LEFT_END_GUSSET_17_1",
+    "C11_B_LOWER_FACE_LEFT_END_GUSSET_17_2",
+    "C11_B_LOWER_FACE_STOP_19",
+    "C11_B_LOWER_FACE_STANDOFF_19",
+    "C11_B_LOWER_FACE_CLAMP_19",
+    "C11_B_LOWER_FACE_SCREW_19",
+    "C11_B_LOWER_FACE_LEFT_END_MOUNT_19",
+    "C11_B_LOWER_FACE_LEFT_END_BEARING_19",
+    "C11_B_LOWER_FACE_LEFT_END_GUSSET_19_1",
+    "C11_B_LOWER_FACE_LEFT_END_GUSSET_19_2",
+    "C11_B_UPPER_FACE_MASK_ADAPTER",
+    "C11_B_UPPER_FACE_STOP_17",
+    "C11_B_UPPER_FACE_STANDOFF_17",
+    "C11_B_UPPER_FACE_CLAMP_17",
+    "C11_B_UPPER_FACE_SCREW_17",
+    "C11_B_UPPER_FACE_LEFT_END_MOUNT_17",
+    "C11_B_UPPER_FACE_LEFT_END_BEARING_17",
+    "C11_B_UPPER_FACE_LEFT_END_GUSSET_17_1",
+    "C11_B_UPPER_FACE_LEFT_END_GUSSET_17_2",
+    "C11_B_UPPER_FACE_STOP_19",
+    "C11_B_UPPER_FACE_STANDOFF_19",
+    "C11_B_UPPER_FACE_CLAMP_19",
+    "C11_B_UPPER_FACE_SCREW_19",
+    "C11_B_UPPER_FACE_LEFT_END_MOUNT_19",
+    "C11_B_UPPER_FACE_LEFT_END_BEARING_19",
+    "C11_B_UPPER_FACE_LEFT_END_GUSSET_19_1",
+    "C11_B_UPPER_FACE_LEFT_END_GUSSET_19_2"
+  ],
+  "nominal_contacts": [
+    {
+      "part_A": "C11_A_LOWER_FACE_LEFT_END_MOUNT_17",
+      "part_B": "F_HX_RAIL_A_612_-444_O",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_A_LOWER_FACE_LEFT_END_BEARING_17",
+      "part_B": "C11_A_LOWER_FACE_CARRIER",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_A_LOWER_FACE_STANDOFF_17",
+      "part_B": "C11_A_LOWER_FACE_CARRIER",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_A_LOWER_FACE_LEFT_END_GUSSET_17_1",
+      "part_B": "C11_A_LOWER_FACE_LEFT_END_MOUNT_17",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_A_LOWER_FACE_LEFT_END_GUSSET_17_1",
+      "part_B": "C11_A_LOWER_FACE_LEFT_END_BEARING_17",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_A_LOWER_FACE_LEFT_END_GUSSET_17_2",
+      "part_B": "C11_A_LOWER_FACE_LEFT_END_MOUNT_17",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_A_LOWER_FACE_LEFT_END_GUSSET_17_2",
+      "part_B": "C11_A_LOWER_FACE_LEFT_END_BEARING_17",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_A_LOWER_FACE_LEFT_END_MOUNT_19",
+      "part_B": "F_HX_RAIL_A_612_-444_O",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_A_LOWER_FACE_LEFT_END_BEARING_19",
+      "part_B": "C11_A_LOWER_FACE_CARRIER",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_A_LOWER_FACE_STANDOFF_19",
+      "part_B": "C11_A_LOWER_FACE_CARRIER",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_A_LOWER_FACE_LEFT_END_GUSSET_19_1",
+      "part_B": "C11_A_LOWER_FACE_LEFT_END_MOUNT_19",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_A_LOWER_FACE_LEFT_END_GUSSET_19_1",
+      "part_B": "C11_A_LOWER_FACE_LEFT_END_BEARING_19",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_A_LOWER_FACE_LEFT_END_GUSSET_19_2",
+      "part_B": "C11_A_LOWER_FACE_LEFT_END_MOUNT_19",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_A_LOWER_FACE_LEFT_END_GUSSET_19_2",
+      "part_B": "C11_A_LOWER_FACE_LEFT_END_BEARING_19",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_A_UPPER_FACE_LEFT_END_MOUNT_17",
+      "part_B": "F_HX_RAIL_A_947_-444_O",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_A_UPPER_FACE_LEFT_END_BEARING_17",
+      "part_B": "C11_A_UPPER_FACE_CARRIER",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_A_UPPER_FACE_STANDOFF_17",
+      "part_B": "C11_A_UPPER_FACE_CARRIER",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_A_UPPER_FACE_LEFT_END_GUSSET_17_1",
+      "part_B": "C11_A_UPPER_FACE_LEFT_END_MOUNT_17",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_A_UPPER_FACE_LEFT_END_GUSSET_17_1",
+      "part_B": "C11_A_UPPER_FACE_LEFT_END_BEARING_17",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_A_UPPER_FACE_LEFT_END_GUSSET_17_2",
+      "part_B": "C11_A_UPPER_FACE_LEFT_END_MOUNT_17",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_A_UPPER_FACE_LEFT_END_GUSSET_17_2",
+      "part_B": "C11_A_UPPER_FACE_LEFT_END_BEARING_17",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_A_UPPER_FACE_LEFT_END_MOUNT_19",
+      "part_B": "F_HX_RAIL_A_947_-444_O",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_A_UPPER_FACE_LEFT_END_BEARING_19",
+      "part_B": "C11_A_UPPER_FACE_CARRIER",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_A_UPPER_FACE_STANDOFF_19",
+      "part_B": "C11_A_UPPER_FACE_CARRIER",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_A_UPPER_FACE_LEFT_END_GUSSET_19_1",
+      "part_B": "C11_A_UPPER_FACE_LEFT_END_MOUNT_19",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_A_UPPER_FACE_LEFT_END_GUSSET_19_1",
+      "part_B": "C11_A_UPPER_FACE_LEFT_END_BEARING_19",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_A_UPPER_FACE_LEFT_END_GUSSET_19_2",
+      "part_B": "C11_A_UPPER_FACE_LEFT_END_MOUNT_19",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_A_UPPER_FACE_LEFT_END_GUSSET_19_2",
+      "part_B": "C11_A_UPPER_FACE_LEFT_END_BEARING_19",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_B_LOWER_FACE_LEFT_END_MOUNT_17",
+      "part_B": "F_HX_RAIL_B_612_-444_O",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_B_LOWER_FACE_LEFT_END_BEARING_17",
+      "part_B": "C11_B_LOWER_FACE_CARRIER",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_B_LOWER_FACE_STANDOFF_17",
+      "part_B": "C11_B_LOWER_FACE_CARRIER",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_B_LOWER_FACE_LEFT_END_GUSSET_17_1",
+      "part_B": "C11_B_LOWER_FACE_LEFT_END_MOUNT_17",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_B_LOWER_FACE_LEFT_END_GUSSET_17_1",
+      "part_B": "C11_B_LOWER_FACE_LEFT_END_BEARING_17",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_B_LOWER_FACE_LEFT_END_GUSSET_17_2",
+      "part_B": "C11_B_LOWER_FACE_LEFT_END_MOUNT_17",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_B_LOWER_FACE_LEFT_END_GUSSET_17_2",
+      "part_B": "C11_B_LOWER_FACE_LEFT_END_BEARING_17",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_B_LOWER_FACE_LEFT_END_MOUNT_19",
+      "part_B": "F_HX_RAIL_B_612_-444_O",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_B_LOWER_FACE_LEFT_END_BEARING_19",
+      "part_B": "C11_B_LOWER_FACE_CARRIER",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_B_LOWER_FACE_STANDOFF_19",
+      "part_B": "C11_B_LOWER_FACE_CARRIER",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_B_LOWER_FACE_LEFT_END_GUSSET_19_1",
+      "part_B": "C11_B_LOWER_FACE_LEFT_END_MOUNT_19",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_B_LOWER_FACE_LEFT_END_GUSSET_19_1",
+      "part_B": "C11_B_LOWER_FACE_LEFT_END_BEARING_19",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_B_LOWER_FACE_LEFT_END_GUSSET_19_2",
+      "part_B": "C11_B_LOWER_FACE_LEFT_END_MOUNT_19",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_B_LOWER_FACE_LEFT_END_GUSSET_19_2",
+      "part_B": "C11_B_LOWER_FACE_LEFT_END_BEARING_19",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_B_UPPER_FACE_LEFT_END_MOUNT_17",
+      "part_B": "F_HX_RAIL_B_947_-444_O",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_B_UPPER_FACE_LEFT_END_BEARING_17",
+      "part_B": "C11_B_UPPER_FACE_CARRIER",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_B_UPPER_FACE_STANDOFF_17",
+      "part_B": "C11_B_UPPER_FACE_CARRIER",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_B_UPPER_FACE_LEFT_END_GUSSET_17_1",
+      "part_B": "C11_B_UPPER_FACE_LEFT_END_MOUNT_17",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_B_UPPER_FACE_LEFT_END_GUSSET_17_1",
+      "part_B": "C11_B_UPPER_FACE_LEFT_END_BEARING_17",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_B_UPPER_FACE_LEFT_END_GUSSET_17_2",
+      "part_B": "C11_B_UPPER_FACE_LEFT_END_MOUNT_17",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_B_UPPER_FACE_LEFT_END_GUSSET_17_2",
+      "part_B": "C11_B_UPPER_FACE_LEFT_END_BEARING_17",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_B_UPPER_FACE_LEFT_END_MOUNT_19",
+      "part_B": "F_HX_RAIL_B_947_-444_O",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_B_UPPER_FACE_LEFT_END_BEARING_19",
+      "part_B": "C11_B_UPPER_FACE_CARRIER",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_B_UPPER_FACE_STANDOFF_19",
+      "part_B": "C11_B_UPPER_FACE_CARRIER",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_B_UPPER_FACE_LEFT_END_GUSSET_19_1",
+      "part_B": "C11_B_UPPER_FACE_LEFT_END_MOUNT_19",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_B_UPPER_FACE_LEFT_END_GUSSET_19_1",
+      "part_B": "C11_B_UPPER_FACE_LEFT_END_BEARING_19",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_B_UPPER_FACE_LEFT_END_GUSSET_19_2",
+      "part_B": "C11_B_UPPER_FACE_LEFT_END_MOUNT_19",
+      "nominal_contact_distance_mm": 0.0
+    },
+    {
+      "part_A": "C11_B_UPPER_FACE_LEFT_END_GUSSET_19_2",
+      "part_B": "C11_B_UPPER_FACE_LEFT_END_BEARING_19",
+      "nominal_contact_distance_mm": 0.0
+    }
+  ],
+  "fluid_component_clearances": [
+    {
+      "clamp": "C11_A_LOWER_FACE_CLAMP_17",
+      "fluid_or_collector_part": "A_LOWER__H02_COND_RAIL_-390_1",
+      "distance_mm": 0.9999999999998295,
+      "sampled_parts": [
+        {
+          "fluid_or_collector_part": "A_LOWER__H02_COND_HEADER_LINK",
+          "distance_mm": 6.248964271003207
+        },
+        {
+          "fluid_or_collector_part": "A_LOWER__H02_COND_RAIL_-390_1",
+          "distance_mm": 0.9999999999998295
+        }
+      ],
+      "no_candidate_clearance_lower_bound_mm": null,
+      "scope": "Issued W1/W2, tube/return and H02 condensate components; exact distance for 5 mm broad-phase candidates. Disjoint conservative boxes establish at least 5 mm when no candidate exists. Tolerance/thermal/loaded clearance still requires qualification."
+    },
+    {
+      "clamp": "C11_A_LOWER_FACE_CLAMP_19",
+      "fluid_or_collector_part": "A_LOWER__H02_COND_UBEND_GUTTER",
+      "distance_mm": 2.049999999999841,
+      "sampled_parts": [
+        {
+          "fluid_or_collector_part": "A_LOWER__H02_COND_UBEND_GUTTER",
+          "distance_mm": 2.049999999999841
+        },
+        {
+          "fluid_or_collector_part": "A_LOWER__H02_COND_UBEND_LINK",
+          "distance_mm": 4.7651040042543675
+        }
+      ],
+      "no_candidate_clearance_lower_bound_mm": null,
+      "scope": "Issued W1/W2, tube/return and H02 condensate components; exact distance for 5 mm broad-phase candidates. Disjoint conservative boxes establish at least 5 mm when no candidate exists. Tolerance/thermal/loaded clearance still requires qualification."
+    },
+    {
+      "clamp": "C11_A_UPPER_FACE_CLAMP_17",
+      "fluid_or_collector_part": "A_UPPER__H02_COND_RAIL_-390_1",
+      "distance_mm": 0.9999999999998295,
+      "sampled_parts": [
+        {
+          "fluid_or_collector_part": "A_UPPER__H02_COND_HEADER_LINK",
+          "distance_mm": 6.248964271003207
+        },
+        {
+          "fluid_or_collector_part": "A_UPPER__H02_COND_RAIL_-390_1",
+          "distance_mm": 0.9999999999998295
+        }
+      ],
+      "no_candidate_clearance_lower_bound_mm": null,
+      "scope": "Issued W1/W2, tube/return and H02 condensate components; exact distance for 5 mm broad-phase candidates. Disjoint conservative boxes establish at least 5 mm when no candidate exists. Tolerance/thermal/loaded clearance still requires qualification."
+    },
+    {
+      "clamp": "C11_A_UPPER_FACE_CLAMP_19",
+      "fluid_or_collector_part": "A_UPPER__H02_COND_UBEND_GUTTER",
+      "distance_mm": 2.049999999999841,
+      "sampled_parts": [
+        {
+          "fluid_or_collector_part": "A_UPPER__H02_COND_UBEND_GUTTER",
+          "distance_mm": 2.049999999999841
+        },
+        {
+          "fluid_or_collector_part": "A_UPPER__H02_COND_UBEND_LINK",
+          "distance_mm": 4.7651040042543675
+        }
+      ],
+      "no_candidate_clearance_lower_bound_mm": null,
+      "scope": "Issued W1/W2, tube/return and H02 condensate components; exact distance for 5 mm broad-phase candidates. Disjoint conservative boxes establish at least 5 mm when no candidate exists. Tolerance/thermal/loaded clearance still requires qualification."
+    },
+    {
+      "clamp": "C11_B_LOWER_FACE_CLAMP_17",
+      "fluid_or_collector_part": "B_LOWER__H02_COND_RAIL_-390_1",
+      "distance_mm": 0.9999999999998295,
+      "sampled_parts": [
+        {
+          "fluid_or_collector_part": "B_LOWER__H02_COND_HEADER_LINK",
+          "distance_mm": 6.248964271003187
+        },
+        {
+          "fluid_or_collector_part": "B_LOWER__H02_COND_RAIL_-390_1",
+          "distance_mm": 0.9999999999998295
+        }
+      ],
+      "no_candidate_clearance_lower_bound_mm": null,
+      "scope": "Issued W1/W2, tube/return and H02 condensate components; exact distance for 5 mm broad-phase candidates. Disjoint conservative boxes establish at least 5 mm when no candidate exists. Tolerance/thermal/loaded clearance still requires qualification."
+    },
+    {
+      "clamp": "C11_B_LOWER_FACE_CLAMP_19",
+      "fluid_or_collector_part": "B_LOWER__H02_COND_UBEND_GUTTER",
+      "distance_mm": 2.049999999999841,
+      "sampled_parts": [
+        {
+          "fluid_or_collector_part": "B_LOWER__H02_COND_UBEND_GUTTER",
+          "distance_mm": 2.049999999999841
+        },
+        {
+          "fluid_or_collector_part": "B_LOWER__H02_COND_UBEND_LINK",
+          "distance_mm": 4.7651040042543675
+        }
+      ],
+      "no_candidate_clearance_lower_bound_mm": null,
+      "scope": "Issued W1/W2, tube/return and H02 condensate components; exact distance for 5 mm broad-phase candidates. Disjoint conservative boxes establish at least 5 mm when no candidate exists. Tolerance/thermal/loaded clearance still requires qualification."
+    },
+    {
+      "clamp": "C11_B_UPPER_FACE_CLAMP_17",
+      "fluid_or_collector_part": "B_UPPER__H02_COND_RAIL_-390_1",
+      "distance_mm": 0.9999999999998295,
+      "sampled_parts": [
+        {
+          "fluid_or_collector_part": "B_UPPER__H02_COND_HEADER_LINK",
+          "distance_mm": 6.248964271003187
+        },
+        {
+          "fluid_or_collector_part": "B_UPPER__H02_COND_RAIL_-390_1",
+          "distance_mm": 0.9999999999998295
+        }
+      ],
+      "no_candidate_clearance_lower_bound_mm": null,
+      "scope": "Issued W1/W2, tube/return and H02 condensate components; exact distance for 5 mm broad-phase candidates. Disjoint conservative boxes establish at least 5 mm when no candidate exists. Tolerance/thermal/loaded clearance still requires qualification."
+    },
+    {
+      "clamp": "C11_B_UPPER_FACE_CLAMP_19",
+      "fluid_or_collector_part": "B_UPPER__H02_COND_UBEND_GUTTER",
+      "distance_mm": 2.049999999999841,
+      "sampled_parts": [
+        {
+          "fluid_or_collector_part": "B_UPPER__H02_COND_UBEND_GUTTER",
+          "distance_mm": 2.049999999999841
+        },
+        {
+          "fluid_or_collector_part": "B_UPPER__H02_COND_UBEND_LINK",
+          "distance_mm": 4.7651040042543675
+        }
+      ],
+      "no_candidate_clearance_lower_bound_mm": null,
+      "scope": "Issued W1/W2, tube/return and H02 condensate components; exact distance for 5 mm broad-phase candidates. Disjoint conservative boxes establish at least 5 mm when no candidate exists. Tolerance/thermal/loaded clearance still requires qualification."
+    }
+  ],
+  "moving_to_new_parts_bounding_pairs": 3400,
+  "minimum_conservative_bounding_clearance_mm": 53.333907101596196,
+  "method": "Whole360-degree rotation enclosed by maximum radial extent and original Y bounds; exact current fixed-part bounds. Disjoint bounding boxes establish a conservative clearance lower bound. Full D05 sweep remains separate evidence.",
+  "limitations": "Nominal contacts do not prove weld capacity; no local RHS-wall, thermal, tolerance, actual loaded gap or physical proof acceptance is claimed."
+}

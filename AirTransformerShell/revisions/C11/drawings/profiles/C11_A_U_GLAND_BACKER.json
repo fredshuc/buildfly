@@ -1,0 +1,105 @@
+{
+  "axis": 0,
+  "plane_mm": -649.3,
+  "axes": "Y,Z",
+  "bbox": [
+    -768.654896442182,
+    823.0000000179857,
+    -511.0,
+    967.0000000179857
+  ],
+  "loops": [
+    [
+      [
+        -768.654896442182,
+        823.0000000179857
+      ],
+      [
+        -768.654896442182,
+        967.0000000179857
+      ],
+      [
+        -511.0,
+        967.0000000179857
+      ],
+      [
+        -511.0,
+        823.0000000179857
+      ]
+    ],
+    [
+      [
+        -523.0,
+        835.0000000179857
+      ],
+      [
+        -756.654896442182,
+        835.0000000179857
+      ],
+      [
+        -756.654896442182,
+        955.0000000179857
+      ],
+      [
+        -523.0,
+        955.0000000179857
+      ]
+    ]
+  ],
+  "circles": [
+    {
+      "center": [
+        -517.0,
+        829.0000000179857
+      ],
+      "radius": 1.65
+    },
+    {
+      "center": [
+        -517.0,
+        961.0000000179857
+      ],
+      "radius": 1.65
+    },
+    {
+      "center": [
+        -639.827448221091,
+        829.0000000179857
+      ],
+      "radius": 1.65
+    },
+    {
+      "center": [
+        -762.654896442182,
+        829.0000000179857
+      ],
+      "radius": 1.65
+    },
+    {
+      "center": [
+        -639.827448221091,
+        961.0000000179857
+      ],
+      "radius": 1.65
+    },
+    {
+      "center": [
+        -762.654896442182,
+        961.0000000179857
+      ],
+      "radius": 1.65
+    }
+  ],
+  "chord_tolerance_mm": 0.01,
+  "spec": {
+    "part": "C11_A_U_GLAND_BACKER",
+    "kind": "flat_X",
+    "thickness_mm": 5,
+    "R_inside_mm": 0,
+    "K": null,
+    "datum": "skin inside X=-649.3;6 blind M4 taps depth4.0, closed wall>=0.9",
+    "tolerance": "profile +/-0.2; ring flatness0.2; blind tap depth+0.1/-0.0; no breakthrough"
+  },
+  "material": "S235JR plate 5.0",
+  "reason": "12 mm perimeter ring; thickness sized for1kN blind-thread proof; continuous sealed interface to skin; edge welds inspected before assembly"
+}

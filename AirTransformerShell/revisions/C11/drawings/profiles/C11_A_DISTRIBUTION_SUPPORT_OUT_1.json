@@ -1,0 +1,44 @@
+{
+  "axis": 2,
+  "plane_mm": 559.0,
+  "axes": "X,Y",
+  "bbox": [
+    -440.0,
+    -818.5,
+    -410.0,
+    -748.5
+  ],
+  "loops": [
+    [
+      [
+        -440.0,
+        -818.5
+      ],
+      [
+        -440.0,
+        -748.5
+      ],
+      [
+        -410.0,
+        -748.5
+      ],
+      [
+        -410.0,
+        -818.5
+      ]
+    ]
+  ],
+  "circles": [],
+  "chord_tolerance_mm": 0.01,
+  "spec": {
+    "part": "C11_A_DISTRIBUTION_SUPPORT_OUT_1",
+    "kind": "flat_Z",
+    "thickness_mm": 6,
+    "R_inside_mm": 0,
+    "K": null,
+    "datum": "rail undersideZ565; no load through air skin",
+    "tolerance": "profile +/-0.2; installed height +/-0.1"
+  },
+  "material": "S235JR plate6.0",
+  "reason": "Rail load to existing lower HX crossbeam; continuous6mm arm root weld, proof500N per arm"
+}

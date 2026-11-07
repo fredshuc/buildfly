@@ -1,0 +1,13 @@
+{
+  "build_shell": "23f23c91f31ea21047791bba008d7d9c0f9918ffe1cee83cefd257aaaa09a091",
+  "common": "a23d3cbbafaa8f45bf210c336e9a909d244a7de056a5cd0e0f9904e5b947e3c9",
+  "geometry_io": "025e6fd40c4c7a2ec2da6f5155753fbd4424c0699db4fe83ddc3b2d175ffaada",
+  "pockets": "aa0ce1725f58026904aaabdd88a53ff55568efa34fbfc7aee9b6a5378142f580",
+  "glands": "208584b9bb19d684a9f0ce81dd1cfc52a44e74b8673088ffbb6e53b573830bf8",
+  "welds": "7664f8604b4840387519f1310f18fdc91a8c9d46c22e95ac357ffe43624f4306",
+  "face_seals": "4a450e348dcb9f8bb72a6d6540e4ce52581f4ecbd2dfa825d5dfc81974b4d4fc",
+  "distribution": "d4d8d5172cbb716a8d108e2eb068dc9f715cedc636a1f2ddea3ea4ab66660f99",
+  "base": "6e23ba64a571171458ba9cddff2ab98dc7ca500115333ddcb9bf1a4bc755a4b3",
+  "roof_access": "93521507d22edfcb5544cb81f58dd049d9260143974a17d7d202f94ab0175b22",
+  "accessories": "6b7ea684f3b2436ba55b2f3d040b6edc7b56d0107f1bfe1f81c17e8aa170c07b"
+}

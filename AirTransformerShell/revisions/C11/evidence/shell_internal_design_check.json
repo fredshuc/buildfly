@@ -1,0 +1,1835 @@
+{
+  "pairs": 1885,
+  "hits": [
+    [
+      "C11_A_L_GLAND_BACKER",
+      "C11_A_L_GLAND_BOLT_1",
+      14.046846152363578
+    ],
+    [
+      "C11_A_L_GLAND_BACKER",
+      "C11_A_L_GLAND_BOLT_2",
+      14.046846152363472
+    ],
+    [
+      "C11_A_L_GLAND_BACKER",
+      "C11_A_L_GLAND_BOLT_3",
+      14.046846152363575
+    ],
+    [
+      "C11_A_L_GLAND_BACKER",
+      "C11_A_L_GLAND_BOLT_4",
+      14.046846152363472
+    ],
+    [
+      "C11_A_L_GLAND_BACKER",
+      "C11_A_L_GLAND_BOLT_5",
+      14.046846152363575
+    ],
+    [
+      "C11_A_L_GLAND_BACKER",
+      "C11_A_L_GLAND_BOLT_6",
+      14.046846152363472
+    ],
+    [
+      "C11_A_U_GLAND_BACKER",
+      "C11_A_U_GLAND_BOLT_1",
+      14.046846152363454
+    ],
+    [
+      "C11_A_U_GLAND_BACKER",
+      "C11_A_U_GLAND_BOLT_2",
+      14.046846152363472
+    ],
+    [
+      "C11_A_U_GLAND_BACKER",
+      "C11_A_U_GLAND_BOLT_3",
+      14.046846152363464
+    ],
+    [
+      "C11_A_U_GLAND_BACKER",
+      "C11_A_U_GLAND_BOLT_4",
+      14.046846152363472
+    ],
+    [
+      "C11_A_U_GLAND_BACKER",
+      "C11_A_U_GLAND_BOLT_5",
+      14.046846152363464
+    ],
+    [
+      "C11_A_U_GLAND_BACKER",
+      "C11_A_U_GLAND_BOLT_6",
+      14.046846152363472
+    ],
+    [
+      "C11_B_L_GLAND_BACKER",
+      "C11_B_L_GLAND_BOLT_1",
+      14.04684615236356
+    ],
+    [
+      "C11_B_L_GLAND_BACKER",
+      "C11_B_L_GLAND_BOLT_2",
+      14.046846152363447
+    ],
+    [
+      "C11_B_L_GLAND_BACKER",
+      "C11_B_L_GLAND_BOLT_3",
+      14.046846152363514
+    ],
+    [
+      "C11_B_L_GLAND_BACKER",
+      "C11_B_L_GLAND_BOLT_4",
+      14.046846152363397
+    ],
+    [
+      "C11_B_L_GLAND_BACKER",
+      "C11_B_L_GLAND_BOLT_5",
+      14.046846152363617
+    ],
+    [
+      "C11_B_L_GLAND_BACKER",
+      "C11_B_L_GLAND_BOLT_6",
+      14.046846152363518
+    ],
+    [
+      "C11_B_U_GLAND_BACKER",
+      "C11_B_U_GLAND_BOLT_1",
+      14.046846152363436
+    ],
+    [
+      "C11_B_U_GLAND_BACKER",
+      "C11_B_U_GLAND_BOLT_2",
+      14.046846152363454
+    ],
+    [
+      "C11_B_U_GLAND_BACKER",
+      "C11_B_U_GLAND_BOLT_3",
+      14.046846152363383
+    ],
+    [
+      "C11_B_U_GLAND_BACKER",
+      "C11_B_U_GLAND_BOLT_4",
+      14.04684615236339
+    ],
+    [
+      "C11_B_U_GLAND_BACKER",
+      "C11_B_U_GLAND_BOLT_5",
+      14.04684615236349
+    ],
+    [
+      "C11_B_U_GLAND_BACKER",
+      "C11_B_U_GLAND_BOLT_6",
+      14.046846152363507
+    ],
+    [
+      "C11_A_LOWER_FACE_SCREW_01",
+      "C11_A_LOWER_FACE_STANDOFF_01",
+      43.64300514366853
+    ],
+    [
+      "C11_A_LOWER_FACE_SCREW_02",
+      "C11_A_LOWER_FACE_STANDOFF_02",
+      43.64300514366917
+    ],
+    [
+      "C11_A_LOWER_FACE_SCREW_03",
+      "C11_A_LOWER_FACE_STANDOFF_03",
+      43.64300514366869
+    ],
+    [
+      "C11_A_LOWER_FACE_SCREW_04",
+      "C11_A_LOWER_FACE_STANDOFF_04",
+      43.64300514366934
+    ],
+    [
+      "C11_A_LOWER_FACE_SCREW_05",
+      "C11_A_LOWER_FACE_STANDOFF_05",
+      43.64300514366846
+    ],
+    [
+      "C11_A_LOWER_FACE_SCREW_06",
+      "C11_A_LOWER_FACE_STANDOFF_06",
+      43.64300514366913
+    ],
+    [
+      "C11_A_LOWER_FACE_SCREW_07",
+      "C11_A_LOWER_FACE_STANDOFF_07",
+      43.64300514366845
+    ],
+    [
+      "C11_A_LOWER_FACE_SCREW_08",
+      "C11_A_LOWER_FACE_STANDOFF_08",
+      43.643005143669114
+    ],
+    [
+      "C11_A_LOWER_FACE_SCREW_09",
+      "C11_A_LOWER_FACE_STANDOFF_09",
+      43.6430051436686
+    ],
+    [
+      "C11_A_LOWER_FACE_SCREW_10",
+      "C11_A_LOWER_FACE_STANDOFF_10",
+      43.6430051436693
+    ],
+    [
+      "C11_A_LOWER_FACE_SCREW_11",
+      "C11_A_LOWER_FACE_STANDOFF_11",
+      43.64300514366869
+    ],
+    [
+      "C11_A_LOWER_FACE_SCREW_12",
+      "C11_A_LOWER_FACE_STANDOFF_12",
+      43.64300514366934
+    ],
+    [
+      "C11_A_LOWER_FACE_SCREW_13",
+      "C11_A_LOWER_FACE_STANDOFF_13",
+      43.64300514366853
+    ],
+    [
+      "C11_A_LOWER_FACE_SCREW_14",
+      "C11_A_LOWER_FACE_STANDOFF_14",
+      43.643005143669185
+    ],
+    [
+      "C11_A_LOWER_FACE_SCREW_15",
+      "C11_A_LOWER_FACE_STANDOFF_15",
+      43.643005143667864
+    ],
+    [
+      "C11_A_LOWER_FACE_SCREW_16",
+      "C11_A_LOWER_FACE_STANDOFF_16",
+      43.64300514366852
+    ],
+    [
+      "C11_A_LOWER_FACE_SCREW_17",
+      "C11_A_LOWER_FACE_STANDOFF_17",
+      34.97220941976084
+    ],
+    [
+      "C11_A_LOWER_FACE_SCREW_18",
+      "C11_A_LOWER_FACE_STANDOFF_18",
+      43.643005143667864
+    ],
+    [
+      "C11_A_LOWER_FACE_SCREW_19",
+      "C11_A_LOWER_FACE_STANDOFF_19",
+      43.643005143669185
+    ],
+    [
+      "C11_A_LOWER_FACE_SCREW_20",
+      "C11_A_LOWER_FACE_STANDOFF_20",
+      43.643005143668404
+    ],
+    [
+      "C11_A_UPPER_FACE_SCREW_01",
+      "C11_A_UPPER_FACE_STANDOFF_01",
+      43.64300514366853
+    ],
+    [
+      "C11_A_UPPER_FACE_SCREW_02",
+      "C11_A_UPPER_FACE_STANDOFF_02",
+      43.6430051436692
+    ],
+    [
+      "C11_A_UPPER_FACE_SCREW_03",
+      "C11_A_UPPER_FACE_STANDOFF_03",
+      43.64300514366869
+    ],
+    [
+      "C11_A_UPPER_FACE_SCREW_04",
+      "C11_A_UPPER_FACE_STANDOFF_04",
+      43.64300514366937
+    ],
+    [
+      "C11_A_UPPER_FACE_SCREW_05",
+      "C11_A_UPPER_FACE_STANDOFF_05",
+      43.64300514366849
+    ],
+    [
+      "C11_A_UPPER_FACE_SCREW_06",
+      "C11_A_UPPER_FACE_STANDOFF_06",
+      43.64300514366916
+    ],
+    [
+      "C11_A_UPPER_FACE_SCREW_07",
+      "C11_A_UPPER_FACE_STANDOFF_07",
+      43.643005143668475
+    ],
+    [
+      "C11_A_UPPER_FACE_SCREW_08",
+      "C11_A_UPPER_FACE_STANDOFF_08",
+      43.64300514366914
+    ],
+    [
+      "C11_A_UPPER_FACE_SCREW_09",
+      "C11_A_UPPER_FACE_STANDOFF_09",
+      43.64300514366863
+    ],
+    [
+      "C11_A_UPPER_FACE_SCREW_10",
+      "C11_A_UPPER_FACE_STANDOFF_10",
+      43.64300514366933
+    ],
+    [
+      "C11_A_UPPER_FACE_SCREW_11",
+      "C11_A_UPPER_FACE_STANDOFF_11",
+      43.64300514366869
+    ],
+    [
+      "C11_A_UPPER_FACE_SCREW_12",
+      "C11_A_UPPER_FACE_STANDOFF_12",
+      43.64300514366937
+    ],
+    [
+      "C11_A_UPPER_FACE_SCREW_13",
+      "C11_A_UPPER_FACE_STANDOFF_13",
+      43.64300514366853
+    ],
+    [
+      "C11_A_UPPER_FACE_SCREW_14",
+      "C11_A_UPPER_FACE_STANDOFF_14",
+      43.643005143669214
+    ],
+    [
+      "C11_A_UPPER_FACE_SCREW_15",
+      "C11_A_UPPER_FACE_STANDOFF_15",
+      43.643005143667864
+    ],
+    [
+      "C11_A_UPPER_FACE_SCREW_16",
+      "C11_A_UPPER_FACE_STANDOFF_16",
+      43.64300514366852
+    ],
+    [
+      "C11_A_UPPER_FACE_SCREW_17",
+      "C11_A_UPPER_FACE_STANDOFF_17",
+      34.97220941976084
+    ],
+    [
+      "C11_A_UPPER_FACE_SCREW_18",
+      "C11_A_UPPER_FACE_STANDOFF_18",
+      43.643005143667864
+    ],
+    [
+      "C11_A_UPPER_FACE_SCREW_19",
+      "C11_A_UPPER_FACE_STANDOFF_19",
+      43.643005143669214
+    ],
+    [
+      "C11_A_UPPER_FACE_SCREW_20",
+      "C11_A_UPPER_FACE_STANDOFF_20",
+      43.643005143668404
+    ],
+    [
+      "C11_B_LOWER_FACE_SCREW_01",
+      "C11_B_LOWER_FACE_STANDOFF_01",
+      43.64300514366917
+    ],
+    [
+      "C11_B_LOWER_FACE_SCREW_02",
+      "C11_B_LOWER_FACE_STANDOFF_02",
+      43.64300514366853
+    ],
+    [
+      "C11_B_LOWER_FACE_SCREW_03",
+      "C11_B_LOWER_FACE_STANDOFF_03",
+      43.64300514366934
+    ],
+    [
+      "C11_B_LOWER_FACE_SCREW_04",
+      "C11_B_LOWER_FACE_STANDOFF_04",
+      43.64300514366869
+    ],
+    [
+      "C11_B_LOWER_FACE_SCREW_05",
+      "C11_B_LOWER_FACE_STANDOFF_05",
+      43.64300514366913
+    ],
+    [
+      "C11_B_LOWER_FACE_SCREW_06",
+      "C11_B_LOWER_FACE_STANDOFF_06",
+      43.64300514366846
+    ],
+    [
+      "C11_B_LOWER_FACE_SCREW_07",
+      "C11_B_LOWER_FACE_STANDOFF_07",
+      43.643005143669114
+    ],
+    [
+      "C11_B_LOWER_FACE_SCREW_08",
+      "C11_B_LOWER_FACE_STANDOFF_08",
+      43.64300514366845
+    ],
+    [
+      "C11_B_LOWER_FACE_SCREW_09",
+      "C11_B_LOWER_FACE_STANDOFF_09",
+      43.6430051436693
+    ],
+    [
+      "C11_B_LOWER_FACE_SCREW_10",
+      "C11_B_LOWER_FACE_STANDOFF_10",
+      43.6430051436686
+    ],
+    [
+      "C11_B_LOWER_FACE_SCREW_11",
+      "C11_B_LOWER_FACE_STANDOFF_11",
+      43.64300514366934
+    ],
+    [
+      "C11_B_LOWER_FACE_SCREW_12",
+      "C11_B_LOWER_FACE_STANDOFF_12",
+      43.64300514366869
+    ],
+    [
+      "C11_B_LOWER_FACE_SCREW_13",
+      "C11_B_LOWER_FACE_STANDOFF_13",
+      43.643005143669185
+    ],
+    [
+      "C11_B_LOWER_FACE_SCREW_14",
+      "C11_B_LOWER_FACE_STANDOFF_14",
+      43.64300514366853
+    ],
+    [
+      "C11_B_LOWER_FACE_SCREW_15",
+      "C11_B_LOWER_FACE_STANDOFF_15",
+      43.64300514366852
+    ],
+    [
+      "C11_B_LOWER_FACE_SCREW_16",
+      "C11_B_LOWER_FACE_STANDOFF_16",
+      43.643005143667864
+    ],
+    [
+      "C11_B_LOWER_FACE_SCREW_17",
+      "C11_B_LOWER_FACE_STANDOFF_17",
+      34.97220941976134
+    ],
+    [
+      "C11_B_LOWER_FACE_SCREW_18",
+      "C11_B_LOWER_FACE_STANDOFF_18",
+      43.643005143668404
+    ],
+    [
+      "C11_B_LOWER_FACE_SCREW_19",
+      "C11_B_LOWER_FACE_STANDOFF_19",
+      43.64300514366853
+    ],
+    [
+      "C11_B_LOWER_FACE_SCREW_20",
+      "C11_B_LOWER_FACE_STANDOFF_20",
+      43.643005143667864
+    ],
+    [
+      "C11_B_UPPER_FACE_SCREW_01",
+      "C11_B_UPPER_FACE_STANDOFF_01",
+      43.6430051436692
+    ],
+    [
+      "C11_B_UPPER_FACE_SCREW_02",
+      "C11_B_UPPER_FACE_STANDOFF_02",
+      43.64300514366853
+    ],
+    [
+      "C11_B_UPPER_FACE_SCREW_03",
+      "C11_B_UPPER_FACE_STANDOFF_03",
+      43.64300514366937
+    ],
+    [
+      "C11_B_UPPER_FACE_SCREW_04",
+      "C11_B_UPPER_FACE_STANDOFF_04",
+      43.64300514366869
+    ],
+    [
+      "C11_B_UPPER_FACE_SCREW_05",
+      "C11_B_UPPER_FACE_STANDOFF_05",
+      43.64300514366916
+    ],
+    [
+      "C11_B_UPPER_FACE_SCREW_06",
+      "C11_B_UPPER_FACE_STANDOFF_06",
+      43.64300514366849
+    ],
+    [
+      "C11_B_UPPER_FACE_SCREW_07",
+      "C11_B_UPPER_FACE_STANDOFF_07",
+      43.64300514366914
+    ],
+    [
+      "C11_B_UPPER_FACE_SCREW_08",
+      "C11_B_UPPER_FACE_STANDOFF_08",
+      43.643005143668475
+    ],
+    [
+      "C11_B_UPPER_FACE_SCREW_09",
+      "C11_B_UPPER_FACE_STANDOFF_09",
+      43.64300514366933
+    ],
+    [
+      "C11_B_UPPER_FACE_SCREW_10",
+      "C11_B_UPPER_FACE_STANDOFF_10",
+      43.64300514366863
+    ],
+    [
+      "C11_B_UPPER_FACE_SCREW_11",
+      "C11_B_UPPER_FACE_STANDOFF_11",
+      43.64300514366937
+    ],
+    [
+      "C11_B_UPPER_FACE_SCREW_12",
+      "C11_B_UPPER_FACE_STANDOFF_12",
+      43.64300514366869
+    ],
+    [
+      "C11_B_UPPER_FACE_SCREW_13",
+      "C11_B_UPPER_FACE_STANDOFF_13",
+      43.643005143669214
+    ],
+    [
+      "C11_B_UPPER_FACE_SCREW_14",
+      "C11_B_UPPER_FACE_STANDOFF_14",
+      43.64300514366853
+    ],
+    [
+      "C11_B_UPPER_FACE_SCREW_15",
+      "C11_B_UPPER_FACE_STANDOFF_15",
+      43.64300514366852
+    ],
+    [
+      "C11_B_UPPER_FACE_SCREW_16",
+      "C11_B_UPPER_FACE_STANDOFF_16",
+      43.643005143667864
+    ],
+    [
+      "C11_B_UPPER_FACE_SCREW_17",
+      "C11_B_UPPER_FACE_STANDOFF_17",
+      34.97220941976134
+    ],
+    [
+      "C11_B_UPPER_FACE_SCREW_18",
+      "C11_B_UPPER_FACE_STANDOFF_18",
+      43.643005143668404
+    ],
+    [
+      "C11_B_UPPER_FACE_SCREW_19",
+      "C11_B_UPPER_FACE_STANDOFF_19",
+      43.64300514366853
+    ],
+    [
+      "C11_B_UPPER_FACE_SCREW_20",
+      "C11_B_UPPER_FACE_STANDOFF_20",
+      43.643005143667864
+    ],
+    [
+      "C11_A_DISTRIBUTION_RUNNER_OUT",
+      "C11_A_DISTRIBUTION_SHOE_M3_OUT_1",
+      3.5185837720205333
+    ],
+    [
+      "C11_A_DISTRIBUTION_RUNNER_OUT",
+      "C11_A_DISTRIBUTION_SHOE_M3_OUT_2",
+      3.5185837720204867
+    ],
+    [
+      "C11_A_DISTRIBUTION_RUNNER_OUT",
+      "C11_A_DISTRIBUTION_SHOE_M3_OUT_3",
+      3.5185837720205395
+    ],
+    [
+      "C11_A_DISTRIBUTION_RUNNER_OUT",
+      "C11_A_DISTRIBUTION_SHOE_M3_OUT_4",
+      3.518583772020601
+    ],
+    [
+      "C11_A_DISTRIBUTION_RUNNER_OUT",
+      "C11_A_DISTRIBUTION_SHOE_M3_OUT_5",
+      3.518583772020646
+    ],
+    [
+      "C11_A_DISTRIBUTION_RUNNER_OUT",
+      "C11_A_DISTRIBUTION_SHOE_M3_OUT_6",
+      3.5185837720207145
+    ],
+    [
+      "C11_A_DISTRIBUTION_RUNNER_IN",
+      "C11_A_DISTRIBUTION_SHOE_M3_IN_1",
+      3.5185837720205964
+    ],
+    [
+      "C11_A_DISTRIBUTION_RUNNER_IN",
+      "C11_A_DISTRIBUTION_SHOE_M3_IN_2",
+      3.518583772020548
+    ],
+    [
+      "C11_A_DISTRIBUTION_RUNNER_IN",
+      "C11_A_DISTRIBUTION_SHOE_M3_IN_3",
+      3.5185837720206017
+    ],
+    [
+      "C11_A_DISTRIBUTION_RUNNER_IN",
+      "C11_A_DISTRIBUTION_SHOE_M3_IN_4",
+      3.518583772020662
+    ],
+    [
+      "C11_A_DISTRIBUTION_RUNNER_IN",
+      "C11_A_DISTRIBUTION_SHOE_M3_IN_5",
+      3.518583772020709
+    ],
+    [
+      "C11_A_DISTRIBUTION_RUNNER_IN",
+      "C11_A_DISTRIBUTION_SHOE_M3_IN_6",
+      3.5185837720207713
+    ],
+    [
+      "C11_A_DISTRIBUTION_LOCK_SCREW_1",
+      "C11_A_DISTRIBUTION_LOCK_WELDNUT_1",
+      28.902652413025493
+    ],
+    [
+      "C11_A_DISTRIBUTION_LOCK_SCREW_2",
+      "C11_A_DISTRIBUTION_LOCK_WELDNUT_2",
+      28.902652413025947
+    ],
+    [
+      "C11_B_DISTRIBUTION_RUNNER_OUT",
+      "C11_B_DISTRIBUTION_SHOE_M3_OUT_1",
+      3.5185837720205964
+    ],
+    [
+      "C11_B_DISTRIBUTION_RUNNER_OUT",
+      "C11_B_DISTRIBUTION_SHOE_M3_OUT_2",
+      3.518583772020548
+    ],
+    [
+      "C11_B_DISTRIBUTION_RUNNER_OUT",
+      "C11_B_DISTRIBUTION_SHOE_M3_OUT_3",
+      3.5185837720206017
+    ],
+    [
+      "C11_B_DISTRIBUTION_RUNNER_OUT",
+      "C11_B_DISTRIBUTION_SHOE_M3_OUT_4",
+      3.518583772020662
+    ],
+    [
+      "C11_B_DISTRIBUTION_RUNNER_OUT",
+      "C11_B_DISTRIBUTION_SHOE_M3_OUT_5",
+      3.518583772020709
+    ],
+    [
+      "C11_B_DISTRIBUTION_RUNNER_OUT",
+      "C11_B_DISTRIBUTION_SHOE_M3_OUT_6",
+      3.5185837720207713
+    ],
+    [
+      "C11_B_DISTRIBUTION_RUNNER_IN",
+      "C11_B_DISTRIBUTION_SHOE_M3_IN_1",
+      3.5185837720205333
+    ],
+    [
+      "C11_B_DISTRIBUTION_RUNNER_IN",
+      "C11_B_DISTRIBUTION_SHOE_M3_IN_2",
+      3.5185837720204867
+    ],
+    [
+      "C11_B_DISTRIBUTION_RUNNER_IN",
+      "C11_B_DISTRIBUTION_SHOE_M3_IN_3",
+      3.5185837720205395
+    ],
+    [
+      "C11_B_DISTRIBUTION_RUNNER_IN",
+      "C11_B_DISTRIBUTION_SHOE_M3_IN_4",
+      3.518583772020601
+    ],
+    [
+      "C11_B_DISTRIBUTION_RUNNER_IN",
+      "C11_B_DISTRIBUTION_SHOE_M3_IN_5",
+      3.518583772020646
+    ],
+    [
+      "C11_B_DISTRIBUTION_RUNNER_IN",
+      "C11_B_DISTRIBUTION_SHOE_M3_IN_6",
+      3.5185837720207145
+    ],
+    [
+      "C11_B_DISTRIBUTION_LOCK_SCREW_1",
+      "C11_B_DISTRIBUTION_LOCK_WELDNUT_1",
+      28.902652413025947
+    ],
+    [
+      "C11_B_DISTRIBUTION_LOCK_SCREW_2",
+      "C11_B_DISTRIBUTION_LOCK_WELDNUT_2",
+      28.902652413025493
+    ],
+    [
+      "C11_SKID_P_FOOT_-600_-825_O_M10_1_BOLT",
+      "P_FOOT_-600_-825_O",
+      261.5375884113541
+    ],
+    [
+      "C11_SKID_P_FOOT_-600_-825_O_M10_2_BOLT",
+      "P_FOOT_-600_-825_O",
+      261.5375884113541
+    ],
+    [
+      "C11_SKID_P_FOOT_-600_0_O_M10_1_BOLT",
+      "P_FOOT_-600_0_O",
+      261.5375884113525
+    ],
+    [
+      "C11_SKID_P_FOOT_-600_0_O_M10_2_BOLT",
+      "P_FOOT_-600_0_O",
+      261.5375884113525
+    ],
+    [
+      "C11_SKID_P_FOOT_-600_825_O_M10_1_BOLT",
+      "P_FOOT_-600_825_O",
+      261.5375884113541
+    ],
+    [
+      "C11_SKID_P_FOOT_-600_825_O_M10_2_BOLT",
+      "P_FOOT_-600_825_O",
+      261.5375884113541
+    ],
+    [
+      "C11_ROOF_M5_01_INSERT",
+      "C11_ROOF_M5_01_SCREW",
+      46.24424386084068
+    ],
+    [
+      "C11_ROOF_M5_02_INSERT",
+      "C11_ROOF_M5_02_SCREW",
+      46.244243860841834
+    ],
+    [
+      "C11_ROOF_M5_03_INSERT",
+      "C11_ROOF_M5_03_SCREW",
+      46.24424386084125
+    ],
+    [
+      "C11_ROOF_M5_04_INSERT",
+      "C11_ROOF_M5_04_SCREW",
+      46.244243860841394
+    ],
+    [
+      "C11_ROOF_M5_05_INSERT",
+      "C11_ROOF_M5_05_SCREW",
+      46.24424386084125
+    ],
+    [
+      "C11_ROOF_M5_06_INSERT",
+      "C11_ROOF_M5_06_SCREW",
+      46.244243860841834
+    ],
+    [
+      "C11_ROOF_M5_07_INSERT",
+      "C11_ROOF_M5_07_SCREW",
+      46.24424386084068
+    ],
+    [
+      "C11_ROOF_M5_08_INSERT",
+      "C11_ROOF_M5_08_SCREW",
+      46.24424386084068
+    ],
+    [
+      "C11_ROOF_M5_09_INSERT",
+      "C11_ROOF_M5_09_SCREW",
+      46.24424386084182
+    ],
+    [
+      "C11_ROOF_M5_10_INSERT",
+      "C11_ROOF_M5_10_SCREW",
+      46.24424386084125
+    ],
+    [
+      "C11_ROOF_M5_11_INSERT",
+      "C11_ROOF_M5_11_SCREW",
+      46.244243860841394
+    ],
+    [
+      "C11_ROOF_M5_12_INSERT",
+      "C11_ROOF_M5_12_SCREW",
+      46.24424386084125
+    ],
+    [
+      "C11_ROOF_M5_13_INSERT",
+      "C11_ROOF_M5_13_SCREW",
+      46.24424386084182
+    ],
+    [
+      "C11_ROOF_M5_14_INSERT",
+      "C11_ROOF_M5_14_SCREW",
+      46.24424386084068
+    ],
+    [
+      "C11_ROOF_M5_15_INSERT",
+      "C11_ROOF_M5_15_SCREW",
+      46.244243860841394
+    ],
+    [
+      "C11_ROOF_M5_16_INSERT",
+      "C11_ROOF_M5_16_SCREW",
+      46.24424386084104
+    ],
+    [
+      "C11_ROOF_M5_17_INSERT",
+      "C11_ROOF_M5_17_SCREW",
+      46.24424386084091
+    ],
+    [
+      "C11_ROOF_M5_18_INSERT",
+      "C11_ROOF_M5_18_SCREW",
+      46.24424386084104
+    ],
+    [
+      "C11_ROOF_M5_19_INSERT",
+      "C11_ROOF_M5_19_SCREW",
+      46.244243860841394
+    ],
+    [
+      "C11_ROOF_M5_20_INSERT",
+      "C11_ROOF_M5_20_SCREW",
+      46.244243860841394
+    ],
+    [
+      "C11_ROOF_M5_21_INSERT",
+      "C11_ROOF_M5_21_SCREW",
+      46.24424386084104
+    ],
+    [
+      "C11_ROOF_M5_22_INSERT",
+      "C11_ROOF_M5_22_SCREW",
+      46.24424386084091
+    ],
+    [
+      "C11_ROOF_M5_23_INSERT",
+      "C11_ROOF_M5_23_SCREW",
+      46.24424386084104
+    ],
+    [
+      "C11_ROOF_M5_24_INSERT",
+      "C11_ROOF_M5_24_SCREW",
+      46.244243860841394
+    ],
+    [
+      "C11_A_LOWER_COND_CLEANOUT_BOSS",
+      "C11_A_LOWER_COND_CLEANOUT_PLUG",
+      106.02875205865702
+    ],
+    [
+      "C11_A_UPPER_COND_CLEANOUT_BOSS",
+      "C11_A_UPPER_COND_CLEANOUT_PLUG",
+      106.02875205865698
+    ],
+    [
+      "C11_B_LOWER_COND_CLEANOUT_BOSS",
+      "C11_B_LOWER_COND_CLEANOUT_PLUG",
+      106.02875205865702
+    ],
+    [
+      "C11_B_UPPER_COND_CLEANOUT_BOSS",
+      "C11_B_UPPER_COND_CLEANOUT_PLUG",
+      106.02875205865698
+    ]
+  ],
+  "intended_exact_pair_thread_contacts": [
+    {
+      "a": "C11_A_L_GLAND_BACKER",
+      "b": "C11_A_L_GLAND_BOLT_1",
+      "volume_mm3": 14.046846152363578,
+      "purpose": "M4 nominal thread engagement in blind backing ring;1mm closed bottom remains"
+    },
+    {
+      "a": "C11_A_L_GLAND_BACKER",
+      "b": "C11_A_L_GLAND_BOLT_2",
+      "volume_mm3": 14.046846152363472,
+      "purpose": "M4 nominal thread engagement in blind backing ring;1mm closed bottom remains"
+    },
+    {
+      "a": "C11_A_L_GLAND_BACKER",
+      "b": "C11_A_L_GLAND_BOLT_3",
+      "volume_mm3": 14.046846152363575,
+      "purpose": "M4 nominal thread engagement in blind backing ring;1mm closed bottom remains"
+    },
+    {
+      "a": "C11_A_L_GLAND_BACKER",
+      "b": "C11_A_L_GLAND_BOLT_4",
+      "volume_mm3": 14.046846152363472,
+      "purpose": "M4 nominal thread engagement in blind backing ring;1mm closed bottom remains"
+    },
+    {
+      "a": "C11_A_L_GLAND_BACKER",
+      "b": "C11_A_L_GLAND_BOLT_5",
+      "volume_mm3": 14.046846152363575,
+      "purpose": "M4 nominal thread engagement in blind backing ring;1mm closed bottom remains"
+    },
+    {
+      "a": "C11_A_L_GLAND_BACKER",
+      "b": "C11_A_L_GLAND_BOLT_6",
+      "volume_mm3": 14.046846152363472,
+      "purpose": "M4 nominal thread engagement in blind backing ring;1mm closed bottom remains"
+    },
+    {
+      "a": "C11_A_U_GLAND_BACKER",
+      "b": "C11_A_U_GLAND_BOLT_1",
+      "volume_mm3": 14.046846152363454,
+      "purpose": "M4 nominal thread engagement in blind backing ring;1mm closed bottom remains"
+    },
+    {
+      "a": "C11_A_U_GLAND_BACKER",
+      "b": "C11_A_U_GLAND_BOLT_2",
+      "volume_mm3": 14.046846152363472,
+      "purpose": "M4 nominal thread engagement in blind backing ring;1mm closed bottom remains"
+    },
+    {
+      "a": "C11_A_U_GLAND_BACKER",
+      "b": "C11_A_U_GLAND_BOLT_3",
+      "volume_mm3": 14.046846152363464,
+      "purpose": "M4 nominal thread engagement in blind backing ring;1mm closed bottom remains"
+    },
+    {
+      "a": "C11_A_U_GLAND_BACKER",
+      "b": "C11_A_U_GLAND_BOLT_4",
+      "volume_mm3": 14.046846152363472,
+      "purpose": "M4 nominal thread engagement in blind backing ring;1mm closed bottom remains"
+    },
+    {
+      "a": "C11_A_U_GLAND_BACKER",
+      "b": "C11_A_U_GLAND_BOLT_5",
+      "volume_mm3": 14.046846152363464,
+      "purpose": "M4 nominal thread engagement in blind backing ring;1mm closed bottom remains"
+    },
+    {
+      "a": "C11_A_U_GLAND_BACKER",
+      "b": "C11_A_U_GLAND_BOLT_6",
+      "volume_mm3": 14.046846152363472,
+      "purpose": "M4 nominal thread engagement in blind backing ring;1mm closed bottom remains"
+    },
+    {
+      "a": "C11_B_L_GLAND_BACKER",
+      "b": "C11_B_L_GLAND_BOLT_1",
+      "volume_mm3": 14.04684615236356,
+      "purpose": "M4 nominal thread engagement in blind backing ring;1mm closed bottom remains"
+    },
+    {
+      "a": "C11_B_L_GLAND_BACKER",
+      "b": "C11_B_L_GLAND_BOLT_2",
+      "volume_mm3": 14.046846152363447,
+      "purpose": "M4 nominal thread engagement in blind backing ring;1mm closed bottom remains"
+    },
+    {
+      "a": "C11_B_L_GLAND_BACKER",
+      "b": "C11_B_L_GLAND_BOLT_3",
+      "volume_mm3": 14.046846152363514,
+      "purpose": "M4 nominal thread engagement in blind backing ring;1mm closed bottom remains"
+    },
+    {
+      "a": "C11_B_L_GLAND_BACKER",
+      "b": "C11_B_L_GLAND_BOLT_4",
+      "volume_mm3": 14.046846152363397,
+      "purpose": "M4 nominal thread engagement in blind backing ring;1mm closed bottom remains"
+    },
+    {
+      "a": "C11_B_L_GLAND_BACKER",
+      "b": "C11_B_L_GLAND_BOLT_5",
+      "volume_mm3": 14.046846152363617,
+      "purpose": "M4 nominal thread engagement in blind backing ring;1mm closed bottom remains"
+    },
+    {
+      "a": "C11_B_L_GLAND_BACKER",
+      "b": "C11_B_L_GLAND_BOLT_6",
+      "volume_mm3": 14.046846152363518,
+      "purpose": "M4 nominal thread engagement in blind backing ring;1mm closed bottom remains"
+    },
+    {
+      "a": "C11_B_U_GLAND_BACKER",
+      "b": "C11_B_U_GLAND_BOLT_1",
+      "volume_mm3": 14.046846152363436,
+      "purpose": "M4 nominal thread engagement in blind backing ring;1mm closed bottom remains"
+    },
+    {
+      "a": "C11_B_U_GLAND_BACKER",
+      "b": "C11_B_U_GLAND_BOLT_2",
+      "volume_mm3": 14.046846152363454,
+      "purpose": "M4 nominal thread engagement in blind backing ring;1mm closed bottom remains"
+    },
+    {
+      "a": "C11_B_U_GLAND_BACKER",
+      "b": "C11_B_U_GLAND_BOLT_3",
+      "volume_mm3": 14.046846152363383,
+      "purpose": "M4 nominal thread engagement in blind backing ring;1mm closed bottom remains"
+    },
+    {
+      "a": "C11_B_U_GLAND_BACKER",
+      "b": "C11_B_U_GLAND_BOLT_4",
+      "volume_mm3": 14.04684615236339,
+      "purpose": "M4 nominal thread engagement in blind backing ring;1mm closed bottom remains"
+    },
+    {
+      "a": "C11_B_U_GLAND_BACKER",
+      "b": "C11_B_U_GLAND_BOLT_5",
+      "volume_mm3": 14.04684615236349,
+      "purpose": "M4 nominal thread engagement in blind backing ring;1mm closed bottom remains"
+    },
+    {
+      "a": "C11_B_U_GLAND_BACKER",
+      "b": "C11_B_U_GLAND_BOLT_6",
+      "volume_mm3": 14.046846152363507,
+      "purpose": "M4 nominal thread engagement in blind backing ring;1mm closed bottom remains"
+    },
+    {
+      "a": "C11_A_LOWER_FACE_SCREW_01",
+      "b": "C11_A_LOWER_FACE_STANDOFF_01",
+      "volume_mm3": 43.64300514366853,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_LOWER_FACE_SCREW_02",
+      "b": "C11_A_LOWER_FACE_STANDOFF_02",
+      "volume_mm3": 43.64300514366917,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_LOWER_FACE_SCREW_03",
+      "b": "C11_A_LOWER_FACE_STANDOFF_03",
+      "volume_mm3": 43.64300514366869,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_LOWER_FACE_SCREW_04",
+      "b": "C11_A_LOWER_FACE_STANDOFF_04",
+      "volume_mm3": 43.64300514366934,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_LOWER_FACE_SCREW_05",
+      "b": "C11_A_LOWER_FACE_STANDOFF_05",
+      "volume_mm3": 43.64300514366846,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_LOWER_FACE_SCREW_06",
+      "b": "C11_A_LOWER_FACE_STANDOFF_06",
+      "volume_mm3": 43.64300514366913,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_LOWER_FACE_SCREW_07",
+      "b": "C11_A_LOWER_FACE_STANDOFF_07",
+      "volume_mm3": 43.64300514366845,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_LOWER_FACE_SCREW_08",
+      "b": "C11_A_LOWER_FACE_STANDOFF_08",
+      "volume_mm3": 43.643005143669114,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_LOWER_FACE_SCREW_09",
+      "b": "C11_A_LOWER_FACE_STANDOFF_09",
+      "volume_mm3": 43.6430051436686,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_LOWER_FACE_SCREW_10",
+      "b": "C11_A_LOWER_FACE_STANDOFF_10",
+      "volume_mm3": 43.6430051436693,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_LOWER_FACE_SCREW_11",
+      "b": "C11_A_LOWER_FACE_STANDOFF_11",
+      "volume_mm3": 43.64300514366869,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_LOWER_FACE_SCREW_12",
+      "b": "C11_A_LOWER_FACE_STANDOFF_12",
+      "volume_mm3": 43.64300514366934,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_LOWER_FACE_SCREW_13",
+      "b": "C11_A_LOWER_FACE_STANDOFF_13",
+      "volume_mm3": 43.64300514366853,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_LOWER_FACE_SCREW_14",
+      "b": "C11_A_LOWER_FACE_STANDOFF_14",
+      "volume_mm3": 43.643005143669185,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_LOWER_FACE_SCREW_15",
+      "b": "C11_A_LOWER_FACE_STANDOFF_15",
+      "volume_mm3": 43.643005143667864,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_LOWER_FACE_SCREW_16",
+      "b": "C11_A_LOWER_FACE_STANDOFF_16",
+      "volume_mm3": 43.64300514366852,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_LOWER_FACE_SCREW_17",
+      "b": "C11_A_LOWER_FACE_STANDOFF_17",
+      "volume_mm3": 34.97220941976084,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;6.05mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_LOWER_FACE_SCREW_18",
+      "b": "C11_A_LOWER_FACE_STANDOFF_18",
+      "volume_mm3": 43.643005143667864,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_LOWER_FACE_SCREW_19",
+      "b": "C11_A_LOWER_FACE_STANDOFF_19",
+      "volume_mm3": 43.643005143669185,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_LOWER_FACE_SCREW_20",
+      "b": "C11_A_LOWER_FACE_STANDOFF_20",
+      "volume_mm3": 43.643005143668404,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_UPPER_FACE_SCREW_01",
+      "b": "C11_A_UPPER_FACE_STANDOFF_01",
+      "volume_mm3": 43.64300514366853,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_UPPER_FACE_SCREW_02",
+      "b": "C11_A_UPPER_FACE_STANDOFF_02",
+      "volume_mm3": 43.6430051436692,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_UPPER_FACE_SCREW_03",
+      "b": "C11_A_UPPER_FACE_STANDOFF_03",
+      "volume_mm3": 43.64300514366869,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_UPPER_FACE_SCREW_04",
+      "b": "C11_A_UPPER_FACE_STANDOFF_04",
+      "volume_mm3": 43.64300514366937,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_UPPER_FACE_SCREW_05",
+      "b": "C11_A_UPPER_FACE_STANDOFF_05",
+      "volume_mm3": 43.64300514366849,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_UPPER_FACE_SCREW_06",
+      "b": "C11_A_UPPER_FACE_STANDOFF_06",
+      "volume_mm3": 43.64300514366916,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_UPPER_FACE_SCREW_07",
+      "b": "C11_A_UPPER_FACE_STANDOFF_07",
+      "volume_mm3": 43.643005143668475,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_UPPER_FACE_SCREW_08",
+      "b": "C11_A_UPPER_FACE_STANDOFF_08",
+      "volume_mm3": 43.64300514366914,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_UPPER_FACE_SCREW_09",
+      "b": "C11_A_UPPER_FACE_STANDOFF_09",
+      "volume_mm3": 43.64300514366863,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_UPPER_FACE_SCREW_10",
+      "b": "C11_A_UPPER_FACE_STANDOFF_10",
+      "volume_mm3": 43.64300514366933,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_UPPER_FACE_SCREW_11",
+      "b": "C11_A_UPPER_FACE_STANDOFF_11",
+      "volume_mm3": 43.64300514366869,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_UPPER_FACE_SCREW_12",
+      "b": "C11_A_UPPER_FACE_STANDOFF_12",
+      "volume_mm3": 43.64300514366937,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_UPPER_FACE_SCREW_13",
+      "b": "C11_A_UPPER_FACE_STANDOFF_13",
+      "volume_mm3": 43.64300514366853,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_UPPER_FACE_SCREW_14",
+      "b": "C11_A_UPPER_FACE_STANDOFF_14",
+      "volume_mm3": 43.643005143669214,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_UPPER_FACE_SCREW_15",
+      "b": "C11_A_UPPER_FACE_STANDOFF_15",
+      "volume_mm3": 43.643005143667864,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_UPPER_FACE_SCREW_16",
+      "b": "C11_A_UPPER_FACE_STANDOFF_16",
+      "volume_mm3": 43.64300514366852,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_UPPER_FACE_SCREW_17",
+      "b": "C11_A_UPPER_FACE_STANDOFF_17",
+      "volume_mm3": 34.97220941976084,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;6.05mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_UPPER_FACE_SCREW_18",
+      "b": "C11_A_UPPER_FACE_STANDOFF_18",
+      "volume_mm3": 43.643005143667864,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_UPPER_FACE_SCREW_19",
+      "b": "C11_A_UPPER_FACE_STANDOFF_19",
+      "volume_mm3": 43.643005143669214,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_UPPER_FACE_SCREW_20",
+      "b": "C11_A_UPPER_FACE_STANDOFF_20",
+      "volume_mm3": 43.643005143668404,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_LOWER_FACE_SCREW_01",
+      "b": "C11_B_LOWER_FACE_STANDOFF_01",
+      "volume_mm3": 43.64300514366917,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_LOWER_FACE_SCREW_02",
+      "b": "C11_B_LOWER_FACE_STANDOFF_02",
+      "volume_mm3": 43.64300514366853,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_LOWER_FACE_SCREW_03",
+      "b": "C11_B_LOWER_FACE_STANDOFF_03",
+      "volume_mm3": 43.64300514366934,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_LOWER_FACE_SCREW_04",
+      "b": "C11_B_LOWER_FACE_STANDOFF_04",
+      "volume_mm3": 43.64300514366869,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_LOWER_FACE_SCREW_05",
+      "b": "C11_B_LOWER_FACE_STANDOFF_05",
+      "volume_mm3": 43.64300514366913,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_LOWER_FACE_SCREW_06",
+      "b": "C11_B_LOWER_FACE_STANDOFF_06",
+      "volume_mm3": 43.64300514366846,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_LOWER_FACE_SCREW_07",
+      "b": "C11_B_LOWER_FACE_STANDOFF_07",
+      "volume_mm3": 43.643005143669114,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_LOWER_FACE_SCREW_08",
+      "b": "C11_B_LOWER_FACE_STANDOFF_08",
+      "volume_mm3": 43.64300514366845,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_LOWER_FACE_SCREW_09",
+      "b": "C11_B_LOWER_FACE_STANDOFF_09",
+      "volume_mm3": 43.6430051436693,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_LOWER_FACE_SCREW_10",
+      "b": "C11_B_LOWER_FACE_STANDOFF_10",
+      "volume_mm3": 43.6430051436686,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_LOWER_FACE_SCREW_11",
+      "b": "C11_B_LOWER_FACE_STANDOFF_11",
+      "volume_mm3": 43.64300514366934,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_LOWER_FACE_SCREW_12",
+      "b": "C11_B_LOWER_FACE_STANDOFF_12",
+      "volume_mm3": 43.64300514366869,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_LOWER_FACE_SCREW_13",
+      "b": "C11_B_LOWER_FACE_STANDOFF_13",
+      "volume_mm3": 43.643005143669185,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_LOWER_FACE_SCREW_14",
+      "b": "C11_B_LOWER_FACE_STANDOFF_14",
+      "volume_mm3": 43.64300514366853,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_LOWER_FACE_SCREW_15",
+      "b": "C11_B_LOWER_FACE_STANDOFF_15",
+      "volume_mm3": 43.64300514366852,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_LOWER_FACE_SCREW_16",
+      "b": "C11_B_LOWER_FACE_STANDOFF_16",
+      "volume_mm3": 43.643005143667864,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_LOWER_FACE_SCREW_17",
+      "b": "C11_B_LOWER_FACE_STANDOFF_17",
+      "volume_mm3": 34.97220941976134,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;6.05mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_LOWER_FACE_SCREW_18",
+      "b": "C11_B_LOWER_FACE_STANDOFF_18",
+      "volume_mm3": 43.643005143668404,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_LOWER_FACE_SCREW_19",
+      "b": "C11_B_LOWER_FACE_STANDOFF_19",
+      "volume_mm3": 43.64300514366853,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_LOWER_FACE_SCREW_20",
+      "b": "C11_B_LOWER_FACE_STANDOFF_20",
+      "volume_mm3": 43.643005143667864,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_UPPER_FACE_SCREW_01",
+      "b": "C11_B_UPPER_FACE_STANDOFF_01",
+      "volume_mm3": 43.6430051436692,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_UPPER_FACE_SCREW_02",
+      "b": "C11_B_UPPER_FACE_STANDOFF_02",
+      "volume_mm3": 43.64300514366853,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_UPPER_FACE_SCREW_03",
+      "b": "C11_B_UPPER_FACE_STANDOFF_03",
+      "volume_mm3": 43.64300514366937,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_UPPER_FACE_SCREW_04",
+      "b": "C11_B_UPPER_FACE_STANDOFF_04",
+      "volume_mm3": 43.64300514366869,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_UPPER_FACE_SCREW_05",
+      "b": "C11_B_UPPER_FACE_STANDOFF_05",
+      "volume_mm3": 43.64300514366916,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_UPPER_FACE_SCREW_06",
+      "b": "C11_B_UPPER_FACE_STANDOFF_06",
+      "volume_mm3": 43.64300514366849,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_UPPER_FACE_SCREW_07",
+      "b": "C11_B_UPPER_FACE_STANDOFF_07",
+      "volume_mm3": 43.64300514366914,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_UPPER_FACE_SCREW_08",
+      "b": "C11_B_UPPER_FACE_STANDOFF_08",
+      "volume_mm3": 43.643005143668475,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_UPPER_FACE_SCREW_09",
+      "b": "C11_B_UPPER_FACE_STANDOFF_09",
+      "volume_mm3": 43.64300514366933,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_UPPER_FACE_SCREW_10",
+      "b": "C11_B_UPPER_FACE_STANDOFF_10",
+      "volume_mm3": 43.64300514366863,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_UPPER_FACE_SCREW_11",
+      "b": "C11_B_UPPER_FACE_STANDOFF_11",
+      "volume_mm3": 43.64300514366937,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_UPPER_FACE_SCREW_12",
+      "b": "C11_B_UPPER_FACE_STANDOFF_12",
+      "volume_mm3": 43.64300514366869,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_UPPER_FACE_SCREW_13",
+      "b": "C11_B_UPPER_FACE_STANDOFF_13",
+      "volume_mm3": 43.643005143669214,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_UPPER_FACE_SCREW_14",
+      "b": "C11_B_UPPER_FACE_STANDOFF_14",
+      "volume_mm3": 43.64300514366853,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_UPPER_FACE_SCREW_15",
+      "b": "C11_B_UPPER_FACE_STANDOFF_15",
+      "volume_mm3": 43.64300514366852,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_UPPER_FACE_SCREW_16",
+      "b": "C11_B_UPPER_FACE_STANDOFF_16",
+      "volume_mm3": 43.643005143667864,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_UPPER_FACE_SCREW_17",
+      "b": "C11_B_UPPER_FACE_STANDOFF_17",
+      "volume_mm3": 34.97220941976134,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;6.05mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_UPPER_FACE_SCREW_18",
+      "b": "C11_B_UPPER_FACE_STANDOFF_18",
+      "volume_mm3": 43.643005143668404,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_UPPER_FACE_SCREW_19",
+      "b": "C11_B_UPPER_FACE_STANDOFF_19",
+      "volume_mm3": 43.64300514366853,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_B_UPPER_FACE_SCREW_20",
+      "b": "C11_B_UPPER_FACE_STANDOFF_20",
+      "volume_mm3": 43.643005143667864,
+      "purpose": "M5 nominal thread engagement in lower10mm tap;7.55mm actual engagement;1.5kN axial proof required"
+    },
+    {
+      "a": "C11_A_DISTRIBUTION_RUNNER_OUT",
+      "b": "C11_A_DISTRIBUTION_SHOE_M3_OUT_1",
+      "volume_mm3": 3.5185837720205333,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_A_DISTRIBUTION_RUNNER_OUT",
+      "b": "C11_A_DISTRIBUTION_SHOE_M3_OUT_2",
+      "volume_mm3": 3.5185837720204867,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_A_DISTRIBUTION_RUNNER_OUT",
+      "b": "C11_A_DISTRIBUTION_SHOE_M3_OUT_3",
+      "volume_mm3": 3.5185837720205395,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_A_DISTRIBUTION_RUNNER_OUT",
+      "b": "C11_A_DISTRIBUTION_SHOE_M3_OUT_4",
+      "volume_mm3": 3.518583772020601,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_A_DISTRIBUTION_RUNNER_OUT",
+      "b": "C11_A_DISTRIBUTION_SHOE_M3_OUT_5",
+      "volume_mm3": 3.518583772020646,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_A_DISTRIBUTION_RUNNER_OUT",
+      "b": "C11_A_DISTRIBUTION_SHOE_M3_OUT_6",
+      "volume_mm3": 3.5185837720207145,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_A_DISTRIBUTION_RUNNER_IN",
+      "b": "C11_A_DISTRIBUTION_SHOE_M3_IN_1",
+      "volume_mm3": 3.5185837720205964,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_A_DISTRIBUTION_RUNNER_IN",
+      "b": "C11_A_DISTRIBUTION_SHOE_M3_IN_2",
+      "volume_mm3": 3.518583772020548,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_A_DISTRIBUTION_RUNNER_IN",
+      "b": "C11_A_DISTRIBUTION_SHOE_M3_IN_3",
+      "volume_mm3": 3.5185837720206017,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_A_DISTRIBUTION_RUNNER_IN",
+      "b": "C11_A_DISTRIBUTION_SHOE_M3_IN_4",
+      "volume_mm3": 3.518583772020662,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_A_DISTRIBUTION_RUNNER_IN",
+      "b": "C11_A_DISTRIBUTION_SHOE_M3_IN_5",
+      "volume_mm3": 3.518583772020709,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_A_DISTRIBUTION_RUNNER_IN",
+      "b": "C11_A_DISTRIBUTION_SHOE_M3_IN_6",
+      "volume_mm3": 3.5185837720207713,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_A_DISTRIBUTION_LOCK_SCREW_1",
+      "b": "C11_A_DISTRIBUTION_LOCK_WELDNUT_1",
+      "volume_mm3": 28.902652413025493,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_A_DISTRIBUTION_LOCK_SCREW_2",
+      "b": "C11_A_DISTRIBUTION_LOCK_WELDNUT_2",
+      "volume_mm3": 28.902652413025947,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_B_DISTRIBUTION_RUNNER_OUT",
+      "b": "C11_B_DISTRIBUTION_SHOE_M3_OUT_1",
+      "volume_mm3": 3.5185837720205964,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_B_DISTRIBUTION_RUNNER_OUT",
+      "b": "C11_B_DISTRIBUTION_SHOE_M3_OUT_2",
+      "volume_mm3": 3.518583772020548,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_B_DISTRIBUTION_RUNNER_OUT",
+      "b": "C11_B_DISTRIBUTION_SHOE_M3_OUT_3",
+      "volume_mm3": 3.5185837720206017,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_B_DISTRIBUTION_RUNNER_OUT",
+      "b": "C11_B_DISTRIBUTION_SHOE_M3_OUT_4",
+      "volume_mm3": 3.518583772020662,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_B_DISTRIBUTION_RUNNER_OUT",
+      "b": "C11_B_DISTRIBUTION_SHOE_M3_OUT_5",
+      "volume_mm3": 3.518583772020709,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_B_DISTRIBUTION_RUNNER_OUT",
+      "b": "C11_B_DISTRIBUTION_SHOE_M3_OUT_6",
+      "volume_mm3": 3.5185837720207713,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_B_DISTRIBUTION_RUNNER_IN",
+      "b": "C11_B_DISTRIBUTION_SHOE_M3_IN_1",
+      "volume_mm3": 3.5185837720205333,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_B_DISTRIBUTION_RUNNER_IN",
+      "b": "C11_B_DISTRIBUTION_SHOE_M3_IN_2",
+      "volume_mm3": 3.5185837720204867,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_B_DISTRIBUTION_RUNNER_IN",
+      "b": "C11_B_DISTRIBUTION_SHOE_M3_IN_3",
+      "volume_mm3": 3.5185837720205395,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_B_DISTRIBUTION_RUNNER_IN",
+      "b": "C11_B_DISTRIBUTION_SHOE_M3_IN_4",
+      "volume_mm3": 3.518583772020601,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_B_DISTRIBUTION_RUNNER_IN",
+      "b": "C11_B_DISTRIBUTION_SHOE_M3_IN_5",
+      "volume_mm3": 3.518583772020646,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_B_DISTRIBUTION_RUNNER_IN",
+      "b": "C11_B_DISTRIBUTION_SHOE_M3_IN_6",
+      "volume_mm3": 3.5185837720207145,
+      "purpose": "M3 threaded engagement only; never a geometric clearance pass"
+    },
+    {
+      "a": "C11_B_DISTRIBUTION_LOCK_SCREW_1",
+      "b": "C11_B_DISTRIBUTION_LOCK_WELDNUT_1",
+      "volume_mm3": 28.902652413025947,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_B_DISTRIBUTION_LOCK_SCREW_2",
+      "b": "C11_B_DISTRIBUTION_LOCK_WELDNUT_2",
+      "volume_mm3": 28.902652413025493,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_SKID_P_FOOT_-600_-825_O_M10_1_BOLT",
+      "b": "P_FOOT_-600_-825_O",
+      "volume_mm3": 261.5375884113541,
+      "purpose": "M10 tapped engagement; exact pair only"
+    },
+    {
+      "a": "C11_SKID_P_FOOT_-600_-825_O_M10_2_BOLT",
+      "b": "P_FOOT_-600_-825_O",
+      "volume_mm3": 261.5375884113541,
+      "purpose": "M10 tapped engagement; exact pair only"
+    },
+    {
+      "a": "C11_SKID_P_FOOT_-600_0_O_M10_1_BOLT",
+      "b": "P_FOOT_-600_0_O",
+      "volume_mm3": 261.5375884113525,
+      "purpose": "M10 tapped engagement; exact pair only"
+    },
+    {
+      "a": "C11_SKID_P_FOOT_-600_0_O_M10_2_BOLT",
+      "b": "P_FOOT_-600_0_O",
+      "volume_mm3": 261.5375884113525,
+      "purpose": "M10 tapped engagement; exact pair only"
+    },
+    {
+      "a": "C11_SKID_P_FOOT_-600_825_O_M10_1_BOLT",
+      "b": "P_FOOT_-600_825_O",
+      "volume_mm3": 261.5375884113541,
+      "purpose": "M10 tapped engagement; exact pair only"
+    },
+    {
+      "a": "C11_SKID_P_FOOT_-600_825_O_M10_2_BOLT",
+      "b": "P_FOOT_-600_825_O",
+      "volume_mm3": 261.5375884113541,
+      "purpose": "M10 tapped engagement; exact pair only"
+    },
+    {
+      "a": "C11_ROOF_M5_01_INSERT",
+      "b": "C11_ROOF_M5_01_SCREW",
+      "volume_mm3": 46.24424386084068,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_02_INSERT",
+      "b": "C11_ROOF_M5_02_SCREW",
+      "volume_mm3": 46.244243860841834,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_03_INSERT",
+      "b": "C11_ROOF_M5_03_SCREW",
+      "volume_mm3": 46.24424386084125,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_04_INSERT",
+      "b": "C11_ROOF_M5_04_SCREW",
+      "volume_mm3": 46.244243860841394,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_05_INSERT",
+      "b": "C11_ROOF_M5_05_SCREW",
+      "volume_mm3": 46.24424386084125,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_06_INSERT",
+      "b": "C11_ROOF_M5_06_SCREW",
+      "volume_mm3": 46.244243860841834,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_07_INSERT",
+      "b": "C11_ROOF_M5_07_SCREW",
+      "volume_mm3": 46.24424386084068,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_08_INSERT",
+      "b": "C11_ROOF_M5_08_SCREW",
+      "volume_mm3": 46.24424386084068,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_09_INSERT",
+      "b": "C11_ROOF_M5_09_SCREW",
+      "volume_mm3": 46.24424386084182,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_10_INSERT",
+      "b": "C11_ROOF_M5_10_SCREW",
+      "volume_mm3": 46.24424386084125,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_11_INSERT",
+      "b": "C11_ROOF_M5_11_SCREW",
+      "volume_mm3": 46.244243860841394,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_12_INSERT",
+      "b": "C11_ROOF_M5_12_SCREW",
+      "volume_mm3": 46.24424386084125,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_13_INSERT",
+      "b": "C11_ROOF_M5_13_SCREW",
+      "volume_mm3": 46.24424386084182,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_14_INSERT",
+      "b": "C11_ROOF_M5_14_SCREW",
+      "volume_mm3": 46.24424386084068,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_15_INSERT",
+      "b": "C11_ROOF_M5_15_SCREW",
+      "volume_mm3": 46.244243860841394,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_16_INSERT",
+      "b": "C11_ROOF_M5_16_SCREW",
+      "volume_mm3": 46.24424386084104,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_17_INSERT",
+      "b": "C11_ROOF_M5_17_SCREW",
+      "volume_mm3": 46.24424386084091,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_18_INSERT",
+      "b": "C11_ROOF_M5_18_SCREW",
+      "volume_mm3": 46.24424386084104,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_19_INSERT",
+      "b": "C11_ROOF_M5_19_SCREW",
+      "volume_mm3": 46.244243860841394,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_20_INSERT",
+      "b": "C11_ROOF_M5_20_SCREW",
+      "volume_mm3": 46.244243860841394,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_21_INSERT",
+      "b": "C11_ROOF_M5_21_SCREW",
+      "volume_mm3": 46.24424386084104,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_22_INSERT",
+      "b": "C11_ROOF_M5_22_SCREW",
+      "volume_mm3": 46.24424386084091,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_23_INSERT",
+      "b": "C11_ROOF_M5_23_SCREW",
+      "volume_mm3": 46.24424386084104,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_ROOF_M5_24_INSERT",
+      "b": "C11_ROOF_M5_24_SCREW",
+      "volume_mm3": 46.244243860841394,
+      "purpose": "M5 nominal thread engagement only"
+    },
+    {
+      "a": "C11_A_LOWER_COND_CLEANOUT_BOSS",
+      "b": "C11_A_LOWER_COND_CLEANOUT_PLUG",
+      "volume_mm3": 106.02875205865702,
+      "purpose": "M8 nominal thread engagement in cleanout boss only"
+    },
+    {
+      "a": "C11_A_UPPER_COND_CLEANOUT_BOSS",
+      "b": "C11_A_UPPER_COND_CLEANOUT_PLUG",
+      "volume_mm3": 106.02875205865698,
+      "purpose": "M8 nominal thread engagement in cleanout boss only"
+    },
+    {
+      "a": "C11_B_LOWER_COND_CLEANOUT_BOSS",
+      "b": "C11_B_LOWER_COND_CLEANOUT_PLUG",
+      "volume_mm3": 106.02875205865702,
+      "purpose": "M8 nominal thread engagement in cleanout boss only"
+    },
+    {
+      "a": "C11_B_UPPER_COND_CLEANOUT_BOSS",
+      "b": "C11_B_UPPER_COND_CLEANOUT_PLUG",
+      "volume_mm3": 106.02875205865698,
+      "purpose": "M8 nominal thread engagement in cleanout boss only"
+    }
+  ],
+  "unexpected": [],
+  "status": "PASS_WITHIN_STATED_SCOPE"
+}

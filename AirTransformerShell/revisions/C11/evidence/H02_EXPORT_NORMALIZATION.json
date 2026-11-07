@@ -1,0 +1,179 @@
+{
+  "status": "PASS_DIMENSION_AND_VOLUME_PRESERVING_STEP_NORMALIZATION",
+  "owner_source_sha256": "cfa5b71824d969f9519ae4a72e73ffdedbaae3f6949272be6f1e077013774de1",
+  "output_sha256": "2a5c868f3d0eee0d78dc2970f61863a2cefd3e5d990211b084840add0a340d2e",
+  "output": "C11_H02_EXPORT_NORMALIZED.step",
+  "four_core_counts": {
+    "A_LOWER": 630,
+    "A_UPPER": 630,
+    "B_LOWER": 630,
+    "B_UPPER": 630
+  },
+  "roundtrip_validated_bodies": [
+    "A_LOWER__W1_VENT_CALEFFI538201_0",
+    "A_LOWER__W1_DRAIN_CALEFFI538201_0",
+    "A_LOWER__W2_VENT_CALEFFI538201_0",
+    "A_LOWER__W2_DRAIN_CALEFFI538201_0",
+    "A_UPPER__W1_VENT_CALEFFI538201_0",
+    "A_UPPER__W1_DRAIN_CALEFFI538201_0",
+    "A_UPPER__W2_VENT_CALEFFI538201_0",
+    "A_UPPER__W2_DRAIN_CALEFFI538201_0",
+    "B_LOWER__W1_VENT_CALEFFI538201_0",
+    "B_LOWER__W1_DRAIN_CALEFFI538201_0",
+    "B_LOWER__W2_VENT_CALEFFI538201_0",
+    "B_LOWER__W2_DRAIN_CALEFFI538201_0",
+    "B_UPPER__W1_VENT_CALEFFI538201_0",
+    "B_UPPER__W1_DRAIN_CALEFFI538201_0",
+    "B_UPPER__W2_VENT_CALEFFI538201_0",
+    "B_UPPER__W2_DRAIN_CALEFFI538201_0"
+  ],
+  "changes": [
+    {
+      "part": "A_LOWER__W1_VENT_CALEFFI538201_0",
+      "before_valid": false,
+      "normalized_valid": true,
+      "volume_difference_mm3": 0.00019478582908050157,
+      "bbox_difference_mm": 0.0,
+      "operation": "STEP world-coordinate reserialization only; no ShapeFix or Boolean edit; identical body replicated by pure Y/Z translation"
+    },
+    {
+      "part": "A_LOWER__W1_DRAIN_CALEFFI538201_0",
+      "before_valid": false,
+      "normalized_valid": true,
+      "volume_difference_mm3": 0.00010806719001266174,
+      "bbox_difference_mm": 1.1368683772161603e-13,
+      "operation": "STEP world-coordinate reserialization only; no ShapeFix or Boolean edit; identical body replicated by pure Y/Z translation"
+    },
+    {
+      "part": "A_LOWER__W2_VENT_CALEFFI538201_0",
+      "before_valid": false,
+      "normalized_valid": true,
+      "volume_difference_mm3": 7.365905912593007e-05,
+      "bbox_difference_mm": 0.0,
+      "operation": "STEP world-coordinate reserialization only; no ShapeFix or Boolean edit; identical body replicated by pure Y/Z translation"
+    },
+    {
+      "part": "A_LOWER__W2_DRAIN_CALEFFI538201_0",
+      "before_valid": false,
+      "normalized_valid": true,
+      "volume_difference_mm3": 8.345865353476256e-05,
+      "bbox_difference_mm": 0.0,
+      "operation": "STEP world-coordinate reserialization only; no ShapeFix or Boolean edit; identical body replicated by pure Y/Z translation"
+    }
+  ],
+  "assembly_roundtrip_deltas": [
+    {
+      "part": "A_LOWER__W1_VENT_CALEFFI538201_0",
+      "volume_difference_mm3": 0.00892495971856988,
+      "volume_relative_difference": 4.052961496805753e-07,
+      "volume_numerical_tolerance_mm3": 0.022020835198172693,
+      "bbox_difference_mm": 0.0
+    },
+    {
+      "part": "A_LOWER__W1_DRAIN_CALEFFI538201_0",
+      "volume_difference_mm3": 0.008838253907015314,
+      "volume_relative_difference": 4.013587054022688e-07,
+      "volume_numerical_tolerance_mm3": 0.022020835198172713,
+      "bbox_difference_mm": 1.1368683772161603e-13
+    },
+    {
+      "part": "A_LOWER__W2_VENT_CALEFFI538201_0",
+      "volume_difference_mm3": 0.008803832875855733,
+      "volume_relative_difference": 3.9979559342900315e-07,
+      "volume_numerical_tolerance_mm3": 0.022020835198172696,
+      "bbox_difference_mm": 0.0
+    },
+    {
+      "part": "A_LOWER__W2_DRAIN_CALEFFI538201_0",
+      "volume_difference_mm3": 0.008813648684736108,
+      "volume_relative_difference": 4.00241344409474e-07,
+      "volume_numerical_tolerance_mm3": 0.022020835198172703,
+      "bbox_difference_mm": 0.0
+    },
+    {
+      "part": "A_UPPER__W1_VENT_CALEFFI538201_0",
+      "volume_difference_mm3": 0.008924959725845838,
+      "volume_relative_difference": 4.0529615001098773e-07,
+      "volume_numerical_tolerance_mm3": 0.022020835198172693,
+      "bbox_difference_mm": 0.0
+    },
+    {
+      "part": "A_UPPER__W1_DRAIN_CALEFFI538201_0",
+      "volume_difference_mm3": 0.008838253892463399,
+      "volume_relative_difference": 4.01358704741444e-07,
+      "volume_numerical_tolerance_mm3": 0.022020835198172713,
+      "bbox_difference_mm": 1.1368683772161603e-13
+    },
+    {
+      "part": "A_UPPER__W2_VENT_CALEFFI538201_0",
+      "volume_difference_mm3": 0.00880383288313169,
+      "volume_relative_difference": 3.9979559375941556e-07,
+      "volume_numerical_tolerance_mm3": 0.022020835198172696,
+      "bbox_difference_mm": 0.0
+    },
+    {
+      "part": "A_UPPER__W2_DRAIN_CALEFFI538201_0",
+      "volume_difference_mm3": 0.008813648684736108,
+      "volume_relative_difference": 4.00241344409474e-07,
+      "volume_numerical_tolerance_mm3": 0.022020835198172703,
+      "bbox_difference_mm": 0.0
+    },
+    {
+      "part": "B_LOWER__W1_VENT_CALEFFI538201_0",
+      "volume_difference_mm3": 0.008924959725845838,
+      "volume_relative_difference": 4.0529615001098773e-07,
+      "volume_numerical_tolerance_mm3": 0.022020835198172693,
+      "bbox_difference_mm": 0.0
+    },
+    {
+      "part": "B_LOWER__W1_DRAIN_CALEFFI538201_0",
+      "volume_difference_mm3": 0.008838253899739357,
+      "volume_relative_difference": 4.013587050718564e-07,
+      "volume_numerical_tolerance_mm3": 0.022020835198172713,
+      "bbox_difference_mm": 5.684341886080802e-14
+    },
+    {
+      "part": "B_LOWER__W2_VENT_CALEFFI538201_0",
+      "volume_difference_mm3": 0.008803832864941796,
+      "volume_relative_difference": 3.997955929333845e-07,
+      "volume_numerical_tolerance_mm3": 0.022020835198172696,
+      "bbox_difference_mm": 0.0
+    },
+    {
+      "part": "B_LOWER__W2_DRAIN_CALEFFI538201_0",
+      "volume_difference_mm3": 0.008813648692012066,
+      "volume_relative_difference": 4.0024134473988645e-07,
+      "volume_numerical_tolerance_mm3": 0.022020835198172703,
+      "bbox_difference_mm": 5.684341886080802e-14
+    },
+    {
+      "part": "B_UPPER__W1_VENT_CALEFFI538201_0",
+      "volume_difference_mm3": 0.008924959733121796,
+      "volume_relative_difference": 4.0529615034140014e-07,
+      "volume_numerical_tolerance_mm3": 0.022020835198172693,
+      "bbox_difference_mm": 0.0
+    },
+    {
+      "part": "B_UPPER__W1_DRAIN_CALEFFI538201_0",
+      "volume_difference_mm3": 0.008838253892463399,
+      "volume_relative_difference": 4.01358704741444e-07,
+      "volume_numerical_tolerance_mm3": 0.022020835198172713,
+      "bbox_difference_mm": 5.684341886080802e-14
+    },
+    {
+      "part": "B_UPPER__W2_VENT_CALEFFI538201_0",
+      "volume_difference_mm3": 0.008803832886769669,
+      "volume_relative_difference": 3.9979559392462177e-07,
+      "volume_numerical_tolerance_mm3": 0.022020835198172696,
+      "bbox_difference_mm": 0.0
+    },
+    {
+      "part": "B_UPPER__W2_DRAIN_CALEFFI538201_0",
+      "volume_difference_mm3": 0.008813648695650045,
+      "volume_relative_difference": 4.0024134490509266e-07,
+      "volume_numerical_tolerance_mm3": 0.022020835198172703,
+      "bbox_difference_mm": 5.684341886080802e-14
+    }
+  ],
+  "scope": "Only16 OEM body occurrences are reserialized in world coordinates. Other626 parts/core retain the original shared product and transforms. Volume tolerance max0.001mm3 or1ppm addresses numerical integration after STEP reserialization; bbox tolerance0.00001mm. Full C11 pair checks and owner pressure/connection acceptance remain separate."
+}

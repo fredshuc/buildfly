@@ -1,0 +1,215 @@
+[
+  {
+    "candidate_X": -443.0,
+    "Y_inset_from_frame_mm": 40,
+    "jaw_width_mm": 60,
+    "jaw_thickness_mm": 3,
+    "toe_X_end_mm": -427,
+    "certified_required_clearance_mm": 0.5,
+    "static_unexpected": [],
+    "motion_pairs": [
+      {
+        "moving": "DAMPER_BLADE_A_UPPER_0_O",
+        "target": "C11_A_UPPER_FACE_STANDOFF_17",
+        "status": "CERTIFIED_CLEAR",
+        "detail": null,
+        "queries": 19
+      },
+      {
+        "moving": "DAMPER_BLADE_A_UPPER_0_O",
+        "target": "C11_A_UPPER_FACE_CLAMP_17",
+        "status": "COLLISION",
+        "detail": {
+          "angle": 63.13281699075,
+          "volume": 19.8117465447257
+        },
+        "queries": 5
+      },
+      {
+        "moving": "DAMPER_BLADE_A_UPPER_0_O",
+        "target": "C11_A_UPPER_FACE_SCREW_17",
+        "status": "UNRESOLVED",
+        "detail": {
+          "interval": [
+            63.86791214050707,
+            63.86909777784539
+          ]
+        },
+        "queries": 25
+      },
+      {
+        "moving": "DAMPER_BLADE_A_UPPER_0_O",
+        "target": "C11_A_UPPER_FACE_STANDOFF_19",
+        "status": "CERTIFIED_CLEAR",
+        "detail": null,
+        "queries": 27
+      },
+      {
+        "moving": "DAMPER_BLADE_A_UPPER_0_O",
+        "target": "C11_A_UPPER_FACE_CLAMP_19",
+        "status": "COLLISION",
+        "detail": {
+          "angle": 63.13281699075,
+          "volume": 45.571826943600584
+        },
+        "queries": 5
+      },
+      {
+        "moving": "DAMPER_BLADE_A_UPPER_0_O",
+        "target": "C11_A_UPPER_FACE_SCREW_19",
+        "status": "COLLISION",
+        "detail": {
+          "angle": 63.13281699075,
+          "volume": 0.0813281132746216
+        },
+        "queries": 5
+      },
+      {
+        "moving": "DAMPER_BLADE_B_UPPER_0_O",
+        "target": "C11_B_UPPER_FACE_STANDOFF_17",
+        "status": "CERTIFIED_CLEAR",
+        "detail": null,
+        "queries": 39
+      },
+      {
+        "moving": "DAMPER_BLADE_B_UPPER_0_O",
+        "target": "C11_B_UPPER_FACE_CLAMP_17",
+        "status": "COLLISION",
+        "detail": {
+          "angle": 63.13281699075,
+          "volume": 61.754996500967394
+        },
+        "queries": 5
+      },
+      {
+        "moving": "DAMPER_BLADE_B_UPPER_0_O",
+        "target": "C11_B_UPPER_FACE_SCREW_17",
+        "status": "COLLISION",
+        "detail": {
+          "angle": 63.13281699075,
+          "volume": 9.739567033709303
+        },
+        "queries": 5
+      },
+      {
+        "moving": "DAMPER_BLADE_B_UPPER_0_O",
+        "target": "C11_B_UPPER_FACE_STANDOFF_19",
+        "status": "CERTIFIED_CLEAR",
+        "detail": null,
+        "queries": 19
+      },
+      {
+        "moving": "DAMPER_BLADE_B_UPPER_0_O",
+        "target": "C11_B_UPPER_FACE_CLAMP_19",
+        "status": "UNRESOLVED",
+        "detail": {
+          "interval": [
+            64.43583242556133,
+            64.43701806289965
+          ]
+        },
+        "queries": 25
+      },
+      {
+        "moving": "DAMPER_BLADE_B_UPPER_0_O",
+        "target": "C11_B_UPPER_FACE_SCREW_19",
+        "status": "UNRESOLVED",
+        "detail": {
+          "interval": [
+            63.86791214050707,
+            63.86909777784539
+          ]
+        },
+        "queries": 25
+      }
+    ],
+    "nonclear": [
+      {
+        "moving": "DAMPER_BLADE_A_UPPER_0_O",
+        "target": "C11_A_UPPER_FACE_CLAMP_17",
+        "status": "COLLISION",
+        "detail": {
+          "angle": 63.13281699075,
+          "volume": 19.8117465447257
+        },
+        "queries": 5
+      },
+      {
+        "moving": "DAMPER_BLADE_A_UPPER_0_O",
+        "target": "C11_A_UPPER_FACE_SCREW_17",
+        "status": "UNRESOLVED",
+        "detail": {
+          "interval": [
+            63.86791214050707,
+            63.86909777784539
+          ]
+        },
+        "queries": 25
+      },
+      {
+        "moving": "DAMPER_BLADE_A_UPPER_0_O",
+        "target": "C11_A_UPPER_FACE_CLAMP_19",
+        "status": "COLLISION",
+        "detail": {
+          "angle": 63.13281699075,
+          "volume": 45.571826943600584
+        },
+        "queries": 5
+      },
+      {
+        "moving": "DAMPER_BLADE_A_UPPER_0_O",
+        "target": "C11_A_UPPER_FACE_SCREW_19",
+        "status": "COLLISION",
+        "detail": {
+          "angle": 63.13281699075,
+          "volume": 0.0813281132746216
+        },
+        "queries": 5
+      },
+      {
+        "moving": "DAMPER_BLADE_B_UPPER_0_O",
+        "target": "C11_B_UPPER_FACE_CLAMP_17",
+        "status": "COLLISION",
+        "detail": {
+          "angle": 63.13281699075,
+          "volume": 61.754996500967394
+        },
+        "queries": 5
+      },
+      {
+        "moving": "DAMPER_BLADE_B_UPPER_0_O",
+        "target": "C11_B_UPPER_FACE_SCREW_17",
+        "status": "COLLISION",
+        "detail": {
+          "angle": 63.13281699075,
+          "volume": 9.739567033709303
+        },
+        "queries": 5
+      },
+      {
+        "moving": "DAMPER_BLADE_B_UPPER_0_O",
+        "target": "C11_B_UPPER_FACE_CLAMP_19",
+        "status": "UNRESOLVED",
+        "detail": {
+          "interval": [
+            64.43583242556133,
+            64.43701806289965
+          ]
+        },
+        "queries": 25
+      },
+      {
+        "moving": "DAMPER_BLADE_B_UPPER_0_O",
+        "target": "C11_B_UPPER_FACE_SCREW_19",
+        "status": "UNRESOLVED",
+        "detail": {
+          "interval": [
+            63.86791214050707,
+            63.86909777784539
+          ]
+        },
+        "queries": 25
+      }
+    ]
+  }
+]

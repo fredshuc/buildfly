@@ -1,0 +1,27 @@
+{
+  "inputs/C11_D05_DAMPERS_REVIEW.zip": {
+    "sha256": "b91a15555c282efc3cec27fd62bebdd62de2500bc53f32a909605ecaeeddf837",
+    "bytes": 30113240,
+    "status": "Owner engineering review candidate; not manufacturing or wet release"
+  },
+  "inputs/C11_HYD_T01_R1_CANDIDATE.zip": {
+    "sha256": "d1a7429701c5786df42d720a8baea2a3bb63ee17c70fefd97fd9166c08ed4f9c",
+    "bytes": 4357949,
+    "status": "Owner engineering review candidate; not manufacturing or wet release",
+    "user_reported_cloud_commit": "6ac7375dbfc7b679d25c5b290351334053e68bdf",
+    "user_reported_cloud_branch": "codex/c11-hyd-support-t01-r1",
+    "user_reported_cloud_path": "/workspace/scratch/1bde6d56e09f/C11_HYD_T01_R1_CANDIDATE.zip",
+    "provenance_limit": "User-supplied commit association; archive contains no independently verified Git commit identity. Local archive content is pinned by SHA256. Six-foot coordinates and drilling remain interface candidates, not frozen manufacture dimensions."
+  },
+  "inputs/HX_M101_C10_H02_RETURN_20261107.zip": {
+    "sha256": "b0fbc5cf3bbcbaeeb0dd0e43a6bdb596389bf00abdbcad51519a115a577bda5b",
+    "bytes": 71494778,
+    "status": "Owner engineering review candidate; not manufacturing or wet release"
+  },
+  "baseline": {
+    "task_commit": "4c5e12de45849eb4598492b995bcb84a2392173d",
+    "C10_S1_sha256": "55f43f07d34ba2ec186b634673f06bc3efdf6dfdc911c11433e07fd720a67f09",
+    "C10_S2_sha256": "5e547cd158b5c6d3692a940d672a6aa8a1ae074655237abf4ff09e1fbfe0ecff",
+    "H01_HYD_S2_archives": "Hashes inherited exactly from ../C10/INPUTS.json"
+  }
+}
